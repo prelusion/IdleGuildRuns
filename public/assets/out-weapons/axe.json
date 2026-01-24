@@ -1,0 +1,5392 @@
+[
+  {
+    "quality": "common",
+    "name": "Rusted War-Axe",
+    "src": "icons/axe/axe-0.png",
+    "monetaryValue": 26,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Cleaver",
+    "src": "icons/axe/axe-1.png",
+    "monetaryValue": 20,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 4,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 4,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Hatchet",
+    "src": "icons/axe/axe-2.png",
+    "monetaryValue": 30,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 11,
+      "intellect": 1,
+      "agility": 6,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn War-Axe",
+    "src": "icons/axe/axe-3.png",
+    "monetaryValue": 31,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 13,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Hatchet",
+    "src": "icons/axe/axe-4.png",
+    "monetaryValue": 39,
+    "value": 14,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 4,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Hatchet",
+    "src": "icons/axe/axe-5.png",
+    "monetaryValue": 33,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 11,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 16,
+      "intellect": 3,
+      "agility": 12,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Hatchet",
+    "src": "icons/axe/axe-6.png",
+    "monetaryValue": 48,
+    "value": 23,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 14,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 11,
+      "intellect": 3,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Cleaver",
+    "src": "icons/axe/axe-7.png",
+    "monetaryValue": 40,
+    "value": 22,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 10,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 5,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 4,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel War-Axe",
+    "src": "icons/axe/axe-8.png",
+    "monetaryValue": 34,
+    "value": 22,
+    "rank": "iron",
+    "fromDamage": 14,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 14,
+      "intellect": 2,
+      "agility": 9,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Cleaver",
+    "src": "icons/axe/axe-9.png",
+    "monetaryValue": 69,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 9,
+    "toDamage": 15,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 23,
+      "intellect": 4,
+      "agility": 8,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Cleaver",
+    "src": "icons/axe/axe-10.png",
+    "monetaryValue": 62,
+    "value": 31,
+    "rank": "gold",
+    "fromDamage": 14,
+    "toDamage": 14,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 7,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 8,
+      "intellect": 3,
+      "agility": 4,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded War-Axe",
+    "src": "icons/axe/axe-11.png",
+    "monetaryValue": 66,
+    "value": 29,
+    "rank": "gold",
+    "fromDamage": 17,
+    "toDamage": 18,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 21,
+      "intellect": 4,
+      "agility": 16,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound War-Axe",
+    "src": "icons/axe/axe-12.png",
+    "monetaryValue": 76,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 26,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 30,
+      "intellect": 5,
+      "agility": 24,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Cleaver",
+    "src": "icons/axe/axe-13.png",
+    "monetaryValue": 70,
+    "value": 37,
+    "rank": "platinum",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 15,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 13,
+      "intellect": 7,
+      "agility": 6,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 3,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Cleaver",
+    "src": "icons/axe/axe-14.png",
+    "monetaryValue": 66,
+    "value": 45,
+    "rank": "platinum",
+    "fromDamage": 16,
+    "toDamage": 24,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 28,
+      "intellect": 6,
+      "agility": 23,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Hatchet",
+    "src": "icons/axe/axe-15.png",
+    "monetaryValue": 111,
+    "value": 50,
+    "rank": "emerald",
+    "fromDamage": 15,
+    "toDamage": 23,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 35,
+      "intellect": 10,
+      "agility": 15,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Chopper",
+    "src": "icons/axe/axe-16.png",
+    "monetaryValue": 105,
+    "value": 61,
+    "rank": "emerald",
+    "fromDamage": 19,
+    "toDamage": 23,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 26,
+    "primaryStats": {
+      "stamina": 46,
+      "strength": 13,
+      "intellect": 7,
+      "agility": 8,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 4,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Cleaver",
+    "src": "icons/axe/axe-17.png",
+    "monetaryValue": 98,
+    "value": 54,
+    "rank": "emerald",
+    "fromDamage": 22,
+    "toDamage": 26,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 37,
+      "intellect": 7,
+      "agility": 25,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 8,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Hatchet",
+    "src": "icons/axe/axe-18.png",
+    "monetaryValue": 117,
+    "value": 68,
+    "rank": "diamond",
+    "fromDamage": 27,
+    "toDamage": 32,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 53,
+      "intellect": 12,
+      "agility": 22,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 11,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Chopper",
+    "src": "icons/axe/axe-19.png",
+    "monetaryValue": 139,
+    "value": 72,
+    "rank": "diamond",
+    "fromDamage": 21,
+    "toDamage": 24,
+    "parry": 15,
+    "block": 0,
+    "range": 1,
+    "armor": 38,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 24,
+      "intellect": 21,
+      "agility": 19,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 1,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Hatchet",
+    "src": "icons/axe/axe-20.png",
+    "monetaryValue": 118,
+    "value": 79,
+    "rank": "diamond",
+    "fromDamage": 25,
+    "toDamage": 31,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 57,
+      "intellect": 13,
+      "agility": 62,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 10,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Cleaver",
+    "src": "icons/axe/axe-21.png",
+    "monetaryValue": 178,
+    "value": 86,
+    "rank": "master",
+    "fromDamage": 33,
+    "toDamage": 49,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 74,
+      "intellect": 19,
+      "agility": 37,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 8,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal War-Axe",
+    "src": "icons/axe/axe-22.png",
+    "monetaryValue": 200,
+    "value": 100,
+    "rank": "master",
+    "fromDamage": 38,
+    "toDamage": 41,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 21,
+    "primaryStats": {
+      "stamina": 78,
+      "strength": 38,
+      "intellect": 15,
+      "agility": 17,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 4,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Hatchet",
+    "src": "icons/axe/axe-23.png",
+    "monetaryValue": 139,
+    "value": 85,
+    "rank": "master",
+    "fromDamage": 49,
+    "toDamage": 49,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 88,
+      "intellect": 17,
+      "agility": 63,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 13,
+      "haste": 9,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Hatchet",
+    "src": "icons/axe/axe-24.png",
+    "monetaryValue": 269,
+    "value": 99,
+    "rank": "demon",
+    "fromDamage": 81,
+    "toDamage": 82,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 94,
+      "intellect": 20,
+      "agility": 55,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 28,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Cleaver",
+    "src": "icons/axe/axe-25.png",
+    "monetaryValue": 206,
+    "value": 108,
+    "rank": "demon",
+    "fromDamage": 51,
+    "toDamage": 52,
+    "parry": 13,
+    "block": 0,
+    "range": 1,
+    "armor": 57,
+    "primaryStats": {
+      "stamina": 114,
+      "strength": 44,
+      "intellect": 27,
+      "agility": 21,
+      "spirit": 44
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 2,
+      "haste": 8,
+      "crit": 9,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Hatchet",
+    "src": "icons/axe/axe-26.png",
+    "monetaryValue": 278,
+    "value": 152,
+    "rank": "demon",
+    "fromDamage": 60,
+    "toDamage": 71,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 123,
+      "intellect": 23,
+      "agility": 85,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 16,
+      "haste": 18,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Cleaver",
+    "src": "icons/axe/axe-27.png",
+    "monetaryValue": 27,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 10,
+      "intellect": 1,
+      "agility": 4,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Hatchet",
+    "src": "icons/axe/axe-28.png",
+    "monetaryValue": 34,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 7,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Chopper",
+    "src": "icons/axe/axe-29.png",
+    "monetaryValue": 42,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 13,
+      "intellect": 3,
+      "agility": 8,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric War-Axe",
+    "src": "icons/axe/axe-30.png",
+    "monetaryValue": 65,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 16,
+    "toDamage": 20,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 24,
+      "intellect": 4,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne War-Axe",
+    "src": "icons/axe/axe-31.png",
+    "monetaryValue": 73,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 11,
+    "toDamage": 18,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 15,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 10,
+      "intellect": 5,
+      "agility": 10,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant War-Axe",
+    "src": "icons/axe/axe-32.png",
+    "monetaryValue": 83,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 20,
+    "toDamage": 28,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 39,
+      "intellect": 8,
+      "agility": 24,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 7,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Cleaver",
+    "src": "icons/axe/axe-33.png",
+    "monetaryValue": 111,
+    "value": 68,
+    "rank": "diamond",
+    "fromDamage": 45,
+    "toDamage": 45,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 54,
+      "intellect": 14,
+      "agility": 41,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Chopper",
+    "src": "icons/axe/axe-34.png",
+    "monetaryValue": 180,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 28,
+    "toDamage": 39,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 73,
+      "strength": 26,
+      "intellect": 14,
+      "agility": 16,
+      "spirit": 32
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal War-Axe",
+    "src": "icons/axe/axe-35.png",
+    "monetaryValue": 269,
+    "value": 112,
+    "rank": "demon",
+    "fromDamage": 63,
+    "toDamage": 66,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 73,
+      "intellect": 25,
+      "agility": 48,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 13,
+      "haste": 12,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Cleaver",
+    "src": "icons/axe/axe-36.png",
+    "monetaryValue": 20,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch War-Axe",
+    "src": "icons/axe/axe-37.png",
+    "monetaryValue": 36,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 4,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall War-Axe",
+    "src": "icons/axe/axe-38.png",
+    "monetaryValue": 49,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 13,
+      "intellect": 3,
+      "agility": 5,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged War-Axe",
+    "src": "icons/axe/axe-39.png",
+    "monetaryValue": 62,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 11,
+    "toDamage": 17,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 24,
+      "intellect": 4,
+      "agility": 9,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Hatchet",
+    "src": "icons/axe/axe-40.png",
+    "monetaryValue": 79,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 10,
+    "toDamage": 16,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 10,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 3,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Cleaver",
+    "src": "icons/axe/axe-41.png",
+    "monetaryValue": 81,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 21,
+    "toDamage": 24,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 42,
+      "intellect": 8,
+      "agility": 27,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 8,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Hatchet",
+    "src": "icons/axe/axe-42.png",
+    "monetaryValue": 139,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 26,
+    "toDamage": 41,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 63,
+      "intellect": 12,
+      "agility": 25,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Chopper",
+    "src": "icons/axe/axe-43.png",
+    "monetaryValue": 197,
+    "value": 107,
+    "rank": "master",
+    "fromDamage": 26,
+    "toDamage": 41,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 35,
+    "primaryStats": {
+      "stamina": 77,
+      "strength": 35,
+      "intellect": 15,
+      "agility": 20,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 7,
+      "haste": 6,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Chopper",
+    "src": "icons/axe/axe-44.png",
+    "monetaryValue": 276,
+    "value": 116,
+    "rank": "demon",
+    "fromDamage": 72,
+    "toDamage": 75,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 123,
+      "intellect": 23,
+      "agility": 91,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 15,
+      "haste": 15,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted War-Axe",
+    "src": "icons/axe/axe-45.png",
+    "monetaryValue": 20,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 10,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Chopper",
+    "src": "icons/axe/axe-46.png",
+    "monetaryValue": 35,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 5,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Cleaver",
+    "src": "icons/axe/axe-47.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 14,
+      "intellect": 2,
+      "agility": 7,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal War-Axe",
+    "src": "icons/axe/axe-48.png",
+    "monetaryValue": 61,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 19,
+    "toDamage": 21,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 20,
+      "intellect": 5,
+      "agility": 12,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Chopper",
+    "src": "icons/axe/axe-49.png",
+    "monetaryValue": 60,
+    "value": 46,
+    "rank": "platinum",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 24,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 11,
+      "intellect": 6,
+      "agility": 5,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper War-Axe",
+    "src": "icons/axe/axe-50.png",
+    "monetaryValue": 105,
+    "value": 48,
+    "rank": "emerald",
+    "fromDamage": 15,
+    "toDamage": 20,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 39,
+      "intellect": 9,
+      "agility": 29,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 8,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether War-Axe",
+    "src": "icons/axe/axe-51.png",
+    "monetaryValue": 114,
+    "value": 70,
+    "rank": "diamond",
+    "fromDamage": 42,
+    "toDamage": 43,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 56,
+      "intellect": 14,
+      "agility": 37,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Cleaver",
+    "src": "icons/axe/axe-52.png",
+    "monetaryValue": 182,
+    "value": 80,
+    "rank": "master",
+    "fromDamage": 33,
+    "toDamage": 38,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 37,
+    "primaryStats": {
+      "stamina": 83,
+      "strength": 35,
+      "intellect": 19,
+      "agility": 19,
+      "spirit": 50
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 5,
+      "haste": 1,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Chopper",
+    "src": "icons/axe/axe-53.png",
+    "monetaryValue": 222,
+    "value": 126,
+    "rank": "demon",
+    "fromDamage": 53,
+    "toDamage": 60,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 139,
+      "intellect": 21,
+      "agility": 88,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 14,
+      "haste": 13,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Chopper",
+    "src": "icons/axe/axe-54.png",
+    "monetaryValue": 23,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 12,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch War-Axe",
+    "src": "icons/axe/axe-55.png",
+    "monetaryValue": 37,
+    "value": 22,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 11,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Cleaver",
+    "src": "icons/axe/axe-56.png",
+    "monetaryValue": 46,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 14,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 12,
+      "intellect": 3,
+      "agility": 10,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Hatchet",
+    "src": "icons/axe/axe-57.png",
+    "monetaryValue": 58,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 14,
+    "toDamage": 17,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 21,
+      "intellect": 3,
+      "agility": 8,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Cleaver",
+    "src": "icons/axe/axe-58.png",
+    "monetaryValue": 67,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 17,
+    "toDamage": 17,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 9,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 13,
+      "intellect": 5,
+      "agility": 6,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Hatchet",
+    "src": "icons/axe/axe-59.png",
+    "monetaryValue": 103,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 17,
+    "toDamage": 28,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 35,
+      "intellect": 9,
+      "agility": 27,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 7,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Cleaver",
+    "src": "icons/axe/axe-60.png",
+    "monetaryValue": 100,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 33,
+    "toDamage": 43,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 54,
+      "intellect": 10,
+      "agility": 44,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 13,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Hatchet",
+    "src": "icons/axe/axe-61.png",
+    "monetaryValue": 167,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 27,
+    "toDamage": 41,
+    "parry": 18,
+    "block": 0,
+    "range": 1,
+    "armor": 33,
+    "primaryStats": {
+      "stamina": 86,
+      "strength": 36,
+      "intellect": 17,
+      "agility": 19,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 5,
+      "haste": 4,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Chopper",
+    "src": "icons/axe/axe-62.png",
+    "monetaryValue": 268,
+    "value": 115,
+    "rank": "demon",
+    "fromDamage": 70,
+    "toDamage": 70,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 116,
+      "intellect": 20,
+      "agility": 43,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 16,
+      "haste": 15,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Hatchet",
+    "src": "icons/axe/axe-63.png",
+    "monetaryValue": 23,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Cleaver",
+    "src": "icons/axe/axe-64.png",
+    "monetaryValue": 37,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 7,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 6,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Chopper",
+    "src": "icons/axe/axe-65.png",
+    "monetaryValue": 47,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 16,
+      "intellect": 3,
+      "agility": 15,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Hatchet",
+    "src": "icons/axe/axe-66.png",
+    "monetaryValue": 68,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 11,
+    "toDamage": 13,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 18,
+      "intellect": 5,
+      "agility": 9,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Hatchet",
+    "src": "icons/axe/axe-67.png",
+    "monetaryValue": 75,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 12,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 12,
+      "intellect": 6,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant War-Axe",
+    "src": "icons/axe/axe-68.png",
+    "monetaryValue": 108,
+    "value": 49,
+    "rank": "emerald",
+    "fromDamage": 25,
+    "toDamage": 29,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 46,
+      "intellect": 9,
+      "agility": 33,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 7,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Hatchet",
+    "src": "icons/axe/axe-69.png",
+    "monetaryValue": 137,
+    "value": 54,
+    "rank": "diamond",
+    "fromDamage": 40,
+    "toDamage": 45,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 66,
+      "intellect": 14,
+      "agility": 26,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Cleaver",
+    "src": "icons/axe/axe-70.png",
+    "monetaryValue": 194,
+    "value": 68,
+    "rank": "master",
+    "fromDamage": 36,
+    "toDamage": 41,
+    "parry": 11,
+    "block": 0,
+    "range": 1,
+    "armor": 51,
+    "primaryStats": {
+      "stamina": 88,
+      "strength": 27,
+      "intellect": 16,
+      "agility": 18,
+      "spirit": 37
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 2,
+      "haste": 5,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal War-Axe",
+    "src": "icons/axe/axe-71.png",
+    "monetaryValue": 203,
+    "value": 134,
+    "rank": "demon",
+    "fromDamage": 70,
+    "toDamage": 71,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 140,
+      "intellect": 20,
+      "agility": 71,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 19,
+      "haste": 18,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Chopper",
+    "src": "icons/axe/axe-72.png",
+    "monetaryValue": 27,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 8,
+      "intellect": 2,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Chopper",
+    "src": "icons/axe/axe-73.png",
+    "monetaryValue": 28,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 4,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Hatchet",
+    "src": "icons/axe/axe-74.png",
+    "monetaryValue": 46,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 10,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 16,
+      "intellect": 3,
+      "agility": 7,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Cleaver",
+    "src": "icons/axe/axe-75.png",
+    "monetaryValue": 67,
+    "value": 35,
+    "rank": "gold",
+    "fromDamage": 10,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 18,
+      "intellect": 4,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Hatchet",
+    "src": "icons/axe/axe-76.png",
+    "monetaryValue": 64,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 14,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 23,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 9,
+      "intellect": 7,
+      "agility": 5,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant War-Axe",
+    "src": "icons/axe/axe-77.png",
+    "monetaryValue": 110,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 15,
+    "toDamage": 30,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 26,
+      "intellect": 8,
+      "agility": 30,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 8,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Hatchet",
+    "src": "icons/axe/axe-78.png",
+    "monetaryValue": 144,
+    "value": 72,
+    "rank": "diamond",
+    "fromDamage": 23,
+    "toDamage": 44,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 56,
+      "intellect": 10,
+      "agility": 25,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 14,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Hatchet",
+    "src": "icons/axe/axe-79.png",
+    "monetaryValue": 204,
+    "value": 78,
+    "rank": "master",
+    "fromDamage": 31,
+    "toDamage": 36,
+    "parry": 17,
+    "block": 0,
+    "range": 1,
+    "armor": 38,
+    "primaryStats": {
+      "stamina": 69,
+      "strength": 28,
+      "intellect": 14,
+      "agility": 32,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic War-Axe",
+    "src": "icons/axe/axe-80.png",
+    "monetaryValue": 204,
+    "value": 145,
+    "rank": "demon",
+    "fromDamage": 58,
+    "toDamage": 63,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 104,
+      "intellect": 48,
+      "agility": 70,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 14,
+      "haste": 16,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Cleaver",
+    "src": "icons/axe/axe-81.png",
+    "monetaryValue": 21,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Hatchet",
+    "src": "icons/axe/axe-82.png",
+    "monetaryValue": 30,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 4,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 10,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Chopper",
+    "src": "icons/axe/axe-83.png",
+    "monetaryValue": 49,
+    "value": 20,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 12,
+      "intellect": 3,
+      "agility": 8,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Cleaver",
+    "src": "icons/axe/axe-84.png",
+    "monetaryValue": 62,
+    "value": 37,
+    "rank": "gold",
+    "fromDamage": 21,
+    "toDamage": 21,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 21,
+      "intellect": 3,
+      "agility": 9,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound War-Axe",
+    "src": "icons/axe/axe-85.png",
+    "monetaryValue": 78,
+    "value": 35,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 20,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 13,
+      "intellect": 10,
+      "agility": 5,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Hatchet",
+    "src": "icons/axe/axe-86.png",
+    "monetaryValue": 87,
+    "value": 41,
+    "rank": "emerald",
+    "fromDamage": 27,
+    "toDamage": 29,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 36,
+      "intellect": 9,
+      "agility": 44,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Hatchet",
+    "src": "icons/axe/axe-87.png",
+    "monetaryValue": 132,
+    "value": 78,
+    "rank": "diamond",
+    "fromDamage": 25,
+    "toDamage": 27,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 57,
+      "intellect": 10,
+      "agility": 20,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 8,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Cleaver",
+    "src": "icons/axe/axe-88.png",
+    "monetaryValue": 170,
+    "value": 79,
+    "rank": "master",
+    "fromDamage": 38,
+    "toDamage": 41,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 95,
+      "strength": 35,
+      "intellect": 19,
+      "agility": 14,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 7,
+      "haste": 1,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Cleaver",
+    "src": "icons/axe/axe-89.png",
+    "monetaryValue": 273,
+    "value": 132,
+    "rank": "demon",
+    "fromDamage": 43,
+    "toDamage": 48,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 48,
+      "strength": 98,
+      "intellect": 22,
+      "agility": 83,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 15,
+      "haste": 15,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Cleaver",
+    "src": "icons/axe/axe-90.png",
+    "monetaryValue": 23,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 11,
+      "intellect": 1,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch War-Axe",
+    "src": "icons/axe/axe-91.png",
+    "monetaryValue": 41,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 5,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 5,
+      "intellect": 6,
+      "agility": 2,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall War-Axe",
+    "src": "icons/axe/axe-92.png",
+    "monetaryValue": 45,
+    "value": 18,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 13,
+      "intellect": 3,
+      "agility": 10,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Chopper",
+    "src": "icons/axe/axe-93.png",
+    "monetaryValue": 69,
+    "value": 37,
+    "rank": "gold",
+    "fromDamage": 13,
+    "toDamage": 20,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 21,
+      "intellect": 3,
+      "agility": 7,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Cleaver",
+    "src": "icons/axe/axe-94.png",
+    "monetaryValue": 66,
+    "value": 42,
+    "rank": "platinum",
+    "fromDamage": 14,
+    "toDamage": 18,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 19,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 12,
+      "intellect": 5,
+      "agility": 6,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Cleaver",
+    "src": "icons/axe/axe-95.png",
+    "monetaryValue": 80,
+    "value": 58,
+    "rank": "emerald",
+    "fromDamage": 16,
+    "toDamage": 28,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 42,
+      "intellect": 8,
+      "agility": 31,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Cleaver",
+    "src": "icons/axe/axe-96.png",
+    "monetaryValue": 111,
+    "value": 63,
+    "rank": "diamond",
+    "fromDamage": 43,
+    "toDamage": 43,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 48,
+      "intellect": 12,
+      "agility": 21,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 8,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Chopper",
+    "src": "icons/axe/axe-97.png",
+    "monetaryValue": 188,
+    "value": 70,
+    "rank": "master",
+    "fromDamage": 36,
+    "toDamage": 37,
+    "parry": 13,
+    "block": 0,
+    "range": 1,
+    "armor": 21,
+    "primaryStats": {
+      "stamina": 87,
+      "strength": 30,
+      "intellect": 19,
+      "agility": 19,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 6,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord War-Axe",
+    "src": "icons/axe/axe-98.png",
+    "monetaryValue": 259,
+    "value": 147,
+    "rank": "demon",
+    "fromDamage": 72,
+    "toDamage": 72,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 135,
+      "intellect": 28,
+      "agility": 86,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 13,
+      "haste": 16,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Cleaver",
+    "src": "icons/axe/axe-99.png",
+    "monetaryValue": 30,
+    "value": 13,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 12,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Chopper",
+    "src": "icons/axe/axe-100.png",
+    "monetaryValue": 30,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 4,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Hatchet",
+    "src": "icons/axe/axe-101.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 11,
+      "intellect": 2,
+      "agility": 8,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Cleaver",
+    "src": "icons/axe/axe-102.png",
+    "monetaryValue": 59,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 21,
+    "toDamage": 21,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 25,
+      "intellect": 4,
+      "agility": 9,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified War-Axe",
+    "src": "icons/axe/axe-103.png",
+    "monetaryValue": 88,
+    "value": 36,
+    "rank": "platinum",
+    "fromDamage": 14,
+    "toDamage": 16,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 11,
+      "intellect": 7,
+      "agility": 7,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 1,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart War-Axe",
+    "src": "icons/axe/axe-104.png",
+    "monetaryValue": 106,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 19,
+    "toDamage": 23,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 47,
+      "intellect": 9,
+      "agility": 26,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 6,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier War-Axe",
+    "src": "icons/axe/axe-105.png",
+    "monetaryValue": 117,
+    "value": 72,
+    "rank": "diamond",
+    "fromDamage": 36,
+    "toDamage": 41,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 59,
+      "intellect": 10,
+      "agility": 25,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Hatchet",
+    "src": "icons/axe/axe-106.png",
+    "monetaryValue": 175,
+    "value": 70,
+    "rank": "master",
+    "fromDamage": 33,
+    "toDamage": 34,
+    "parry": 14,
+    "block": 0,
+    "range": 1,
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 76,
+      "strength": 29,
+      "intellect": 16,
+      "agility": 18,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 5,
+      "haste": 1,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Chopper",
+    "src": "icons/axe/axe-107.png",
+    "monetaryValue": 233,
+    "value": 135,
+    "rank": "demon",
+    "fromDamage": 57,
+    "toDamage": 72,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 97,
+      "intellect": 27,
+      "agility": 42,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 10,
+      "haste": 19,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Hatchet",
+    "src": "icons/axe/axe-108.png",
+    "monetaryValue": 27,
+    "value": 13,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 10,
+      "intellect": 1,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Hatchet",
+    "src": "icons/axe/axe-109.png",
+    "monetaryValue": 37,
+    "value": 18,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 5,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Chopper",
+    "src": "icons/axe/axe-110.png",
+    "monetaryValue": 41,
+    "value": 27,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 16,
+      "intellect": 3,
+      "agility": 8,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Cleaver",
+    "src": "icons/axe/axe-111.png",
+    "monetaryValue": 60,
+    "value": 31,
+    "rank": "gold",
+    "fromDamage": 15,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 18,
+      "intellect": 4,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum War-Axe",
+    "src": "icons/axe/axe-112.png",
+    "monetaryValue": 89,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 17,
+    "toDamage": 18,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 15,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 12,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant War-Axe",
+    "src": "icons/axe/axe-113.png",
+    "monetaryValue": 107,
+    "value": 53,
+    "rank": "emerald",
+    "fromDamage": 20,
+    "toDamage": 21,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 38,
+      "intellect": 7,
+      "agility": 26,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 7,
+      "haste": 8,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond War-Axe",
+    "src": "icons/axe/axe-114.png",
+    "monetaryValue": 144,
+    "value": 60,
+    "rank": "diamond",
+    "fromDamage": 33,
+    "toDamage": 40,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 53,
+      "intellect": 14,
+      "agility": 21,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Cleaver",
+    "src": "icons/axe/axe-115.png",
+    "monetaryValue": 140,
+    "value": 101,
+    "rank": "master",
+    "fromDamage": 21,
+    "toDamage": 26,
+    "parry": 16,
+    "block": 0,
+    "range": 1,
+    "armor": 50,
+    "primaryStats": {
+      "stamina": 81,
+      "strength": 34,
+      "intellect": 18,
+      "agility": 16,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Cleaver",
+    "src": "icons/axe/axe-116.png",
+    "monetaryValue": 275,
+    "value": 133,
+    "rank": "demon",
+    "fromDamage": 71,
+    "toDamage": 75,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 122,
+      "intellect": 28,
+      "agility": 78,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 15,
+      "haste": 11,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Cleaver",
+    "src": "icons/axe/axe-117.png",
+    "monetaryValue": 30,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 8,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Chopper",
+    "src": "icons/axe/axe-118.png",
+    "monetaryValue": 30,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 4,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 8,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Chopper",
+    "src": "icons/axe/axe-119.png",
+    "monetaryValue": 36,
+    "value": 26,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 13,
+      "intellect": 2,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Cleaver",
+    "src": "icons/axe/axe-120.png",
+    "monetaryValue": 50,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 17,
+    "toDamage": 18,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 25,
+      "intellect": 4,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne War-Axe",
+    "src": "icons/axe/axe-121.png",
+    "monetaryValue": 88,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 13,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 16,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 9,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald War-Axe",
+    "src": "icons/axe/axe-122.png",
+    "monetaryValue": 77,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 22,
+    "toDamage": 30,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 48,
+      "intellect": 10,
+      "agility": 13,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Chopper",
+    "src": "icons/axe/axe-123.png",
+    "monetaryValue": 136,
+    "value": 65,
+    "rank": "diamond",
+    "fromDamage": 29,
+    "toDamage": 45,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 60,
+      "intellect": 12,
+      "agility": 13,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Hatchet",
+    "src": "icons/axe/axe-124.png",
+    "monetaryValue": 152,
+    "value": 79,
+    "rank": "master",
+    "fromDamage": 32,
+    "toDamage": 35,
+    "parry": 18,
+    "block": 0,
+    "range": 1,
+    "armor": 40,
+    "primaryStats": {
+      "stamina": 85,
+      "strength": 36,
+      "intellect": 14,
+      "agility": 15,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 5,
+      "haste": 4,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Hatchet",
+    "src": "icons/axe/axe-125.png",
+    "monetaryValue": 229,
+    "value": 152,
+    "rank": "demon",
+    "fromDamage": 68,
+    "toDamage": 72,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 110,
+      "intellect": 47,
+      "agility": 68,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 18,
+      "haste": 18,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Hatchet",
+    "src": "icons/axe/axe-126.png",
+    "monetaryValue": 21,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 9,
+      "intellect": 1,
+      "agility": 4,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Cleaver",
+    "src": "icons/axe/axe-127.png",
+    "monetaryValue": 28,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 7,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall War-Axe",
+    "src": "icons/axe/axe-128.png",
+    "monetaryValue": 44,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 14,
+      "intellect": 2,
+      "agility": 13,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Cleaver",
+    "src": "icons/axe/axe-129.png",
+    "monetaryValue": 53,
+    "value": 28,
+    "rank": "gold",
+    "fromDamage": 21,
+    "toDamage": 21,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 20,
+      "intellect": 4,
+      "agility": 7,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum War-Axe",
+    "src": "icons/axe/axe-130.png",
+    "monetaryValue": 88,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 16,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 19,
+      "intellect": 5,
+      "agility": 6,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Chopper",
+    "src": "icons/axe/axe-131.png",
+    "monetaryValue": 112,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 23,
+    "toDamage": 28,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 34,
+      "intellect": 7,
+      "agility": 32,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 6,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Cleaver",
+    "src": "icons/axe/axe-132.png",
+    "monetaryValue": 132,
+    "value": 67,
+    "rank": "diamond",
+    "fromDamage": 20,
+    "toDamage": 40,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 53,
+      "intellect": 11,
+      "agility": 13,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal War-Axe",
+    "src": "icons/axe/axe-133.png",
+    "monetaryValue": 168,
+    "value": 70,
+    "rank": "master",
+    "fromDamage": 35,
+    "toDamage": 39,
+    "parry": 17,
+    "block": 0,
+    "range": 1,
+    "armor": 41,
+    "primaryStats": {
+      "stamina": 90,
+      "strength": 26,
+      "intellect": 20,
+      "agility": 19,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 4,
+      "haste": 3,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Cleaver",
+    "src": "icons/axe/axe-134.png",
+    "monetaryValue": 278,
+    "value": 107,
+    "rank": "demon",
+    "fromDamage": 76,
+    "toDamage": 76,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 109,
+      "intellect": 25,
+      "agility": 139,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 16,
+      "haste": 15,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Chopper",
+    "src": "icons/axe/axe-135.png",
+    "monetaryValue": 20,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 6,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit War-Axe",
+    "src": "icons/axe/axe-136.png",
+    "monetaryValue": 34,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 11,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel War-Axe",
+    "src": "icons/axe/axe-137.png",
+    "monetaryValue": 48,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 13,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 12,
+      "intellect": 3,
+      "agility": 8,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Cleaver",
+    "src": "icons/axe/axe-138.png",
+    "monetaryValue": 67,
+    "value": 24,
+    "rank": "gold",
+    "fromDamage": 14,
+    "toDamage": 21,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 24,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Cleaver",
+    "src": "icons/axe/axe-139.png",
+    "monetaryValue": 62,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 17,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 11,
+      "intellect": 7,
+      "agility": 6,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Cleaver",
+    "src": "icons/axe/axe-140.png",
+    "monetaryValue": 97,
+    "value": 58,
+    "rank": "emerald",
+    "fromDamage": 17,
+    "toDamage": 23,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 47,
+      "intellect": 9,
+      "agility": 48,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Chopper",
+    "src": "icons/axe/axe-141.png",
+    "monetaryValue": 123,
+    "value": 61,
+    "rank": "diamond",
+    "fromDamage": 27,
+    "toDamage": 38,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 62,
+      "intellect": 11,
+      "agility": 24,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 11,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork War-Axe",
+    "src": "icons/axe/axe-142.png",
+    "monetaryValue": 174,
+    "value": 72,
+    "rank": "master",
+    "fromDamage": 27,
+    "toDamage": 27,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 23,
+    "primaryStats": {
+      "stamina": 92,
+      "strength": 34,
+      "intellect": 18,
+      "agility": 18,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 7,
+      "haste": 3,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Chopper",
+    "src": "icons/axe/axe-143.png",
+    "monetaryValue": 259,
+    "value": 109,
+    "rank": "demon",
+    "fromDamage": 39,
+    "toDamage": 42,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 114,
+      "intellect": 26,
+      "agility": 73,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 18,
+      "haste": 18,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Cleaver",
+    "src": "icons/axe/axe-144.png",
+    "monetaryValue": 30,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 8,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn War-Axe",
+    "src": "icons/axe/axe-145.png",
+    "monetaryValue": 40,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 8,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 9,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Hatchet",
+    "src": "icons/axe/axe-146.png",
+    "monetaryValue": 39,
+    "value": 21,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 14,
+      "intellect": 2,
+      "agility": 7,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Cleaver",
+    "src": "icons/axe/axe-147.png",
+    "monetaryValue": 58,
+    "value": 34,
+    "rank": "gold",
+    "fromDamage": 14,
+    "toDamage": 16,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 20,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Chopper",
+    "src": "icons/axe/axe-148.png",
+    "monetaryValue": 90,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 14,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 13,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 9,
+      "intellect": 6,
+      "agility": 7,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Hatchet",
+    "src": "icons/axe/axe-149.png",
+    "monetaryValue": 100,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 19,
+    "toDamage": 27,
+    "parry": 0,
+    "block": 0,
+    "range": 5,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 41,
+      "intellect": 10,
+      "agility": 18,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Hatchet",
+    "src": "icons/axe/axe-150.png",
+    "monetaryValue": 140,
+    "value": 65,
+    "rank": "diamond",
+    "fromDamage": 35,
+    "toDamage": 37,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 67,
+      "intellect": 11,
+      "agility": 19,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Cleaver",
+    "src": "icons/axe/axe-151.png",
+    "monetaryValue": 204,
+    "value": 85,
+    "rank": "master",
+    "fromDamage": 23,
+    "toDamage": 25,
+    "parry": 11,
+    "block": 0,
+    "range": 1,
+    "armor": 23,
+    "primaryStats": {
+      "stamina": 87,
+      "strength": 36,
+      "intellect": 16,
+      "agility": 17,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 7,
+      "haste": 5,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Chopper",
+    "src": "icons/axe/axe-152.png",
+    "monetaryValue": 208,
+    "value": 141,
+    "rank": "demon",
+    "fromDamage": 70,
+    "toDamage": 74,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 106,
+      "intellect": 23,
+      "agility": 84,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 13,
+      "haste": 17,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Chopper",
+    "src": "icons/axe/axe-153.png",
+    "monetaryValue": 23,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 4,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

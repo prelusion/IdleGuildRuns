@@ -1,0 +1,5462 @@
+[
+  {
+    "quality": "common",
+    "name": "Rusted Sword",
+    "src": "icons/sword/sword-0.png",
+    "monetaryValue": 23,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 4,
+      "intellect": 1,
+      "agility": 3,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Longsword",
+    "src": "icons/sword/sword-1.png",
+    "monetaryValue": 27,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 3,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 3,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Sabre",
+    "src": "icons/sword/sword-2.png",
+    "monetaryValue": 26,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 1,
+      "intellect": 5,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Greatsword",
+    "src": "icons/sword/sword-3.png",
+    "monetaryValue": 29,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 10,
+    "toDamage": 10,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 8,
+      "intellect": 3,
+      "agility": 6,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Greatsword",
+    "src": "icons/sword/sword-4.png",
+    "monetaryValue": 34,
+    "value": 16,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 9,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Greatsword",
+    "src": "icons/sword/sword-5.png",
+    "monetaryValue": 39,
+    "value": 16,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 12,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Sword",
+    "src": "icons/sword/sword-6.png",
+    "monetaryValue": 51,
+    "value": 27,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 14,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 9,
+      "intellect": 3,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 2,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Sword",
+    "src": "icons/sword/sword-7.png",
+    "monetaryValue": 46,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 8,
+    "toDamage": 9,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 10,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 6,
+      "intellect": 3,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Greatsword",
+    "src": "icons/sword/sword-8.png",
+    "monetaryValue": 47,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 4,
+      "intellect": 9,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Longsword",
+    "src": "icons/sword/sword-9.png",
+    "monetaryValue": 47,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 16,
+    "toDamage": 18,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 13,
+      "intellect": 3,
+      "agility": 7,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 2,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Sabre",
+    "src": "icons/sword/sword-10.png",
+    "monetaryValue": 64,
+    "value": 31,
+    "rank": "gold",
+    "fromDamage": 10,
+    "toDamage": 10,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 8,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 6,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Greatsword",
+    "src": "icons/sword/sword-11.png",
+    "monetaryValue": 59,
+    "value": 30,
+    "rank": "gold",
+    "fromDamage": 13,
+    "toDamage": 13,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 7,
+      "intellect": 14,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Sword",
+    "src": "icons/sword/sword-12.png",
+    "monetaryValue": 76,
+    "value": 30,
+    "rank": "platinum",
+    "fromDamage": 16,
+    "toDamage": 16,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 21,
+      "intellect": 6,
+      "agility": 9,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 2,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Sword",
+    "src": "icons/sword/sword-13.png",
+    "monetaryValue": 64,
+    "value": 36,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 24,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 9,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Sabre",
+    "src": "icons/sword/sword-14.png",
+    "monetaryValue": 70,
+    "value": 42,
+    "rank": "platinum",
+    "fromDamage": 17,
+    "toDamage": 17,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 20,
+      "intellect": 31,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Greatsword",
+    "src": "icons/sword/sword-15.png",
+    "monetaryValue": 80,
+    "value": 41,
+    "rank": "emerald",
+    "fromDamage": 26,
+    "toDamage": 26,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 25,
+      "intellect": 9,
+      "agility": 17,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 4,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Sabre",
+    "src": "icons/sword/sword-16.png",
+    "monetaryValue": 100,
+    "value": 40,
+    "rank": "emerald",
+    "fromDamage": 18,
+    "toDamage": 19,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 15,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 13,
+      "intellect": 10,
+      "agility": 9,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 4,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Greatsword",
+    "src": "icons/sword/sword-17.png",
+    "monetaryValue": 88,
+    "value": 45,
+    "rank": "emerald",
+    "fromDamage": 23,
+    "toDamage": 23,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 14,
+      "intellect": 28,
+      "agility": 10,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 2,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Longsword",
+    "src": "icons/sword/sword-18.png",
+    "monetaryValue": 109,
+    "value": 50,
+    "rank": "diamond",
+    "fromDamage": 30,
+    "toDamage": 38,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 68,
+      "strength": 36,
+      "intellect": 13,
+      "agility": 26,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 3,
+      "haste": 2,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Sabre",
+    "src": "icons/sword/sword-19.png",
+    "monetaryValue": 100,
+    "value": 56,
+    "rank": "diamond",
+    "fromDamage": 25,
+    "toDamage": 25,
+    "parry": 11,
+    "block": 0,
+    "range": 1,
+    "armor": 19,
+    "primaryStats": {
+      "stamina": 68,
+      "strength": 20,
+      "intellect": 14,
+      "agility": 14,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 4,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Sword",
+    "src": "icons/sword/sword-20.png",
+    "monetaryValue": 121,
+    "value": 74,
+    "rank": "diamond",
+    "fromDamage": 25,
+    "toDamage": 35,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 24,
+      "intellect": 34,
+      "agility": 11,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Sabre",
+    "src": "icons/sword/sword-21.png",
+    "monetaryValue": 184,
+    "value": 84,
+    "rank": "master",
+    "fromDamage": 38,
+    "toDamage": 41,
+    "parry": 13,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 60,
+      "strength": 58,
+      "intellect": 20,
+      "agility": 64,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 5,
+      "haste": 2,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Greatsword",
+    "src": "icons/sword/sword-22.png",
+    "monetaryValue": 190,
+    "value": 74,
+    "rank": "master",
+    "fromDamage": 29,
+    "toDamage": 33,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 46,
+    "primaryStats": {
+      "stamina": 97,
+      "strength": 29,
+      "intellect": 16,
+      "agility": 17,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 4,
+      "haste": 2,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Longsword",
+    "src": "icons/sword/sword-23.png",
+    "monetaryValue": 154,
+    "value": 91,
+    "rank": "master",
+    "fromDamage": 36,
+    "toDamage": 42,
+    "parry": 11,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 29,
+      "intellect": 58,
+      "agility": 17,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 6,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Sword",
+    "src": "icons/sword/sword-24.png",
+    "monetaryValue": 242,
+    "value": 117,
+    "rank": "demon",
+    "fromDamage": 71,
+    "toDamage": 72,
+    "parry": 15,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 95,
+      "strength": 87,
+      "intellect": 24,
+      "agility": 24,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 7,
+      "haste": 2,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Longsword",
+    "src": "icons/sword/sword-25.png",
+    "monetaryValue": 261,
+    "value": 123,
+    "rank": "demon",
+    "fromDamage": 45,
+    "toDamage": 45,
+    "parry": 27,
+    "block": 0,
+    "range": 1,
+    "armor": 63,
+    "primaryStats": {
+      "stamina": 98,
+      "strength": 47,
+      "intellect": 23,
+      "agility": 26,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 6,
+      "haste": 6,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Longsword",
+    "src": "icons/sword/sword-26.png",
+    "monetaryValue": 206,
+    "value": 139,
+    "rank": "demon",
+    "fromDamage": 56,
+    "toDamage": 57,
+    "parry": 18,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 86,
+      "strength": 45,
+      "intellect": 38,
+      "agility": 27,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 10,
+      "haste": 7,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Longsword",
+    "src": "icons/sword/sword-27.png",
+    "monetaryValue": 27,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 1,
+      "agility": 4,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Sabre",
+    "src": "icons/sword/sword-28.png",
+    "monetaryValue": 34,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 7,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Sword",
+    "src": "icons/sword/sword-29.png",
+    "monetaryValue": 42,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 12,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 2,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Greatsword",
+    "src": "icons/sword/sword-30.png",
+    "monetaryValue": 65,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 15,
+    "toDamage": 17,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 16,
+      "intellect": 4,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Greatsword",
+    "src": "icons/sword/sword-31.png",
+    "monetaryValue": 73,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 15,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 15,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 10,
+      "intellect": 5,
+      "agility": 10,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Greatsword",
+    "src": "icons/sword/sword-32.png",
+    "monetaryValue": 83,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 22,
+    "toDamage": 26,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 14,
+      "intellect": 14,
+      "agility": 7,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 3,
+      "haste": 1,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Longsword",
+    "src": "icons/sword/sword-33.png",
+    "monetaryValue": 111,
+    "value": 68,
+    "rank": "diamond",
+    "fromDamage": 40,
+    "toDamage": 40,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 46,
+      "strength": 37,
+      "intellect": 14,
+      "agility": 41,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Sword",
+    "src": "icons/sword/sword-34.png",
+    "monetaryValue": 180,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 30,
+    "toDamage": 34,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 73,
+      "strength": 26,
+      "intellect": 14,
+      "agility": 16,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Greatsword",
+    "src": "icons/sword/sword-35.png",
+    "monetaryValue": 269,
+    "value": 112,
+    "rank": "demon",
+    "fromDamage": 61,
+    "toDamage": 62,
+    "parry": 18,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 51,
+      "strength": 21,
+      "intellect": 85,
+      "agility": 25,
+      "spirit": 52
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 3,
+      "haste": 3,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Longsword",
+    "src": "icons/sword/sword-36.png",
+    "monetaryValue": 20,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Greatsword",
+    "src": "icons/sword/sword-37.png",
+    "monetaryValue": 36,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 4,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Greatsword",
+    "src": "icons/sword/sword-38.png",
+    "monetaryValue": 49,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 11,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 5,
+      "intellect": 9,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Greatsword",
+    "src": "icons/sword/sword-39.png",
+    "monetaryValue": 62,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 13,
+    "toDamage": 16,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 16,
+      "intellect": 4,
+      "agility": 9,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Sabre",
+    "src": "icons/sword/sword-40.png",
+    "monetaryValue": 79,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 14,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 10,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 3,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Longsword",
+    "src": "icons/sword/sword-41.png",
+    "monetaryValue": 81,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 22,
+    "toDamage": 23,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 15,
+      "intellect": 27,
+      "agility": 8,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 4,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Sabre",
+    "src": "icons/sword/sword-42.png",
+    "monetaryValue": 139,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 28,
+    "toDamage": 38,
+    "parry": 10,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 43,
+      "intellect": 12,
+      "agility": 25,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 4,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Sword",
+    "src": "icons/sword/sword-43.png",
+    "monetaryValue": 197,
+    "value": 107,
+    "rank": "master",
+    "fromDamage": 29,
+    "toDamage": 34,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 35,
+    "primaryStats": {
+      "stamina": 77,
+      "strength": 35,
+      "intellect": 15,
+      "agility": 20,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 7,
+      "haste": 6,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Sword",
+    "src": "icons/sword/sword-44.png",
+    "monetaryValue": 276,
+    "value": 116,
+    "rank": "demon",
+    "fromDamage": 65,
+    "toDamage": 67,
+    "parry": 14,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 40,
+      "strength": 48,
+      "intellect": 78,
+      "agility": 27,
+      "spirit": 53
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 6,
+      "haste": 6,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Greatsword",
+    "src": "icons/sword/sword-45.png",
+    "monetaryValue": 20,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 6,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Sword",
+    "src": "icons/sword/sword-46.png",
+    "monetaryValue": 35,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 5,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Longsword",
+    "src": "icons/sword/sword-47.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 12,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 7,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Greatsword",
+    "src": "icons/sword/sword-48.png",
+    "monetaryValue": 61,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 17,
+    "toDamage": 18,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 13,
+      "intellect": 5,
+      "agility": 12,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Sword",
+    "src": "icons/sword/sword-49.png",
+    "monetaryValue": 60,
+    "value": 46,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 24,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 11,
+      "intellect": 6,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Greatsword",
+    "src": "icons/sword/sword-50.png",
+    "monetaryValue": 105,
+    "value": 48,
+    "rank": "emerald",
+    "fromDamage": 19,
+    "toDamage": 21,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 14,
+      "intellect": 30,
+      "agility": 9,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 4,
+      "haste": 1,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Greatsword",
+    "src": "icons/sword/sword-51.png",
+    "monetaryValue": 114,
+    "value": 70,
+    "rank": "diamond",
+    "fromDamage": 38,
+    "toDamage": 39,
+    "parry": 10,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 39,
+      "intellect": 14,
+      "agility": 37,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 3,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Longsword",
+    "src": "icons/sword/sword-52.png",
+    "monetaryValue": 182,
+    "value": 80,
+    "rank": "master",
+    "fromDamage": 32,
+    "toDamage": 33,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 37,
+    "primaryStats": {
+      "stamina": 83,
+      "strength": 35,
+      "intellect": 19,
+      "agility": 19,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 5,
+      "haste": 1,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Sword",
+    "src": "icons/sword/sword-53.png",
+    "monetaryValue": 222,
+    "value": 126,
+    "rank": "demon",
+    "fromDamage": 56,
+    "toDamage": 59,
+    "parry": 18,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 55,
+      "intellect": 72,
+      "agility": 26,
+      "spirit": 41
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 4,
+      "haste": 3,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Sword",
+    "src": "icons/sword/sword-54.png",
+    "monetaryValue": 23,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 7,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Greatsword",
+    "src": "icons/sword/sword-55.png",
+    "monetaryValue": 37,
+    "value": 22,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 11,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Longsword",
+    "src": "icons/sword/sword-56.png",
+    "monetaryValue": 46,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 4,
+      "intellect": 10,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Sabre",
+    "src": "icons/sword/sword-57.png",
+    "monetaryValue": 58,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 15,
+    "toDamage": 16,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 14,
+      "intellect": 3,
+      "agility": 8,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Longsword",
+    "src": "icons/sword/sword-58.png",
+    "monetaryValue": 67,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 9,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 13,
+      "intellect": 5,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Sabre",
+    "src": "icons/sword/sword-59.png",
+    "monetaryValue": 103,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 20,
+    "toDamage": 26,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 24,
+      "intellect": 30,
+      "agility": 8,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Longsword",
+    "src": "icons/sword/sword-60.png",
+    "monetaryValue": 100,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 33,
+    "toDamage": 39,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 37,
+      "intellect": 10,
+      "agility": 44,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sabre",
+    "src": "icons/sword/sword-61.png",
+    "monetaryValue": 167,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 29,
+    "toDamage": 34,
+    "parry": 18,
+    "block": 0,
+    "range": 1,
+    "armor": 33,
+    "primaryStats": {
+      "stamina": 86,
+      "strength": 36,
+      "intellect": 17,
+      "agility": 19,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 5,
+      "haste": 4,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Sword",
+    "src": "icons/sword/sword-62.png",
+    "monetaryValue": 268,
+    "value": 115,
+    "rank": "demon",
+    "fromDamage": 64,
+    "toDamage": 64,
+    "parry": 13,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 55,
+      "strength": 46,
+      "intellect": 69,
+      "agility": 22,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 7,
+      "haste": 6,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Sabre",
+    "src": "icons/sword/sword-63.png",
+    "monetaryValue": 23,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Longsword",
+    "src": "icons/sword/sword-64.png",
+    "monetaryValue": 37,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 6,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Sword",
+    "src": "icons/sword/sword-65.png",
+    "monetaryValue": 47,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 12,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 6,
+      "intellect": 10,
+      "agility": 6,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Sabre",
+    "src": "icons/sword/sword-66.png",
+    "monetaryValue": 68,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 13,
+    "toDamage": 14,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 12,
+      "intellect": 5,
+      "agility": 9,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Sabre",
+    "src": "icons/sword/sword-67.png",
+    "monetaryValue": 75,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 14,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 12,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 12,
+      "intellect": 6,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Greatsword",
+    "src": "icons/sword/sword-68.png",
+    "monetaryValue": 108,
+    "value": 49,
+    "rank": "emerald",
+    "fromDamage": 25,
+    "toDamage": 27,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 17,
+      "intellect": 30,
+      "agility": 10,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 3,
+      "haste": 1,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Sabre",
+    "src": "icons/sword/sword-69.png",
+    "monetaryValue": 137,
+    "value": 54,
+    "rank": "diamond",
+    "fromDamage": 37,
+    "toDamage": 40,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 52,
+      "strength": 46,
+      "intellect": 14,
+      "agility": 26,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 2,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Longsword",
+    "src": "icons/sword/sword-70.png",
+    "monetaryValue": 194,
+    "value": 68,
+    "rank": "master",
+    "fromDamage": 32,
+    "toDamage": 34,
+    "parry": 11,
+    "block": 0,
+    "range": 1,
+    "armor": 51,
+    "primaryStats": {
+      "stamina": 88,
+      "strength": 27,
+      "intellect": 16,
+      "agility": 18,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 2,
+      "haste": 5,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Greatsword",
+    "src": "icons/sword/sword-71.png",
+    "monetaryValue": 203,
+    "value": 134,
+    "rank": "demon",
+    "fromDamage": 64,
+    "toDamage": 65,
+    "parry": 14,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 55,
+      "intellect": 71,
+      "agility": 21,
+      "spirit": 44
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 10,
+      "haste": 9,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Sword",
+    "src": "icons/sword/sword-72.png",
+    "monetaryValue": 27,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Sword",
+    "src": "icons/sword/sword-73.png",
+    "monetaryValue": 28,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 4,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Sabre",
+    "src": "icons/sword/sword-74.png",
+    "monetaryValue": 46,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 10,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 6,
+      "intellect": 10,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Longsword",
+    "src": "icons/sword/sword-75.png",
+    "monetaryValue": 67,
+    "value": 35,
+    "rank": "gold",
+    "fromDamage": 12,
+    "toDamage": 15,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 12,
+      "intellect": 4,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Sabre",
+    "src": "icons/sword/sword-76.png",
+    "monetaryValue": 64,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 13,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 23,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 9,
+      "intellect": 7,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Greatsword",
+    "src": "icons/sword/sword-77.png",
+    "monetaryValue": 110,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 19,
+    "toDamage": 27,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 7,
+      "intellect": 29,
+      "agility": 9,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 1,
+      "haste": 4,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Sabre",
+    "src": "icons/sword/sword-78.png",
+    "monetaryValue": 144,
+    "value": 72,
+    "rank": "diamond",
+    "fromDamage": 27,
+    "toDamage": 40,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 48,
+      "strength": 39,
+      "intellect": 10,
+      "agility": 25,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 2,
+      "haste": 4,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Sabre",
+    "src": "icons/sword/sword-79.png",
+    "monetaryValue": 204,
+    "value": 78,
+    "rank": "master",
+    "fromDamage": 31,
+    "toDamage": 32,
+    "parry": 17,
+    "block": 0,
+    "range": 1,
+    "armor": 38,
+    "primaryStats": {
+      "stamina": 69,
+      "strength": 28,
+      "intellect": 14,
+      "agility": 32,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Greatsword",
+    "src": "icons/sword/sword-80.png",
+    "monetaryValue": 204,
+    "value": 145,
+    "rank": "demon",
+    "fromDamage": 58,
+    "toDamage": 60,
+    "parry": 12,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 41,
+      "intellect": 122,
+      "agility": 20,
+      "spirit": 45
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 4,
+      "haste": 6,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Longsword",
+    "src": "icons/sword/sword-81.png",
+    "monetaryValue": 21,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Sabre",
+    "src": "icons/sword/sword-82.png",
+    "monetaryValue": 30,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 10,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sword",
+    "src": "icons/sword/sword-83.png",
+    "monetaryValue": 49,
+    "value": 20,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 12,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 10,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Longsword",
+    "src": "icons/sword/sword-84.png",
+    "monetaryValue": 62,
+    "value": 37,
+    "rank": "gold",
+    "fromDamage": 18,
+    "toDamage": 18,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 14,
+      "intellect": 3,
+      "agility": 9,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Greatsword",
+    "src": "icons/sword/sword-85.png",
+    "monetaryValue": 78,
+    "value": 35,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 14,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 20,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 13,
+      "intellect": 10,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Sabre",
+    "src": "icons/sword/sword-86.png",
+    "monetaryValue": 87,
+    "value": 41,
+    "rank": "emerald",
+    "fromDamage": 25,
+    "toDamage": 27,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 13,
+      "intellect": 31,
+      "agility": 16,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 1,
+      "haste": 2,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Sabre",
+    "src": "icons/sword/sword-87.png",
+    "monetaryValue": 132,
+    "value": 78,
+    "rank": "diamond",
+    "fromDamage": 28,
+    "toDamage": 29,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 39,
+      "intellect": 10,
+      "agility": 20,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 5,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Longsword",
+    "src": "icons/sword/sword-88.png",
+    "monetaryValue": 170,
+    "value": 79,
+    "rank": "master",
+    "fromDamage": 33,
+    "toDamage": 34,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 95,
+      "strength": 35,
+      "intellect": 19,
+      "agility": 14,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 7,
+      "haste": 1,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Longsword",
+    "src": "icons/sword/sword-89.png",
+    "monetaryValue": 273,
+    "value": 132,
+    "rank": "demon",
+    "fromDamage": 50,
+    "toDamage": 52,
+    "parry": 16,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 84,
+      "strength": 38,
+      "intellect": 77,
+      "agility": 24,
+      "spirit": 42
+    },
+    "secondaryStats": {
+      "leech": 8,
+      "speed": 6,
+      "haste": 6,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Longsword",
+    "src": "icons/sword/sword-90.png",
+    "monetaryValue": 23,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 7,
+      "intellect": 1,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Greatsword",
+    "src": "icons/sword/sword-91.png",
+    "monetaryValue": 41,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 5,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 5,
+      "intellect": 6,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Greatsword",
+    "src": "icons/sword/sword-92.png",
+    "monetaryValue": 45,
+    "value": 18,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 12,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 10,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Sword",
+    "src": "icons/sword/sword-93.png",
+    "monetaryValue": 69,
+    "value": 37,
+    "rank": "gold",
+    "fromDamage": 14,
+    "toDamage": 18,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 14,
+      "intellect": 3,
+      "agility": 7,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Longsword",
+    "src": "icons/sword/sword-94.png",
+    "monetaryValue": 66,
+    "value": 42,
+    "rank": "platinum",
+    "fromDamage": 14,
+    "toDamage": 15,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 19,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 12,
+      "intellect": 5,
+      "agility": 6,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Longsword",
+    "src": "icons/sword/sword-95.png",
+    "monetaryValue": 80,
+    "value": 58,
+    "rank": "emerald",
+    "fromDamage": 19,
+    "toDamage": 26,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 15,
+      "intellect": 28,
+      "agility": 9,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Longsword",
+    "src": "icons/sword/sword-96.png",
+    "monetaryValue": 111,
+    "value": 63,
+    "rank": "diamond",
+    "fromDamage": 39,
+    "toDamage": 39,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 62,
+      "strength": 26,
+      "intellect": 12,
+      "agility": 21,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 2,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sword",
+    "src": "icons/sword/sword-97.png",
+    "monetaryValue": 188,
+    "value": 70,
+    "rank": "master",
+    "fromDamage": 32,
+    "toDamage": 32,
+    "parry": 13,
+    "block": 0,
+    "range": 1,
+    "armor": 21,
+    "primaryStats": {
+      "stamina": 87,
+      "strength": 30,
+      "intellect": 19,
+      "agility": 19,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 6,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Greatsword",
+    "src": "icons/sword/sword-98.png",
+    "monetaryValue": 259,
+    "value": 147,
+    "rank": "demon",
+    "fromDamage": 65,
+    "toDamage": 65,
+    "parry": 12,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 46,
+      "strength": 53,
+      "intellect": 94,
+      "agility": 26,
+      "spirit": 40
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 4,
+      "haste": 6,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Longsword",
+    "src": "icons/sword/sword-99.png",
+    "monetaryValue": 30,
+    "value": 13,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 7,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Sword",
+    "src": "icons/sword/sword-100.png",
+    "monetaryValue": 30,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 4,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Sabre",
+    "src": "icons/sword/sword-101.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 11,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 8,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Longsword",
+    "src": "icons/sword/sword-102.png",
+    "monetaryValue": 59,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 18,
+    "toDamage": 18,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 16,
+      "intellect": 4,
+      "agility": 9,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Greatsword",
+    "src": "icons/sword/sword-103.png",
+    "monetaryValue": 88,
+    "value": 36,
+    "rank": "platinum",
+    "fromDamage": 14,
+    "toDamage": 15,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 11,
+      "intellect": 7,
+      "agility": 7,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 1,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Greatsword",
+    "src": "icons/sword/sword-104.png",
+    "monetaryValue": 106,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 21,
+    "toDamage": 23,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 17,
+      "intellect": 32,
+      "agility": 8,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 2,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Greatsword",
+    "src": "icons/sword/sword-105.png",
+    "monetaryValue": 117,
+    "value": 72,
+    "rank": "diamond",
+    "fromDamage": 35,
+    "toDamage": 38,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 42,
+      "strength": 59,
+      "intellect": 10,
+      "agility": 25,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 5,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Sabre",
+    "src": "icons/sword/sword-106.png",
+    "monetaryValue": 175,
+    "value": 70,
+    "rank": "master",
+    "fromDamage": 31,
+    "toDamage": 31,
+    "parry": 14,
+    "block": 0,
+    "range": 1,
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 76,
+      "strength": 29,
+      "intellect": 16,
+      "agility": 18,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 5,
+      "haste": 1,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Sword",
+    "src": "icons/sword/sword-107.png",
+    "monetaryValue": 233,
+    "value": 135,
+    "rank": "demon",
+    "fromDamage": 58,
+    "toDamage": 65,
+    "parry": 10,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 42,
+      "strength": 38,
+      "intellect": 91,
+      "agility": 22,
+      "spirit": 45
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 0,
+      "haste": 10,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Sabre",
+    "src": "icons/sword/sword-108.png",
+    "monetaryValue": 27,
+    "value": 13,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 1,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Sabre",
+    "src": "icons/sword/sword-109.png",
+    "monetaryValue": 37,
+    "value": 18,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 5,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sword",
+    "src": "icons/sword/sword-110.png",
+    "monetaryValue": 41,
+    "value": 27,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 11,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 10,
+      "agility": 2,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Longsword",
+    "src": "icons/sword/sword-111.png",
+    "monetaryValue": 60,
+    "value": 31,
+    "rank": "gold",
+    "fromDamage": 15,
+    "toDamage": 16,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 12,
+      "intellect": 4,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Greatsword",
+    "src": "icons/sword/sword-112.png",
+    "monetaryValue": 89,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 15,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 12,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Greatsword",
+    "src": "icons/sword/sword-113.png",
+    "monetaryValue": 107,
+    "value": 53,
+    "rank": "emerald",
+    "fromDamage": 21,
+    "toDamage": 21,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 14,
+      "intellect": 25,
+      "agility": 7,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 4,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Greatsword",
+    "src": "icons/sword/sword-114.png",
+    "monetaryValue": 144,
+    "value": 60,
+    "rank": "diamond",
+    "fromDamage": 33,
+    "toDamage": 37,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 37,
+      "intellect": 14,
+      "agility": 21,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Longsword",
+    "src": "icons/sword/sword-115.png",
+    "monetaryValue": 140,
+    "value": 101,
+    "rank": "master",
+    "fromDamage": 27,
+    "toDamage": 29,
+    "parry": 16,
+    "block": 0,
+    "range": 1,
+    "armor": 50,
+    "primaryStats": {
+      "stamina": 81,
+      "strength": 34,
+      "intellect": 18,
+      "agility": 16,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Longsword",
+    "src": "icons/sword/sword-116.png",
+    "monetaryValue": 275,
+    "value": 133,
+    "rank": "demon",
+    "fromDamage": 64,
+    "toDamage": 67,
+    "parry": 16,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 53,
+      "strength": 48,
+      "intellect": 93,
+      "agility": 23,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 5,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Longsword",
+    "src": "icons/sword/sword-117.png",
+    "monetaryValue": 30,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 4,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Sword",
+    "src": "icons/sword/sword-118.png",
+    "monetaryValue": 30,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 8,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sword",
+    "src": "icons/sword/sword-119.png",
+    "monetaryValue": 36,
+    "value": 26,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 12,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Longsword",
+    "src": "icons/sword/sword-120.png",
+    "monetaryValue": 50,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 16,
+    "toDamage": 16,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 25,
+      "intellect": 4,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Greatsword",
+    "src": "icons/sword/sword-121.png",
+    "monetaryValue": 88,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 13,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 16,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 9,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Greatsword",
+    "src": "icons/sword/sword-122.png",
+    "monetaryValue": 77,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 23,
+    "toDamage": 27,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 18,
+      "intellect": 34,
+      "agility": 7,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Sword",
+    "src": "icons/sword/sword-123.png",
+    "monetaryValue": 136,
+    "value": 65,
+    "rank": "diamond",
+    "fromDamage": 30,
+    "toDamage": 40,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 42,
+      "intellect": 12,
+      "agility": 13,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Sabre",
+    "src": "icons/sword/sword-124.png",
+    "monetaryValue": 152,
+    "value": 79,
+    "rank": "master",
+    "fromDamage": 31,
+    "toDamage": 32,
+    "parry": 18,
+    "block": 0,
+    "range": 1,
+    "armor": 40,
+    "primaryStats": {
+      "stamina": 85,
+      "strength": 36,
+      "intellect": 14,
+      "agility": 15,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 5,
+      "haste": 4,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Sabre",
+    "src": "icons/sword/sword-125.png",
+    "monetaryValue": 229,
+    "value": 152,
+    "rank": "demon",
+    "fromDamage": 63,
+    "toDamage": 65,
+    "parry": 14,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 69,
+      "strength": 43,
+      "intellect": 120,
+      "agility": 20,
+      "spirit": 43
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 9,
+      "haste": 9,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Sabre",
+    "src": "icons/sword/sword-126.png",
+    "monetaryValue": 21,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 4,
+      "intellect": 1,
+      "agility": 4,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Longsword",
+    "src": "icons/sword/sword-127.png",
+    "monetaryValue": 28,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 7,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Greatsword",
+    "src": "icons/sword/sword-128.png",
+    "monetaryValue": 44,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 8,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Longsword",
+    "src": "icons/sword/sword-129.png",
+    "monetaryValue": 53,
+    "value": 28,
+    "rank": "gold",
+    "fromDamage": 18,
+    "toDamage": 18,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 13,
+      "intellect": 4,
+      "agility": 7,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Greatsword",
+    "src": "icons/sword/sword-130.png",
+    "monetaryValue": 88,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 14,
+    "toDamage": 14,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 19,
+      "intellect": 5,
+      "agility": 6,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Sword",
+    "src": "icons/sword/sword-131.png",
+    "monetaryValue": 112,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 23,
+    "toDamage": 26,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 10,
+      "intellect": 24,
+      "agility": 9,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 0,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Longsword",
+    "src": "icons/sword/sword-132.png",
+    "monetaryValue": 132,
+    "value": 67,
+    "rank": "diamond",
+    "fromDamage": 25,
+    "toDamage": 37,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 37,
+      "intellect": 11,
+      "agility": 13,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Greatsword",
+    "src": "icons/sword/sword-133.png",
+    "monetaryValue": 168,
+    "value": 70,
+    "rank": "master",
+    "fromDamage": 32,
+    "toDamage": 33,
+    "parry": 17,
+    "block": 0,
+    "range": 1,
+    "armor": 41,
+    "primaryStats": {
+      "stamina": 90,
+      "strength": 26,
+      "intellect": 20,
+      "agility": 19,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 4,
+      "haste": 3,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Longsword",
+    "src": "icons/sword/sword-134.png",
+    "monetaryValue": 278,
+    "value": 107,
+    "rank": "demon",
+    "fromDamage": 67,
+    "toDamage": 67,
+    "parry": 12,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 43,
+      "intellect": 84,
+      "agility": 55,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 6,
+      "haste": 6,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Sword",
+    "src": "icons/sword/sword-135.png",
+    "monetaryValue": 20,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Greatsword",
+    "src": "icons/sword/sword-136.png",
+    "monetaryValue": 34,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 11,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Greatsword",
+    "src": "icons/sword/sword-137.png",
+    "monetaryValue": 48,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 4,
+      "intellect": 10,
+      "agility": 2,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Longsword",
+    "src": "icons/sword/sword-138.png",
+    "monetaryValue": 67,
+    "value": 24,
+    "rank": "gold",
+    "fromDamage": 14,
+    "toDamage": 18,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 16,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Longsword",
+    "src": "icons/sword/sword-139.png",
+    "monetaryValue": 62,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 14,
+    "toDamage": 15,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 11,
+      "intellect": 7,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Longsword",
+    "src": "icons/sword/sword-140.png",
+    "monetaryValue": 97,
+    "value": 58,
+    "rank": "emerald",
+    "fromDamage": 20,
+    "toDamage": 23,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 17,
+      "intellect": 30,
+      "agility": 18,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 2,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Sword",
+    "src": "icons/sword/sword-141.png",
+    "monetaryValue": 123,
+    "value": 61,
+    "rank": "diamond",
+    "fromDamage": 29,
+    "toDamage": 36,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 43,
+      "intellect": 11,
+      "agility": 24,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 2,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Greatsword",
+    "src": "icons/sword/sword-142.png",
+    "monetaryValue": 174,
+    "value": 72,
+    "rank": "master",
+    "fromDamage": 29,
+    "toDamage": 29,
+    "parry": 19,
+    "block": 0,
+    "range": 1,
+    "armor": 23,
+    "primaryStats": {
+      "stamina": 92,
+      "strength": 34,
+      "intellect": 18,
+      "agility": 18,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 7,
+      "haste": 3,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Sword",
+    "src": "icons/sword/sword-143.png",
+    "monetaryValue": 259,
+    "value": 109,
+    "rank": "demon",
+    "fromDamage": 48,
+    "toDamage": 49,
+    "parry": 14,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 73,
+      "strength": 45,
+      "intellect": 87,
+      "agility": 21,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 9,
+      "haste": 9,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Longsword",
+    "src": "icons/sword/sword-144.png",
+    "monetaryValue": 30,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Greatsword",
+    "src": "icons/sword/sword-145.png",
+    "monetaryValue": 40,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 9,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sabre",
+    "src": "icons/sword/sword-146.png",
+    "monetaryValue": 39,
+    "value": 21,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 12,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 7,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Longsword",
+    "src": "icons/sword/sword-147.png",
+    "monetaryValue": 58,
+    "value": 34,
+    "rank": "gold",
+    "fromDamage": 15,
+    "toDamage": 16,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 13,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Sword",
+    "src": "icons/sword/sword-148.png",
+    "monetaryValue": 90,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 14,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 13,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 9,
+      "intellect": 6,
+      "agility": 7,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Sabre",
+    "src": "icons/sword/sword-149.png",
+    "monetaryValue": 100,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 21,
+    "toDamage": 26,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 15,
+      "intellect": 32,
+      "agility": 10,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Sabre",
+    "src": "icons/sword/sword-150.png",
+    "monetaryValue": 140,
+    "value": 65,
+    "rank": "diamond",
+    "fromDamage": 34,
+    "toDamage": 35,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 46,
+      "intellect": 11,
+      "agility": 19,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 4,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Longsword",
+    "src": "icons/sword/sword-151.png",
+    "monetaryValue": 204,
+    "value": 85,
+    "rank": "master",
+    "fromDamage": 28,
+    "toDamage": 28,
+    "parry": 11,
+    "block": 0,
+    "range": 1,
+    "armor": 23,
+    "primaryStats": {
+      "stamina": 87,
+      "strength": 36,
+      "intellect": 16,
+      "agility": 17,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 7,
+      "haste": 5,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Sword",
+    "src": "icons/sword/sword-152.png",
+    "monetaryValue": 208,
+    "value": 141,
+    "rank": "demon",
+    "fromDamage": 64,
+    "toDamage": 66,
+    "parry": 14,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 42,
+      "strength": 42,
+      "intellect": 80,
+      "agility": 25,
+      "spirit": 46
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 3,
+      "haste": 7,
+      "crit": 8,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Sword",
+    "src": "icons/sword/sword-153.png",
+    "monetaryValue": 23,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 4,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Longsword",
+    "src": "icons/sword/sword-154.png",
+    "monetaryValue": 28,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 6,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 6,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Longsword",
+    "src": "icons/sword/sword-155.png",
+    "monetaryValue": 49,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 7,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

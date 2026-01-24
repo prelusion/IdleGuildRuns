@@ -1,0 +1,1346 @@
+[
+  {
+    "quality": "common",
+    "name": "Town Guard Signet",
+    "src": "icons/ring/ring-0.png",
+    "monetaryValue": 20,
+    "value": 11,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 3,
+      "agility": 6,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Signet",
+    "src": "icons/ring/ring-1.png",
+    "monetaryValue": 18,
+    "value": 12,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 3,
+      "intellect": 2,
+      "agility": 4,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Signet",
+    "src": "icons/ring/ring-2.png",
+    "monetaryValue": 35,
+    "value": 17,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 10,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Loop",
+    "src": "icons/ring/ring-3.png",
+    "monetaryValue": 30,
+    "value": 16,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 18,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Loop",
+    "src": "icons/ring/ring-4.png",
+    "monetaryValue": 38,
+    "value": 20,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 4,
+      "agility": 10,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Loop",
+    "src": "icons/ring/ring-5.png",
+    "monetaryValue": 49,
+    "value": 28,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 11,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Band",
+    "src": "icons/ring/ring-6.png",
+    "monetaryValue": 44,
+    "value": 22,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 9,
+      "agility": 14,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Band",
+    "src": "icons/ring/ring-7.png",
+    "monetaryValue": 60,
+    "value": 32,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 9,
+      "intellect": 5,
+      "agility": 20,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Ring",
+    "src": "icons/ring/ring-8.png",
+    "monetaryValue": 48,
+    "value": 30,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 7,
+      "intellect": 5,
+      "agility": 8,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Ring",
+    "src": "icons/ring/ring-9.png",
+    "monetaryValue": 58,
+    "value": 39,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 7,
+      "intellect": 11,
+      "agility": 21,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Band",
+    "src": "icons/ring/ring-10.png",
+    "monetaryValue": 53,
+    "value": 35,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 13,
+      "intellect": 7,
+      "agility": 30,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Signet",
+    "src": "icons/ring/ring-11.png",
+    "monetaryValue": 61,
+    "value": 41,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 12,
+      "intellect": 7,
+      "agility": 13,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Loop",
+    "src": "icons/ring/ring-12.png",
+    "monetaryValue": 58,
+    "value": 42,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 10,
+      "intellect": 13,
+      "agility": 34,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Ring",
+    "src": "icons/ring/ring-13.png",
+    "monetaryValue": 73,
+    "value": 48,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 10,
+      "intellect": 7,
+      "agility": 44,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Loop",
+    "src": "icons/ring/ring-14.png",
+    "monetaryValue": 86,
+    "value": 40,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 8,
+      "intellect": 10,
+      "agility": 18,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Band",
+    "src": "icons/ring/ring-15.png",
+    "monetaryValue": 85,
+    "value": 45,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 11,
+      "intellect": 19,
+      "agility": 43,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Signet",
+    "src": "icons/ring/ring-16.png",
+    "monetaryValue": 78,
+    "value": 36,
+    "primaryStats": {
+      "stamina": 44,
+      "strength": 44,
+      "intellect": 14,
+      "agility": 69,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Loop",
+    "src": "icons/ring/ring-17.png",
+    "monetaryValue": 71,
+    "value": 44,
+    "primaryStats": {
+      "stamina": 39,
+      "strength": 19,
+      "intellect": 11,
+      "agility": 25,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Band",
+    "src": "icons/ring/ring-18.png",
+    "monetaryValue": 85,
+    "value": 42,
+    "primaryStats": {
+      "stamina": 46,
+      "strength": 11,
+      "intellect": 39,
+      "agility": 12,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Loop",
+    "src": "icons/ring/ring-19.png",
+    "monetaryValue": 106,
+    "value": 59,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 20,
+      "intellect": 37,
+      "agility": 56,
+      "spirit": 35
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Band",
+    "src": "icons/ring/ring-20.png",
+    "monetaryValue": 99,
+    "value": 56,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 26,
+      "intellect": 14,
+      "agility": 82,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Ring",
+    "src": "icons/ring/ring-21.png",
+    "monetaryValue": 98,
+    "value": 63,
+    "primaryStats": {
+      "stamina": 62,
+      "strength": 33,
+      "intellect": 16,
+      "agility": 33,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Ring",
+    "src": "icons/ring/ring-22.png",
+    "monetaryValue": 93,
+    "value": 62,
+    "primaryStats": {
+      "stamina": 62,
+      "strength": 20,
+      "intellect": 68,
+      "agility": 27,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Signet",
+    "src": "icons/ring/ring-23.png",
+    "monetaryValue": 107,
+    "value": 58,
+    "primaryStats": {
+      "stamina": 40,
+      "strength": 21,
+      "intellect": 93,
+      "agility": 68,
+      "spirit": 50
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Ring",
+    "src": "icons/ring/ring-24.png",
+    "monetaryValue": 102,
+    "value": 47,
+    "primaryStats": {
+      "stamina": 69,
+      "strength": 21,
+      "intellect": 25,
+      "agility": 96,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Ring",
+    "src": "icons/ring/ring-25.png",
+    "monetaryValue": 81,
+    "value": 44,
+    "primaryStats": {
+      "stamina": 79,
+      "strength": 43,
+      "intellect": 27,
+      "agility": 52,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Band",
+    "src": "icons/ring/ring-26.png",
+    "monetaryValue": 93,
+    "value": 70,
+    "primaryStats": {
+      "stamina": 93,
+      "strength": 20,
+      "intellect": 77,
+      "agility": 20,
+      "spirit": 52
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Signet",
+    "src": "icons/ring/ring-27.png",
+    "monetaryValue": 15,
+    "value": 10,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 4,
+      "agility": 1,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Ring",
+    "src": "icons/ring/ring-28.png",
+    "monetaryValue": 28,
+    "value": 16,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 4,
+      "agility": 12,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Signet",
+    "src": "icons/ring/ring-29.png",
+    "monetaryValue": 38,
+    "value": 28,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 16,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Band",
+    "src": "icons/ring/ring-30.png",
+    "monetaryValue": 49,
+    "value": 28,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 8,
+      "intellect": 4,
+      "agility": 8,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Band",
+    "src": "icons/ring/ring-31.png",
+    "monetaryValue": 69,
+    "value": 42,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 7,
+      "intellect": 24,
+      "agility": 7,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Signet",
+    "src": "icons/ring/ring-32.png",
+    "monetaryValue": 65,
+    "value": 49,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 7,
+      "intellect": 17,
+      "agility": 24,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Loop",
+    "src": "icons/ring/ring-33.png",
+    "monetaryValue": 93,
+    "value": 37,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 19,
+      "intellect": 11,
+      "agility": 68,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Signet",
+    "src": "icons/ring/ring-34.png",
+    "monetaryValue": 77,
+    "value": 39,
+    "primaryStats": {
+      "stamina": 59,
+      "strength": 33,
+      "intellect": 20,
+      "agility": 38,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Loop",
+    "src": "icons/ring/ring-35.png",
+    "monetaryValue": 106,
+    "value": 51,
+    "primaryStats": {
+      "stamina": 77,
+      "strength": 24,
+      "intellect": 75,
+      "agility": 22,
+      "spirit": 82
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Signet",
+    "src": "icons/ring/ring-36.png",
+    "monetaryValue": 21,
+    "value": 8,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 6,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Loop",
+    "src": "icons/ring/ring-37.png",
+    "monetaryValue": 35,
+    "value": 16,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 17,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Loop",
+    "src": "icons/ring/ring-38.png",
+    "monetaryValue": 37,
+    "value": 28,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 3,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Band",
+    "src": "icons/ring/ring-39.png",
+    "monetaryValue": 44,
+    "value": 21,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 5,
+      "intellect": 16,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Ring",
+    "src": "icons/ring/ring-40.png",
+    "monetaryValue": 49,
+    "value": 34,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 11,
+      "intellect": 10,
+      "agility": 22,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Loop",
+    "src": "icons/ring/ring-41.png",
+    "monetaryValue": 57,
+    "value": 31,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 17,
+      "intellect": 10,
+      "agility": 48,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Signet",
+    "src": "icons/ring/ring-42.png",
+    "monetaryValue": 80,
+    "value": 51,
+    "primaryStats": {
+      "stamina": 60,
+      "strength": 11,
+      "intellect": 14,
+      "agility": 23,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Signet",
+    "src": "icons/ring/ring-43.png",
+    "monetaryValue": 75,
+    "value": 39,
+    "primaryStats": {
+      "stamina": 50,
+      "strength": 20,
+      "intellect": 51,
+      "agility": 18,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Signet",
+    "src": "icons/ring/ring-44.png",
+    "monetaryValue": 121,
+    "value": 47,
+    "primaryStats": {
+      "stamina": 50,
+      "strength": 26,
+      "intellect": 52,
+      "agility": 71,
+      "spirit": 48
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Signet",
+    "src": "icons/ring/ring-45.png",
+    "monetaryValue": 16,
+    "value": 12,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 8,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Loop",
+    "src": "icons/ring/ring-46.png",
+    "monetaryValue": 25,
+    "value": 15,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 3,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Signet",
+    "src": "icons/ring/ring-47.png",
+    "monetaryValue": 42,
+    "value": 19,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 2,
+      "intellect": 10,
+      "agility": 2,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  }
+]

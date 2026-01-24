@@ -1,0 +1,2978 @@
+[
+  {
+    "quality": "common",
+    "name": "Town Guard Bulwark (warrior) Trousers",
+    "src": "icons/trousers/trousers-0.png",
+    "monetaryValue": 33,
+    "value": 18,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 58,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 13,
+      "intellect": 1,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Bastion (paladin) Trousers",
+    "src": "icons/trousers/trousers-1.png",
+    "monetaryValue": 36,
+    "value": 18,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 58,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 16,
+      "agility": 1,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Sentinel (tank) Trousers",
+    "src": "icons/trousers/trousers-2.png",
+    "monetaryValue": 26,
+    "value": 18,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 58,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 3,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Pathfinder (hunter) Trousers",
+    "src": "icons/trousers/trousers-3.png",
+    "monetaryValue": 32,
+    "value": 12,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 46,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 1,
+      "intellect": 5,
+      "agility": 8,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Huntsman (shaman) Trousers",
+    "src": "icons/trousers/trousers-4.png",
+    "monetaryValue": 28,
+    "value": 14,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 46,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sabatuer (rogue) Trousers",
+    "src": "icons/trousers/trousers-5.png",
+    "monetaryValue": 21,
+    "value": 13,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 34,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 1,
+      "agility": 16,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Cutpurse (druid) Trousers",
+    "src": "icons/trousers/trousers-6.png",
+    "monetaryValue": 26,
+    "value": 14,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 34,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 7,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sage (mage) Trousers",
+    "src": "icons/trousers/trousers-7.png",
+    "monetaryValue": 14,
+    "value": 8,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 19,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 16,
+      "agility": 1,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Invoker (priest) Trousers",
+    "src": "icons/trousers/trousers-8.png",
+    "monetaryValue": 20,
+    "value": 6,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 19,
+    "primaryStats": {
+      "stamina": 1,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 1,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Seer (warlock) Trousers",
+    "src": "icons/trousers/trousers-9.png",
+    "monetaryValue": 21,
+    "value": 10,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 19,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 10,
+      "agility": 1,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bulwark (warrior) Trousers",
+    "src": "icons/trousers/trousers-10.png",
+    "monetaryValue": 37,
+    "value": 18,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 86,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 22,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Juggernaut (paladin) Trousers",
+    "src": "icons/trousers/trousers-11.png",
+    "monetaryValue": 35,
+    "value": 18,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 86,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 7,
+      "intellect": 12,
+      "agility": 4,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bastion (tank) Trousers",
+    "src": "icons/trousers/trousers-12.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 86,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 8,
+      "intellect": 7,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (hunter) Trousers",
+    "src": "icons/trousers/trousers-13.png",
+    "monetaryValue": 41,
+    "value": 16,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 66,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 23,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (shaman) Trousers",
+    "src": "icons/trousers/trousers-14.png",
+    "monetaryValue": 38,
+    "value": 18,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 66,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Cutpurse (rogue) Trousers",
+    "src": "icons/trousers/trousers-15.png",
+    "monetaryValue": 25,
+    "value": 17,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 54,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 20,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Shadow (druid) Trousers",
+    "src": "icons/trousers/trousers-16.png",
+    "monetaryValue": 25,
+    "value": 16,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 54,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 3,
+      "intellect": 16,
+      "agility": 10,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Sage (mage) Trousers",
+    "src": "icons/trousers/trousers-17.png",
+    "monetaryValue": 23,
+    "value": 9,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 39,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 20,
+      "agility": 4,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (priest) Trousers",
+    "src": "icons/trousers/trousers-18.png",
+    "monetaryValue": 22,
+    "value": 9,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 39,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 13,
+      "agility": 5,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (warlock) Trousers",
+    "src": "icons/trousers/trousers-19.png",
+    "monetaryValue": 23,
+    "value": 13,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 39,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 12,
+      "agility": 3,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Bulwark (warrior) Trousers",
+    "src": "icons/trousers/trousers-20.png",
+    "monetaryValue": 49,
+    "value": 27,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 71,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 14,
+      "intellect": 3,
+      "agility": 4,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sentinel (paladin) Trousers",
+    "src": "icons/trousers/trousers-21.png",
+    "monetaryValue": 56,
+    "value": 24,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 71,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 5,
+      "intellect": 12,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden Sentinel (tank) Trousers",
+    "src": "icons/trousers/trousers-22.png",
+    "monetaryValue": 56,
+    "value": 26,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 71,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 8,
+      "intellect": 13,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Pathfinder (hunter) Trousers",
+    "src": "icons/trousers/trousers-23.png",
+    "monetaryValue": 43,
+    "value": 23,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 55,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 4,
+      "intellect": 10,
+      "agility": 20,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Pathfinder (shaman) Trousers",
+    "src": "icons/trousers/trousers-24.png",
+    "monetaryValue": 48,
+    "value": 25,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 55,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Shadow (rogue) Trousers",
+    "src": "icons/trousers/trousers-25.png",
+    "monetaryValue": 40,
+    "value": 15,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 41,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 7,
+      "intellect": 4,
+      "agility": 21,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Cutpurse (druid) Trousers",
+    "src": "icons/trousers/trousers-26.png",
+    "monetaryValue": 39,
+    "value": 15,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 4,
+      "intellect": 9,
+      "agility": 7,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (mage) Trousers",
+    "src": "icons/trousers/trousers-27.png",
+    "monetaryValue": 35,
+    "value": 16,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 26,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 20,
+      "agility": 4,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (priest) Trousers",
+    "src": "icons/trousers/trousers-28.png",
+    "monetaryValue": 34,
+    "value": 17,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 26,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 9,
+      "agility": 3,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Seer (warlock) Trousers",
+    "src": "icons/trousers/trousers-29.png",
+    "monetaryValue": 30,
+    "value": 17,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 26,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 7,
+      "intellect": 21,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Sentinel (warrior) Trousers",
+    "src": "icons/trousers/trousers-30.png",
+    "monetaryValue": 84,
+    "value": 34,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 119,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 27,
+      "intellect": 5,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Bulwark (paladin) Trousers",
+    "src": "icons/trousers/trousers-31.png",
+    "monetaryValue": 74,
+    "value": 31,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 119,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 9,
+      "intellect": 21,
+      "agility": 7,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Bulwark (tank) Trousers",
+    "src": "icons/trousers/trousers-32.png",
+    "monetaryValue": 78,
+    "value": 33,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 119,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 4,
+      "intellect": 10,
+      "agility": 5,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Huntsman (hunter) Trousers",
+    "src": "icons/trousers/trousers-33.png",
+    "monetaryValue": 65,
+    "value": 32,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 91,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 4,
+      "intellect": 5,
+      "agility": 30,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Ranger (shaman) Trousers",
+    "src": "icons/trousers/trousers-34.png",
+    "monetaryValue": 66,
+    "value": 29,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 92,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 8,
+      "intellect": 12,
+      "agility": 10,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (rogue) Trousers",
+    "src": "icons/trousers/trousers-35.png",
+    "monetaryValue": 54,
+    "value": 25,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 73,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 8,
+      "intellect": 5,
+      "agility": 30,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (druid) Trousers",
+    "src": "icons/trousers/trousers-36.png",
+    "monetaryValue": 59,
+    "value": 29,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 73,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 10,
+      "intellect": 17,
+      "agility": 10,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Shadow (monk) Trousers",
+    "src": "icons/trousers/trousers-37.png",
+    "monetaryValue": 54,
+    "value": 24,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 73,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 10,
+      "intellect": 7,
+      "agility": 21,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Invoker (mage) Trousers",
+    "src": "icons/trousers/trousers-38.png",
+    "monetaryValue": 44,
+    "value": 22,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 53,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 7,
+      "intellect": 30,
+      "agility": 7,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Seer (priest) Trousers",
+    "src": "icons/trousers/trousers-39.png",
+    "monetaryValue": 49,
+    "value": 21,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 52,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 16,
+      "agility": 7,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Invoker (warlock) Trousers",
+    "src": "icons/trousers/trousers-40.png",
+    "monetaryValue": 48,
+    "value": 21,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 53,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 7,
+      "intellect": 29,
+      "agility": 7,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Bastion (warrior) Trousers",
+    "src": "icons/trousers/trousers-41.png",
+    "monetaryValue": 122,
+    "value": 48,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 157,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 34,
+      "intellect": 8,
+      "agility": 12,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Bastion (paladin) Trousers",
+    "src": "icons/trousers/trousers-42.png",
+    "monetaryValue": 112,
+    "value": 45,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 157,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 16,
+      "intellect": 25,
+      "agility": 7,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Sentinel (tank) Trousers",
+    "src": "icons/trousers/trousers-43.png",
+    "monetaryValue": 111,
+    "value": 47,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 157,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 29,
+      "intellect": 13,
+      "agility": 9,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Skirmisher (hunter) Trousers",
+    "src": "icons/trousers/trousers-44.png",
+    "monetaryValue": 99,
+    "value": 40,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 122,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 9,
+      "intellect": 23,
+      "agility": 35,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Ranger (shaman) Trousers",
+    "src": "icons/trousers/trousers-45.png",
+    "monetaryValue": 93,
+    "value": 41,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 122,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 13,
+      "intellect": 29,
+      "agility": 17,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Sabatuer (rogue) Trousers",
+    "src": "icons/trousers/trousers-46.png",
+    "monetaryValue": 78,
+    "value": 40,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 97,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 16,
+      "intellect": 9,
+      "agility": 36,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Cutpurse (druid) Trousers",
+    "src": "icons/trousers/trousers-47.png",
+    "monetaryValue": 77,
+    "value": 34,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 97,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 8,
+      "intellect": 42,
+      "agility": 17,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Stalker (monk) Trousers",
+    "src": "icons/trousers/trousers-48.png",
+    "monetaryValue": 87,
+    "value": 39,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 96,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 17,
+      "intellect": 7,
+      "agility": 17,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Invoker (mage) Trousers",
+    "src": "icons/trousers/trousers-49.png",
+    "monetaryValue": 66,
+    "value": 29,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 72,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 9,
+      "intellect": 42,
+      "agility": 8,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Arcanist (priest) Trousers",
+    "src": "icons/trousers/trousers-50.png",
+    "monetaryValue": 65,
+    "value": 29,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 71,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 16,
+      "intellect": 27,
+      "agility": 8,
+      "spirit": 42
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Seer (warlock) Trousers",
+    "src": "icons/trousers/trousers-51.png",
+    "monetaryValue": 64,
+    "value": 28,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 72,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 7,
+      "intellect": 38,
+      "agility": 8,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Juggernaut (warrior) Trousers",
+    "src": "icons/trousers/trousers-52.png",
+    "monetaryValue": 158,
+    "value": 70,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 201,
+    "primaryStats": {
+      "stamina": 39,
+      "strength": 57,
+      "intellect": 12,
+      "agility": 12,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Bulwark (paladin) Trousers",
+    "src": "icons/trousers/trousers-53.png",
+    "monetaryValue": 166,
+    "value": 67,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 200,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 21,
+      "intellect": 36,
+      "agility": 13,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 2,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Bulwark (tank) Trousers",
+    "src": "icons/trousers/trousers-54.png",
+    "monetaryValue": 159,
+    "value": 69,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 201,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 22,
+      "intellect": 17,
+      "agility": 20,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Skirmisher (hunter) Trousers",
+    "src": "icons/trousers/trousers-55.png",
+    "monetaryValue": 141,
+    "value": 64,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 155,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 12,
+      "intellect": 23,
+      "agility": 57,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Pathfinder (shaman) Trousers",
+    "src": "icons/trousers/trousers-56.png",
+    "monetaryValue": 137,
+    "value": 64,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 155,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 42,
+      "intellect": 13,
+      "agility": 20,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Shadow (rogue) Trousers",
+    "src": "icons/trousers/trousers-57.png",
+    "monetaryValue": 118,
+    "value": 51,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 125,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 17,
+      "intellect": 12,
+      "agility": 61,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Sabatuer (druid) Trousers",
+    "src": "icons/trousers/trousers-58.png",
+    "monetaryValue": 120,
+    "value": 55,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 124,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 21,
+      "intellect": 43,
+      "agility": 38,
+      "spirit": 43
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Stalker (monk) Trousers",
+    "src": "icons/trousers/trousers-59.png",
+    "monetaryValue": 112,
+    "value": 53,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 124,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 21,
+      "intellect": 20,
+      "agility": 39,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Sage (mage) Trousers",
+    "src": "icons/trousers/trousers-60.png",
+    "monetaryValue": 93,
+    "value": 44,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 91,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 12,
+      "intellect": 48,
+      "agility": 22,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Invoker (priest) Trousers",
+    "src": "icons/trousers/trousers-61.png",
+    "monetaryValue": 88,
+    "value": 45,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 91,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 12,
+      "intellect": 43,
+      "agility": 13,
+      "spirit": 64
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Seer (warlock) Trousers",
+    "src": "icons/trousers/trousers-62.png",
+    "monetaryValue": 89,
+    "value": 42,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 92,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 12,
+      "intellect": 42,
+      "agility": 21,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bastion (warrior) Trousers",
+    "src": "icons/trousers/trousers-63.png",
+    "monetaryValue": 229,
+    "value": 90,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 256,
+    "primaryStats": {
+      "stamina": 49,
+      "strength": 74,
+      "intellect": 16,
+      "agility": 18,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bulwark (paladin) Trousers",
+    "src": "icons/trousers/trousers-64.png",
+    "monetaryValue": 219,
+    "value": 96,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 256,
+    "primaryStats": {
+      "stamina": 61,
+      "strength": 33,
+      "intellect": 62,
+      "agility": 13,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Bastion (tank) Trousers",
+    "src": "icons/trousers/trousers-65.png",
+    "monetaryValue": 227,
+    "value": 95,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 256,
+    "primaryStats": {
+      "stamina": 90,
+      "strength": 26,
+      "intellect": 26,
+      "agility": 13,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Ranger (hunter) Trousers",
+    "src": "icons/trousers/trousers-66.png",
+    "monetaryValue": 188,
+    "value": 79,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 197,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 13,
+      "intellect": 27,
+      "agility": 87,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Skirmisher (shaman) Trousers",
+    "src": "icons/trousers/trousers-67.png",
+    "monetaryValue": 194,
+    "value": 82,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 197,
+    "primaryStats": {
+      "stamina": 61,
+      "strength": 18,
+      "intellect": 31,
+      "agility": 29,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Cutpurse (rogue) Trousers",
+    "src": "icons/trousers/trousers-68.png",
+    "monetaryValue": 161,
+    "value": 74,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 157,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 26,
+      "intellect": 18,
+      "agility": 65,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Sabatuer (druid) Trousers",
+    "src": "icons/trousers/trousers-69.png",
+    "monetaryValue": 160,
+    "value": 70,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 156,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 17,
+      "intellect": 79,
+      "agility": 25,
+      "spirit": 62
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Sabatuer (monk) Trousers",
+    "src": "icons/trousers/trousers-70.png",
+    "monetaryValue": 161,
+    "value": 69,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 158,
+    "primaryStats": {
+      "stamina": 62,
+      "strength": 46,
+      "intellect": 16,
+      "agility": 62,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Arcanist (mage) Trousers",
+    "src": "icons/trousers/trousers-71.png",
+    "monetaryValue": 130,
+    "value": 60,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 117,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 14,
+      "intellect": 65,
+      "agility": 25,
+      "spirit": 49
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Invoker (priest) Trousers",
+    "src": "icons/trousers/trousers-72.png",
+    "monetaryValue": 126,
+    "value": 60,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 115,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 17,
+      "intellect": 86,
+      "agility": 17,
+      "spirit": 72
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Invoker (warlock) Trousers",
+    "src": "icons/trousers/trousers-73.png",
+    "monetaryValue": 127,
+    "value": 58,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 116,
+    "primaryStats": {
+      "stamina": 59,
+      "strength": 14,
+      "intellect": 88,
+      "agility": 17,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Bastion (warrior) Trousers",
+    "src": "icons/trousers/trousers-74.png",
+    "monetaryValue": 320,
+    "value": 137,
+    "rank": "master",
+    "type": "plate",
+    "armor": 322,
+    "primaryStats": {
+      "stamina": 85,
+      "strength": 100,
+      "intellect": 20,
+      "agility": 49,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sentinel (paladin) Trousers",
+    "src": "icons/trousers/trousers-75.png",
+    "monetaryValue": 315,
+    "value": 130,
+    "rank": "master",
+    "type": "plate",
+    "armor": 323,
+    "primaryStats": {
+      "stamina": 69,
+      "strength": 21,
+      "intellect": 86,
+      "agility": 23,
+      "spirit": 39
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Juggernaut (tank) Trousers",
+    "src": "icons/trousers/trousers-76.png",
+    "monetaryValue": 323,
+    "value": 137,
+    "rank": "master",
+    "type": "plate",
+    "armor": 322,
+    "primaryStats": {
+      "stamina": 96,
+      "strength": 47,
+      "intellect": 39,
+      "agility": 23,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Skirmisher (hunter) Trousers",
+    "src": "icons/trousers/trousers-77.png",
+    "monetaryValue": 277,
+    "value": 114,
+    "rank": "master",
+    "type": "mail",
+    "armor": 248,
+    "primaryStats": {
+      "stamina": 49,
+      "strength": 23,
+      "intellect": 40,
+      "agility": 98,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Ranger (shaman) Trousers",
+    "src": "icons/trousers/trousers-78.png",
+    "monetaryValue": 276,
+    "value": 116,
+    "rank": "master",
+    "type": "mail",
+    "armor": 248,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 38,
+      "intellect": 43,
+      "agility": 46,
+      "spirit": 35
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Cutpurse (rogue) Trousers",
+    "src": "icons/trousers/trousers-79.png",
+    "monetaryValue": 225,
+    "value": 98,
+    "rank": "master",
+    "type": "leather",
+    "armor": 198,
+    "primaryStats": {
+      "stamina": 40,
+      "strength": 66,
+      "intellect": 49,
+      "agility": 104,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Stalker (druid) Trousers",
+    "src": "icons/trousers/trousers-80.png",
+    "monetaryValue": 229,
+    "value": 102,
+    "rank": "master",
+    "type": "leather",
+    "armor": 199,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 18,
+      "intellect": 87,
+      "agility": 74,
+      "spirit": 78
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Cutpurse (monk) Trousers",
+    "src": "icons/trousers/trousers-81.png",
+    "monetaryValue": 227,
+    "value": 98,
+    "rank": "master",
+    "type": "leather",
+    "armor": 197,
+    "primaryStats": {
+      "stamina": 77,
+      "strength": 48,
+      "intellect": 23,
+      "agility": 68,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Sage (mage) Trousers",
+    "src": "icons/trousers/trousers-82.png",
+    "monetaryValue": 176,
+    "value": 86,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 146,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 21,
+      "intellect": 107,
+      "agility": 18,
+      "spirit": 83
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Invoker (priest) Trousers",
+    "src": "icons/trousers/trousers-83.png",
+    "monetaryValue": 179,
+    "value": 83,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 147,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 44,
+      "intellect": 81,
+      "agility": 18,
+      "spirit": 98
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sage (warlock) Trousers",
+    "src": "icons/trousers/trousers-84.png",
+    "monetaryValue": 184,
+    "value": 85,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 148,
+    "primaryStats": {
+      "stamina": 39,
+      "strength": 23,
+      "intellect": 120,
+      "agility": 22,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Sentinel (warrior) Trousers",
+    "src": "icons/trousers/trousers-85.png",
+    "monetaryValue": 481,
+    "value": 204,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 420,
+    "primaryStats": {
+      "stamina": 107,
+      "strength": 177,
+      "intellect": 33,
+      "agility": 34,
+      "spirit": 35
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Bastion (paladin) Trousers",
+    "src": "icons/trousers/trousers-86.png",
+    "monetaryValue": 490,
+    "value": 200,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 424,
+    "primaryStats": {
+      "stamina": 118,
+      "strength": 57,
+      "intellect": 107,
+      "agility": 31,
+      "spirit": 53
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Bastion (tank) Trousers",
+    "src": "icons/trousers/trousers-87.png",
+    "monetaryValue": 494,
+    "value": 205,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 422,
+    "primaryStats": {
+      "stamina": 125,
+      "strength": 60,
+      "intellect": 57,
+      "agility": 33,
+      "spirit": 35
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Pathfinder (hunter) Trousers",
+    "src": "icons/trousers/trousers-88.png",
+    "monetaryValue": 417,
+    "value": 179,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 315,
+    "primaryStats": {
+      "stamina": 56,
+      "strength": 30,
+      "intellect": 60,
+      "agility": 163,
+      "spirit": 56
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Skirmisher (shaman) Trousers",
+    "src": "icons/trousers/trousers-89.png",
+    "monetaryValue": 417,
+    "value": 178,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 315,
+    "primaryStats": {
+      "stamina": 62,
+      "strength": 51,
+      "intellect": 34,
+      "agility": 64,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Cutpurse (rogue) Trousers",
+    "src": "icons/trousers/trousers-90.png",
+    "monetaryValue": 346,
+    "value": 156,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 253,
+    "primaryStats": {
+      "stamina": 49,
+      "strength": 52,
+      "intellect": 51,
+      "agility": 172,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Cutpurse (druid) Trousers",
+    "src": "icons/trousers/trousers-91.png",
+    "monetaryValue": 348,
+    "value": 153,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 254,
+    "primaryStats": {
+      "stamina": 59,
+      "strength": 30,
+      "intellect": 99,
+      "agility": 72,
+      "spirit": 92
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Sabatuer (monk) Trousers",
+    "src": "icons/trousers/trousers-92.png",
+    "monetaryValue": 341,
+    "value": 150,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 251,
+    "primaryStats": {
+      "stamina": 94,
+      "strength": 52,
+      "intellect": 29,
+      "agility": 94,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Invoker (mage) Trousers",
+    "src": "icons/trousers/trousers-93.png",
+    "monetaryValue": 278,
+    "value": 130,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 185,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 27,
+      "intellect": 168,
+      "agility": 31,
+      "spirit": 99
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Arcanist (priest) Trousers",
+    "src": "icons/trousers/trousers-94.png",
+    "monetaryValue": 270,
+    "value": 128,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 184,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 30,
+      "intellect": 98,
+      "agility": 35,
+      "spirit": 176
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Seer (warlock) Trousers",
+    "src": "icons/trousers/trousers-95.png",
+    "monetaryValue": 278,
+    "value": 127,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 187,
+    "primaryStats": {
+      "stamina": 60,
+      "strength": 33,
+      "intellect": 166,
+      "agility": 34,
+      "spirit": 55
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

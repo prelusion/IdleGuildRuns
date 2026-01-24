@@ -1,0 +1,2978 @@
+[
+  {
+    "quality": "common",
+    "name": "Town Guard Bulwark (warrior) Bracers",
+    "src": "icons/bracers/bracers-0.png",
+    "monetaryValue": 30,
+    "value": 11,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 57,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 11,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Bastion (paladin) Bracers",
+    "src": "icons/bracers/bracers-1.png",
+    "monetaryValue": 24,
+    "value": 11,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 57,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 14,
+      "agility": 1,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Sentinel (tank) Bracers",
+    "src": "icons/bracers/bracers-2.png",
+    "monetaryValue": 25,
+    "value": 15,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 57,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Pathfinder (hunter) Bracers",
+    "src": "icons/bracers/bracers-3.png",
+    "monetaryValue": 32,
+    "value": 9,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 44,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 1,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Huntsman (shaman) Bracers",
+    "src": "icons/bracers/bracers-4.png",
+    "monetaryValue": 25,
+    "value": 10,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 44,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sabatuer (rogue) Bracers",
+    "src": "icons/bracers/bracers-5.png",
+    "monetaryValue": 25,
+    "value": 13,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 31,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 5,
+      "intellect": 1,
+      "agility": 14,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Cutpurse (druid) Bracers",
+    "src": "icons/bracers/bracers-6.png",
+    "monetaryValue": 23,
+    "value": 12,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 31,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 6,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sage (mage) Bracers",
+    "src": "icons/bracers/bracers-7.png",
+    "monetaryValue": 18,
+    "value": 8,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 16,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 14,
+      "agility": 1,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Invoker (priest) Bracers",
+    "src": "icons/bracers/bracers-8.png",
+    "monetaryValue": 22,
+    "value": 9,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 16,
+    "primaryStats": {
+      "stamina": 1,
+      "strength": 2,
+      "intellect": 5,
+      "agility": 1,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Seer (warlock) Bracers",
+    "src": "icons/bracers/bracers-9.png",
+    "monetaryValue": 18,
+    "value": 11,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 16,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 9,
+      "agility": 1,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bulwark (warrior) Bracers",
+    "src": "icons/bracers/bracers-10.png",
+    "monetaryValue": 34,
+    "value": 22,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 84,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 19,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Juggernaut (paladin) Bracers",
+    "src": "icons/bracers/bracers-11.png",
+    "monetaryValue": 34,
+    "value": 20,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 84,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 6,
+      "intellect": 10,
+      "agility": 3,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bastion (tank) Bracers",
+    "src": "icons/bracers/bracers-12.png",
+    "monetaryValue": 43,
+    "value": 17,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 84,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 7,
+      "intellect": 6,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (hunter) Bracers",
+    "src": "icons/bracers/bracers-13.png",
+    "monetaryValue": 36,
+    "value": 17,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 64,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 5,
+      "agility": 20,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (shaman) Bracers",
+    "src": "icons/bracers/bracers-14.png",
+    "monetaryValue": 32,
+    "value": 13,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 64,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Cutpurse (rogue) Bracers",
+    "src": "icons/bracers/bracers-15.png",
+    "monetaryValue": 32,
+    "value": 16,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 51,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 17,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Shadow (druid) Bracers",
+    "src": "icons/bracers/bracers-16.png",
+    "monetaryValue": 34,
+    "value": 12,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 51,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 2,
+      "intellect": 14,
+      "agility": 9,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Sage (mage) Bracers",
+    "src": "icons/bracers/bracers-17.png",
+    "monetaryValue": 19,
+    "value": 10,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 36,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 17,
+      "agility": 3,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (priest) Bracers",
+    "src": "icons/bracers/bracers-18.png",
+    "monetaryValue": 24,
+    "value": 14,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 36,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 11,
+      "agility": 5,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (warlock) Bracers",
+    "src": "icons/bracers/bracers-19.png",
+    "monetaryValue": 19,
+    "value": 14,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 36,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 10,
+      "agility": 2,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Bulwark (warrior) Bracers",
+    "src": "icons/bracers/bracers-20.png",
+    "monetaryValue": 51,
+    "value": 24,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 69,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 12,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sentinel (paladin) Bracers",
+    "src": "icons/bracers/bracers-21.png",
+    "monetaryValue": 58,
+    "value": 21,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 69,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 5,
+      "intellect": 10,
+      "agility": 5,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden Sentinel (tank) Bracers",
+    "src": "icons/bracers/bracers-22.png",
+    "monetaryValue": 56,
+    "value": 24,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 69,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 7,
+      "intellect": 11,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Pathfinder (hunter) Bracers",
+    "src": "icons/bracers/bracers-23.png",
+    "monetaryValue": 47,
+    "value": 22,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 53,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 9,
+      "agility": 17,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Pathfinder (shaman) Bracers",
+    "src": "icons/bracers/bracers-24.png",
+    "monetaryValue": 51,
+    "value": 20,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 53,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 6,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Shadow (rogue) Bracers",
+    "src": "icons/bracers/bracers-25.png",
+    "monetaryValue": 37,
+    "value": 19,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 39,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 3,
+      "agility": 18,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Cutpurse (druid) Bracers",
+    "src": "icons/bracers/bracers-26.png",
+    "monetaryValue": 36,
+    "value": 19,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 38,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 3,
+      "intellect": 8,
+      "agility": 6,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (mage) Bracers",
+    "src": "icons/bracers/bracers-27.png",
+    "monetaryValue": 27,
+    "value": 16,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 23,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 2,
+      "intellect": 17,
+      "agility": 3,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (priest) Bracers",
+    "src": "icons/bracers/bracers-28.png",
+    "monetaryValue": 34,
+    "value": 18,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 24,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 8,
+      "agility": 2,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Seer (warlock) Bracers",
+    "src": "icons/bracers/bracers-29.png",
+    "monetaryValue": 29,
+    "value": 14,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 24,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 18,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Sentinel (warrior) Bracers",
+    "src": "icons/bracers/bracers-30.png",
+    "monetaryValue": 81,
+    "value": 30,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 116,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 24,
+      "intellect": 5,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Bulwark (paladin) Bracers",
+    "src": "icons/bracers/bracers-31.png",
+    "monetaryValue": 86,
+    "value": 36,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 116,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 8,
+      "intellect": 18,
+      "agility": 6,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Bulwark (tank) Bracers",
+    "src": "icons/bracers/bracers-32.png",
+    "monetaryValue": 82,
+    "value": 37,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 116,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 3,
+      "intellect": 9,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Huntsman (hunter) Bracers",
+    "src": "icons/bracers/bracers-33.png",
+    "monetaryValue": 72,
+    "value": 28,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 88,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 26,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Ranger (shaman) Bracers",
+    "src": "icons/bracers/bracers-34.png",
+    "monetaryValue": 70,
+    "value": 30,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 88,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 7,
+      "intellect": 10,
+      "agility": 9,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (rogue) Bracers",
+    "src": "icons/bracers/bracers-35.png",
+    "monetaryValue": 59,
+    "value": 26,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 69,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 7,
+      "intellect": 5,
+      "agility": 26,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (druid) Bracers",
+    "src": "icons/bracers/bracers-36.png",
+    "monetaryValue": 52,
+    "value": 24,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 69,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 9,
+      "intellect": 15,
+      "agility": 9,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Shadow (monk) Bracers",
+    "src": "icons/bracers/bracers-37.png",
+    "monetaryValue": 55,
+    "value": 23,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 69,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 9,
+      "intellect": 6,
+      "agility": 18,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Invoker (mage) Bracers",
+    "src": "icons/bracers/bracers-38.png",
+    "monetaryValue": 46,
+    "value": 23,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 49,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 26,
+      "agility": 6,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Seer (priest) Bracers",
+    "src": "icons/bracers/bracers-39.png",
+    "monetaryValue": 41,
+    "value": 20,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 49,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 14,
+      "agility": 6,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Invoker (warlock) Bracers",
+    "src": "icons/bracers/bracers-40.png",
+    "monetaryValue": 42,
+    "value": 20,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 49,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 6,
+      "intellect": 25,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Bastion (warrior) Bracers",
+    "src": "icons/bracers/bracers-41.png",
+    "monetaryValue": 116,
+    "value": 49,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 153,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 29,
+      "intellect": 7,
+      "agility": 10,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Bastion (paladin) Bracers",
+    "src": "icons/bracers/bracers-42.png",
+    "monetaryValue": 112,
+    "value": 50,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 153,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 14,
+      "intellect": 21,
+      "agility": 6,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Sentinel (tank) Bracers",
+    "src": "icons/bracers/bracers-43.png",
+    "monetaryValue": 121,
+    "value": 46,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 153,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 25,
+      "intellect": 11,
+      "agility": 8,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Skirmisher (hunter) Bracers",
+    "src": "icons/bracers/bracers-44.png",
+    "monetaryValue": 101,
+    "value": 39,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 117,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 8,
+      "intellect": 20,
+      "agility": 31,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Ranger (shaman) Bracers",
+    "src": "icons/bracers/bracers-45.png",
+    "monetaryValue": 96,
+    "value": 43,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 117,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 11,
+      "intellect": 25,
+      "agility": 15,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Sabatuer (rogue) Bracers",
+    "src": "icons/bracers/bracers-46.png",
+    "monetaryValue": 85,
+    "value": 40,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 92,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 14,
+      "intellect": 8,
+      "agility": 32,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Cutpurse (druid) Bracers",
+    "src": "icons/bracers/bracers-47.png",
+    "monetaryValue": 81,
+    "value": 37,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 91,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 7,
+      "intellect": 36,
+      "agility": 15,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Stalker (monk) Bracers",
+    "src": "icons/bracers/bracers-48.png",
+    "monetaryValue": 85,
+    "value": 34,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 91,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 15,
+      "intellect": 6,
+      "agility": 15,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Invoker (mage) Bracers",
+    "src": "icons/bracers/bracers-49.png",
+    "monetaryValue": 69,
+    "value": 32,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 67,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 8,
+      "intellect": 36,
+      "agility": 7,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Arcanist (priest) Bracers",
+    "src": "icons/bracers/bracers-50.png",
+    "monetaryValue": 62,
+    "value": 31,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 67,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 14,
+      "intellect": 24,
+      "agility": 7,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Seer (warlock) Bracers",
+    "src": "icons/bracers/bracers-51.png",
+    "monetaryValue": 66,
+    "value": 32,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 67,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 6,
+      "intellect": 33,
+      "agility": 7,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Juggernaut (warrior) Bracers",
+    "src": "icons/bracers/bracers-52.png",
+    "monetaryValue": 162,
+    "value": 65,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 196,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 50,
+      "intellect": 10,
+      "agility": 10,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Bulwark (paladin) Bracers",
+    "src": "icons/bracers/bracers-53.png",
+    "monetaryValue": 165,
+    "value": 72,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 195,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 18,
+      "intellect": 32,
+      "agility": 11,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 2,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Bulwark (tank) Bracers",
+    "src": "icons/bracers/bracers-54.png",
+    "monetaryValue": 165,
+    "value": 73,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 195,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 19,
+      "intellect": 15,
+      "agility": 17,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Skirmisher (hunter) Bracers",
+    "src": "icons/bracers/bracers-55.png",
+    "monetaryValue": 141,
+    "value": 58,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 150,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 10,
+      "intellect": 20,
+      "agility": 50,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Pathfinder (shaman) Bracers",
+    "src": "icons/bracers/bracers-56.png",
+    "monetaryValue": 139,
+    "value": 60,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 149,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 36,
+      "intellect": 11,
+      "agility": 17,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Shadow (rogue) Bracers",
+    "src": "icons/bracers/bracers-57.png",
+    "monetaryValue": 113,
+    "value": 49,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 116,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 15,
+      "intellect": 10,
+      "agility": 53,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Sabatuer (druid) Bracers",
+    "src": "icons/bracers/bracers-58.png",
+    "monetaryValue": 117,
+    "value": 51,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 116,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 18,
+      "intellect": 37,
+      "agility": 33,
+      "spirit": 37
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Stalker (monk) Bracers",
+    "src": "icons/bracers/bracers-59.png",
+    "monetaryValue": 115,
+    "value": 49,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 116,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 18,
+      "intellect": 17,
+      "agility": 34,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Sage (mage) Bracers",
+    "src": "icons/bracers/bracers-60.png",
+    "monetaryValue": 91,
+    "value": 43,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 86,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 10,
+      "intellect": 42,
+      "agility": 19,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Invoker (priest) Bracers",
+    "src": "icons/bracers/bracers-61.png",
+    "monetaryValue": 89,
+    "value": 41,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 86,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 10,
+      "intellect": 37,
+      "agility": 11,
+      "spirit": 55
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Seer (warlock) Bracers",
+    "src": "icons/bracers/bracers-62.png",
+    "monetaryValue": 95,
+    "value": 44,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 86,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 10,
+      "intellect": 36,
+      "agility": 18,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bastion (warrior) Bracers",
+    "src": "icons/bracers/bracers-63.png",
+    "monetaryValue": 226,
+    "value": 95,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 248,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 64,
+      "intellect": 14,
+      "agility": 16,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bulwark (paladin) Bracers",
+    "src": "icons/bracers/bracers-64.png",
+    "monetaryValue": 223,
+    "value": 93,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 250,
+    "primaryStats": {
+      "stamina": 53,
+      "strength": 28,
+      "intellect": 54,
+      "agility": 11,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Bastion (tank) Bracers",
+    "src": "icons/bracers/bracers-65.png",
+    "monetaryValue": 226,
+    "value": 93,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 248,
+    "primaryStats": {
+      "stamina": 78,
+      "strength": 23,
+      "intellect": 23,
+      "agility": 11,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Ranger (hunter) Bracers",
+    "src": "icons/bracers/bracers-66.png",
+    "monetaryValue": 190,
+    "value": 79,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 188,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 11,
+      "intellect": 24,
+      "agility": 76,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Skirmisher (shaman) Bracers",
+    "src": "icons/bracers/bracers-67.png",
+    "monetaryValue": 192,
+    "value": 83,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 189,
+    "primaryStats": {
+      "stamina": 53,
+      "strength": 16,
+      "intellect": 27,
+      "agility": 25,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Cutpurse (rogue) Bracers",
+    "src": "icons/bracers/bracers-68.png",
+    "monetaryValue": 154,
+    "value": 70,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 148,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 23,
+      "intellect": 16,
+      "agility": 56,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Sabatuer (druid) Bracers",
+    "src": "icons/bracers/bracers-69.png",
+    "monetaryValue": 159,
+    "value": 71,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 148,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 15,
+      "intellect": 69,
+      "agility": 21,
+      "spirit": 54
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Sabatuer (monk) Bracers",
+    "src": "icons/bracers/bracers-70.png",
+    "monetaryValue": 160,
+    "value": 68,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 149,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 40,
+      "intellect": 14,
+      "agility": 54,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Arcanist (mage) Bracers",
+    "src": "icons/bracers/bracers-71.png",
+    "monetaryValue": 124,
+    "value": 58,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 109,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 12,
+      "intellect": 56,
+      "agility": 21,
+      "spirit": 43
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Invoker (priest) Bracers",
+    "src": "icons/bracers/bracers-72.png",
+    "monetaryValue": 129,
+    "value": 58,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 110,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 15,
+      "intellect": 75,
+      "agility": 15,
+      "spirit": 62
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Invoker (warlock) Bracers",
+    "src": "icons/bracers/bracers-73.png",
+    "monetaryValue": 123,
+    "value": 56,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 108,
+    "primaryStats": {
+      "stamina": 51,
+      "strength": 12,
+      "intellect": 77,
+      "agility": 15,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Bastion (warrior) Bracers",
+    "src": "icons/bracers/bracers-74.png",
+    "monetaryValue": 320,
+    "value": 136,
+    "rank": "master",
+    "type": "plate",
+    "armor": 312,
+    "primaryStats": {
+      "stamina": 73,
+      "strength": 87,
+      "intellect": 17,
+      "agility": 43,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sentinel (paladin) Bracers",
+    "src": "icons/bracers/bracers-75.png",
+    "monetaryValue": 323,
+    "value": 135,
+    "rank": "master",
+    "type": "plate",
+    "armor": 313,
+    "primaryStats": {
+      "stamina": 60,
+      "strength": 18,
+      "intellect": 75,
+      "agility": 20,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Juggernaut (tank) Bracers",
+    "src": "icons/bracers/bracers-76.png",
+    "monetaryValue": 324,
+    "value": 138,
+    "rank": "master",
+    "type": "plate",
+    "armor": 314,
+    "primaryStats": {
+      "stamina": 84,
+      "strength": 41,
+      "intellect": 34,
+      "agility": 20,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Skirmisher (hunter) Bracers",
+    "src": "icons/bracers/bracers-77.png",
+    "monetaryValue": 273,
+    "value": 114,
+    "rank": "master",
+    "type": "mail",
+    "armor": 239,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 20,
+      "intellect": 35,
+      "agility": 85,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Ranger (shaman) Bracers",
+    "src": "icons/bracers/bracers-78.png",
+    "monetaryValue": 276,
+    "value": 118,
+    "rank": "master",
+    "type": "mail",
+    "armor": 239,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 33,
+      "intellect": 37,
+      "agility": 40,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Cutpurse (rogue) Bracers",
+    "src": "icons/bracers/bracers-79.png",
+    "monetaryValue": 221,
+    "value": 98,
+    "rank": "master",
+    "type": "leather",
+    "armor": 187,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 58,
+      "intellect": 43,
+      "agility": 90,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Stalker (druid) Bracers",
+    "src": "icons/bracers/bracers-80.png",
+    "monetaryValue": 221,
+    "value": 103,
+    "rank": "master",
+    "type": "leather",
+    "armor": 188,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 16,
+      "intellect": 76,
+      "agility": 64,
+      "spirit": 68
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Cutpurse (monk) Bracers",
+    "src": "icons/bracers/bracers-81.png",
+    "monetaryValue": 230,
+    "value": 99,
+    "rank": "master",
+    "type": "leather",
+    "armor": 185,
+    "primaryStats": {
+      "stamina": 67,
+      "strength": 42,
+      "intellect": 20,
+      "agility": 59,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Sage (mage) Bracers",
+    "src": "icons/bracers/bracers-82.png",
+    "monetaryValue": 182,
+    "value": 81,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 138,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 18,
+      "intellect": 93,
+      "agility": 16,
+      "spirit": 72
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Invoker (priest) Bracers",
+    "src": "icons/bracers/bracers-83.png",
+    "monetaryValue": 183,
+    "value": 82,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 139,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 38,
+      "intellect": 70,
+      "agility": 16,
+      "spirit": 85
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sage (warlock) Bracers",
+    "src": "icons/bracers/bracers-84.png",
+    "monetaryValue": 180,
+    "value": 82,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 138,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 20,
+      "intellect": 104,
+      "agility": 19,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Sentinel (warrior) Bracers",
+    "src": "icons/bracers/bracers-85.png",
+    "monetaryValue": 487,
+    "value": 206,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 408,
+    "primaryStats": {
+      "stamina": 93,
+      "strength": 154,
+      "intellect": 28,
+      "agility": 29,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Bastion (paladin) Bracers",
+    "src": "icons/bracers/bracers-86.png",
+    "monetaryValue": 489,
+    "value": 202,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 406,
+    "primaryStats": {
+      "stamina": 103,
+      "strength": 50,
+      "intellect": 93,
+      "agility": 27,
+      "spirit": 46
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Bastion (tank) Bracers",
+    "src": "icons/bracers/bracers-87.png",
+    "monetaryValue": 492,
+    "value": 207,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 407,
+    "primaryStats": {
+      "stamina": 108,
+      "strength": 52,
+      "intellect": 50,
+      "agility": 28,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Pathfinder (hunter) Bracers",
+    "src": "icons/bracers/bracers-88.png",
+    "monetaryValue": 413,
+    "value": 180,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 305,
+    "primaryStats": {
+      "stamina": 49,
+      "strength": 26,
+      "intellect": 52,
+      "agility": 141,
+      "spirit": 49
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Skirmisher (shaman) Bracers",
+    "src": "icons/bracers/bracers-89.png",
+    "monetaryValue": 410,
+    "value": 181,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 303,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 44,
+      "intellect": 29,
+      "agility": 55,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Cutpurse (rogue) Bracers",
+    "src": "icons/bracers/bracers-90.png",
+    "monetaryValue": 346,
+    "value": 151,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 237,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 45,
+      "intellect": 44,
+      "agility": 149,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Cutpurse (druid) Bracers",
+    "src": "icons/bracers/bracers-91.png",
+    "monetaryValue": 350,
+    "value": 156,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 240,
+    "primaryStats": {
+      "stamina": 51,
+      "strength": 26,
+      "intellect": 86,
+      "agility": 62,
+      "spirit": 80
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Sabatuer (monk) Bracers",
+    "src": "icons/bracers/bracers-92.png",
+    "monetaryValue": 343,
+    "value": 150,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 239,
+    "primaryStats": {
+      "stamina": 81,
+      "strength": 45,
+      "intellect": 25,
+      "agility": 81,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Invoker (mage) Bracers",
+    "src": "icons/bracers/bracers-93.png",
+    "monetaryValue": 276,
+    "value": 128,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 175,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 24,
+      "intellect": 146,
+      "agility": 27,
+      "spirit": 86
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Arcanist (priest) Bracers",
+    "src": "icons/bracers/bracers-94.png",
+    "monetaryValue": 274,
+    "value": 126,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 173,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 26,
+      "intellect": 85,
+      "agility": 31,
+      "spirit": 153
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Seer (warlock) Bracers",
+    "src": "icons/bracers/bracers-95.png",
+    "monetaryValue": 270,
+    "value": 127,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 173,
+    "primaryStats": {
+      "stamina": 52,
+      "strength": 28,
+      "intellect": 145,
+      "agility": 29,
+      "spirit": 47
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

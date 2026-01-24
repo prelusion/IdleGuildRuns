@@ -1,0 +1,1346 @@
+[
+  {
+    "quality": "common",
+    "name": "Wayfarer Necklace",
+    "src": "icons/neckless/necklessy-0.png",
+    "monetaryValue": 21,
+    "value": 12,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Amulet",
+    "src": "icons/neckless/necklessy-1.png",
+    "monetaryValue": 20,
+    "value": 10,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 11,
+      "intellect": 1,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Pendant",
+    "src": "icons/neckless/necklessy-2.png",
+    "monetaryValue": 34,
+    "value": 17,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Amulet",
+    "src": "icons/neckless/necklessy-3.png",
+    "monetaryValue": 24,
+    "value": 15,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 14,
+      "intellect": 3,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Amulet",
+    "src": "icons/neckless/necklessy-4.png",
+    "monetaryValue": 39,
+    "value": 24,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Pendant",
+    "src": "icons/neckless/necklessy-5.png",
+    "monetaryValue": 38,
+    "value": 21,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 12,
+      "intellect": 3,
+      "agility": 5,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Amulet",
+    "src": "icons/neckless/necklessy-6.png",
+    "monetaryValue": 59,
+    "value": 27,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 7,
+      "intellect": 3,
+      "agility": 5,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Pendant",
+    "src": "icons/neckless/necklessy-7.png",
+    "monetaryValue": 44,
+    "value": 27,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 21,
+      "intellect": 4,
+      "agility": 8,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Pendant",
+    "src": "icons/neckless/necklessy-8.png",
+    "monetaryValue": 53,
+    "value": 27,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 26,
+      "agility": 4,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Locket",
+    "src": "icons/neckless/necklessy-9.png",
+    "monetaryValue": 62,
+    "value": 26,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 5,
+      "intellect": 6,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Necklace",
+    "src": "icons/neckless/necklessy-10.png",
+    "monetaryValue": 68,
+    "value": 34,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 36,
+      "intellect": 6,
+      "agility": 12,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Necklace",
+    "src": "icons/neckless/necklessy-11.png",
+    "monetaryValue": 66,
+    "value": 41,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 31,
+      "agility": 5,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Amulet",
+    "src": "icons/neckless/necklessy-12.png",
+    "monetaryValue": 70,
+    "value": 32,
+    "primaryStats": {
+      "stamina": 45,
+      "strength": 9,
+      "intellect": 9,
+      "agility": 10,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Pendant",
+    "src": "icons/neckless/necklessy-13.png",
+    "monetaryValue": 69,
+    "value": 41,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 45,
+      "intellect": 7,
+      "agility": 14,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Amulet",
+    "src": "icons/neckless/necklessy-14.png",
+    "monetaryValue": 62,
+    "value": 33,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 7,
+      "intellect": 48,
+      "agility": 9,
+      "spirit": 40
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Pendant",
+    "src": "icons/neckless/necklessy-15.png",
+    "monetaryValue": 76,
+    "value": 52,
+    "primaryStats": {
+      "stamina": 59,
+      "strength": 14,
+      "intellect": 10,
+      "agility": 14,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Locket",
+    "src": "icons/neckless/necklessy-16.png",
+    "monetaryValue": 99,
+    "value": 40,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 67,
+      "intellect": 13,
+      "agility": 22,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Pendant",
+    "src": "icons/neckless/necklessy-17.png",
+    "monetaryValue": 68,
+    "value": 45,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 10,
+      "intellect": 53,
+      "agility": 12,
+      "spirit": 65
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Pendant",
+    "src": "icons/neckless/necklessy-18.png",
+    "monetaryValue": 84,
+    "value": 37,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 11,
+      "intellect": 26,
+      "agility": 50,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Amulet",
+    "src": "icons/neckless/necklessy-19.png",
+    "monetaryValue": 107,
+    "value": 56,
+    "primaryStats": {
+      "stamina": 73,
+      "strength": 16,
+      "intellect": 17,
+      "agility": 17,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Locket",
+    "src": "icons/neckless/necklessy-20.png",
+    "monetaryValue": 77,
+    "value": 53,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 79,
+      "intellect": 17,
+      "agility": 26,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Necklace",
+    "src": "icons/neckless/necklessy-21.png",
+    "monetaryValue": 111,
+    "value": 50,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 18,
+      "intellect": 98,
+      "agility": 15,
+      "spirit": 58
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Necklace",
+    "src": "icons/neckless/necklessy-22.png",
+    "monetaryValue": 103,
+    "value": 62,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 19,
+      "intellect": 38,
+      "agility": 96,
+      "spirit": 37
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Locket",
+    "src": "icons/neckless/necklessy-23.png",
+    "monetaryValue": 100,
+    "value": 46,
+    "primaryStats": {
+      "stamina": 111,
+      "strength": 27,
+      "intellect": 21,
+      "agility": 25,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Necklace",
+    "src": "icons/neckless/necklessy-24.png",
+    "monetaryValue": 85,
+    "value": 56,
+    "primaryStats": {
+      "stamina": 55,
+      "strength": 96,
+      "intellect": 21,
+      "agility": 46,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Necklace",
+    "src": "icons/neckless/necklessy-25.png",
+    "monetaryValue": 100,
+    "value": 44,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 22,
+      "intellect": 110,
+      "agility": 28,
+      "spirit": 139
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Locket",
+    "src": "icons/neckless/necklessy-26.png",
+    "monetaryValue": 93,
+    "value": 58,
+    "primaryStats": {
+      "stamina": 52,
+      "strength": 20,
+      "intellect": 41,
+      "agility": 127,
+      "spirit": 55
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Necklace",
+    "src": "icons/neckless/necklessy-27.png",
+    "monetaryValue": 15,
+    "value": 10,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 8,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Pendant",
+    "src": "icons/neckless/necklessy-28.png",
+    "monetaryValue": 28,
+    "value": 16,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 3,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Necklace",
+    "src": "icons/neckless/necklessy-29.png",
+    "monetaryValue": 38,
+    "value": 28,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 13,
+      "intellect": 3,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Amulet",
+    "src": "icons/neckless/necklessy-30.png",
+    "monetaryValue": 49,
+    "value": 28,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 21,
+      "agility": 4,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Amulet",
+    "src": "icons/neckless/necklessy-31.png",
+    "monetaryValue": 69,
+    "value": 42,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 7,
+      "intellect": 13,
+      "agility": 24,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Necklace",
+    "src": "icons/neckless/necklessy-32.png",
+    "monetaryValue": 65,
+    "value": 49,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 7,
+      "intellect": 10,
+      "agility": 7,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Locket",
+    "src": "icons/neckless/necklessy-33.png",
+    "monetaryValue": 93,
+    "value": 37,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 53,
+      "intellect": 11,
+      "agility": 25,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Necklace",
+    "src": "icons/neckless/necklessy-34.png",
+    "monetaryValue": 77,
+    "value": 39,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 18,
+      "intellect": 97,
+      "agility": 20,
+      "spirit": 73
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Locket",
+    "src": "icons/neckless/necklessy-35.png",
+    "monetaryValue": 106,
+    "value": 51,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 24,
+      "intellect": 42,
+      "agility": 106,
+      "spirit": 82
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Necklace",
+    "src": "icons/neckless/necklessy-36.png",
+    "monetaryValue": 21,
+    "value": 8,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 2,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Locket",
+    "src": "icons/neckless/necklessy-37.png",
+    "monetaryValue": 35,
+    "value": 16,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 16,
+      "intellect": 2,
+      "agility": 11,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Locket",
+    "src": "icons/neckless/necklessy-38.png",
+    "monetaryValue": 37,
+    "value": 28,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 14,
+      "agility": 3,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Amulet",
+    "src": "icons/neckless/necklessy-39.png",
+    "monetaryValue": 44,
+    "value": 21,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 5,
+      "intellect": 9,
+      "agility": 13,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Pendant",
+    "src": "icons/neckless/necklessy-40.png",
+    "monetaryValue": 49,
+    "value": 34,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 11,
+      "intellect": 6,
+      "agility": 7,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Locket",
+    "src": "icons/neckless/necklessy-41.png",
+    "monetaryValue": 57,
+    "value": 31,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 47,
+      "intellect": 10,
+      "agility": 18,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Necklace",
+    "src": "icons/neckless/necklessy-42.png",
+    "monetaryValue": 80,
+    "value": 51,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 11,
+      "intellect": 70,
+      "agility": 13,
+      "spirit": 65
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Necklace",
+    "src": "icons/neckless/necklessy-43.png",
+    "monetaryValue": 75,
+    "value": 39,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 20,
+      "intellect": 28,
+      "agility": 89,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Necklace",
+    "src": "icons/neckless/necklessy-44.png",
+    "monetaryValue": 121,
+    "value": 47,
+    "primaryStats": {
+      "stamina": 126,
+      "strength": 26,
+      "intellect": 27,
+      "agility": 21,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Necklace",
+    "src": "icons/neckless/necklessy-45.png",
+    "monetaryValue": 16,
+    "value": 12,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Locket",
+    "src": "icons/neckless/necklessy-46.png",
+    "monetaryValue": 25,
+    "value": 15,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 3,
+      "intellect": 15,
+      "agility": 2,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Necklace",
+    "src": "icons/neckless/necklessy-47.png",
+    "monetaryValue": 42,
+    "value": 19,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 11,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

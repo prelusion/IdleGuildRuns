@@ -1,0 +1,2978 @@
+[
+  {
+    "quality": "common",
+    "name": "Town Guard Bulwark (warrior) Belt",
+    "src": "icons/belt/belt-0.png",
+    "monetaryValue": 25,
+    "value": 12,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 55,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 10,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Bastion (paladin) Belt",
+    "src": "icons/belt/belt-1.png",
+    "monetaryValue": 36,
+    "value": 14,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 55,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 12,
+      "agility": 1,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Sentinel (tank) Belt",
+    "src": "icons/belt/belt-2.png",
+    "monetaryValue": 32,
+    "value": 10,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 55,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Pathfinder (hunter) Belt",
+    "src": "icons/belt/belt-3.png",
+    "monetaryValue": 29,
+    "value": 11,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 40,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 1,
+      "intellect": 4,
+      "agility": 6,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Huntsman (shaman) Belt",
+    "src": "icons/belt/belt-4.png",
+    "monetaryValue": 21,
+    "value": 16,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 40,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 4,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sabatuer (rogue) Belt",
+    "src": "icons/belt/belt-5.png",
+    "monetaryValue": 18,
+    "value": 12,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 25,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 4,
+      "intellect": 1,
+      "agility": 12,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Cutpurse (druid) Belt",
+    "src": "icons/belt/belt-6.png",
+    "monetaryValue": 19,
+    "value": 10,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 25,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 5,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sage (mage) Belt",
+    "src": "icons/belt/belt-7.png",
+    "monetaryValue": 17,
+    "value": 7,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 10,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 12,
+      "agility": 1,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Invoker (priest) Belt",
+    "src": "icons/belt/belt-8.png",
+    "monetaryValue": 18,
+    "value": 9,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 10,
+    "primaryStats": {
+      "stamina": 1,
+      "strength": 2,
+      "intellect": 4,
+      "agility": 1,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Seer (warlock) Belt",
+    "src": "icons/belt/belt-9.png",
+    "monetaryValue": 15,
+    "value": 8,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 10,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 2,
+      "intellect": 8,
+      "agility": 1,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bulwark (warrior) Belt",
+    "src": "icons/belt/belt-10.png",
+    "monetaryValue": 48,
+    "value": 21,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 80,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 17,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Juggernaut (paladin) Belt",
+    "src": "icons/belt/belt-11.png",
+    "monetaryValue": 42,
+    "value": 14,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 80,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 5,
+      "intellect": 9,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bastion (tank) Belt",
+    "src": "icons/belt/belt-12.png",
+    "monetaryValue": 47,
+    "value": 16,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 80,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 6,
+      "intellect": 5,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (hunter) Belt",
+    "src": "icons/belt/belt-13.png",
+    "monetaryValue": 37,
+    "value": 12,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 4,
+      "agility": 18,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (shaman) Belt",
+    "src": "icons/belt/belt-14.png",
+    "monetaryValue": 37,
+    "value": 14,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 4,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Cutpurse (rogue) Belt",
+    "src": "icons/belt/belt-15.png",
+    "monetaryValue": 31,
+    "value": 11,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 45,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 15,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Shadow (druid) Belt",
+    "src": "icons/belt/belt-16.png",
+    "monetaryValue": 26,
+    "value": 12,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 45,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 12,
+      "agility": 8,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Sage (mage) Belt",
+    "src": "icons/belt/belt-17.png",
+    "monetaryValue": 24,
+    "value": 12,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 30,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 15,
+      "agility": 3,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (priest) Belt",
+    "src": "icons/belt/belt-18.png",
+    "monetaryValue": 24,
+    "value": 10,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 30,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 10,
+      "agility": 4,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (warlock) Belt",
+    "src": "icons/belt/belt-19.png",
+    "monetaryValue": 22,
+    "value": 13,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 30,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 9,
+      "agility": 2,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Bulwark (warrior) Belt",
+    "src": "icons/belt/belt-20.png",
+    "monetaryValue": 48,
+    "value": 20,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 65,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 11,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sentinel (paladin) Belt",
+    "src": "icons/belt/belt-21.png",
+    "monetaryValue": 57,
+    "value": 27,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 65,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 4,
+      "intellect": 9,
+      "agility": 4,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden Sentinel (tank) Belt",
+    "src": "icons/belt/belt-22.png",
+    "monetaryValue": 51,
+    "value": 21,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 65,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 6,
+      "intellect": 10,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Pathfinder (hunter) Belt",
+    "src": "icons/belt/belt-23.png",
+    "monetaryValue": 50,
+    "value": 24,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 8,
+      "agility": 15,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Pathfinder (shaman) Belt",
+    "src": "icons/belt/belt-24.png",
+    "monetaryValue": 50,
+    "value": 20,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 4,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Shadow (rogue) Belt",
+    "src": "icons/belt/belt-25.png",
+    "monetaryValue": 39,
+    "value": 18,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 32,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 16,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Cutpurse (druid) Belt",
+    "src": "icons/belt/belt-26.png",
+    "monetaryValue": 44,
+    "value": 15,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 32,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 3,
+      "intellect": 7,
+      "agility": 5,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (mage) Belt",
+    "src": "icons/belt/belt-27.png",
+    "monetaryValue": 31,
+    "value": 13,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 2,
+      "intellect": 15,
+      "agility": 3,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (priest) Belt",
+    "src": "icons/belt/belt-28.png",
+    "monetaryValue": 34,
+    "value": 16,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 7,
+      "agility": 2,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Seer (warlock) Belt",
+    "src": "icons/belt/belt-29.png",
+    "monetaryValue": 29,
+    "value": 17,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 16,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Sentinel (warrior) Belt",
+    "src": "icons/belt/belt-30.png",
+    "monetaryValue": 74,
+    "value": 34,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 110,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 21,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Bulwark (paladin) Belt",
+    "src": "icons/belt/belt-31.png",
+    "monetaryValue": 82,
+    "value": 35,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 110,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 7,
+      "intellect": 16,
+      "agility": 5,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Bulwark (tank) Belt",
+    "src": "icons/belt/belt-32.png",
+    "monetaryValue": 85,
+    "value": 30,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 110,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 3,
+      "intellect": 8,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Huntsman (hunter) Belt",
+    "src": "icons/belt/belt-33.png",
+    "monetaryValue": 69,
+    "value": 27,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 82,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 3,
+      "intellect": 4,
+      "agility": 23,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Ranger (shaman) Belt",
+    "src": "icons/belt/belt-34.png",
+    "monetaryValue": 74,
+    "value": 27,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 82,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 6,
+      "intellect": 9,
+      "agility": 8,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (rogue) Belt",
+    "src": "icons/belt/belt-35.png",
+    "monetaryValue": 53,
+    "value": 27,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 59,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 6,
+      "intellect": 4,
+      "agility": 23,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (druid) Belt",
+    "src": "icons/belt/belt-36.png",
+    "monetaryValue": 61,
+    "value": 29,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 8,
+      "intellect": 13,
+      "agility": 8,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Shadow (monk) Belt",
+    "src": "icons/belt/belt-37.png",
+    "monetaryValue": 53,
+    "value": 26,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 8,
+      "intellect": 5,
+      "agility": 16,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Invoker (mage) Belt",
+    "src": "icons/belt/belt-38.png",
+    "monetaryValue": 43,
+    "value": 24,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 23,
+      "agility": 5,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Seer (priest) Belt",
+    "src": "icons/belt/belt-39.png",
+    "monetaryValue": 44,
+    "value": 23,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 12,
+      "agility": 5,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Invoker (warlock) Belt",
+    "src": "icons/belt/belt-40.png",
+    "monetaryValue": 41,
+    "value": 20,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 5,
+      "intellect": 22,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Bastion (warrior) Belt",
+    "src": "icons/belt/belt-41.png",
+    "monetaryValue": 118,
+    "value": 46,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 145,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 26,
+      "intellect": 6,
+      "agility": 9,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Bastion (paladin) Belt",
+    "src": "icons/belt/belt-42.png",
+    "monetaryValue": 113,
+    "value": 52,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 145,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 12,
+      "intellect": 19,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Sentinel (tank) Belt",
+    "src": "icons/belt/belt-43.png",
+    "monetaryValue": 111,
+    "value": 53,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 145,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 22,
+      "intellect": 10,
+      "agility": 7,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Skirmisher (hunter) Belt",
+    "src": "icons/belt/belt-44.png",
+    "monetaryValue": 93,
+    "value": 45,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 108,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 7,
+      "intellect": 18,
+      "agility": 27,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Ranger (shaman) Belt",
+    "src": "icons/belt/belt-45.png",
+    "monetaryValue": 103,
+    "value": 41,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 108,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 10,
+      "intellect": 22,
+      "agility": 13,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Sabatuer (rogue) Belt",
+    "src": "icons/belt/belt-46.png",
+    "monetaryValue": 82,
+    "value": 40,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 80,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 12,
+      "intellect": 7,
+      "agility": 28,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Cutpurse (druid) Belt",
+    "src": "icons/belt/belt-47.png",
+    "monetaryValue": 80,
+    "value": 36,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 79,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 6,
+      "intellect": 32,
+      "agility": 13,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Stalker (monk) Belt",
+    "src": "icons/belt/belt-48.png",
+    "monetaryValue": 78,
+    "value": 34,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 79,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 13,
+      "intellect": 5,
+      "agility": 13,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Invoker (mage) Belt",
+    "src": "icons/belt/belt-49.png",
+    "monetaryValue": 66,
+    "value": 32,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 58,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 7,
+      "intellect": 32,
+      "agility": 6,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Arcanist (priest) Belt",
+    "src": "icons/belt/belt-50.png",
+    "monetaryValue": 65,
+    "value": 31,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 58,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 12,
+      "intellect": 21,
+      "agility": 6,
+      "spirit": 32
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Seer (warlock) Belt",
+    "src": "icons/belt/belt-51.png",
+    "monetaryValue": 65,
+    "value": 29,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 58,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 5,
+      "intellect": 29,
+      "agility": 6,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Juggernaut (warrior) Belt",
+    "src": "icons/belt/belt-52.png",
+    "monetaryValue": 166,
+    "value": 65,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 185,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 44,
+      "intellect": 9,
+      "agility": 9,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Bulwark (paladin) Belt",
+    "src": "icons/belt/belt-53.png",
+    "monetaryValue": 160,
+    "value": 71,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 185,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 16,
+      "intellect": 28,
+      "agility": 10,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 2,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Bulwark (tank) Belt",
+    "src": "icons/belt/belt-54.png",
+    "monetaryValue": 168,
+    "value": 67,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 185,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 17,
+      "intellect": 13,
+      "agility": 15,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Skirmisher (hunter) Belt",
+    "src": "icons/belt/belt-55.png",
+    "monetaryValue": 137,
+    "value": 60,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 139,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 9,
+      "intellect": 18,
+      "agility": 44,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Pathfinder (shaman) Belt",
+    "src": "icons/belt/belt-56.png",
+    "monetaryValue": 145,
+    "value": 62,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 139,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 32,
+      "intellect": 10,
+      "agility": 15,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Shadow (rogue) Belt",
+    "src": "icons/belt/belt-57.png",
+    "monetaryValue": 111,
+    "value": 49,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 102,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 13,
+      "intellect": 9,
+      "agility": 47,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Sabatuer (druid) Belt",
+    "src": "icons/belt/belt-58.png",
+    "monetaryValue": 114,
+    "value": 52,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 102,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 16,
+      "intellect": 33,
+      "agility": 29,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Stalker (monk) Belt",
+    "src": "icons/belt/belt-59.png",
+    "monetaryValue": 117,
+    "value": 50,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 101,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 16,
+      "intellect": 15,
+      "agility": 30,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Sage (mage) Belt",
+    "src": "icons/belt/belt-60.png",
+    "monetaryValue": 91,
+    "value": 44,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 75,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 9,
+      "intellect": 37,
+      "agility": 17,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Invoker (priest) Belt",
+    "src": "icons/belt/belt-61.png",
+    "monetaryValue": 88,
+    "value": 45,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 75,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 9,
+      "intellect": 33,
+      "agility": 10,
+      "spirit": 49
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Seer (warlock) Belt",
+    "src": "icons/belt/belt-62.png",
+    "monetaryValue": 91,
+    "value": 42,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 76,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 9,
+      "intellect": 32,
+      "agility": 16,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bastion (warrior) Belt",
+    "src": "icons/belt/belt-63.png",
+    "monetaryValue": 217,
+    "value": 97,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 235,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 57,
+      "intellect": 12,
+      "agility": 14,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bulwark (paladin) Belt",
+    "src": "icons/belt/belt-64.png",
+    "monetaryValue": 223,
+    "value": 92,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 234,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 25,
+      "intellect": 48,
+      "agility": 10,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Bastion (tank) Belt",
+    "src": "icons/belt/belt-65.png",
+    "monetaryValue": 219,
+    "value": 98,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 234,
+    "primaryStats": {
+      "stamina": 69,
+      "strength": 20,
+      "intellect": 20,
+      "agility": 10,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Ranger (hunter) Belt",
+    "src": "icons/belt/belt-66.png",
+    "monetaryValue": 193,
+    "value": 82,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 174,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 10,
+      "intellect": 21,
+      "agility": 67,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Skirmisher (shaman) Belt",
+    "src": "icons/belt/belt-67.png",
+    "monetaryValue": 191,
+    "value": 85,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 174,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 14,
+      "intellect": 24,
+      "agility": 22,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Cutpurse (rogue) Belt",
+    "src": "icons/belt/belt-68.png",
+    "monetaryValue": 163,
+    "value": 74,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 129,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 20,
+      "intellect": 14,
+      "agility": 50,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Sabatuer (druid) Belt",
+    "src": "icons/belt/belt-69.png",
+    "monetaryValue": 161,
+    "value": 69,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 131,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 13,
+      "intellect": 61,
+      "agility": 19,
+      "spirit": 48
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Sabatuer (monk) Belt",
+    "src": "icons/belt/belt-70.png",
+    "monetaryValue": 158,
+    "value": 69,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 131,
+    "primaryStats": {
+      "stamina": 48,
+      "strength": 35,
+      "intellect": 12,
+      "agility": 48,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Arcanist (mage) Belt",
+    "src": "icons/belt/belt-71.png",
+    "monetaryValue": 124,
+    "value": 56,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 95,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 11,
+      "intellect": 50,
+      "agility": 19,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Invoker (priest) Belt",
+    "src": "icons/belt/belt-72.png",
+    "monetaryValue": 126,
+    "value": 57,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 96,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 13,
+      "intellect": 66,
+      "agility": 13,
+      "spirit": 55
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Invoker (warlock) Belt",
+    "src": "icons/belt/belt-73.png",
+    "monetaryValue": 124,
+    "value": 59,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 94,
+    "primaryStats": {
+      "stamina": 45,
+      "strength": 11,
+      "intellect": 68,
+      "agility": 13,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Bastion (warrior) Belt",
+    "src": "icons/belt/belt-74.png",
+    "monetaryValue": 312,
+    "value": 136,
+    "rank": "master",
+    "type": "plate",
+    "armor": 295,
+    "primaryStats": {
+      "stamina": 65,
+      "strength": 77,
+      "intellect": 15,
+      "agility": 38,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sentinel (paladin) Belt",
+    "src": "icons/belt/belt-75.png",
+    "monetaryValue": 313,
+    "value": 131,
+    "rank": "master",
+    "type": "plate",
+    "armor": 295,
+    "primaryStats": {
+      "stamina": 53,
+      "strength": 16,
+      "intellect": 66,
+      "agility": 18,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Juggernaut (tank) Belt",
+    "src": "icons/belt/belt-76.png",
+    "monetaryValue": 324,
+    "value": 136,
+    "rank": "master",
+    "type": "plate",
+    "armor": 295,
+    "primaryStats": {
+      "stamina": 74,
+      "strength": 36,
+      "intellect": 30,
+      "agility": 18,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Skirmisher (hunter) Belt",
+    "src": "icons/belt/belt-77.png",
+    "monetaryValue": 268,
+    "value": 114,
+    "rank": "master",
+    "type": "mail",
+    "armor": 220,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 18,
+      "intellect": 31,
+      "agility": 75,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Ranger (shaman) Belt",
+    "src": "icons/belt/belt-78.png",
+    "monetaryValue": 271,
+    "value": 119,
+    "rank": "master",
+    "type": "mail",
+    "armor": 220,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 29,
+      "intellect": 33,
+      "agility": 35,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Cutpurse (rogue) Belt",
+    "src": "icons/belt/belt-79.png",
+    "monetaryValue": 228,
+    "value": 99,
+    "rank": "master",
+    "type": "leather",
+    "armor": 165,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 51,
+      "intellect": 38,
+      "agility": 80,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Stalker (druid) Belt",
+    "src": "icons/belt/belt-80.png",
+    "monetaryValue": 228,
+    "value": 101,
+    "rank": "master",
+    "type": "leather",
+    "armor": 163,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 14,
+      "intellect": 67,
+      "agility": 57,
+      "spirit": 60
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Cutpurse (monk) Belt",
+    "src": "icons/belt/belt-81.png",
+    "monetaryValue": 223,
+    "value": 101,
+    "rank": "master",
+    "type": "leather",
+    "armor": 166,
+    "primaryStats": {
+      "stamina": 59,
+      "strength": 37,
+      "intellect": 18,
+      "agility": 52,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Sage (mage) Belt",
+    "src": "icons/belt/belt-82.png",
+    "monetaryValue": 177,
+    "value": 81,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 119,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 16,
+      "intellect": 82,
+      "agility": 14,
+      "spirit": 64
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Invoker (priest) Belt",
+    "src": "icons/belt/belt-83.png",
+    "monetaryValue": 182,
+    "value": 86,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 119,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 34,
+      "intellect": 62,
+      "agility": 14,
+      "spirit": 75
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sage (warlock) Belt",
+    "src": "icons/belt/belt-84.png",
+    "monetaryValue": 181,
+    "value": 81,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 119,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 18,
+      "intellect": 92,
+      "agility": 17,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Sentinel (warrior) Belt",
+    "src": "icons/belt/belt-85.png",
+    "monetaryValue": 494,
+    "value": 202,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 379,
+    "primaryStats": {
+      "stamina": 82,
+      "strength": 136,
+      "intellect": 25,
+      "agility": 26,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Bastion (paladin) Belt",
+    "src": "icons/belt/belt-86.png",
+    "monetaryValue": 491,
+    "value": 206,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 382,
+    "primaryStats": {
+      "stamina": 91,
+      "strength": 44,
+      "intellect": 82,
+      "agility": 24,
+      "spirit": 41
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Bastion (tank) Belt",
+    "src": "icons/belt/belt-87.png",
+    "monetaryValue": 484,
+    "value": 200,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 379,
+    "primaryStats": {
+      "stamina": 96,
+      "strength": 46,
+      "intellect": 44,
+      "agility": 25,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Pathfinder (hunter) Belt",
+    "src": "icons/belt/belt-88.png",
+    "monetaryValue": 421,
+    "value": 179,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 281,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 23,
+      "intellect": 46,
+      "agility": 125,
+      "spirit": 43
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Skirmisher (shaman) Belt",
+    "src": "icons/belt/belt-89.png",
+    "monetaryValue": 415,
+    "value": 182,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 279,
+    "primaryStats": {
+      "stamina": 48,
+      "strength": 39,
+      "intellect": 26,
+      "agility": 49,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Cutpurse (rogue) Belt",
+    "src": "icons/belt/belt-90.png",
+    "monetaryValue": 345,
+    "value": 154,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 210,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 40,
+      "intellect": 39,
+      "agility": 132,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Cutpurse (druid) Belt",
+    "src": "icons/belt/belt-91.png",
+    "monetaryValue": 342,
+    "value": 155,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 210,
+    "primaryStats": {
+      "stamina": 45,
+      "strength": 23,
+      "intellect": 76,
+      "agility": 55,
+      "spirit": 71
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Sabatuer (monk) Belt",
+    "src": "icons/belt/belt-92.png",
+    "monetaryValue": 350,
+    "value": 154,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 211,
+    "primaryStats": {
+      "stamina": 72,
+      "strength": 40,
+      "intellect": 22,
+      "agility": 72,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Invoker (mage) Belt",
+    "src": "icons/belt/belt-93.png",
+    "monetaryValue": 274,
+    "value": 130,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 152,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 21,
+      "intellect": 129,
+      "agility": 24,
+      "spirit": 76
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Arcanist (priest) Belt",
+    "src": "icons/belt/belt-94.png",
+    "monetaryValue": 277,
+    "value": 130,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 150,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 23,
+      "intellect": 75,
+      "agility": 27,
+      "spirit": 135
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Seer (warlock) Belt",
+    "src": "icons/belt/belt-95.png",
+    "monetaryValue": 278,
+    "value": 125,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 150,
+    "primaryStats": {
+      "stamina": 46,
+      "strength": 25,
+      "intellect": 128,
+      "agility": 26,
+      "spirit": 42
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,8338 @@
+{
+  "scene": "TownScene",
+  "tileSize": 128,
+  "width": 40,
+  "height": 40,
+  "ground": [
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_6",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_6",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_6",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_5",
+        "rotation": 270
+      },
+      {
+        "key": "path_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "path_3_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_4",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_6",
+        "rotation": 270
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_4",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_3",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_3",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_3",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_3",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_3",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_5",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_4",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 270
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_3",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "path_4_1",
+        "rotation": 270
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_6",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_3",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_3",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_3",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_3",
+        "rotation": 270
+      },
+      {
+        "key": "path_3_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_3",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_5",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_4_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_4_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_5_4",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 90
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_2_5",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 270
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_5_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "path_7_0",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_1",
+        "rotation": 180
+      },
+      {
+        "key": "path_4_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_3_7",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 90
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_7_2",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_4",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ],
+    [
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_1_6",
+        "rotation": 180
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "path_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "path_1_6",
+        "rotation": 90
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "path_0_7",
+        "rotation": 180
+      }
+    ]
+  ],
+  "objects": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ]
+}

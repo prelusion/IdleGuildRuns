@@ -1,0 +1,2522 @@
+[
+  {
+    "quality": "common",
+    "name": "Old Road Buckler",
+    "src": "icons/shield/shield-0.png",
+    "monetaryValue": 24,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 3,
+    "parry": 2,
+    "block": 1,
+    "range": 1,
+    "armor": 12,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 3,
+      "intellect": 1,
+      "agility": 1,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Kite Shield",
+    "src": "icons/shield/shield-1.png",
+    "monetaryValue": 22,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 4,
+    "parry": 0,
+    "block": 4,
+    "range": 1,
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 11,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Tower Shield",
+    "src": "icons/shield/shield-2.png",
+    "monetaryValue": 24,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 2,
+    "toDamage": 3,
+    "parry": 1,
+    "block": 3,
+    "range": 4,
+    "armor": 12,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 1,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Buckler",
+    "src": "icons/shield/shield-3.png",
+    "monetaryValue": 36,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 4,
+    "parry": 0,
+    "block": 4,
+    "range": 1,
+    "armor": 10,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Buckler",
+    "src": "icons/shield/shield-4.png",
+    "monetaryValue": 39,
+    "value": 18,
+    "rank": "silver",
+    "fromDamage": 3,
+    "toDamage": 5,
+    "parry": 2,
+    "block": 5,
+    "range": 1,
+    "armor": 11,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 4,
+      "intellect": 12,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Buckler",
+    "src": "icons/shield/shield-5.png",
+    "monetaryValue": 28,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 4,
+    "parry": 1,
+    "block": 4,
+    "range": 4,
+    "armor": 16,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Wardshield",
+    "src": "icons/shield/shield-6.png",
+    "monetaryValue": 40,
+    "value": 27,
+    "rank": "iron",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 1,
+    "block": 2,
+    "range": 1,
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Buckler",
+    "src": "icons/shield/shield-7.png",
+    "monetaryValue": 40,
+    "value": 20,
+    "rank": "iron",
+    "fromDamage": 3,
+    "toDamage": 4,
+    "parry": 0,
+    "block": 7,
+    "range": 1,
+    "armor": 21,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 3,
+      "intellect": 8,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Wardshield",
+    "src": "icons/shield/shield-8.png",
+    "monetaryValue": 42,
+    "value": 26,
+    "rank": "iron",
+    "fromDamage": 3,
+    "toDamage": 5,
+    "parry": 2,
+    "block": 4,
+    "range": 4,
+    "armor": 29,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 2,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Buckler",
+    "src": "icons/shield/shield-9.png",
+    "monetaryValue": 53,
+    "value": 29,
+    "rank": "gold",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 3,
+    "block": 4,
+    "range": 1,
+    "armor": 23,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Wardshield",
+    "src": "icons/shield/shield-10.png",
+    "monetaryValue": 48,
+    "value": 31,
+    "rank": "gold",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 5,
+    "block": 3,
+    "range": 1,
+    "armor": 21,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 9,
+      "intellect": 16,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Kite Shield",
+    "src": "icons/shield/shield-11.png",
+    "monetaryValue": 55,
+    "value": 29,
+    "rank": "gold",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 2,
+    "block": 6,
+    "range": 4,
+    "armor": 27,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 8,
+      "intellect": 6,
+      "agility": 5,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Wardshield",
+    "src": "icons/shield/shield-12.png",
+    "monetaryValue": 68,
+    "value": 40,
+    "rank": "platinum",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 6,
+    "range": 1,
+    "armor": 29,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 9,
+      "intellect": 7,
+      "agility": 7,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 2,
+        "poisonResistance": 0,
+        "stunResistance": 1
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Wardshield",
+    "src": "icons/shield/shield-13.png",
+    "monetaryValue": 63,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 11,
+    "toDamage": 12,
+    "parry": 5,
+    "block": 9,
+    "range": 1,
+    "armor": 51,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 12,
+      "intellect": 23,
+      "agility": 6,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 1
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Buckler",
+    "src": "icons/shield/shield-14.png",
+    "monetaryValue": 74,
+    "value": 48,
+    "rank": "platinum",
+    "fromDamage": 3,
+    "toDamage": 6,
+    "parry": 3,
+    "block": 7,
+    "range": 4,
+    "armor": 54,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 9,
+      "intellect": 13,
+      "agility": 5,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 1,
+        "arcaneResistance": 1,
+        "shadowResistance": 1,
+        "poisonResistance": 0,
+        "stunResistance": 8
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Buckler",
+    "src": "icons/shield/shield-15.png",
+    "monetaryValue": 102,
+    "value": 45,
+    "rank": "emerald",
+    "fromDamage": 10,
+    "toDamage": 10,
+    "parry": 7,
+    "block": 11,
+    "range": 1,
+    "armor": 35,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 13,
+      "intellect": 8,
+      "agility": 10,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 4,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 1,
+        "arcaneResistance": 1,
+        "shadowResistance": 1,
+        "poisonResistance": 2,
+        "stunResistance": 1
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Tower Shield",
+    "src": "icons/shield/shield-16.png",
+    "monetaryValue": 76,
+    "value": 46,
+    "rank": "emerald",
+    "fromDamage": 10,
+    "toDamage": 15,
+    "parry": 7,
+    "block": 4,
+    "range": 1,
+    "armor": 44,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 13,
+      "intellect": 30,
+      "agility": 8,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 1,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Tower Shield",
+    "src": "icons/shield/shield-17.png",
+    "monetaryValue": 76,
+    "value": 56,
+    "rank": "emerald",
+    "fromDamage": 8,
+    "toDamage": 11,
+    "parry": 4,
+    "block": 11,
+    "range": 4,
+    "armor": 43,
+    "primaryStats": {
+      "stamina": 48,
+      "strength": 16,
+      "intellect": 18,
+      "agility": 8,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 2,
+        "arcaneResistance": 3,
+        "shadowResistance": 2,
+        "poisonResistance": 1,
+        "stunResistance": 4
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Tower Shield",
+    "src": "icons/shield/shield-18.png",
+    "monetaryValue": 132,
+    "value": 53,
+    "rank": "diamond",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 4,
+    "block": 5,
+    "range": 1,
+    "armor": 41,
+    "primaryStats": {
+      "stamina": 67,
+      "strength": 23,
+      "intellect": 10,
+      "agility": 10,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 5,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 2,
+        "arcaneResistance": 0,
+        "shadowResistance": 1,
+        "poisonResistance": 3,
+        "stunResistance": 1
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Tower Shield",
+    "src": "icons/shield/shield-19.png",
+    "monetaryValue": 117,
+    "value": 76,
+    "rank": "diamond",
+    "fromDamage": 17,
+    "toDamage": 20,
+    "parry": 1,
+    "block": 14,
+    "range": 1,
+    "armor": 56,
+    "primaryStats": {
+      "stamina": 57,
+      "strength": 26,
+      "intellect": 41,
+      "agility": 12,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 3,
+        "arcaneResistance": 1,
+        "shadowResistance": 1,
+        "poisonResistance": 0,
+        "stunResistance": 2
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Wardshield",
+    "src": "icons/shield/shield-20.png",
+    "monetaryValue": 118,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 14,
+    "toDamage": 14,
+    "parry": 3,
+    "block": 13,
+    "range": 4,
+    "armor": 63,
+    "primaryStats": {
+      "stamina": 57,
+      "strength": 21,
+      "intellect": 26,
+      "agility": 12,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 0,
+        "arcaneResistance": 4,
+        "shadowResistance": 1,
+        "poisonResistance": 2,
+        "stunResistance": 7
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Kite Shield",
+    "src": "icons/shield/shield-21.png",
+    "monetaryValue": 142,
+    "value": 106,
+    "rank": "master",
+    "fromDamage": 17,
+    "toDamage": 17,
+    "parry": 3,
+    "block": 20,
+    "range": 1,
+    "armor": 65,
+    "primaryStats": {
+      "stamina": 97,
+      "strength": 30,
+      "intellect": 16,
+      "agility": 18,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 6,
+      "haste": 7,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 3,
+        "frostResistance": 2,
+        "arcaneResistance": 2,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 2
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Tower Shield",
+    "src": "icons/shield/shield-22.png",
+    "monetaryValue": 193,
+    "value": 101,
+    "rank": "master",
+    "fromDamage": 15,
+    "toDamage": 20,
+    "parry": 2,
+    "block": 14,
+    "range": 1,
+    "armor": 127,
+    "primaryStats": {
+      "stamina": 48,
+      "strength": 52,
+      "intellect": 57,
+      "agility": 18,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 1,
+        "arcaneResistance": 2,
+        "shadowResistance": 2,
+        "poisonResistance": 4,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Wardshield",
+    "src": "icons/shield/shield-23.png",
+    "monetaryValue": 192,
+    "value": 102,
+    "rank": "master",
+    "fromDamage": 20,
+    "toDamage": 20,
+    "parry": 2,
+    "block": 17,
+    "range": 4,
+    "armor": 79,
+    "primaryStats": {
+      "stamina": 73,
+      "strength": 31,
+      "intellect": 37,
+      "agility": 18,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 6,
+        "arcaneResistance": 5,
+        "shadowResistance": 2,
+        "poisonResistance": 4,
+        "stunResistance": 5
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Wardshield",
+    "src": "icons/shield/shield-24.png",
+    "monetaryValue": 248,
+    "value": 122,
+    "rank": "demon",
+    "fromDamage": 21,
+    "toDamage": 24,
+    "parry": 13,
+    "block": 23,
+    "range": 1,
+    "armor": 104,
+    "primaryStats": {
+      "stamina": 139,
+      "strength": 45,
+      "intellect": 49,
+      "agility": 28,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 8,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 6,
+        "arcaneResistance": 3,
+        "shadowResistance": 4,
+        "poisonResistance": 1,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Kite Shield",
+    "src": "icons/shield/shield-25.png",
+    "monetaryValue": 270,
+    "value": 99,
+    "rank": "demon",
+    "fromDamage": 21,
+    "toDamage": 35,
+    "parry": 10,
+    "block": 17,
+    "range": 1,
+    "armor": 111,
+    "primaryStats": {
+      "stamina": 75,
+      "strength": 47,
+      "intellect": 49,
+      "agility": 26,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 5,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 3,
+        "frostResistance": 0,
+        "arcaneResistance": 1,
+        "shadowResistance": 1,
+        "poisonResistance": 1,
+        "stunResistance": 4
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Tower Shield",
+    "src": "icons/shield/shield-26.png",
+    "monetaryValue": 258,
+    "value": 108,
+    "rank": "demon",
+    "fromDamage": 22,
+    "toDamage": 23,
+    "parry": 8,
+    "block": 26,
+    "range": 4,
+    "armor": 104,
+    "primaryStats": {
+      "stamina": 133,
+      "strength": 92,
+      "intellect": 47,
+      "agility": 20,
+      "spirit": 40
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 10,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 5,
+        "frostResistance": 3,
+        "arcaneResistance": 4,
+        "shadowResistance": 3,
+        "poisonResistance": 3,
+        "stunResistance": 7
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Buckler",
+    "src": "icons/shield/shield-27.png",
+    "monetaryValue": 27,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 3,
+    "parry": 0,
+    "block": 1,
+    "range": 1,
+    "armor": 12,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 3,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Tower Shield",
+    "src": "icons/shield/shield-28.png",
+    "monetaryValue": 34,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 4,
+    "parry": 2,
+    "block": 2,
+    "range": 1,
+    "armor": 19,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 4,
+      "intellect": 8,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Kite Shield",
+    "src": "icons/shield/shield-29.png",
+    "monetaryValue": 42,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 4,
+    "toDamage": 5,
+    "parry": 2,
+    "block": 4,
+    "range": 4,
+    "armor": 30,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Wardshield",
+    "src": "icons/shield/shield-30.png",
+    "monetaryValue": 65,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 3,
+    "block": 2,
+    "range": 1,
+    "armor": 15,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 8,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Wardshield",
+    "src": "icons/shield/shield-31.png",
+    "monetaryValue": 73,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 7,
+    "toDamage": 12,
+    "parry": 2,
+    "block": 11,
+    "range": 1,
+    "armor": 39,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 10,
+      "intellect": 17,
+      "agility": 10,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 1,
+        "poisonResistance": 1,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Wardshield",
+    "src": "icons/shield/shield-32.png",
+    "monetaryValue": 83,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 6,
+    "toDamage": 10,
+    "parry": 2,
+    "block": 9,
+    "range": 4,
+    "armor": 61,
+    "primaryStats": {
+      "stamina": 44,
+      "strength": 14,
+      "intellect": 8,
+      "agility": 7,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 1,
+        "arcaneResistance": 1,
+        "shadowResistance": 4,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Buckler",
+    "src": "icons/shield/shield-33.png",
+    "monetaryValue": 111,
+    "value": 68,
+    "rank": "diamond",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 2,
+    "block": 12,
+    "range": 1,
+    "armor": 36,
+    "primaryStats": {
+      "stamina": 67,
+      "strength": 20,
+      "intellect": 14,
+      "agility": 22,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 0,
+        "arcaneResistance": 1,
+        "shadowResistance": 1,
+        "poisonResistance": 2,
+        "stunResistance": 1
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Kite Shield",
+    "src": "icons/shield/shield-34.png",
+    "monetaryValue": 180,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 19,
+    "toDamage": 26,
+    "parry": 13,
+    "block": 7,
+    "range": 1,
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 50,
+      "strength": 26,
+      "intellect": 48,
+      "agility": 16,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 2,
+        "arcaneResistance": 2,
+        "shadowResistance": 2,
+        "poisonResistance": 3,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Wardshield",
+    "src": "icons/shield/shield-35.png",
+    "monetaryValue": 269,
+    "value": 112,
+    "rank": "demon",
+    "fromDamage": 23,
+    "toDamage": 24,
+    "parry": 9,
+    "block": 27,
+    "range": 4,
+    "armor": 126,
+    "primaryStats": {
+      "stamina": 129,
+      "strength": 21,
+      "intellect": 49,
+      "agility": 25,
+      "spirit": 52
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 5,
+        "frostResistance": 1,
+        "arcaneResistance": 8,
+        "shadowResistance": 4,
+        "poisonResistance": 4,
+        "stunResistance": 8
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Buckler",
+    "src": "icons/shield/shield-36.png",
+    "monetaryValue": 20,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 3,
+    "parry": 0,
+    "block": 2,
+    "range": 1,
+    "armor": 11,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Wardshield",
+    "src": "icons/shield/shield-37.png",
+    "monetaryValue": 36,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 5,
+    "parry": 1,
+    "block": 2,
+    "range": 1,
+    "armor": 12,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 2,
+      "intellect": 18,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Wardshield",
+    "src": "icons/shield/shield-38.png",
+    "monetaryValue": 49,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 3,
+    "toDamage": 4,
+    "parry": 1,
+    "block": 4,
+    "range": 4,
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Wardshield",
+    "src": "icons/shield/shield-39.png",
+    "monetaryValue": 62,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 7,
+    "range": 1,
+    "armor": 24,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 9,
+      "intellect": 4,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Tower Shield",
+    "src": "icons/shield/shield-40.png",
+    "monetaryValue": 79,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 7,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 3,
+    "range": 1,
+    "armor": 46,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 10,
+      "intellect": 17,
+      "agility": 7,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 0,
+        "arcaneResistance": 1,
+        "shadowResistance": 1,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Buckler",
+    "src": "icons/shield/shield-41.png",
+    "monetaryValue": 81,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 10,
+    "range": 4,
+    "armor": 59,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 15,
+      "intellect": 14,
+      "agility": 8,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 3,
+        "frostResistance": 1,
+        "arcaneResistance": 1,
+        "shadowResistance": 1,
+        "poisonResistance": 4,
+        "stunResistance": 4
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Tower Shield",
+    "src": "icons/shield/shield-42.png",
+    "monetaryValue": 139,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 11,
+    "toDamage": 14,
+    "parry": 15,
+    "block": 13,
+    "range": 1,
+    "armor": 33,
+    "primaryStats": {
+      "stamina": 52,
+      "strength": 23,
+      "intellect": 12,
+      "agility": 14,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 0,
+        "arcaneResistance": 1,
+        "shadowResistance": 3,
+        "poisonResistance": 4,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Kite Shield",
+    "src": "icons/shield/shield-43.png",
+    "monetaryValue": 197,
+    "value": 107,
+    "rank": "master",
+    "fromDamage": 18,
+    "toDamage": 27,
+    "parry": 13,
+    "block": 7,
+    "range": 1,
+    "armor": 90,
+    "primaryStats": {
+      "stamina": 77,
+      "strength": 35,
+      "intellect": 53,
+      "agility": 20,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 11,
+      "speed": 7,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 2,
+        "arcaneResistance": 2,
+        "shadowResistance": 2,
+        "poisonResistance": 4,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Kite Shield",
+    "src": "icons/shield/shield-44.png",
+    "monetaryValue": 276,
+    "value": 116,
+    "rank": "demon",
+    "fromDamage": 27,
+    "toDamage": 29,
+    "parry": 4,
+    "block": 23,
+    "range": 4,
+    "armor": 167,
+    "primaryStats": {
+      "stamina": 102,
+      "strength": 48,
+      "intellect": 44,
+      "agility": 27,
+      "spirit": 53
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 6,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 3,
+        "frostResistance": 1,
+        "arcaneResistance": 8,
+        "shadowResistance": 6,
+        "poisonResistance": 4,
+        "stunResistance": 8
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Wardshield",
+    "src": "icons/shield/shield-45.png",
+    "monetaryValue": 20,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 3,
+    "parry": 0,
+    "block": 1,
+    "range": 1,
+    "armor": 7,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 3,
+      "intellect": 1,
+      "agility": 1,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Kite Shield",
+    "src": "icons/shield/shield-46.png",
+    "monetaryValue": 35,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 5,
+    "parry": 1,
+    "block": 5,
+    "range": 1,
+    "armor": 14,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Buckler",
+    "src": "icons/shield/shield-47.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 4,
+    "toDamage": 5,
+    "parry": 1,
+    "block": 5,
+    "range": 4,
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Wardshield",
+    "src": "icons/shield/shield-48.png",
+    "monetaryValue": 61,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 7,
+    "block": 5,
+    "range": 1,
+    "armor": 14,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 7,
+      "intellect": 5,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Kite Shield",
+    "src": "icons/shield/shield-49.png",
+    "monetaryValue": 60,
+    "value": 46,
+    "rank": "platinum",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 4,
+    "block": 4,
+    "range": 1,
+    "armor": 59,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 11,
+      "intellect": 20,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 2,
+        "arcaneResistance": 1,
+        "shadowResistance": 3,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Wardshield",
+    "src": "icons/shield/shield-50.png",
+    "monetaryValue": 105,
+    "value": 48,
+    "rank": "emerald",
+    "fromDamage": 4,
+    "toDamage": 6,
+    "parry": 3,
+    "block": 8,
+    "range": 4,
+    "armor": 49,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 14,
+      "intellect": 16,
+      "agility": 9,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 3,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 1,
+        "stunResistance": 6
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Wardshield",
+    "src": "icons/shield/shield-51.png",
+    "monetaryValue": 114,
+    "value": 70,
+    "rank": "diamond",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 15,
+    "block": 12,
+    "range": 1,
+    "armor": 38,
+    "primaryStats": {
+      "stamina": 51,
+      "strength": 21,
+      "intellect": 14,
+      "agility": 20,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 1,
+        "arcaneResistance": 1,
+        "shadowResistance": 4,
+        "poisonResistance": 0,
+        "stunResistance": 1
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Buckler",
+    "src": "icons/shield/shield-52.png",
+    "monetaryValue": 182,
+    "value": 80,
+    "rank": "master",
+    "fromDamage": 22,
+    "toDamage": 25,
+    "parry": 13,
+    "block": 9,
+    "range": 1,
+    "armor": 94,
+    "primaryStats": {
+      "stamina": 58,
+      "strength": 35,
+      "intellect": 63,
+      "agility": 19,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 5,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 3,
+        "frostResistance": 4,
+        "arcaneResistance": 1,
+        "shadowResistance": 2,
+        "poisonResistance": 3,
+        "stunResistance": 1
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Kite Shield",
+    "src": "icons/shield/shield-53.png",
+    "monetaryValue": 222,
+    "value": 126,
+    "rank": "demon",
+    "fromDamage": 18,
+    "toDamage": 21,
+    "parry": 9,
+    "block": 19,
+    "range": 4,
+    "armor": 118,
+    "primaryStats": {
+      "stamina": 105,
+      "strength": 55,
+      "intellect": 40,
+      "agility": 26,
+      "spirit": 41
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 4,
+        "frostResistance": 3,
+        "arcaneResistance": 3,
+        "shadowResistance": 3,
+        "poisonResistance": 4,
+        "stunResistance": 8
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Kite Shield",
+    "src": "icons/shield/shield-54.png",
+    "monetaryValue": 23,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 3,
+    "parry": 2,
+    "block": 3,
+    "range": 1,
+    "armor": 8,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 1,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Wardshield",
+    "src": "icons/shield/shield-55.png",
+    "monetaryValue": 37,
+    "value": 22,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 1,
+    "block": 2,
+    "range": 1,
+    "armor": 26,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 9,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Buckler",
+    "src": "icons/shield/shield-56.png",
+    "monetaryValue": 46,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 2,
+    "block": 4,
+    "range": 4,
+    "armor": 21,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 4,
+      "intellect": 6,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Tower Shield",
+    "src": "icons/shield/shield-57.png",
+    "monetaryValue": 58,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 3,
+    "block": 4,
+    "range": 1,
+    "armor": 19,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 7,
+      "intellect": 3,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Buckler",
+    "src": "icons/shield/shield-58.png",
+    "monetaryValue": 67,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 3,
+    "block": 6,
+    "range": 1,
+    "armor": 24,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 13,
+      "intellect": 18,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 3,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 0,
+        "arcaneResistance": 1,
+        "shadowResistance": 0,
+        "poisonResistance": 1,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Tower Shield",
+    "src": "icons/shield/shield-59.png",
+    "monetaryValue": 103,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 5,
+    "toDamage": 10,
+    "parry": 4,
+    "block": 8,
+    "range": 4,
+    "armor": 40,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 24,
+      "intellect": 16,
+      "agility": 8,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 3,
+        "frostResistance": 0,
+        "arcaneResistance": 1,
+        "shadowResistance": 1,
+        "poisonResistance": 2,
+        "stunResistance": 4
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Buckler",
+    "src": "icons/shield/shield-60.png",
+    "monetaryValue": 100,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 3,
+    "block": 7,
+    "range": 1,
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 68,
+      "strength": 20,
+      "intellect": 10,
+      "agility": 24,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 3,
+        "frostResistance": 0,
+        "arcaneResistance": 2,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Tower Shield",
+    "src": "icons/shield/shield-61.png",
+    "monetaryValue": 167,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 18,
+    "toDamage": 27,
+    "parry": 12,
+    "block": 24,
+    "range": 1,
+    "armor": 86,
+    "primaryStats": {
+      "stamina": 60,
+      "strength": 36,
+      "intellect": 58,
+      "agility": 19,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 5,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 4,
+        "arcaneResistance": 0,
+        "shadowResistance": 2,
+        "poisonResistance": 3,
+        "stunResistance": 1
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Kite Shield",
+    "src": "icons/shield/shield-62.png",
+    "monetaryValue": 268,
+    "value": 115,
+    "rank": "demon",
+    "fromDamage": 26,
+    "toDamage": 26,
+    "parry": 3,
+    "block": 29,
+    "range": 4,
+    "armor": 137,
+    "primaryStats": {
+      "stamina": 139,
+      "strength": 46,
+      "intellect": 38,
+      "agility": 22,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 7,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 6,
+        "frostResistance": 8,
+        "arcaneResistance": 0,
+        "shadowResistance": 3,
+        "poisonResistance": 1,
+        "stunResistance": 7
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Tower Shield",
+    "src": "icons/shield/shield-63.png",
+    "monetaryValue": 23,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 3,
+    "parry": 3,
+    "block": 1,
+    "range": 1,
+    "armor": 11,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 1,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Buckler",
+    "src": "icons/shield/shield-64.png",
+    "monetaryValue": 37,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 3,
+    "toDamage": 4,
+    "parry": 3,
+    "block": 1,
+    "range": 1,
+    "armor": 16,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 4,
+      "intellect": 12,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Kite Shield",
+    "src": "icons/shield/shield-65.png",
+    "monetaryValue": 47,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 3,
+    "toDamage": 5,
+    "parry": 0,
+    "block": 5,
+    "range": 4,
+    "armor": 26,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 6,
+      "intellect": 6,
+      "agility": 6,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 3
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Tower Shield",
+    "src": "icons/shield/shield-66.png",
+    "monetaryValue": 68,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 5,
+    "block": 6,
+    "range": 1,
+    "armor": 18,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 6,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Tower Shield",
+    "src": "icons/shield/shield-67.png",
+    "monetaryValue": 75,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 9,
+    "toDamage": 10,
+    "parry": 6,
+    "block": 5,
+    "range": 1,
+    "armor": 31,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 12,
+      "intellect": 21,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 2,
+        "shadowResistance": 1,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Wardshield",
+    "src": "icons/shield/shield-68.png",
+    "monetaryValue": 108,
+    "value": 49,
+    "rank": "emerald",
+    "fromDamage": 9,
+    "toDamage": 11,
+    "parry": 4,
+    "block": 11,
+    "range": 4,
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 45,
+      "strength": 17,
+      "intellect": 16,
+      "agility": 10,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 1,
+        "frostResistance": 2,
+        "arcaneResistance": 1,
+        "shadowResistance": 0,
+        "poisonResistance": 3,
+        "stunResistance": 7
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Tower Shield",
+    "src": "icons/shield/shield-69.png",
+    "monetaryValue": 137,
+    "value": 54,
+    "rank": "diamond",
+    "fromDamage": 14,
+    "toDamage": 15,
+    "parry": 13,
+    "block": 15,
+    "range": 1,
+    "armor": 35,
+    "primaryStats": {
+      "stamina": 52,
+      "strength": 25,
+      "intellect": 14,
+      "agility": 14,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 2,
+        "arcaneResistance": 1,
+        "shadowResistance": 2,
+        "poisonResistance": 2,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Buckler",
+    "src": "icons/shield/shield-70.png",
+    "monetaryValue": 194,
+    "value": 68,
+    "rank": "master",
+    "fromDamage": 24,
+    "toDamage": 27,
+    "parry": 4,
+    "block": 8,
+    "range": 1,
+    "armor": 128,
+    "primaryStats": {
+      "stamina": 61,
+      "strength": 27,
+      "intellect": 56,
+      "agility": 18,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 3,
+        "frostResistance": 1,
+        "arcaneResistance": 5,
+        "shadowResistance": 2,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Wardshield",
+    "src": "icons/shield/shield-71.png",
+    "monetaryValue": 203,
+    "value": 134,
+    "rank": "demon",
+    "fromDamage": 26,
+    "toDamage": 27,
+    "parry": 4,
+    "block": 20,
+    "range": 4,
+    "armor": 131,
+    "primaryStats": {
+      "stamina": 110,
+      "strength": 55,
+      "intellect": 39,
+      "agility": 21,
+      "spirit": 44
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 10,
+      "haste": 9,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 2,
+        "frostResistance": 7,
+        "arcaneResistance": 3,
+        "shadowResistance": 4,
+        "poisonResistance": 3,
+        "stunResistance": 6
+      }
+    }
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "quality": "common",
+    "name": "Wayfarer Idol",
+    "src": "icons/trinket/trinket-0.png",
+    "monetaryValue": 22,
+    "value": 8,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Relic",
+    "src": "icons/trinket/trinket-1.png",
+    "monetaryValue": 18,
+    "value": 11,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 2,
+      "intellect": 8,
+      "agility": 1,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Idol",
+    "src": "icons/trinket/trinket-2.png",
+    "monetaryValue": 26,
+    "value": 14,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 6,
+      "agility": 4,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Talisman",
+    "src": "icons/trinket/trinket-3.png",
+    "monetaryValue": 29,
+    "value": 12,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 13,
+      "agility": 2,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Idol",
+    "src": "icons/trinket/trinket-4.png",
+    "monetaryValue": 35,
+    "value": 18,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Relic",
+    "src": "icons/trinket/trinket-5.png",
+    "monetaryValue": 44,
+    "value": 21,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 3,
+      "intellect": 11,
+      "agility": 3,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Charm",
+    "src": "icons/trinket/trinket-6.png",
+    "monetaryValue": 48,
+    "value": 33,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 7,
+      "intellect": 8,
+      "agility": 8,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Relic",
+    "src": "icons/trinket/trinket-7.png",
+    "monetaryValue": 46,
+    "value": 31,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 26,
+      "agility": 5,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Relic",
+    "src": "icons/trinket/trinket-8.png",
+    "monetaryValue": 45,
+    "value": 24,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 4,
+      "intellect": 20,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 3,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Charm",
+    "src": "icons/trinket/trinket-9.png",
+    "monetaryValue": 74,
+    "value": 36,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 11,
+      "intellect": 9,
+      "agility": 12,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Relic",
+    "src": "icons/trinket/trinket-10.png",
+    "monetaryValue": 66,
+    "value": 36,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 27,
+      "agility": 7,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Talisman",
+    "src": "icons/trinket/trinket-11.png",
+    "monetaryValue": 63,
+    "value": 34,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 7,
+      "intellect": 18,
+      "agility": 5,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 3,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Idol",
+    "src": "icons/trinket/trinket-12.png",
+    "monetaryValue": 60,
+    "value": 36,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 18,
+      "intellect": 16,
+      "agility": 18,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Relic",
+    "src": "icons/trinket/trinket-13.png",
+    "monetaryValue": 62,
+    "value": 37,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 8,
+      "intellect": 32,
+      "agility": 8,
+      "spirit": 46
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Talisman",
+    "src": "icons/trinket/trinket-14.png",
+    "monetaryValue": 59,
+    "value": 42,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 8,
+      "intellect": 43,
+      "agility": 8,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 3,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Relic",
+    "src": "icons/trinket/trinket-15.png",
+    "monetaryValue": 86,
+    "value": 45,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 22,
+      "intellect": 22,
+      "agility": 22,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Charm",
+    "src": "icons/trinket/trinket-16.png",
+    "monetaryValue": 66,
+    "value": 36,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 10,
+      "intellect": 65,
+      "agility": 13,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Idol",
+    "src": "icons/trinket/trinket-17.png",
+    "monetaryValue": 69,
+    "value": 34,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 12,
+      "intellect": 60,
+      "agility": 13,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 3,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Relic",
+    "src": "icons/trinket/trinket-18.png",
+    "monetaryValue": 81,
+    "value": 48,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 12,
+      "intellect": 41,
+      "agility": 10,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 4,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Idol",
+    "src": "icons/trinket/trinket-19.png",
+    "monetaryValue": 99,
+    "value": 51,
+    "primaryStats": {
+      "stamina": 37,
+      "strength": 28,
+      "intellect": 28,
+      "agility": 15,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Relic",
+    "src": "icons/trinket/trinket-20.png",
+    "monetaryValue": 83,
+    "value": 59,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 35,
+      "intellect": 85,
+      "agility": 18,
+      "spirit": 64
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 3,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Relic",
+    "src": "icons/trinket/trinket-21.png",
+    "monetaryValue": 110,
+    "value": 42,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 18,
+      "intellect": 87,
+      "agility": 16,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 3,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Relic",
+    "src": "icons/trinket/trinket-22.png",
+    "monetaryValue": 77,
+    "value": 61,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 19,
+      "intellect": 94,
+      "agility": 17,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 4,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Talisman",
+    "src": "icons/trinket/trinket-23.png",
+    "monetaryValue": 94,
+    "value": 69,
+    "primaryStats": {
+      "stamina": 45,
+      "strength": 49,
+      "intellect": 49,
+      "agility": 44,
+      "spirit": 43
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

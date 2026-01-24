@@ -1,0 +1,8338 @@
+{
+  "scene": "HellScene",
+  "tileSize": 128,
+  "width": 40,
+  "height": 40,
+  "ground": [
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_6",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_6",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_2_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_2_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_6",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_3_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_1",
+        "rotation": 90
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 90
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      }
+    ],
+    [
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_7",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_7",
+        "rotation": 0
+      },
+      {
+        "key": "nether_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_0_6",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_7",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_6",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_7",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_6",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_7",
+        "rotation": 270
+      },
+      {
+        "key": "nether_0_6",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 270
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_2_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_6",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_2_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 90
+      },
+      {
+        "key": "nether_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_7_2",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_7",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_1",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_6",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_2_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_7_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_1",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_2",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_0_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_0_7",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_1_1",
+        "rotation": 90
+      },
+      {
+        "key": "nether_1_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_2_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_6",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_2_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_5_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_2_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_7_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_5_3",
+        "rotation": 180
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_0",
+        "rotation": 270
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 0
+      },
+      {
+        "key": "nether_3_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 270
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_7_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 90
+      },
+      {
+        "key": "nether_5_7",
+        "rotation": 180
+      },
+      {
+        "key": "nether_5_6",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 90
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_5_2",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 90
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ],
+    [
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 0
+      },
+      {
+        "key": "nether_5_6",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_6",
+        "rotation": 0
+      },
+      {
+        "key": "nether_6_6",
+        "rotation": 90
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 270
+      },
+      {
+        "key": "nether_6_5",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 0
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_4",
+        "rotation": 180
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      },
+      {
+        "key": "nether_4_3",
+        "rotation": 4
+      }
+    ]
+  ],
+  "objects": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ]
+}

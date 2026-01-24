@@ -1,0 +1,2978 @@
+[
+  {
+    "quality": "common",
+    "name": "Town Guard Bulwark (warrior) Feet",
+    "src": "icons/feet/feet-0.png",
+    "monetaryValue": 25,
+    "value": 12,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 56,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 11,
+      "intellect": 1,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Bastion (paladin) Feet",
+    "src": "icons/feet/feet-1.png",
+    "monetaryValue": 36,
+    "value": 14,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 56,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 14,
+      "agility": 1,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Sentinel (tank) Feet",
+    "src": "icons/feet/feet-2.png",
+    "monetaryValue": 32,
+    "value": 10,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 56,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Pathfinder (hunter) Feet",
+    "src": "icons/feet/feet-3.png",
+    "monetaryValue": 29,
+    "value": 11,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 1,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Huntsman (shaman) Feet",
+    "src": "icons/feet/feet-4.png",
+    "monetaryValue": 21,
+    "value": 16,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sabatuer (rogue) Feet",
+    "src": "icons/feet/feet-5.png",
+    "monetaryValue": 18,
+    "value": 12,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 28,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 5,
+      "intellect": 1,
+      "agility": 14,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Cutpurse (druid) Feet",
+    "src": "icons/feet/feet-6.png",
+    "monetaryValue": 19,
+    "value": 10,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 28,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 6,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sage (mage) Feet",
+    "src": "icons/feet/feet-7.png",
+    "monetaryValue": 17,
+    "value": 7,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 13,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 14,
+      "agility": 1,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Invoker (priest) Feet",
+    "src": "icons/feet/feet-8.png",
+    "monetaryValue": 18,
+    "value": 9,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 13,
+    "primaryStats": {
+      "stamina": 1,
+      "strength": 2,
+      "intellect": 5,
+      "agility": 1,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Seer (warlock) Feet",
+    "src": "icons/feet/feet-9.png",
+    "monetaryValue": 15,
+    "value": 8,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 13,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 9,
+      "agility": 1,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bulwark (warrior) Feet",
+    "src": "icons/feet/feet-10.png",
+    "monetaryValue": 48,
+    "value": 21,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 82,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 19,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Juggernaut (paladin) Feet",
+    "src": "icons/feet/feet-11.png",
+    "monetaryValue": 42,
+    "value": 14,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 82,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 6,
+      "intellect": 10,
+      "agility": 3,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bastion (tank) Feet",
+    "src": "icons/feet/feet-12.png",
+    "monetaryValue": 47,
+    "value": 16,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 82,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 7,
+      "intellect": 6,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (hunter) Feet",
+    "src": "icons/feet/feet-13.png",
+    "monetaryValue": 37,
+    "value": 12,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 62,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 5,
+      "agility": 20,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (shaman) Feet",
+    "src": "icons/feet/feet-14.png",
+    "monetaryValue": 37,
+    "value": 14,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 62,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Cutpurse (rogue) Feet",
+    "src": "icons/feet/feet-15.png",
+    "monetaryValue": 31,
+    "value": 11,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 17,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Shadow (druid) Feet",
+    "src": "icons/feet/feet-16.png",
+    "monetaryValue": 26,
+    "value": 12,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 2,
+      "intellect": 14,
+      "agility": 9,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Sage (mage) Feet",
+    "src": "icons/feet/feet-17.png",
+    "monetaryValue": 24,
+    "value": 12,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 33,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 17,
+      "agility": 3,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (priest) Feet",
+    "src": "icons/feet/feet-18.png",
+    "monetaryValue": 24,
+    "value": 10,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 33,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 11,
+      "agility": 5,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (warlock) Feet",
+    "src": "icons/feet/feet-19.png",
+    "monetaryValue": 22,
+    "value": 13,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 33,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 10,
+      "agility": 2,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Bulwark (warrior) Feet",
+    "src": "icons/feet/feet-20.png",
+    "monetaryValue": 48,
+    "value": 20,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 67,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 12,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sentinel (paladin) Feet",
+    "src": "icons/feet/feet-21.png",
+    "monetaryValue": 57,
+    "value": 27,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 67,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 5,
+      "intellect": 10,
+      "agility": 5,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden Sentinel (tank) Feet",
+    "src": "icons/feet/feet-22.png",
+    "monetaryValue": 51,
+    "value": 21,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 67,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 7,
+      "intellect": 11,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Pathfinder (hunter) Feet",
+    "src": "icons/feet/feet-23.png",
+    "monetaryValue": 50,
+    "value": 24,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 50,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 9,
+      "agility": 17,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Pathfinder (shaman) Feet",
+    "src": "icons/feet/feet-24.png",
+    "monetaryValue": 50,
+    "value": 20,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 50,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 6,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Shadow (rogue) Feet",
+    "src": "icons/feet/feet-25.png",
+    "monetaryValue": 39,
+    "value": 18,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 35,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 3,
+      "agility": 18,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Cutpurse (druid) Feet",
+    "src": "icons/feet/feet-26.png",
+    "monetaryValue": 44,
+    "value": 15,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 35,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 3,
+      "intellect": 8,
+      "agility": 6,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (mage) Feet",
+    "src": "icons/feet/feet-27.png",
+    "monetaryValue": 31,
+    "value": 13,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 21,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 2,
+      "intellect": 17,
+      "agility": 3,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (priest) Feet",
+    "src": "icons/feet/feet-28.png",
+    "monetaryValue": 34,
+    "value": 16,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 21,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 8,
+      "agility": 2,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Seer (warlock) Feet",
+    "src": "icons/feet/feet-29.png",
+    "monetaryValue": 29,
+    "value": 17,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 21,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 18,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Sentinel (warrior) Feet",
+    "src": "icons/feet/feet-30.png",
+    "monetaryValue": 74,
+    "value": 34,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 113,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 24,
+      "intellect": 5,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Bulwark (paladin) Feet",
+    "src": "icons/feet/feet-31.png",
+    "monetaryValue": 82,
+    "value": 35,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 113,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 8,
+      "intellect": 18,
+      "agility": 6,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Bulwark (tank) Feet",
+    "src": "icons/feet/feet-32.png",
+    "monetaryValue": 85,
+    "value": 30,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 113,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 3,
+      "intellect": 9,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Huntsman (hunter) Feet",
+    "src": "icons/feet/feet-33.png",
+    "monetaryValue": 69,
+    "value": 27,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 85,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 26,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Ranger (shaman) Feet",
+    "src": "icons/feet/feet-34.png",
+    "monetaryValue": 74,
+    "value": 27,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 85,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 7,
+      "intellect": 10,
+      "agility": 9,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (rogue) Feet",
+    "src": "icons/feet/feet-35.png",
+    "monetaryValue": 53,
+    "value": 27,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 64,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 7,
+      "intellect": 5,
+      "agility": 26,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (druid) Feet",
+    "src": "icons/feet/feet-36.png",
+    "monetaryValue": 61,
+    "value": 29,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 65,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 9,
+      "intellect": 15,
+      "agility": 9,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Shadow (monk) Feet",
+    "src": "icons/feet/feet-37.png",
+    "monetaryValue": 53,
+    "value": 26,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 64,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 9,
+      "intellect": 6,
+      "agility": 18,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Invoker (mage) Feet",
+    "src": "icons/feet/feet-38.png",
+    "monetaryValue": 43,
+    "value": 24,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 46,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 26,
+      "agility": 6,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Seer (priest) Feet",
+    "src": "icons/feet/feet-39.png",
+    "monetaryValue": 44,
+    "value": 23,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 46,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 14,
+      "agility": 6,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Invoker (warlock) Feet",
+    "src": "icons/feet/feet-40.png",
+    "monetaryValue": 41,
+    "value": 20,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 45,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 6,
+      "intellect": 25,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Bastion (warrior) Feet",
+    "src": "icons/feet/feet-41.png",
+    "monetaryValue": 118,
+    "value": 46,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 149,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 29,
+      "intellect": 7,
+      "agility": 10,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Bastion (paladin) Feet",
+    "src": "icons/feet/feet-42.png",
+    "monetaryValue": 113,
+    "value": 52,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 149,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 14,
+      "intellect": 21,
+      "agility": 6,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Sentinel (tank) Feet",
+    "src": "icons/feet/feet-43.png",
+    "monetaryValue": 111,
+    "value": 53,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 149,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 25,
+      "intellect": 11,
+      "agility": 8,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Skirmisher (hunter) Feet",
+    "src": "icons/feet/feet-44.png",
+    "monetaryValue": 93,
+    "value": 45,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 112,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 8,
+      "intellect": 20,
+      "agility": 31,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Ranger (shaman) Feet",
+    "src": "icons/feet/feet-45.png",
+    "monetaryValue": 103,
+    "value": 41,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 113,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 11,
+      "intellect": 25,
+      "agility": 15,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Sabatuer (rogue) Feet",
+    "src": "icons/feet/feet-46.png",
+    "monetaryValue": 82,
+    "value": 40,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 86,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 14,
+      "intellect": 8,
+      "agility": 32,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Cutpurse (druid) Feet",
+    "src": "icons/feet/feet-47.png",
+    "monetaryValue": 80,
+    "value": 36,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 85,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 7,
+      "intellect": 36,
+      "agility": 15,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Stalker (monk) Feet",
+    "src": "icons/feet/feet-48.png",
+    "monetaryValue": 78,
+    "value": 34,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 85,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 15,
+      "intellect": 6,
+      "agility": 15,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Invoker (mage) Feet",
+    "src": "icons/feet/feet-49.png",
+    "monetaryValue": 66,
+    "value": 32,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 63,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 8,
+      "intellect": 36,
+      "agility": 7,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Arcanist (priest) Feet",
+    "src": "icons/feet/feet-50.png",
+    "monetaryValue": 65,
+    "value": 31,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 62,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 14,
+      "intellect": 24,
+      "agility": 7,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Seer (warlock) Feet",
+    "src": "icons/feet/feet-51.png",
+    "monetaryValue": 65,
+    "value": 29,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 63,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 6,
+      "intellect": 33,
+      "agility": 7,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Juggernaut (warrior) Feet",
+    "src": "icons/feet/feet-52.png",
+    "monetaryValue": 166,
+    "value": 65,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 190,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 50,
+      "intellect": 10,
+      "agility": 10,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Bulwark (paladin) Feet",
+    "src": "icons/feet/feet-53.png",
+    "monetaryValue": 160,
+    "value": 71,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 190,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 18,
+      "intellect": 32,
+      "agility": 11,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 2,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Bulwark (tank) Feet",
+    "src": "icons/feet/feet-54.png",
+    "monetaryValue": 168,
+    "value": 67,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 190,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 19,
+      "intellect": 15,
+      "agility": 17,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Skirmisher (hunter) Feet",
+    "src": "icons/feet/feet-55.png",
+    "monetaryValue": 137,
+    "value": 60,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 144,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 10,
+      "intellect": 20,
+      "agility": 50,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Pathfinder (shaman) Feet",
+    "src": "icons/feet/feet-56.png",
+    "monetaryValue": 145,
+    "value": 62,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 144,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 36,
+      "intellect": 11,
+      "agility": 17,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Shadow (rogue) Feet",
+    "src": "icons/feet/feet-57.png",
+    "monetaryValue": 111,
+    "value": 49,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 109,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 15,
+      "intellect": 10,
+      "agility": 53,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Sabatuer (druid) Feet",
+    "src": "icons/feet/feet-58.png",
+    "monetaryValue": 114,
+    "value": 52,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 109,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 18,
+      "intellect": 37,
+      "agility": 33,
+      "spirit": 37
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Stalker (monk) Feet",
+    "src": "icons/feet/feet-59.png",
+    "monetaryValue": 117,
+    "value": 50,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 109,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 18,
+      "intellect": 17,
+      "agility": 34,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Sage (mage) Feet",
+    "src": "icons/feet/feet-60.png",
+    "monetaryValue": 91,
+    "value": 44,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 81,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 10,
+      "intellect": 42,
+      "agility": 19,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Invoker (priest) Feet",
+    "src": "icons/feet/feet-61.png",
+    "monetaryValue": 88,
+    "value": 45,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 81,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 10,
+      "intellect": 37,
+      "agility": 11,
+      "spirit": 55
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Seer (warlock) Feet",
+    "src": "icons/feet/feet-62.png",
+    "monetaryValue": 91,
+    "value": 42,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 81,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 10,
+      "intellect": 36,
+      "agility": 18,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bastion (warrior) Feet",
+    "src": "icons/feet/feet-63.png",
+    "monetaryValue": 217,
+    "value": 97,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 242,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 64,
+      "intellect": 14,
+      "agility": 16,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bulwark (paladin) Feet",
+    "src": "icons/feet/feet-64.png",
+    "monetaryValue": 223,
+    "value": 92,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 241,
+    "primaryStats": {
+      "stamina": 53,
+      "strength": 28,
+      "intellect": 54,
+      "agility": 11,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Bastion (tank) Feet",
+    "src": "icons/feet/feet-65.png",
+    "monetaryValue": 219,
+    "value": 98,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 241,
+    "primaryStats": {
+      "stamina": 78,
+      "strength": 23,
+      "intellect": 23,
+      "agility": 11,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Ranger (hunter) Feet",
+    "src": "icons/feet/feet-66.png",
+    "monetaryValue": 193,
+    "value": 82,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 181,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 11,
+      "intellect": 24,
+      "agility": 76,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Skirmisher (shaman) Feet",
+    "src": "icons/feet/feet-67.png",
+    "monetaryValue": 191,
+    "value": 85,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 181,
+    "primaryStats": {
+      "stamina": 53,
+      "strength": 16,
+      "intellect": 27,
+      "agility": 25,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Cutpurse (rogue) Feet",
+    "src": "icons/feet/feet-68.png",
+    "monetaryValue": 163,
+    "value": 74,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 138,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 23,
+      "intellect": 16,
+      "agility": 56,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Sabatuer (druid) Feet",
+    "src": "icons/feet/feet-69.png",
+    "monetaryValue": 161,
+    "value": 69,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 140,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 15,
+      "intellect": 69,
+      "agility": 21,
+      "spirit": 54
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Sabatuer (monk) Feet",
+    "src": "icons/feet/feet-70.png",
+    "monetaryValue": 158,
+    "value": 69,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 140,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 40,
+      "intellect": 14,
+      "agility": 54,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Arcanist (mage) Feet",
+    "src": "icons/feet/feet-71.png",
+    "monetaryValue": 124,
+    "value": 56,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 102,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 12,
+      "intellect": 56,
+      "agility": 21,
+      "spirit": 43
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Invoker (priest) Feet",
+    "src": "icons/feet/feet-72.png",
+    "monetaryValue": 126,
+    "value": 57,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 103,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 15,
+      "intellect": 75,
+      "agility": 15,
+      "spirit": 62
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Invoker (warlock) Feet",
+    "src": "icons/feet/feet-73.png",
+    "monetaryValue": 124,
+    "value": 59,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 101,
+    "primaryStats": {
+      "stamina": 51,
+      "strength": 12,
+      "intellect": 77,
+      "agility": 15,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Bastion (warrior) Feet",
+    "src": "icons/feet/feet-74.png",
+    "monetaryValue": 312,
+    "value": 136,
+    "rank": "master",
+    "type": "plate",
+    "armor": 304,
+    "primaryStats": {
+      "stamina": 73,
+      "strength": 87,
+      "intellect": 17,
+      "agility": 43,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sentinel (paladin) Feet",
+    "src": "icons/feet/feet-75.png",
+    "monetaryValue": 313,
+    "value": 131,
+    "rank": "master",
+    "type": "plate",
+    "armor": 304,
+    "primaryStats": {
+      "stamina": 60,
+      "strength": 18,
+      "intellect": 75,
+      "agility": 20,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Juggernaut (tank) Feet",
+    "src": "icons/feet/feet-76.png",
+    "monetaryValue": 324,
+    "value": 136,
+    "rank": "master",
+    "type": "plate",
+    "armor": 304,
+    "primaryStats": {
+      "stamina": 84,
+      "strength": 41,
+      "intellect": 34,
+      "agility": 20,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Skirmisher (hunter) Feet",
+    "src": "icons/feet/feet-77.png",
+    "monetaryValue": 268,
+    "value": 114,
+    "rank": "master",
+    "type": "mail",
+    "armor": 229,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 20,
+      "intellect": 35,
+      "agility": 85,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Ranger (shaman) Feet",
+    "src": "icons/feet/feet-78.png",
+    "monetaryValue": 271,
+    "value": 119,
+    "rank": "master",
+    "type": "mail",
+    "armor": 229,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 33,
+      "intellect": 37,
+      "agility": 40,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Cutpurse (rogue) Feet",
+    "src": "icons/feet/feet-79.png",
+    "monetaryValue": 228,
+    "value": 99,
+    "rank": "master",
+    "type": "leather",
+    "armor": 176,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 58,
+      "intellect": 43,
+      "agility": 90,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Stalker (druid) Feet",
+    "src": "icons/feet/feet-80.png",
+    "monetaryValue": 228,
+    "value": 101,
+    "rank": "master",
+    "type": "leather",
+    "armor": 174,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 16,
+      "intellect": 76,
+      "agility": 64,
+      "spirit": 68
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Cutpurse (monk) Feet",
+    "src": "icons/feet/feet-81.png",
+    "monetaryValue": 223,
+    "value": 101,
+    "rank": "master",
+    "type": "leather",
+    "armor": 177,
+    "primaryStats": {
+      "stamina": 67,
+      "strength": 42,
+      "intellect": 20,
+      "agility": 59,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Sage (mage) Feet",
+    "src": "icons/feet/feet-82.png",
+    "monetaryValue": 177,
+    "value": 81,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 128,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 18,
+      "intellect": 93,
+      "agility": 16,
+      "spirit": 72
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Invoker (priest) Feet",
+    "src": "icons/feet/feet-83.png",
+    "monetaryValue": 182,
+    "value": 86,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 128,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 38,
+      "intellect": 70,
+      "agility": 16,
+      "spirit": 85
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sage (warlock) Feet",
+    "src": "icons/feet/feet-84.png",
+    "monetaryValue": 181,
+    "value": 81,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 128,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 20,
+      "intellect": 104,
+      "agility": 19,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Sentinel (warrior) Feet",
+    "src": "icons/feet/feet-85.png",
+    "monetaryValue": 494,
+    "value": 202,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 393,
+    "primaryStats": {
+      "stamina": 93,
+      "strength": 154,
+      "intellect": 28,
+      "agility": 29,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Bastion (paladin) Feet",
+    "src": "icons/feet/feet-86.png",
+    "monetaryValue": 491,
+    "value": 206,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 396,
+    "primaryStats": {
+      "stamina": 103,
+      "strength": 50,
+      "intellect": 93,
+      "agility": 27,
+      "spirit": 46
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Bastion (tank) Feet",
+    "src": "icons/feet/feet-87.png",
+    "monetaryValue": 484,
+    "value": 200,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 393,
+    "primaryStats": {
+      "stamina": 108,
+      "strength": 52,
+      "intellect": 50,
+      "agility": 28,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Pathfinder (hunter) Feet",
+    "src": "icons/feet/feet-88.png",
+    "monetaryValue": 421,
+    "value": 179,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 293,
+    "primaryStats": {
+      "stamina": 49,
+      "strength": 26,
+      "intellect": 52,
+      "agility": 141,
+      "spirit": 49
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Skirmisher (shaman) Feet",
+    "src": "icons/feet/feet-89.png",
+    "monetaryValue": 415,
+    "value": 182,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 291,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 44,
+      "intellect": 29,
+      "agility": 55,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Cutpurse (rogue) Feet",
+    "src": "icons/feet/feet-90.png",
+    "monetaryValue": 345,
+    "value": 154,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 224,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 45,
+      "intellect": 44,
+      "agility": 149,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Cutpurse (druid) Feet",
+    "src": "icons/feet/feet-91.png",
+    "monetaryValue": 342,
+    "value": 155,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 224,
+    "primaryStats": {
+      "stamina": 51,
+      "strength": 26,
+      "intellect": 86,
+      "agility": 62,
+      "spirit": 80
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Sabatuer (monk) Feet",
+    "src": "icons/feet/feet-92.png",
+    "monetaryValue": 350,
+    "value": 154,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 225,
+    "primaryStats": {
+      "stamina": 81,
+      "strength": 45,
+      "intellect": 25,
+      "agility": 81,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Invoker (mage) Feet",
+    "src": "icons/feet/feet-93.png",
+    "monetaryValue": 274,
+    "value": 130,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 164,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 24,
+      "intellect": 146,
+      "agility": 27,
+      "spirit": 86
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Arcanist (priest) Feet",
+    "src": "icons/feet/feet-94.png",
+    "monetaryValue": 277,
+    "value": 130,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 162,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 26,
+      "intellect": 85,
+      "agility": 31,
+      "spirit": 153
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Seer (warlock) Feet",
+    "src": "icons/feet/feet-95.png",
+    "monetaryValue": 278,
+    "value": 125,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 162,
+    "primaryStats": {
+      "stamina": 52,
+      "strength": 28,
+      "intellect": 145,
+      "agility": 29,
+      "spirit": 47
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

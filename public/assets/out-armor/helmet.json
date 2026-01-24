@@ -1,0 +1,2978 @@
+[
+  {
+    "quality": "common",
+    "name": "Town Guard Bulwark (warrior) Helmet",
+    "src": "icons/helmet/helment-0.png",
+    "monetaryValue": 27,
+    "value": 11,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 59,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 13,
+      "intellect": 1,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Bastion (paladin) Helmet",
+    "src": "icons/helmet/helment-1.png",
+    "monetaryValue": 32,
+    "value": 13,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 59,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 16,
+      "agility": 1,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Sentinel (tank) Helmet",
+    "src": "icons/helmet/helment-2.png",
+    "monetaryValue": 34,
+    "value": 14,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 59,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 3,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Pathfinder (hunter) Helmet",
+    "src": "icons/helmet/helment-3.png",
+    "monetaryValue": 25,
+    "value": 14,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 1,
+      "intellect": 5,
+      "agility": 8,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Huntsman (shaman) Helmet",
+    "src": "icons/helmet/helment-4.png",
+    "monetaryValue": 29,
+    "value": 16,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sabatuer (rogue) Helmet",
+    "src": "icons/helmet/helment-5.png",
+    "monetaryValue": 20,
+    "value": 13,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 37,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 1,
+      "agility": 16,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Cutpurse (druid) Helmet",
+    "src": "icons/helmet/helment-6.png",
+    "monetaryValue": 18,
+    "value": 8,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 37,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 7,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sage (mage) Helmet",
+    "src": "icons/helmet/helment-7.png",
+    "monetaryValue": 21,
+    "value": 9,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 16,
+      "agility": 1,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Invoker (priest) Helmet",
+    "src": "icons/helmet/helment-8.png",
+    "monetaryValue": 22,
+    "value": 9,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 1,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 1,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Seer (warlock) Helmet",
+    "src": "icons/helmet/helment-9.png",
+    "monetaryValue": 20,
+    "value": 6,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 22,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 10,
+      "agility": 1,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bulwark (warrior) Helmet",
+    "src": "icons/helmet/helment-10.png",
+    "monetaryValue": 43,
+    "value": 20,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 88,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 22,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Juggernaut (paladin) Helmet",
+    "src": "icons/helmet/helment-11.png",
+    "monetaryValue": 45,
+    "value": 17,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 88,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 7,
+      "intellect": 12,
+      "agility": 4,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bastion (tank) Helmet",
+    "src": "icons/helmet/helment-12.png",
+    "monetaryValue": 48,
+    "value": 17,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 88,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 8,
+      "intellect": 7,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (hunter) Helmet",
+    "src": "icons/helmet/helment-13.png",
+    "monetaryValue": 30,
+    "value": 13,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 68,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 23,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (shaman) Helmet",
+    "src": "icons/helmet/helment-14.png",
+    "monetaryValue": 37,
+    "value": 19,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 68,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Cutpurse (rogue) Helmet",
+    "src": "icons/helmet/helment-15.png",
+    "monetaryValue": 28,
+    "value": 13,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 57,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 20,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Shadow (druid) Helmet",
+    "src": "icons/helmet/helment-16.png",
+    "monetaryValue": 28,
+    "value": 15,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 57,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 3,
+      "intellect": 16,
+      "agility": 10,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Sage (mage) Helmet",
+    "src": "icons/helmet/helment-17.png",
+    "monetaryValue": 26,
+    "value": 12,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 20,
+      "agility": 4,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (priest) Helmet",
+    "src": "icons/helmet/helment-18.png",
+    "monetaryValue": 22,
+    "value": 10,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 13,
+      "agility": 5,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (warlock) Helmet",
+    "src": "icons/helmet/helment-19.png",
+    "monetaryValue": 23,
+    "value": 9,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 42,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 12,
+      "agility": 3,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Bulwark (warrior) Helmet",
+    "src": "icons/helmet/helment-20.png",
+    "monetaryValue": 60,
+    "value": 27,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 73,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 14,
+      "intellect": 3,
+      "agility": 4,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sentinel (paladin) Helmet",
+    "src": "icons/helmet/helment-21.png",
+    "monetaryValue": 51,
+    "value": 27,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 73,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 5,
+      "intellect": 12,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden Sentinel (tank) Helmet",
+    "src": "icons/helmet/helment-22.png",
+    "monetaryValue": 53,
+    "value": 23,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 73,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 8,
+      "intellect": 13,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Pathfinder (hunter) Helmet",
+    "src": "icons/helmet/helment-23.png",
+    "monetaryValue": 48,
+    "value": 24,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 57,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 4,
+      "intellect": 10,
+      "agility": 20,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Pathfinder (shaman) Helmet",
+    "src": "icons/helmet/helment-24.png",
+    "monetaryValue": 46,
+    "value": 20,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 58,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 7,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Shadow (rogue) Helmet",
+    "src": "icons/helmet/helment-25.png",
+    "monetaryValue": 43,
+    "value": 16,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 45,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 7,
+      "intellect": 4,
+      "agility": 21,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Cutpurse (druid) Helmet",
+    "src": "icons/helmet/helment-26.png",
+    "monetaryValue": 42,
+    "value": 16,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 45,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 4,
+      "intellect": 9,
+      "agility": 7,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (mage) Helmet",
+    "src": "icons/helmet/helment-27.png",
+    "monetaryValue": 34,
+    "value": 14,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 29,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 20,
+      "agility": 4,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (priest) Helmet",
+    "src": "icons/helmet/helment-28.png",
+    "monetaryValue": 27,
+    "value": 17,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 29,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 9,
+      "agility": 3,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Seer (warlock) Helmet",
+    "src": "icons/helmet/helment-29.png",
+    "monetaryValue": 29,
+    "value": 13,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 29,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 7,
+      "intellect": 21,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Sentinel (warrior) Helmet",
+    "src": "icons/helmet/helment-30.png",
+    "monetaryValue": 80,
+    "value": 33,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 122,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 27,
+      "intellect": 5,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Bulwark (paladin) Helmet",
+    "src": "icons/helmet/helment-31.png",
+    "monetaryValue": 84,
+    "value": 32,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 122,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 9,
+      "intellect": 21,
+      "agility": 7,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Bulwark (tank) Helmet",
+    "src": "icons/helmet/helment-32.png",
+    "monetaryValue": 83,
+    "value": 36,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 122,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 4,
+      "intellect": 10,
+      "agility": 5,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Huntsman (hunter) Helmet",
+    "src": "icons/helmet/helment-33.png",
+    "monetaryValue": 74,
+    "value": 31,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 95,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 4,
+      "intellect": 5,
+      "agility": 30,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Ranger (shaman) Helmet",
+    "src": "icons/helmet/helment-34.png",
+    "monetaryValue": 65,
+    "value": 28,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 95,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 8,
+      "intellect": 12,
+      "agility": 10,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (rogue) Helmet",
+    "src": "icons/helmet/helment-35.png",
+    "monetaryValue": 59,
+    "value": 24,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 78,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 8,
+      "intellect": 5,
+      "agility": 30,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (druid) Helmet",
+    "src": "icons/helmet/helment-36.png",
+    "monetaryValue": 58,
+    "value": 25,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 78,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 10,
+      "intellect": 17,
+      "agility": 10,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Shadow (monk) Helmet",
+    "src": "icons/helmet/helment-37.png",
+    "monetaryValue": 53,
+    "value": 28,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 77,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 10,
+      "intellect": 7,
+      "agility": 21,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Invoker (mage) Helmet",
+    "src": "icons/helmet/helment-38.png",
+    "monetaryValue": 46,
+    "value": 22,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 56,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 7,
+      "intellect": 30,
+      "agility": 7,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Seer (priest) Helmet",
+    "src": "icons/helmet/helment-39.png",
+    "monetaryValue": 44,
+    "value": 24,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 56,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 16,
+      "agility": 7,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Invoker (warlock) Helmet",
+    "src": "icons/helmet/helment-40.png",
+    "monetaryValue": 43,
+    "value": 22,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 57,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 7,
+      "intellect": 29,
+      "agility": 7,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Bastion (warrior) Helmet",
+    "src": "icons/helmet/helment-41.png",
+    "monetaryValue": 113,
+    "value": 53,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 160,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 34,
+      "intellect": 8,
+      "agility": 12,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Bastion (paladin) Helmet",
+    "src": "icons/helmet/helment-42.png",
+    "monetaryValue": 111,
+    "value": 50,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 161,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 16,
+      "intellect": 25,
+      "agility": 7,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Sentinel (tank) Helmet",
+    "src": "icons/helmet/helment-43.png",
+    "monetaryValue": 113,
+    "value": 48,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 161,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 29,
+      "intellect": 13,
+      "agility": 9,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Skirmisher (hunter) Helmet",
+    "src": "icons/helmet/helment-44.png",
+    "monetaryValue": 103,
+    "value": 41,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 125,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 9,
+      "intellect": 23,
+      "agility": 35,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Ranger (shaman) Helmet",
+    "src": "icons/helmet/helment-45.png",
+    "monetaryValue": 94,
+    "value": 41,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 126,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 13,
+      "intellect": 29,
+      "agility": 17,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Sabatuer (rogue) Helmet",
+    "src": "icons/helmet/helment-46.png",
+    "monetaryValue": 82,
+    "value": 34,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 102,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 16,
+      "intellect": 9,
+      "agility": 36,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Cutpurse (druid) Helmet",
+    "src": "icons/helmet/helment-47.png",
+    "monetaryValue": 82,
+    "value": 40,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 102,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 8,
+      "intellect": 42,
+      "agility": 17,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Stalker (monk) Helmet",
+    "src": "icons/helmet/helment-48.png",
+    "monetaryValue": 85,
+    "value": 34,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 103,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 17,
+      "intellect": 7,
+      "agility": 17,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Invoker (mage) Helmet",
+    "src": "icons/helmet/helment-49.png",
+    "monetaryValue": 63,
+    "value": 30,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 76,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 9,
+      "intellect": 42,
+      "agility": 8,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Arcanist (priest) Helmet",
+    "src": "icons/helmet/helment-50.png",
+    "monetaryValue": 62,
+    "value": 29,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 76,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 16,
+      "intellect": 27,
+      "agility": 8,
+      "spirit": 42
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Seer (warlock) Helmet",
+    "src": "icons/helmet/helment-51.png",
+    "monetaryValue": 66,
+    "value": 33,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 76,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 7,
+      "intellect": 38,
+      "agility": 8,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Juggernaut (warrior) Helmet",
+    "src": "icons/helmet/helment-52.png",
+    "monetaryValue": 170,
+    "value": 67,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 205,
+    "primaryStats": {
+      "stamina": 39,
+      "strength": 57,
+      "intellect": 12,
+      "agility": 12,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Bulwark (paladin) Helmet",
+    "src": "icons/helmet/helment-53.png",
+    "monetaryValue": 170,
+    "value": 65,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 205,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 21,
+      "intellect": 36,
+      "agility": 13,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 2,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Bulwark (tank) Helmet",
+    "src": "icons/helmet/helment-54.png",
+    "monetaryValue": 167,
+    "value": 72,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 205,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 22,
+      "intellect": 17,
+      "agility": 20,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Skirmisher (hunter) Helmet",
+    "src": "icons/helmet/helment-55.png",
+    "monetaryValue": 133,
+    "value": 60,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 160,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 12,
+      "intellect": 23,
+      "agility": 57,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Pathfinder (shaman) Helmet",
+    "src": "icons/helmet/helment-56.png",
+    "monetaryValue": 144,
+    "value": 58,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 160,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 42,
+      "intellect": 13,
+      "agility": 20,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Shadow (rogue) Helmet",
+    "src": "icons/helmet/helment-57.png",
+    "monetaryValue": 113,
+    "value": 53,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 130,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 17,
+      "intellect": 12,
+      "agility": 61,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Sabatuer (druid) Helmet",
+    "src": "icons/helmet/helment-58.png",
+    "monetaryValue": 116,
+    "value": 49,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 131,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 21,
+      "intellect": 43,
+      "agility": 38,
+      "spirit": 43
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Stalker (monk) Helmet",
+    "src": "icons/helmet/helment-59.png",
+    "monetaryValue": 117,
+    "value": 52,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 131,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 21,
+      "intellect": 20,
+      "agility": 39,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Sage (mage) Helmet",
+    "src": "icons/helmet/helment-60.png",
+    "monetaryValue": 94,
+    "value": 43,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 97,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 12,
+      "intellect": 48,
+      "agility": 22,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Invoker (priest) Helmet",
+    "src": "icons/helmet/helment-61.png",
+    "monetaryValue": 96,
+    "value": 46,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 96,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 12,
+      "intellect": 43,
+      "agility": 13,
+      "spirit": 64
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Seer (warlock) Helmet",
+    "src": "icons/helmet/helment-62.png",
+    "monetaryValue": 96,
+    "value": 41,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 96,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 12,
+      "intellect": 42,
+      "agility": 21,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bastion (warrior) Helmet",
+    "src": "icons/helmet/helment-63.png",
+    "monetaryValue": 227,
+    "value": 92,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 264,
+    "primaryStats": {
+      "stamina": 49,
+      "strength": 74,
+      "intellect": 16,
+      "agility": 18,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bulwark (paladin) Helmet",
+    "src": "icons/helmet/helment-64.png",
+    "monetaryValue": 222,
+    "value": 91,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 262,
+    "primaryStats": {
+      "stamina": 61,
+      "strength": 33,
+      "intellect": 62,
+      "agility": 13,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Bastion (tank) Helmet",
+    "src": "icons/helmet/helment-65.png",
+    "monetaryValue": 227,
+    "value": 96,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 264,
+    "primaryStats": {
+      "stamina": 90,
+      "strength": 26,
+      "intellect": 26,
+      "agility": 13,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Ranger (hunter) Helmet",
+    "src": "icons/helmet/helment-66.png",
+    "monetaryValue": 186,
+    "value": 84,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 203,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 13,
+      "intellect": 27,
+      "agility": 87,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Skirmisher (shaman) Helmet",
+    "src": "icons/helmet/helment-67.png",
+    "monetaryValue": 184,
+    "value": 82,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 202,
+    "primaryStats": {
+      "stamina": 61,
+      "strength": 18,
+      "intellect": 31,
+      "agility": 29,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Cutpurse (rogue) Helmet",
+    "src": "icons/helmet/helment-68.png",
+    "monetaryValue": 157,
+    "value": 71,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 166,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 26,
+      "intellect": 18,
+      "agility": 65,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Sabatuer (druid) Helmet",
+    "src": "icons/helmet/helment-69.png",
+    "monetaryValue": 153,
+    "value": 69,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 166,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 17,
+      "intellect": 79,
+      "agility": 25,
+      "spirit": 62
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Sabatuer (monk) Helmet",
+    "src": "icons/helmet/helment-70.png",
+    "monetaryValue": 162,
+    "value": 74,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 167,
+    "primaryStats": {
+      "stamina": 62,
+      "strength": 46,
+      "intellect": 16,
+      "agility": 62,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Arcanist (mage) Helmet",
+    "src": "icons/helmet/helment-71.png",
+    "monetaryValue": 126,
+    "value": 56,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 123,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 14,
+      "intellect": 65,
+      "agility": 25,
+      "spirit": 49
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Invoker (priest) Helmet",
+    "src": "icons/helmet/helment-72.png",
+    "monetaryValue": 125,
+    "value": 58,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 123,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 17,
+      "intellect": 86,
+      "agility": 17,
+      "spirit": 72
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Invoker (warlock) Helmet",
+    "src": "icons/helmet/helment-73.png",
+    "monetaryValue": 127,
+    "value": 57,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 123,
+    "primaryStats": {
+      "stamina": 59,
+      "strength": 14,
+      "intellect": 88,
+      "agility": 17,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Bastion (warrior) Helmet",
+    "src": "icons/helmet/helment-74.png",
+    "monetaryValue": 326,
+    "value": 138,
+    "rank": "master",
+    "type": "plate",
+    "armor": 331,
+    "primaryStats": {
+      "stamina": 85,
+      "strength": 100,
+      "intellect": 20,
+      "agility": 49,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sentinel (paladin) Helmet",
+    "src": "icons/helmet/helment-75.png",
+    "monetaryValue": 315,
+    "value": 137,
+    "rank": "master",
+    "type": "plate",
+    "armor": 332,
+    "primaryStats": {
+      "stamina": 69,
+      "strength": 21,
+      "intellect": 86,
+      "agility": 23,
+      "spirit": 39
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Juggernaut (tank) Helmet",
+    "src": "icons/helmet/helment-76.png",
+    "monetaryValue": 316,
+    "value": 131,
+    "rank": "master",
+    "type": "plate",
+    "armor": 330,
+    "primaryStats": {
+      "stamina": 96,
+      "strength": 47,
+      "intellect": 39,
+      "agility": 23,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Skirmisher (hunter) Helmet",
+    "src": "icons/helmet/helment-77.png",
+    "monetaryValue": 278,
+    "value": 117,
+    "rank": "master",
+    "type": "mail",
+    "armor": 256,
+    "primaryStats": {
+      "stamina": 49,
+      "strength": 23,
+      "intellect": 40,
+      "agility": 98,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Ranger (shaman) Helmet",
+    "src": "icons/helmet/helment-78.png",
+    "monetaryValue": 270,
+    "value": 114,
+    "rank": "master",
+    "type": "mail",
+    "armor": 256,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 38,
+      "intellect": 43,
+      "agility": 46,
+      "spirit": 35
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Cutpurse (rogue) Helmet",
+    "src": "icons/helmet/helment-79.png",
+    "monetaryValue": 224,
+    "value": 101,
+    "rank": "master",
+    "type": "leather",
+    "armor": 208,
+    "primaryStats": {
+      "stamina": 40,
+      "strength": 66,
+      "intellect": 49,
+      "agility": 104,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Stalker (druid) Helmet",
+    "src": "icons/helmet/helment-80.png",
+    "monetaryValue": 225,
+    "value": 100,
+    "rank": "master",
+    "type": "leather",
+    "armor": 210,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 18,
+      "intellect": 87,
+      "agility": 74,
+      "spirit": 78
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Cutpurse (monk) Helmet",
+    "src": "icons/helmet/helment-81.png",
+    "monetaryValue": 226,
+    "value": 101,
+    "rank": "master",
+    "type": "leather",
+    "armor": 210,
+    "primaryStats": {
+      "stamina": 77,
+      "strength": 48,
+      "intellect": 23,
+      "agility": 68,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Sage (mage) Helmet",
+    "src": "icons/helmet/helment-82.png",
+    "monetaryValue": 181,
+    "value": 83,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 156,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 21,
+      "intellect": 107,
+      "agility": 18,
+      "spirit": 83
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Invoker (priest) Helmet",
+    "src": "icons/helmet/helment-83.png",
+    "monetaryValue": 183,
+    "value": 81,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 156,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 44,
+      "intellect": 81,
+      "agility": 18,
+      "spirit": 98
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sage (warlock) Helmet",
+    "src": "icons/helmet/helment-84.png",
+    "monetaryValue": 176,
+    "value": 84,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 156,
+    "primaryStats": {
+      "stamina": 39,
+      "strength": 23,
+      "intellect": 120,
+      "agility": 22,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Sentinel (warrior) Helmet",
+    "src": "icons/helmet/helment-85.png",
+    "monetaryValue": 490,
+    "value": 204,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 436,
+    "primaryStats": {
+      "stamina": 107,
+      "strength": 177,
+      "intellect": 33,
+      "agility": 34,
+      "spirit": 35
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Bastion (paladin) Helmet",
+    "src": "icons/helmet/helment-86.png",
+    "monetaryValue": 481,
+    "value": 206,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 436,
+    "primaryStats": {
+      "stamina": 118,
+      "strength": 57,
+      "intellect": 107,
+      "agility": 31,
+      "spirit": 53
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Bastion (tank) Helmet",
+    "src": "icons/helmet/helment-87.png",
+    "monetaryValue": 490,
+    "value": 207,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 437,
+    "primaryStats": {
+      "stamina": 125,
+      "strength": 60,
+      "intellect": 57,
+      "agility": 33,
+      "spirit": 35
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Pathfinder (hunter) Helmet",
+    "src": "icons/helmet/helment-88.png",
+    "monetaryValue": 411,
+    "value": 176,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 327,
+    "primaryStats": {
+      "stamina": 56,
+      "strength": 30,
+      "intellect": 60,
+      "agility": 163,
+      "spirit": 56
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Skirmisher (shaman) Helmet",
+    "src": "icons/helmet/helment-89.png",
+    "monetaryValue": 414,
+    "value": 178,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 328,
+    "primaryStats": {
+      "stamina": 62,
+      "strength": 51,
+      "intellect": 34,
+      "agility": 64,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Cutpurse (rogue) Helmet",
+    "src": "icons/helmet/helment-90.png",
+    "monetaryValue": 342,
+    "value": 152,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 266,
+    "primaryStats": {
+      "stamina": 49,
+      "strength": 52,
+      "intellect": 51,
+      "agility": 172,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Cutpurse (druid) Helmet",
+    "src": "icons/helmet/helment-91.png",
+    "monetaryValue": 341,
+    "value": 152,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 266,
+    "primaryStats": {
+      "stamina": 59,
+      "strength": 30,
+      "intellect": 99,
+      "agility": 72,
+      "spirit": 92
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Sabatuer (monk) Helmet",
+    "src": "icons/helmet/helment-92.png",
+    "monetaryValue": 340,
+    "value": 151,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 266,
+    "primaryStats": {
+      "stamina": 94,
+      "strength": 52,
+      "intellect": 29,
+      "agility": 94,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Invoker (mage) Helmet",
+    "src": "icons/helmet/helment-93.png",
+    "monetaryValue": 278,
+    "value": 126,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 199,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 27,
+      "intellect": 168,
+      "agility": 31,
+      "spirit": 99
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Arcanist (priest) Helmet",
+    "src": "icons/helmet/helment-94.png",
+    "monetaryValue": 271,
+    "value": 130,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 198,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 30,
+      "intellect": 98,
+      "agility": 35,
+      "spirit": 176
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Seer (warlock) Helmet",
+    "src": "icons/helmet/helment-95.png",
+    "monetaryValue": 274,
+    "value": 129,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 196,
+    "primaryStats": {
+      "stamina": 60,
+      "strength": 33,
+      "intellect": 166,
+      "agility": 34,
+      "spirit": 55
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

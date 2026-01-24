@@ -1,0 +1,2732 @@
+[
+  {
+    "quality": "common",
+    "name": "Rusted Repeater",
+    "src": "icons/crossbow/crossbow-0.png",
+    "monetaryValue": 21,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 1,
+      "strength": 2,
+      "intellect": 7,
+      "agility": 4,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Boltspitter",
+    "src": "icons/crossbow/crossbow-1.png",
+    "monetaryValue": 27,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 9,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Boltspitter",
+    "src": "icons/crossbow/crossbow-2.png",
+    "monetaryValue": 30,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 12,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Boltspitter",
+    "src": "icons/crossbow/crossbow-3.png",
+    "monetaryValue": 33,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 8,
+      "agility": 13,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Crossbow",
+    "src": "icons/crossbow/crossbow-4.png",
+    "monetaryValue": 34,
+    "value": 14,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 13,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Crossbow",
+    "src": "icons/crossbow/crossbow-5.png",
+    "monetaryValue": 35,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 3,
+      "agility": 17,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Boltspitter",
+    "src": "icons/crossbow/crossbow-6.png",
+    "monetaryValue": 35,
+    "value": 21,
+    "rank": "iron",
+    "fromDamage": 5,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 3,
+      "intellect": 7,
+      "agility": 11,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Arbalest",
+    "src": "icons/crossbow/crossbow-7.png",
+    "monetaryValue": 40,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 8,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Arbalest",
+    "src": "icons/crossbow/crossbow-8.png",
+    "monetaryValue": 44,
+    "value": 18,
+    "rank": "iron",
+    "fromDamage": 14,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 2,
+      "agility": 15,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Repeater",
+    "src": "icons/crossbow/crossbow-9.png",
+    "monetaryValue": 66,
+    "value": 26,
+    "rank": "gold",
+    "fromDamage": 16,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 13,
+      "agility": 19,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Boltspitter",
+    "src": "icons/crossbow/crossbow-10.png",
+    "monetaryValue": 67,
+    "value": 27,
+    "rank": "gold",
+    "fromDamage": 18,
+    "toDamage": 18,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 6,
+      "intellect": 4,
+      "agility": 19,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Crossbow",
+    "src": "icons/crossbow/crossbow-11.png",
+    "monetaryValue": 49,
+    "value": 26,
+    "rank": "gold",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 4,
+      "agility": 19,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Crossbow",
+    "src": "icons/crossbow/crossbow-12.png",
+    "monetaryValue": 83,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 11,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 6,
+      "intellect": 20,
+      "agility": 31,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 2,
+      "haste": 1,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Arbalest",
+    "src": "icons/crossbow/crossbow-13.png",
+    "monetaryValue": 82,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 23,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 9,
+      "intellect": 5,
+      "agility": 26,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Boltspitter",
+    "src": "icons/crossbow/crossbow-14.png",
+    "monetaryValue": 78,
+    "value": 35,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 24,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 7,
+      "intellect": 5,
+      "agility": 31,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Boltspitter",
+    "src": "icons/crossbow/crossbow-15.png",
+    "monetaryValue": 104,
+    "value": 54,
+    "rank": "emerald",
+    "fromDamage": 26,
+    "toDamage": 26,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 8,
+      "intellect": 34,
+      "agility": 38,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 2,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Crossbow",
+    "src": "icons/crossbow/crossbow-16.png",
+    "monetaryValue": 106,
+    "value": 53,
+    "rank": "emerald",
+    "fromDamage": 15,
+    "toDamage": 18,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 14,
+      "intellect": 8,
+      "agility": 25,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Repeater",
+    "src": "icons/crossbow/crossbow-17.png",
+    "monetaryValue": 98,
+    "value": 60,
+    "rank": "emerald",
+    "fromDamage": 11,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 9,
+      "intellect": 9,
+      "agility": 44,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Boltspitter",
+    "src": "icons/crossbow/crossbow-18.png",
+    "monetaryValue": 104,
+    "value": 59,
+    "rank": "diamond",
+    "fromDamage": 22,
+    "toDamage": 24,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 11,
+      "intellect": 39,
+      "agility": 65,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 1,
+      "haste": 2,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Boltspitter",
+    "src": "icons/crossbow/crossbow-19.png",
+    "monetaryValue": 150,
+    "value": 66,
+    "rank": "diamond",
+    "fromDamage": 19,
+    "toDamage": 25,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 21,
+      "intellect": 13,
+      "agility": 68,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 9,
+      "haste": 9,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Boltspitter",
+    "src": "icons/crossbow/crossbow-20.png",
+    "monetaryValue": 139,
+    "value": 65,
+    "rank": "diamond",
+    "fromDamage": 39,
+    "toDamage": 39,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 13,
+      "intellect": 11,
+      "agility": 54,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 15,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Repeater",
+    "src": "icons/crossbow/crossbow-21.png",
+    "monetaryValue": 170,
+    "value": 84,
+    "rank": "master",
+    "fromDamage": 29,
+    "toDamage": 32,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 20,
+      "intellect": 53,
+      "agility": 69,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Arbalest",
+    "src": "icons/crossbow/crossbow-22.png",
+    "monetaryValue": 165,
+    "value": 87,
+    "rank": "master",
+    "fromDamage": 21,
+    "toDamage": 50,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 32,
+      "intellect": 14,
+      "agility": 91,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 13,
+      "haste": 11,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Repeater",
+    "src": "icons/crossbow/crossbow-23.png",
+    "monetaryValue": 154,
+    "value": 71,
+    "rank": "master",
+    "fromDamage": 42,
+    "toDamage": 43,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 14,
+      "intellect": 14,
+      "agility": 94,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 25,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Arbalest",
+    "src": "icons/crossbow/crossbow-24.png",
+    "monetaryValue": 249,
+    "value": 124,
+    "rank": "demon",
+    "fromDamage": 30,
+    "toDamage": 39,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 24,
+      "intellect": 68,
+      "agility": 101,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 2,
+      "haste": 3,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Repeater",
+    "src": "icons/crossbow/crossbow-25.png",
+    "monetaryValue": 278,
+    "value": 143,
+    "rank": "demon",
+    "fromDamage": 60,
+    "toDamage": 67,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 53,
+      "intellect": 20,
+      "agility": 109,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 13,
+      "haste": 18,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Crossbow",
+    "src": "icons/crossbow/crossbow-26.png",
+    "monetaryValue": 201,
+    "value": 129,
+    "rank": "demon",
+    "fromDamage": 29,
+    "toDamage": 30,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 25,
+      "intellect": 20,
+      "agility": 134,
+      "spirit": 74
+    },
+    "secondaryStats": {
+      "leech": 38,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Repeater",
+    "src": "icons/crossbow/crossbow-27.png",
+    "monetaryValue": 27,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 4,
+      "agility": 11,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Boltspitter",
+    "src": "icons/crossbow/crossbow-28.png",
+    "monetaryValue": 34,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 15,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Crossbow",
+    "src": "icons/crossbow/crossbow-29.png",
+    "monetaryValue": 42,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 13,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Arbalest",
+    "src": "icons/crossbow/crossbow-30.png",
+    "monetaryValue": 65,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 12,
+    "toDamage": 15,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 15,
+      "agility": 18,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Arbalest",
+    "src": "icons/crossbow/crossbow-31.png",
+    "monetaryValue": 73,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 23,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 10,
+      "intellect": 5,
+      "agility": 28,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Arbalest",
+    "src": "icons/crossbow/crossbow-32.png",
+    "monetaryValue": 83,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 18,
+    "toDamage": 27,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 8,
+      "intellect": 8,
+      "agility": 35,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 15,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Repeater",
+    "src": "icons/crossbow/crossbow-33.png",
+    "monetaryValue": 111,
+    "value": 68,
+    "rank": "diamond",
+    "fromDamage": 35,
+    "toDamage": 35,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 11,
+      "intellect": 47,
+      "agility": 60,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Crossbow",
+    "src": "icons/crossbow/crossbow-34.png",
+    "monetaryValue": 180,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 33,
+    "toDamage": 50,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 26,
+      "intellect": 14,
+      "agility": 80,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 7,
+      "haste": 11,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Arbalest",
+    "src": "icons/crossbow/crossbow-35.png",
+    "monetaryValue": 269,
+    "value": 112,
+    "rank": "demon",
+    "fromDamage": 60,
+    "toDamage": 64,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 51,
+      "strength": 21,
+      "intellect": 25,
+      "agility": 84,
+      "spirit": 52
+    },
+    "secondaryStats": {
+      "leech": 38,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Repeater",
+    "src": "icons/crossbow/crossbow-36.png",
+    "monetaryValue": 20,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 7,
+      "agility": 11,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Arbalest",
+    "src": "icons/crossbow/crossbow-37.png",
+    "monetaryValue": 36,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 16,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Arbalest",
+    "src": "icons/crossbow/crossbow-38.png",
+    "monetaryValue": 49,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 8,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Arbalest",
+    "src": "icons/crossbow/crossbow-39.png",
+    "monetaryValue": 62,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 8,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 5,
+      "intellect": 15,
+      "agility": 26,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Boltspitter",
+    "src": "icons/crossbow/crossbow-40.png",
+    "monetaryValue": 79,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 11,
+    "toDamage": 21,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 10,
+      "intellect": 5,
+      "agility": 36,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Repeater",
+    "src": "icons/crossbow/crossbow-41.png",
+    "monetaryValue": 81,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 18,
+    "toDamage": 22,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 8,
+      "intellect": 8,
+      "agility": 39,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Boltspitter",
+    "src": "icons/crossbow/crossbow-42.png",
+    "monetaryValue": 139,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 20,
+    "toDamage": 32,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 13,
+      "intellect": 40,
+      "agility": 68,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 4,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Crossbow",
+    "src": "icons/crossbow/crossbow-43.png",
+    "monetaryValue": 197,
+    "value": 107,
+    "rank": "master",
+    "fromDamage": 30,
+    "toDamage": 54,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 35,
+      "intellect": 15,
+      "agility": 95,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 14,
+      "haste": 13,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Crossbow",
+    "src": "icons/crossbow/crossbow-44.png",
+    "monetaryValue": 276,
+    "value": 116,
+    "rank": "demon",
+    "fromDamage": 72,
+    "toDamage": 75,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 40,
+      "strength": 25,
+      "intellect": 23,
+      "agility": 133,
+      "spirit": 53
+    },
+    "secondaryStats": {
+      "leech": 31,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Arbalest",
+    "src": "icons/crossbow/crossbow-45.png",
+    "monetaryValue": 20,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 1,
+      "strength": 2,
+      "intellect": 5,
+      "agility": 8,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Crossbow",
+    "src": "icons/crossbow/crossbow-46.png",
+    "monetaryValue": 35,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 10,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 15,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Repeater",
+    "src": "icons/crossbow/crossbow-47.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 2,
+      "agility": 12,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Arbalest",
+    "src": "icons/crossbow/crossbow-48.png",
+    "monetaryValue": 61,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 15,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 17,
+      "agility": 19,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Crossbow",
+    "src": "icons/crossbow/crossbow-49.png",
+    "monetaryValue": 60,
+    "value": 46,
+    "rank": "platinum",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 11,
+      "intellect": 6,
+      "agility": 28,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Arbalest",
+    "src": "icons/crossbow/crossbow-50.png",
+    "monetaryValue": 105,
+    "value": 48,
+    "rank": "emerald",
+    "fromDamage": 11,
+    "toDamage": 17,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 8,
+      "intellect": 9,
+      "agility": 43,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 13,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Arbalest",
+    "src": "icons/crossbow/crossbow-51.png",
+    "monetaryValue": 114,
+    "value": 70,
+    "rank": "diamond",
+    "fromDamage": 32,
+    "toDamage": 33,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 11,
+      "intellect": 46,
+      "agility": 54,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 3,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Repeater",
+    "src": "icons/crossbow/crossbow-52.png",
+    "monetaryValue": 182,
+    "value": 80,
+    "rank": "master",
+    "fromDamage": 41,
+    "toDamage": 49,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 35,
+      "intellect": 19,
+      "agility": 94,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 12,
+      "haste": 8,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Crossbow",
+    "src": "icons/crossbow/crossbow-53.png",
+    "monetaryValue": 222,
+    "value": 126,
+    "rank": "demon",
+    "fromDamage": 48,
+    "toDamage": 56,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 28,
+      "intellect": 21,
+      "agility": 128,
+      "spirit": 41
+    },
+    "secondaryStats": {
+      "leech": 35,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Crossbow",
+    "src": "icons/crossbow/crossbow-54.png",
+    "monetaryValue": 23,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 1,
+      "strength": 2,
+      "intellect": 7,
+      "agility": 9,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Arbalest",
+    "src": "icons/crossbow/crossbow-55.png",
+    "monetaryValue": 37,
+    "value": 22,
+    "rank": "silver",
+    "fromDamage": 10,
+    "toDamage": 10,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 17,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Repeater",
+    "src": "icons/crossbow/crossbow-56.png",
+    "monetaryValue": 46,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 14,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 16,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Boltspitter",
+    "src": "icons/crossbow/crossbow-57.png",
+    "monetaryValue": 58,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 11,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 13,
+      "agility": 23,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Repeater",
+    "src": "icons/crossbow/crossbow-58.png",
+    "monetaryValue": 67,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 22,
+    "toDamage": 23,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 13,
+      "intellect": 5,
+      "agility": 29,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 6,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Boltspitter",
+    "src": "icons/crossbow/crossbow-59.png",
+    "monetaryValue": 103,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 13,
+    "toDamage": 27,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 13,
+      "intellect": 9,
+      "agility": 40,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 11,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Repeater",
+    "src": "icons/crossbow/crossbow-60.png",
+    "monetaryValue": 100,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 26,
+    "toDamage": 33,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 11,
+      "intellect": 34,
+      "agility": 65,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Boltspitter",
+    "src": "icons/crossbow/crossbow-61.png",
+    "monetaryValue": 167,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 31,
+    "toDamage": 54,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 36,
+      "intellect": 17,
+      "agility": 92,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 12,
+      "haste": 11,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Crossbow",
+    "src": "icons/crossbow/crossbow-62.png",
+    "monetaryValue": 268,
+    "value": 115,
+    "rank": "demon",
+    "fromDamage": 69,
+    "toDamage": 70,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 55,
+      "strength": 24,
+      "intellect": 20,
+      "agility": 76,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 31,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Boltspitter",
+    "src": "icons/crossbow/crossbow-63.png",
+    "monetaryValue": 23,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 1,
+      "strength": 1,
+      "intellect": 4,
+      "agility": 8,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Repeater",
+    "src": "icons/crossbow/crossbow-64.png",
+    "monetaryValue": 37,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 16,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Crossbow",
+    "src": "icons/crossbow/crossbow-65.png",
+    "monetaryValue": 47,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 8,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 3,
+      "agility": 15,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Boltspitter",
+    "src": "icons/crossbow/crossbow-66.png",
+    "monetaryValue": 68,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 8,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 16,
+      "agility": 25,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Boltspitter",
+    "src": "icons/crossbow/crossbow-67.png",
+    "monetaryValue": 75,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 16,
+    "toDamage": 19,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 12,
+      "intellect": 6,
+      "agility": 26,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Arbalest",
+    "src": "icons/crossbow/crossbow-68.png",
+    "monetaryValue": 108,
+    "value": 49,
+    "rank": "emerald",
+    "fromDamage": 24,
+    "toDamage": 29,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 9,
+      "intellect": 9,
+      "agility": 48,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 12,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Boltspitter",
+    "src": "icons/crossbow/crossbow-69.png",
+    "monetaryValue": 137,
+    "value": 54,
+    "rank": "diamond",
+    "fromDamage": 31,
+    "toDamage": 35,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 14,
+      "intellect": 47,
+      "agility": 69,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 2,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Repeater",
+    "src": "icons/crossbow/crossbow-70.png",
+    "monetaryValue": 194,
+    "value": 68,
+    "rank": "master",
+    "fromDamage": 46,
+    "toDamage": 54,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 27,
+      "intellect": 16,
+      "agility": 89,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 9,
+      "haste": 12,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Arbalest",
+    "src": "icons/crossbow/crossbow-71.png",
+    "monetaryValue": 203,
+    "value": 134,
+    "rank": "demon",
+    "fromDamage": 69,
+    "toDamage": 71,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 28,
+      "intellect": 20,
+      "agility": 102,
+      "spirit": 44
+    },
+    "secondaryStats": {
+      "leech": 24,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Crossbow",
+    "src": "icons/crossbow/crossbow-72.png",
+    "monetaryValue": 27,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 5,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 7,
+      "agility": 12,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Crossbow",
+    "src": "icons/crossbow/crossbow-73.png",
+    "monetaryValue": 28,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 14,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Boltspitter",
+    "src": "icons/crossbow/crossbow-74.png",
+    "monetaryValue": 46,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 3,
+      "agility": 12,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Repeater",
+    "src": "icons/crossbow/crossbow-75.png",
+    "monetaryValue": 67,
+    "value": 35,
+    "rank": "gold",
+    "fromDamage": 8,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 14,
+      "agility": 15,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Boltspitter",
+    "src": "icons/crossbow/crossbow-76.png",
+    "monetaryValue": 64,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 16,
+    "toDamage": 17,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 9,
+      "intellect": 7,
+      "agility": 26,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 6,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Arbalest",
+    "src": "icons/crossbow/crossbow-77.png",
+    "monetaryValue": 110,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 11,
+    "toDamage": 30,
+    "parry": 0,
+    "block": 0,
+    "range": 8,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 7,
+      "intellect": 8,
+      "agility": 44,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 14,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

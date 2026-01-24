@@ -1,0 +1,2978 @@
+[
+  {
+    "quality": "common",
+    "name": "Town Guard Bulwark (warrior) Chest",
+    "src": "icons/chest/chest-0.png",
+    "monetaryValue": 29,
+    "value": 12,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 15,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Bastion (paladin) Chest",
+    "src": "icons/chest/chest-1.png",
+    "monetaryValue": 34,
+    "value": 14,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 18,
+      "agility": 2,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Apprentice Sentinel (tank) Chest",
+    "src": "icons/chest/chest-2.png",
+    "monetaryValue": 25,
+    "value": 12,
+    "rank": "bronze",
+    "type": "plate",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Pathfinder (hunter) Chest",
+    "src": "icons/chest/chest-3.png",
+    "monetaryValue": 31,
+    "value": 14,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 50,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 9,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Huntsman (shaman) Chest",
+    "src": "icons/chest/chest-4.png",
+    "monetaryValue": 22,
+    "value": 12,
+    "rank": "bronze",
+    "type": "mail",
+    "armor": 50,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 3,
+      "intellect": 6,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sabatuer (rogue) Chest",
+    "src": "icons/chest/chest-5.png",
+    "monetaryValue": 23,
+    "value": 9,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 40,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 18,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Cutpurse (druid) Chest",
+    "src": "icons/chest/chest-6.png",
+    "monetaryValue": 20,
+    "value": 12,
+    "rank": "bronze",
+    "type": "leather",
+    "armor": 40,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 8,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Militia Sage (mage) Chest",
+    "src": "icons/chest/chest-7.png",
+    "monetaryValue": 22,
+    "value": 8,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 25,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 18,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Invoker (priest) Chest",
+    "src": "icons/chest/chest-8.png",
+    "monetaryValue": 19,
+    "value": 9,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 25,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 3,
+      "intellect": 6,
+      "agility": 2,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Seer (warlock) Chest",
+    "src": "icons/chest/chest-9.png",
+    "monetaryValue": 18,
+    "value": 9,
+    "rank": "bronze",
+    "type": "cloth",
+    "armor": 25,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 12,
+      "agility": 2,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bulwark (warrior) Chest",
+    "src": "icons/chest/chest-10.png",
+    "monetaryValue": 43,
+    "value": 14,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 90,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 26,
+      "intellect": 5,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Juggernaut (paladin) Chest",
+    "src": "icons/chest/chest-11.png",
+    "monetaryValue": 37,
+    "value": 15,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 90,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 8,
+      "intellect": 14,
+      "agility": 5,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Bastion (tank) Chest",
+    "src": "icons/chest/chest-12.png",
+    "monetaryValue": 37,
+    "value": 17,
+    "rank": "silver",
+    "type": "plate",
+    "armor": 90,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 9,
+      "intellect": 8,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (hunter) Chest",
+    "src": "icons/chest/chest-13.png",
+    "monetaryValue": 30,
+    "value": 14,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 70,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 3,
+      "intellect": 6,
+      "agility": 27,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Ranger (shaman) Chest",
+    "src": "icons/chest/chest-14.png",
+    "monetaryValue": 41,
+    "value": 13,
+    "rank": "silver",
+    "type": "mail",
+    "armor": 70,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 6,
+      "intellect": 6,
+      "agility": 6,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Cutpurse (rogue) Chest",
+    "src": "icons/chest/chest-15.png",
+    "monetaryValue": 34,
+    "value": 15,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 6,
+      "intellect": 5,
+      "agility": 23,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Shadow (druid) Chest",
+    "src": "icons/chest/chest-16.png",
+    "monetaryValue": 29,
+    "value": 15,
+    "rank": "silver",
+    "type": "leather",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 3,
+      "intellect": 18,
+      "agility": 12,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Sage (mage) Chest",
+    "src": "icons/chest/chest-17.png",
+    "monetaryValue": 27,
+    "value": 9,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 45,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 23,
+      "agility": 5,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (priest) Chest",
+    "src": "icons/chest/chest-18.png",
+    "monetaryValue": 22,
+    "value": 14,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 45,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 15,
+      "agility": 6,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Squire Invoker (warlock) Chest",
+    "src": "icons/chest/chest-19.png",
+    "monetaryValue": 21,
+    "value": 9,
+    "rank": "silver",
+    "type": "cloth",
+    "armor": 45,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 14,
+      "agility": 3,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Bulwark (warrior) Chest",
+    "src": "icons/chest/chest-20.png",
+    "monetaryValue": 48,
+    "value": 28,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 75,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 17,
+      "intellect": 3,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Sentinel (paladin) Chest",
+    "src": "icons/chest/chest-21.png",
+    "monetaryValue": 48,
+    "value": 22,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 75,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 6,
+      "intellect": 14,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden Sentinel (tank) Chest",
+    "src": "icons/chest/chest-22.png",
+    "monetaryValue": 54,
+    "value": 25,
+    "rank": "iron",
+    "type": "plate",
+    "armor": 75,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 9,
+      "intellect": 15,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Pathfinder (hunter) Chest",
+    "src": "icons/chest/chest-23.png",
+    "monetaryValue": 48,
+    "value": 24,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 5,
+      "intellect": 12,
+      "agility": 23,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Pathfinder (shaman) Chest",
+    "src": "icons/chest/chest-24.png",
+    "monetaryValue": 50,
+    "value": 23,
+    "rank": "iron",
+    "type": "mail",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 6,
+      "intellect": 6,
+      "agility": 8,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Shadow (rogue) Chest",
+    "src": "icons/chest/chest-25.png",
+    "monetaryValue": 41,
+    "value": 18,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 8,
+      "intellect": 5,
+      "agility": 24,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Cutpurse (druid) Chest",
+    "src": "icons/chest/chest-26.png",
+    "monetaryValue": 42,
+    "value": 17,
+    "rank": "iron",
+    "type": "leather",
+    "armor": 48,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 5,
+      "intellect": 11,
+      "agility": 8,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (mage) Chest",
+    "src": "icons/chest/chest-27.png",
+    "monetaryValue": 31,
+    "value": 15,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 32,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 23,
+      "agility": 5,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge Seer (priest) Chest",
+    "src": "icons/chest/chest-28.png",
+    "monetaryValue": 34,
+    "value": 15,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 32,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 11,
+      "agility": 3,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Seer (warlock) Chest",
+    "src": "icons/chest/chest-29.png",
+    "monetaryValue": 27,
+    "value": 13,
+    "rank": "iron",
+    "type": "cloth",
+    "armor": 32,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 8,
+      "intellect": 24,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Sentinel (warrior) Chest",
+    "src": "icons/chest/chest-30.png",
+    "monetaryValue": 83,
+    "value": 33,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 125,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 32,
+      "intellect": 6,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Bulwark (paladin) Chest",
+    "src": "icons/chest/chest-31.png",
+    "monetaryValue": 83,
+    "value": 38,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 125,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 11,
+      "intellect": 24,
+      "agility": 8,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Bulwark (tank) Chest",
+    "src": "icons/chest/chest-32.png",
+    "monetaryValue": 77,
+    "value": 34,
+    "rank": "gold",
+    "type": "plate",
+    "armor": 125,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 5,
+      "intellect": 12,
+      "agility": 6,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Huntsman (hunter) Chest",
+    "src": "icons/chest/chest-33.png",
+    "monetaryValue": 71,
+    "value": 28,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 98,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 5,
+      "intellect": 6,
+      "agility": 35,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Ranger (shaman) Chest",
+    "src": "icons/chest/chest-34.png",
+    "monetaryValue": 72,
+    "value": 33,
+    "rank": "gold",
+    "type": "mail",
+    "armor": 98,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 9,
+      "intellect": 14,
+      "agility": 12,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (rogue) Chest",
+    "src": "icons/chest/chest-35.png",
+    "monetaryValue": 60,
+    "value": 26,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 82,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 9,
+      "intellect": 6,
+      "agility": 35,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stalker (druid) Chest",
+    "src": "icons/chest/chest-36.png",
+    "monetaryValue": 58,
+    "value": 23,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 82,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 12,
+      "intellect": 20,
+      "agility": 12,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Shadow (monk) Chest",
+    "src": "icons/chest/chest-37.png",
+    "monetaryValue": 57,
+    "value": 24,
+    "rank": "gold",
+    "type": "leather",
+    "armor": 83,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 12,
+      "intellect": 8,
+      "agility": 24,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Invoker (mage) Chest",
+    "src": "icons/chest/chest-38.png",
+    "monetaryValue": 45,
+    "value": 21,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 8,
+      "intellect": 35,
+      "agility": 8,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Seer (priest) Chest",
+    "src": "icons/chest/chest-39.png",
+    "monetaryValue": 45,
+    "value": 19,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 18,
+      "agility": 8,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Invoker (warlock) Chest",
+    "src": "icons/chest/chest-40.png",
+    "monetaryValue": 41,
+    "value": 21,
+    "rank": "gold",
+    "type": "cloth",
+    "armor": 60,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 8,
+      "intellect": 33,
+      "agility": 8,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Bastion (warrior) Chest",
+    "src": "icons/chest/chest-41.png",
+    "monetaryValue": 117,
+    "value": 50,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 164,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 39,
+      "intellect": 9,
+      "agility": 14,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Bastion (paladin) Chest",
+    "src": "icons/chest/chest-42.png",
+    "monetaryValue": 119,
+    "value": 46,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 164,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 18,
+      "intellect": 29,
+      "agility": 8,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Sentinel (tank) Chest",
+    "src": "icons/chest/chest-43.png",
+    "monetaryValue": 116,
+    "value": 45,
+    "rank": "platinum",
+    "type": "plate",
+    "armor": 165,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 33,
+      "intellect": 15,
+      "agility": 11,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Skirmisher (hunter) Chest",
+    "src": "icons/chest/chest-44.png",
+    "monetaryValue": 104,
+    "value": 44,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 130,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 11,
+      "intellect": 27,
+      "agility": 41,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Ranger (shaman) Chest",
+    "src": "icons/chest/chest-45.png",
+    "monetaryValue": 103,
+    "value": 39,
+    "rank": "platinum",
+    "type": "mail",
+    "armor": 131,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 15,
+      "intellect": 33,
+      "agility": 20,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Sabatuer (rogue) Chest",
+    "src": "icons/chest/chest-46.png",
+    "monetaryValue": 80,
+    "value": 34,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 108,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 18,
+      "intellect": 11,
+      "agility": 42,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Cutpurse (druid) Chest",
+    "src": "icons/chest/chest-47.png",
+    "monetaryValue": 78,
+    "value": 34,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 109,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 9,
+      "intellect": 48,
+      "agility": 20,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Stalker (monk) Chest",
+    "src": "icons/chest/chest-48.png",
+    "monetaryValue": 81,
+    "value": 36,
+    "rank": "platinum",
+    "type": "leather",
+    "armor": 109,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 20,
+      "intellect": 8,
+      "agility": 20,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Invoker (mage) Chest",
+    "src": "icons/chest/chest-49.png",
+    "monetaryValue": 63,
+    "value": 32,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 80,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 11,
+      "intellect": 48,
+      "agility": 9,
+      "spirit": 32
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Arcanist (priest) Chest",
+    "src": "icons/chest/chest-50.png",
+    "monetaryValue": 68,
+    "value": 28,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 80,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 18,
+      "intellect": 32,
+      "agility": 9,
+      "spirit": 48
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Seer (warlock) Chest",
+    "src": "icons/chest/chest-51.png",
+    "monetaryValue": 69,
+    "value": 31,
+    "rank": "platinum",
+    "type": "cloth",
+    "armor": 80,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 8,
+      "intellect": 44,
+      "agility": 9,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Juggernaut (warrior) Chest",
+    "src": "icons/chest/chest-52.png",
+    "monetaryValue": 157,
+    "value": 69,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 209,
+    "primaryStats": {
+      "stamina": 45,
+      "strength": 66,
+      "intellect": 14,
+      "agility": 14,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Bulwark (paladin) Chest",
+    "src": "icons/chest/chest-53.png",
+    "monetaryValue": 166,
+    "value": 71,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 210,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 24,
+      "intellect": 42,
+      "agility": 15,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 2,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Bulwark (tank) Chest",
+    "src": "icons/chest/chest-54.png",
+    "monetaryValue": 167,
+    "value": 71,
+    "rank": "emerald",
+    "type": "plate",
+    "armor": 211,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 26,
+      "intellect": 20,
+      "agility": 23,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Skirmisher (hunter) Chest",
+    "src": "icons/chest/chest-55.png",
+    "monetaryValue": 143,
+    "value": 62,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 167,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 14,
+      "intellect": 27,
+      "agility": 66,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Pathfinder (shaman) Chest",
+    "src": "icons/chest/chest-56.png",
+    "monetaryValue": 141,
+    "value": 59,
+    "rank": "emerald",
+    "type": "mail",
+    "armor": 166,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 48,
+      "intellect": 15,
+      "agility": 23,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Shadow (rogue) Chest",
+    "src": "icons/chest/chest-57.png",
+    "monetaryValue": 113,
+    "value": 53,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 138,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 20,
+      "intellect": 14,
+      "agility": 71,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Sabatuer (druid) Chest",
+    "src": "icons/chest/chest-58.png",
+    "monetaryValue": 111,
+    "value": 55,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 137,
+    "primaryStats": {
+      "stamina": 44,
+      "strength": 24,
+      "intellect": 50,
+      "agility": 44,
+      "spirit": 50
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Stalker (monk) Chest",
+    "src": "icons/chest/chest-59.png",
+    "monetaryValue": 112,
+    "value": 52,
+    "rank": "emerald",
+    "type": "leather",
+    "armor": 139,
+    "primaryStats": {
+      "stamina": 42,
+      "strength": 24,
+      "intellect": 23,
+      "agility": 45,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Sage (mage) Chest",
+    "src": "icons/chest/chest-60.png",
+    "monetaryValue": 95,
+    "value": 41,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 103,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 14,
+      "intellect": 56,
+      "agility": 26,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Invoker (priest) Chest",
+    "src": "icons/chest/chest-61.png",
+    "monetaryValue": 90,
+    "value": 46,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 102,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 14,
+      "intellect": 50,
+      "agility": 15,
+      "spirit": 74
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Seer (warlock) Chest",
+    "src": "icons/chest/chest-62.png",
+    "monetaryValue": 91,
+    "value": 45,
+    "rank": "emerald",
+    "type": "cloth",
+    "armor": 102,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 14,
+      "intellect": 48,
+      "agility": 24,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bastion (warrior) Chest",
+    "src": "icons/chest/chest-63.png",
+    "monetaryValue": 220,
+    "value": 98,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 269,
+    "primaryStats": {
+      "stamina": 57,
+      "strength": 86,
+      "intellect": 18,
+      "agility": 21,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Bulwark (paladin) Chest",
+    "src": "icons/chest/chest-64.png",
+    "monetaryValue": 223,
+    "value": 91,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 271,
+    "primaryStats": {
+      "stamina": 71,
+      "strength": 38,
+      "intellect": 72,
+      "agility": 15,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Bastion (tank) Chest",
+    "src": "icons/chest/chest-65.png",
+    "monetaryValue": 218,
+    "value": 90,
+    "rank": "diamond",
+    "type": "plate",
+    "armor": 270,
+    "primaryStats": {
+      "stamina": 104,
+      "strength": 30,
+      "intellect": 30,
+      "agility": 15,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Ranger (hunter) Chest",
+    "src": "icons/chest/chest-66.png",
+    "monetaryValue": 184,
+    "value": 83,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 209,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 15,
+      "intellect": 32,
+      "agility": 101,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Skirmisher (shaman) Chest",
+    "src": "icons/chest/chest-67.png",
+    "monetaryValue": 191,
+    "value": 83,
+    "rank": "diamond",
+    "type": "mail",
+    "armor": 210,
+    "primaryStats": {
+      "stamina": 71,
+      "strength": 21,
+      "intellect": 36,
+      "agility": 33,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Cutpurse (rogue) Chest",
+    "src": "icons/chest/chest-68.png",
+    "monetaryValue": 157,
+    "value": 72,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 176,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 30,
+      "intellect": 21,
+      "agility": 76,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Sabatuer (druid) Chest",
+    "src": "icons/chest/chest-69.png",
+    "monetaryValue": 160,
+    "value": 71,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 174,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 20,
+      "intellect": 92,
+      "agility": 29,
+      "spirit": 72
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Sabatuer (monk) Chest",
+    "src": "icons/chest/chest-70.png",
+    "monetaryValue": 157,
+    "value": 72,
+    "rank": "diamond",
+    "type": "leather",
+    "armor": 174,
+    "primaryStats": {
+      "stamina": 72,
+      "strength": 53,
+      "intellect": 18,
+      "agility": 72,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Arcanist (mage) Chest",
+    "src": "icons/chest/chest-71.png",
+    "monetaryValue": 127,
+    "value": 60,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 131,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 17,
+      "intellect": 76,
+      "agility": 29,
+      "spirit": 57
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Invoker (priest) Chest",
+    "src": "icons/chest/chest-72.png",
+    "monetaryValue": 124,
+    "value": 61,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 131,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 20,
+      "intellect": 100,
+      "agility": 20,
+      "spirit": 83
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Invoker (warlock) Chest",
+    "src": "icons/chest/chest-73.png",
+    "monetaryValue": 130,
+    "value": 57,
+    "rank": "diamond",
+    "type": "cloth",
+    "armor": 130,
+    "primaryStats": {
+      "stamina": 68,
+      "strength": 17,
+      "intellect": 103,
+      "agility": 20,
+      "spirit": 39
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Bastion (warrior) Chest",
+    "src": "icons/chest/chest-74.png",
+    "monetaryValue": 320,
+    "value": 134,
+    "rank": "master",
+    "type": "plate",
+    "armor": 341,
+    "primaryStats": {
+      "stamina": 98,
+      "strength": 116,
+      "intellect": 23,
+      "agility": 57,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sentinel (paladin) Chest",
+    "src": "icons/chest/chest-75.png",
+    "monetaryValue": 319,
+    "value": 134,
+    "rank": "master",
+    "type": "plate",
+    "armor": 340,
+    "primaryStats": {
+      "stamina": 80,
+      "strength": 24,
+      "intellect": 100,
+      "agility": 27,
+      "spirit": 45
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Juggernaut (tank) Chest",
+    "src": "icons/chest/chest-76.png",
+    "monetaryValue": 319,
+    "value": 131,
+    "rank": "master",
+    "type": "plate",
+    "armor": 340,
+    "primaryStats": {
+      "stamina": 112,
+      "strength": 54,
+      "intellect": 45,
+      "agility": 27,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Skirmisher (hunter) Chest",
+    "src": "icons/chest/chest-77.png",
+    "monetaryValue": 274,
+    "value": 114,
+    "rank": "master",
+    "type": "mail",
+    "armor": 265,
+    "primaryStats": {
+      "stamina": 57,
+      "strength": 27,
+      "intellect": 47,
+      "agility": 113,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Ranger (shaman) Chest",
+    "src": "icons/chest/chest-78.png",
+    "monetaryValue": 275,
+    "value": 116,
+    "rank": "master",
+    "type": "mail",
+    "armor": 265,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 44,
+      "intellect": 50,
+      "agility": 53,
+      "spirit": 41
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Cutpurse (rogue) Chest",
+    "src": "icons/chest/chest-79.png",
+    "monetaryValue": 226,
+    "value": 104,
+    "rank": "master",
+    "type": "leather",
+    "armor": 221,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 77,
+      "intellect": 57,
+      "agility": 121,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Stalker (druid) Chest",
+    "src": "icons/chest/chest-80.png",
+    "monetaryValue": 227,
+    "value": 101,
+    "rank": "master",
+    "type": "leather",
+    "armor": 219,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 21,
+      "intellect": 101,
+      "agility": 86,
+      "spirit": 91
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Cutpurse (monk) Chest",
+    "src": "icons/chest/chest-81.png",
+    "monetaryValue": 230,
+    "value": 98,
+    "rank": "master",
+    "type": "leather",
+    "armor": 219,
+    "primaryStats": {
+      "stamina": 89,
+      "strength": 56,
+      "intellect": 27,
+      "agility": 79,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Sage (mage) Chest",
+    "src": "icons/chest/chest-82.png",
+    "monetaryValue": 183,
+    "value": 85,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 164,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 24,
+      "intellect": 124,
+      "agility": 21,
+      "spirit": 97
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Invoker (priest) Chest",
+    "src": "icons/chest/chest-83.png",
+    "monetaryValue": 176,
+    "value": 85,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 164,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 51,
+      "intellect": 94,
+      "agility": 21,
+      "spirit": 113
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Sage (warlock) Chest",
+    "src": "icons/chest/chest-84.png",
+    "monetaryValue": 183,
+    "value": 84,
+    "rank": "master",
+    "type": "cloth",
+    "armor": 166,
+    "primaryStats": {
+      "stamina": 45,
+      "strength": 27,
+      "intellect": 139,
+      "agility": 26,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Sentinel (warrior) Chest",
+    "src": "icons/chest/chest-85.png",
+    "monetaryValue": 488,
+    "value": 203,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 452,
+    "primaryStats": {
+      "stamina": 124,
+      "strength": 205,
+      "intellect": 38,
+      "agility": 39,
+      "spirit": 41
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Bastion (paladin) Chest",
+    "src": "icons/chest/chest-86.png",
+    "monetaryValue": 485,
+    "value": 203,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 451,
+    "primaryStats": {
+      "stamina": 137,
+      "strength": 66,
+      "intellect": 124,
+      "agility": 36,
+      "spirit": 62
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Bastion (tank) Chest",
+    "src": "icons/chest/chest-87.png",
+    "monetaryValue": 494,
+    "value": 206,
+    "rank": "demon",
+    "type": "plate",
+    "armor": 452,
+    "primaryStats": {
+      "stamina": 145,
+      "strength": 69,
+      "intellect": 66,
+      "agility": 38,
+      "spirit": 41
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Pathfinder (hunter) Chest",
+    "src": "icons/chest/chest-88.png",
+    "monetaryValue": 422,
+    "value": 178,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 340,
+    "primaryStats": {
+      "stamina": 65,
+      "strength": 35,
+      "intellect": 69,
+      "agility": 189,
+      "spirit": 65
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Skirmisher (shaman) Chest",
+    "src": "icons/chest/chest-89.png",
+    "monetaryValue": 414,
+    "value": 182,
+    "rank": "demon",
+    "type": "mail",
+    "armor": 340,
+    "primaryStats": {
+      "stamina": 72,
+      "strength": 59,
+      "intellect": 39,
+      "agility": 74,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Cutpurse (rogue) Chest",
+    "src": "icons/chest/chest-90.png",
+    "monetaryValue": 346,
+    "value": 154,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 278,
+    "primaryStats": {
+      "stamina": 57,
+      "strength": 60,
+      "intellect": 59,
+      "agility": 199,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Cutpurse (druid) Chest",
+    "src": "icons/chest/chest-91.png",
+    "monetaryValue": 344,
+    "value": 151,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 280,
+    "primaryStats": {
+      "stamina": 68,
+      "strength": 35,
+      "intellect": 115,
+      "agility": 83,
+      "spirit": 107
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Sabatuer (monk) Chest",
+    "src": "icons/chest/chest-92.png",
+    "monetaryValue": 343,
+    "value": 154,
+    "rank": "demon",
+    "type": "leather",
+    "armor": 282,
+    "primaryStats": {
+      "stamina": 109,
+      "strength": 60,
+      "intellect": 33,
+      "agility": 109,
+      "spirit": 39
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Invoker (mage) Chest",
+    "src": "icons/chest/chest-93.png",
+    "monetaryValue": 274,
+    "value": 129,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 208,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 32,
+      "intellect": 195,
+      "agility": 36,
+      "spirit": 115
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Arcanist (priest) Chest",
+    "src": "icons/chest/chest-94.png",
+    "monetaryValue": 273,
+    "value": 128,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 212,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 35,
+      "intellect": 113,
+      "agility": 41,
+      "spirit": 204
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Seer (warlock) Chest",
+    "src": "icons/chest/chest-95.png",
+    "monetaryValue": 276,
+    "value": 130,
+    "rank": "demon",
+    "type": "cloth",
+    "armor": 211,
+    "primaryStats": {
+      "stamina": 69,
+      "strength": 38,
+      "intellect": 193,
+      "agility": 39,
+      "spirit": 63
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

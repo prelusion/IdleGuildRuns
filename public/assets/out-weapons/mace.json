@@ -1,0 +1,5532 @@
+[
+  {
+    "quality": "common",
+    "name": "Wayfarer Ironbound Mace",
+    "src": "icons/mace/mace-0.png",
+    "monetaryValue": 27,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Mace",
+    "src": "icons/mace/mace-1.png",
+    "monetaryValue": 29,
+    "value": 13,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 4,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 10,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Hammer",
+    "src": "icons/mace/mace-2.png",
+    "monetaryValue": 21,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Maul",
+    "src": "icons/mace/mace-3.png",
+    "monetaryValue": 40,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 11,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Hammer",
+    "src": "icons/mace/mace-4.png",
+    "monetaryValue": 35,
+    "value": 14,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 15,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Mace",
+    "src": "icons/mace/mace-5.png",
+    "monetaryValue": 37,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 11,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 15,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Hammer",
+    "src": "icons/mace/mace-6.png",
+    "monetaryValue": 45,
+    "value": 27,
+    "rank": "iron",
+    "fromDamage": 6,
+    "toDamage": 10,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Maul",
+    "src": "icons/mace/mace-7.png",
+    "monetaryValue": 41,
+    "value": 21,
+    "rank": "iron",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 0,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 11,
+      "agility": 6,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Maul",
+    "src": "icons/mace/mace-8.png",
+    "monetaryValue": 48,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 14,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 14,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Mace",
+    "src": "icons/mace/mace-9.png",
+    "monetaryValue": 69,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 9,
+    "toDamage": 12,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 13,
+      "intellect": 9,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Mace",
+    "src": "icons/mace/mace-10.png",
+    "monetaryValue": 61,
+    "value": 35,
+    "rank": "gold",
+    "fromDamage": 8,
+    "toDamage": 12,
+    "parry": 2,
+    "block": 2,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 3,
+      "intellect": 19,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Hammer",
+    "src": "icons/mace/mace-11.png",
+    "monetaryValue": 53,
+    "value": 30,
+    "rank": "gold",
+    "fromDamage": 16,
+    "toDamage": 17,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 18,
+      "intellect": 5,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Maul",
+    "src": "icons/mace/mace-12.png",
+    "monetaryValue": 78,
+    "value": 46,
+    "rank": "platinum",
+    "fromDamage": 17,
+    "toDamage": 21,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 22,
+      "intellect": 13,
+      "agility": 6,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 2,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Mace",
+    "src": "icons/mace/mace-13.png",
+    "monetaryValue": 85,
+    "value": 35,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 13,
+    "parry": 2,
+    "block": 2,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 9,
+      "intellect": 34,
+      "agility": 7,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 3,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Maul",
+    "src": "icons/mace/mace-14.png",
+    "monetaryValue": 74,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 25,
+    "toDamage": 27,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 23,
+      "strength": 25,
+      "intellect": 7,
+      "agility": 6,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Mace",
+    "src": "icons/mace/mace-15.png",
+    "monetaryValue": 94,
+    "value": 60,
+    "rank": "emerald",
+    "fromDamage": 14,
+    "toDamage": 33,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 24,
+      "intellect": 30,
+      "agility": 14,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 3,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Maul",
+    "src": "icons/mace/mace-16.png",
+    "monetaryValue": 99,
+    "value": 51,
+    "rank": "emerald",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 2,
+    "block": 4,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 10,
+      "intellect": 37,
+      "agility": 18,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Ironbound Mace",
+    "src": "icons/mace/mace-17.png",
+    "monetaryValue": 114,
+    "value": 59,
+    "rank": "emerald",
+    "fromDamage": 23,
+    "toDamage": 26,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 35,
+      "intellect": 10,
+      "agility": 10,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Maul",
+    "src": "icons/mace/mace-18.png",
+    "monetaryValue": 105,
+    "value": 58,
+    "rank": "diamond",
+    "fromDamage": 18,
+    "toDamage": 36,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 34,
+      "intellect": 21,
+      "agility": 13,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 4,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Maul",
+    "src": "icons/mace/mace-19.png",
+    "monetaryValue": 108,
+    "value": 58,
+    "rank": "diamond",
+    "fromDamage": 17,
+    "toDamage": 21,
+    "parry": 2,
+    "block": 5,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 10,
+      "intellect": 69,
+      "agility": 14,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 4,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Mace",
+    "src": "icons/mace/mace-20.png",
+    "monetaryValue": 113,
+    "value": 77,
+    "rank": "diamond",
+    "fromDamage": 44,
+    "toDamage": 45,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 54,
+      "intellect": 13,
+      "agility": 14,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 13,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Mace",
+    "src": "icons/mace/mace-21.png",
+    "monetaryValue": 186,
+    "value": 98,
+    "rank": "master",
+    "fromDamage": 23,
+    "toDamage": 58,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 55,
+      "intellect": 32,
+      "agility": 14,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 6,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Maul",
+    "src": "icons/mace/mace-22.png",
+    "monetaryValue": 172,
+    "value": 93,
+    "rank": "master",
+    "fromDamage": 22,
+    "toDamage": 30,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 20,
+      "intellect": 75,
+      "agility": 16,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Hammer",
+    "src": "icons/mace/mace-23.png",
+    "monetaryValue": 173,
+    "value": 100,
+    "rank": "master",
+    "fromDamage": 45,
+    "toDamage": 59,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 56,
+      "strength": 85,
+      "intellect": 35,
+      "agility": 14,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 19,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Maul",
+    "src": "icons/mace/mace-24.png",
+    "monetaryValue": 228,
+    "value": 98,
+    "rank": "demon",
+    "fromDamage": 42,
+    "toDamage": 84,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 83,
+      "strength": 73,
+      "intellect": 48,
+      "agility": 24,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 10,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Mace",
+    "src": "icons/mace/mace-25.png",
+    "monetaryValue": 280,
+    "value": 123,
+    "rank": "demon",
+    "fromDamage": 46,
+    "toDamage": 47,
+    "parry": 1,
+    "block": 4,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 40,
+      "strength": 25,
+      "intellect": 130,
+      "agility": 27,
+      "spirit": 48
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 7,
+      "haste": 10,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Ironbound Mace",
+    "src": "icons/mace/mace-26.png",
+    "monetaryValue": 207,
+    "value": 148,
+    "rank": "demon",
+    "fromDamage": 40,
+    "toDamage": 77,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 86,
+      "strength": 101,
+      "intellect": 20,
+      "agility": 20,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 23,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Mace",
+    "src": "icons/mace/mace-27.png",
+    "monetaryValue": 27,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Maul",
+    "src": "icons/mace/mace-28.png",
+    "monetaryValue": 34,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 2,
+      "intellect": 13,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Hammer",
+    "src": "icons/mace/mace-29.png",
+    "monetaryValue": 42,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 14,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 13,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Ironbound Mace",
+    "src": "icons/mace/mace-30.png",
+    "monetaryValue": 65,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 15,
+    "toDamage": 20,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 16,
+      "intellect": 8,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Ironbound Mace",
+    "src": "icons/mace/mace-31.png",
+    "monetaryValue": 73,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 10,
+    "toDamage": 15,
+    "parry": 1,
+    "block": 3,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 5,
+      "intellect": 25,
+      "agility": 10,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Ironbound Mace",
+    "src": "icons/mace/mace-32.png",
+    "monetaryValue": 83,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 22,
+    "toDamage": 31,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 39,
+      "intellect": 8,
+      "agility": 7,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Mace",
+    "src": "icons/mace/mace-33.png",
+    "monetaryValue": 111,
+    "value": 68,
+    "rank": "diamond",
+    "fromDamage": 45,
+    "toDamage": 45,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 46,
+      "strength": 37,
+      "intellect": 25,
+      "agility": 22,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Hammer",
+    "src": "icons/mace/mace-34.png",
+    "monetaryValue": 180,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 25,
+    "toDamage": 33,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 14,
+      "intellect": 69,
+      "agility": 16,
+      "spirit": 32
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Ironbound Mace",
+    "src": "icons/mace/mace-35.png",
+    "monetaryValue": 269,
+    "value": 112,
+    "rank": "demon",
+    "fromDamage": 70,
+    "toDamage": 74,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 88,
+      "strength": 73,
+      "intellect": 25,
+      "agility": 25,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 29,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Mace",
+    "src": "icons/mace/mace-36.png",
+    "monetaryValue": 20,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Ironbound Mace",
+    "src": "icons/mace/mace-37.png",
+    "monetaryValue": 36,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 18,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Ironbound Mace",
+    "src": "icons/mace/mace-38.png",
+    "monetaryValue": 49,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 12,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 13,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Ironbound Mace",
+    "src": "icons/mace/mace-39.png",
+    "monetaryValue": 62,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 9,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 16,
+      "intellect": 8,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Maul",
+    "src": "icons/mace/mace-40.png",
+    "monetaryValue": 79,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 10,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 5,
+      "intellect": 25,
+      "agility": 7,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 3,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Mace",
+    "src": "icons/mace/mace-41.png",
+    "monetaryValue": 81,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 22,
+    "toDamage": 26,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 42,
+      "intellect": 8,
+      "agility": 8,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Maul",
+    "src": "icons/mace/mace-42.png",
+    "monetaryValue": 139,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 22,
+    "toDamage": 40,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 43,
+      "intellect": 21,
+      "agility": 14,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 4,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Hammer",
+    "src": "icons/mace/mace-43.png",
+    "monetaryValue": 197,
+    "value": 107,
+    "rank": "master",
+    "fromDamage": 24,
+    "toDamage": 34,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 19,
+      "intellect": 77,
+      "agility": 20,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 7,
+      "haste": 6,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Hammer",
+    "src": "icons/mace/mace-44.png",
+    "monetaryValue": 276,
+    "value": 116,
+    "rank": "demon",
+    "fromDamage": 81,
+    "toDamage": 85,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 71,
+      "strength": 123,
+      "intellect": 23,
+      "agility": 27,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 18,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Ironbound Mace",
+    "src": "icons/mace/mace-45.png",
+    "monetaryValue": 20,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 1,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Hammer",
+    "src": "icons/mace/mace-46.png",
+    "monetaryValue": 35,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 9,
+      "agility": 5,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Mace",
+    "src": "icons/mace/mace-47.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 14,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Ironbound Mace",
+    "src": "icons/mace/mace-48.png",
+    "monetaryValue": 61,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 19,
+    "toDamage": 21,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 13,
+      "intellect": 9,
+      "agility": 6,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Hammer",
+    "src": "icons/mace/mace-49.png",
+    "monetaryValue": 60,
+    "value": 46,
+    "rank": "platinum",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 6,
+      "intellect": 30,
+      "agility": 5,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Ironbound Mace",
+    "src": "icons/mace/mace-50.png",
+    "monetaryValue": 105,
+    "value": 48,
+    "rank": "emerald",
+    "fromDamage": 15,
+    "toDamage": 21,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 39,
+      "intellect": 9,
+      "agility": 9,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 9,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Ironbound Mace",
+    "src": "icons/mace/mace-51.png",
+    "monetaryValue": 114,
+    "value": 70,
+    "rank": "diamond",
+    "fromDamage": 41,
+    "toDamage": 42,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 39,
+      "intellect": 25,
+      "agility": 20,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 3,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Mace",
+    "src": "icons/mace/mace-52.png",
+    "monetaryValue": 182,
+    "value": 80,
+    "rank": "master",
+    "fromDamage": 29,
+    "toDamage": 32,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 19,
+      "intellect": 91,
+      "agility": 19,
+      "spirit": 50
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 5,
+      "haste": 1,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Hammer",
+    "src": "icons/mace/mace-53.png",
+    "monetaryValue": 222,
+    "value": 126,
+    "rank": "demon",
+    "fromDamage": 58,
+    "toDamage": 66,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 74,
+      "strength": 139,
+      "intellect": 21,
+      "agility": 26,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 14,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Hammer",
+    "src": "icons/mace/mace-54.png",
+    "monetaryValue": 23,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 7,
+      "intellect": 4,
+      "agility": 1,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Ironbound Mace",
+    "src": "icons/mace/mace-55.png",
+    "monetaryValue": 37,
+    "value": 22,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 5,
+      "intellect": 8,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Mace",
+    "src": "icons/mace/mace-56.png",
+    "monetaryValue": 46,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 12,
+      "intellect": 3,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Maul",
+    "src": "icons/mace/mace-57.png",
+    "monetaryValue": 58,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 13,
+    "toDamage": 16,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 14,
+      "intellect": 7,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Mace",
+    "src": "icons/mace/mace-58.png",
+    "monetaryValue": 67,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 2,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 7,
+      "intellect": 26,
+      "agility": 6,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Maul",
+    "src": "icons/mace/mace-59.png",
+    "monetaryValue": 103,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 17,
+    "toDamage": 31,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 35,
+      "intellect": 9,
+      "agility": 8,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Mace",
+    "src": "icons/mace/mace-60.png",
+    "monetaryValue": 100,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 31,
+    "toDamage": 42,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 47,
+      "strength": 37,
+      "intellect": 18,
+      "agility": 24,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Maul",
+    "src": "icons/mace/mace-61.png",
+    "monetaryValue": 167,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 24,
+    "toDamage": 34,
+    "parry": 6,
+    "block": 6,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 19,
+      "intellect": 83,
+      "agility": 19,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 5,
+      "haste": 4,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Hammer",
+    "src": "icons/mace/mace-62.png",
+    "monetaryValue": 268,
+    "value": 115,
+    "rank": "demon",
+    "fromDamage": 79,
+    "toDamage": 80,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 95,
+      "strength": 116,
+      "intellect": 20,
+      "agility": 22,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 24,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Maul",
+    "src": "icons/mace/mace-63.png",
+    "monetaryValue": 23,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 1,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Mace",
+    "src": "icons/mace/mace-64.png",
+    "monetaryValue": 37,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 18,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Hammer",
+    "src": "icons/mace/mace-65.png",
+    "monetaryValue": 47,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 16,
+      "intellect": 3,
+      "agility": 6,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Maul",
+    "src": "icons/mace/mace-66.png",
+    "monetaryValue": 68,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 9,
+    "toDamage": 11,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 12,
+      "intellect": 8,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Maul",
+    "src": "icons/mace/mace-67.png",
+    "monetaryValue": 75,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 13,
+    "parry": 3,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 7,
+      "intellect": 31,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Ironbound Mace",
+    "src": "icons/mace/mace-68.png",
+    "monetaryValue": 108,
+    "value": 49,
+    "rank": "emerald",
+    "fromDamage": 28,
+    "toDamage": 33,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 46,
+      "intellect": 9,
+      "agility": 10,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 9,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Maul",
+    "src": "icons/mace/mace-69.png",
+    "monetaryValue": 137,
+    "value": 54,
+    "rank": "diamond",
+    "fromDamage": 39,
+    "toDamage": 45,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 52,
+      "strength": 46,
+      "intellect": 26,
+      "agility": 14,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 2,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Mace",
+    "src": "icons/mace/mace-70.png",
+    "monetaryValue": 194,
+    "value": 68,
+    "rank": "master",
+    "fromDamage": 31,
+    "toDamage": 34,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 14,
+      "intellect": 80,
+      "agility": 18,
+      "spirit": 37
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 2,
+      "haste": 5,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Ironbound Mace",
+    "src": "icons/mace/mace-71.png",
+    "monetaryValue": 203,
+    "value": 134,
+    "rank": "demon",
+    "fromDamage": 79,
+    "toDamage": 81,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 77,
+      "strength": 140,
+      "intellect": 20,
+      "agility": 21,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Hammer",
+    "src": "icons/mace/mace-72.png",
+    "monetaryValue": 27,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 4,
+      "intellect": 4,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Hammer",
+    "src": "icons/mace/mace-73.png",
+    "monetaryValue": 28,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 2,
+      "intellect": 14,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Maul",
+    "src": "icons/mace/mace-74.png",
+    "monetaryValue": 46,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 11,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 16,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Mace",
+    "src": "icons/mace/mace-75.png",
+    "monetaryValue": 67,
+    "value": 35,
+    "rank": "gold",
+    "fromDamage": 8,
+    "toDamage": 15,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 12,
+      "intellect": 7,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Maul",
+    "src": "icons/mace/mace-76.png",
+    "monetaryValue": 64,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 3,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 5,
+      "intellect": 35,
+      "agility": 5,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Ironbound Mace",
+    "src": "icons/mace/mace-77.png",
+    "monetaryValue": 110,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 15,
+    "toDamage": 34,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 26,
+      "intellect": 8,
+      "agility": 9,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Maul",
+    "src": "icons/mace/mace-78.png",
+    "monetaryValue": 144,
+    "value": 72,
+    "rank": "diamond",
+    "fromDamage": 19,
+    "toDamage": 44,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 48,
+      "strength": 39,
+      "intellect": 18,
+      "agility": 14,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 2,
+      "haste": 4,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Maul",
+    "src": "icons/mace/mace-79.png",
+    "monetaryValue": 204,
+    "value": 78,
+    "rank": "master",
+    "fromDamage": 28,
+    "toDamage": 31,
+    "parry": 5,
+    "block": 5,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 15,
+      "intellect": 70,
+      "agility": 32,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Ironbound Mace",
+    "src": "icons/mace/mace-80.png",
+    "monetaryValue": 204,
+    "value": 145,
+    "rank": "demon",
+    "fromDamage": 63,
+    "toDamage": 69,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 76,
+      "strength": 104,
+      "intellect": 48,
+      "agility": 20,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 12,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Mace",
+    "src": "icons/mace/mace-81.png",
+    "monetaryValue": 21,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 1,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Maul",
+    "src": "icons/mace/mace-82.png",
+    "monetaryValue": 30,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 4,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 13,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Hammer",
+    "src": "icons/mace/mace-83.png",
+    "monetaryValue": 49,
+    "value": 20,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 15,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 12,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Mace",
+    "src": "icons/mace/mace-84.png",
+    "monetaryValue": 62,
+    "value": 37,
+    "rank": "gold",
+    "fromDamage": 21,
+    "toDamage": 21,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 14,
+      "intellect": 6,
+      "agility": 5,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Ironbound Mace",
+    "src": "icons/mace/mace-85.png",
+    "monetaryValue": 78,
+    "value": 35,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 13,
+    "parry": 1,
+    "block": 2,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 7,
+      "intellect": 29,
+      "agility": 5,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Maul",
+    "src": "icons/mace/mace-86.png",
+    "monetaryValue": 87,
+    "value": 41,
+    "rank": "emerald",
+    "fromDamage": 30,
+    "toDamage": 33,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 36,
+      "intellect": 9,
+      "agility": 16,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 11,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Maul",
+    "src": "icons/mace/mace-87.png",
+    "monetaryValue": 132,
+    "value": 78,
+    "rank": "diamond",
+    "fromDamage": 22,
+    "toDamage": 25,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 39,
+      "intellect": 10,
+      "agility": 11,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 5,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Mace",
+    "src": "icons/mace/mace-88.png",
+    "monetaryValue": 170,
+    "value": 79,
+    "rank": "master",
+    "fromDamage": 32,
+    "toDamage": 34,
+    "parry": 7,
+    "block": 6,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 37,
+      "strength": 19,
+      "intellect": 90,
+      "agility": 14,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 7,
+      "haste": 1,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Mace",
+    "src": "icons/mace/mace-89.png",
+    "monetaryValue": 273,
+    "value": 132,
+    "rank": "demon",
+    "fromDamage": 45,
+    "toDamage": 51,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 122,
+      "strength": 98,
+      "intellect": 22,
+      "agility": 24,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 16,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Mace",
+    "src": "icons/mace/mace-90.png",
+    "monetaryValue": 23,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 7,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Ironbound Mace",
+    "src": "icons/mace/mace-91.png",
+    "monetaryValue": 41,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 3,
+      "intellect": 17,
+      "agility": 2,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Ironbound Mace",
+    "src": "icons/mace/mace-92.png",
+    "monetaryValue": 45,
+    "value": 18,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 13,
+      "intellect": 3,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Hammer",
+    "src": "icons/mace/mace-93.png",
+    "monetaryValue": 69,
+    "value": 37,
+    "rank": "gold",
+    "fromDamage": 11,
+    "toDamage": 20,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 14,
+      "intellect": 6,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Mace",
+    "src": "icons/mace/mace-94.png",
+    "monetaryValue": 66,
+    "value": 42,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 15,
+    "parry": 2,
+    "block": 2,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 7,
+      "intellect": 26,
+      "agility": 6,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Mace",
+    "src": "icons/mace/mace-95.png",
+    "monetaryValue": 80,
+    "value": 58,
+    "rank": "emerald",
+    "fromDamage": 16,
+    "toDamage": 32,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 42,
+      "intellect": 8,
+      "agility": 9,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 8,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Mace",
+    "src": "icons/mace/mace-96.png",
+    "monetaryValue": 111,
+    "value": 63,
+    "rank": "diamond",
+    "fromDamage": 43,
+    "toDamage": 43,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 62,
+      "strength": 26,
+      "intellect": 23,
+      "agility": 11,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 2,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Hammer",
+    "src": "icons/mace/mace-97.png",
+    "monetaryValue": 188,
+    "value": 70,
+    "rank": "master",
+    "fromDamage": 31,
+    "toDamage": 31,
+    "parry": 3,
+    "block": 6,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 16,
+      "intellect": 90,
+      "agility": 19,
+      "spirit": 34
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 6,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Ironbound Mace",
+    "src": "icons/mace/mace-98.png",
+    "monetaryValue": 259,
+    "value": 147,
+    "rank": "demon",
+    "fromDamage": 81,
+    "toDamage": 81,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 80,
+      "strength": 135,
+      "intellect": 28,
+      "agility": 26,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 24,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Mace",
+    "src": "icons/mace/mace-99.png",
+    "monetaryValue": 30,
+    "value": 13,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 7,
+      "intellect": 7,
+      "agility": 1,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Hammer",
+    "src": "icons/mace/mace-100.png",
+    "monetaryValue": 30,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 13,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Maul",
+    "src": "icons/mace/mace-101.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 12,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 11,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Mace",
+    "src": "icons/mace/mace-102.png",
+    "monetaryValue": 59,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 21,
+    "toDamage": 21,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 16,
+      "intellect": 4,
+      "agility": 5,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Ironbound Mace",
+    "src": "icons/mace/mace-103.png",
+    "monetaryValue": 88,
+    "value": 36,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 14,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 6,
+      "intellect": 34,
+      "agility": 7,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 1,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Ironbound Mace",
+    "src": "icons/mace/mace-104.png",
+    "monetaryValue": 106,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 20,
+    "toDamage": 26,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 47,
+      "intellect": 9,
+      "agility": 8,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Ironbound Mace",
+    "src": "icons/mace/mace-105.png",
+    "monetaryValue": 117,
+    "value": 72,
+    "rank": "diamond",
+    "fromDamage": 35,
+    "toDamage": 40,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 42,
+      "strength": 59,
+      "intellect": 19,
+      "agility": 13,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 5,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Maul",
+    "src": "icons/mace/mace-106.png",
+    "monetaryValue": 175,
+    "value": 70,
+    "rank": "master",
+    "fromDamage": 29,
+    "toDamage": 30,
+    "parry": 4,
+    "block": 4,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 15,
+      "intellect": 77,
+      "agility": 18,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 5,
+      "haste": 1,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Hammer",
+    "src": "icons/mace/mace-107.png",
+    "monetaryValue": 233,
+    "value": 135,
+    "rank": "demon",
+    "fromDamage": 62,
+    "toDamage": 81,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 75,
+      "strength": 97,
+      "intellect": 27,
+      "agility": 22,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 19,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Maul",
+    "src": "icons/mace/mace-108.png",
+    "monetaryValue": 27,
+    "value": 13,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Maul",
+    "src": "icons/mace/mace-109.png",
+    "monetaryValue": 37,
+    "value": 18,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 14,
+      "agility": 3,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Hammer",
+    "src": "icons/mace/mace-110.png",
+    "monetaryValue": 41,
+    "value": 27,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 13,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 16,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Mace",
+    "src": "icons/mace/mace-111.png",
+    "monetaryValue": 60,
+    "value": 31,
+    "rank": "gold",
+    "fromDamage": 14,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 12,
+      "intellect": 4,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Ironbound Mace",
+    "src": "icons/mace/mace-112.png",
+    "monetaryValue": 89,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 1,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 7,
+      "intellect": 27,
+      "agility": 7,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Ironbound Mace",
+    "src": "icons/mace/mace-113.png",
+    "monetaryValue": 107,
+    "value": 53,
+    "rank": "emerald",
+    "fromDamage": 21,
+    "toDamage": 22,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 38,
+      "intellect": 7,
+      "agility": 7,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 8,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Ironbound Mace",
+    "src": "icons/mace/mace-114.png",
+    "monetaryValue": 144,
+    "value": 60,
+    "rank": "diamond",
+    "fromDamage": 31,
+    "toDamage": 40,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 37,
+      "intellect": 26,
+      "agility": 12,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Mace",
+    "src": "icons/mace/mace-115.png",
+    "monetaryValue": 140,
+    "value": 101,
+    "rank": "master",
+    "fromDamage": 20,
+    "toDamage": 24,
+    "parry": 5,
+    "block": 3,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 18,
+      "intellect": 88,
+      "agility": 16,
+      "spirit": 33
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Mace",
+    "src": "icons/mace/mace-116.png",
+    "monetaryValue": 275,
+    "value": 133,
+    "rank": "demon",
+    "fromDamage": 79,
+    "toDamage": 85,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 91,
+      "strength": 122,
+      "intellect": 28,
+      "agility": 23,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 13,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Mace",
+    "src": "icons/mace/mace-117.png",
+    "monetaryValue": 30,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 1,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Hammer",
+    "src": "icons/mace/mace-118.png",
+    "monetaryValue": 30,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 4,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 15,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Hammer",
+    "src": "icons/mace/mace-119.png",
+    "monetaryValue": 36,
+    "value": 26,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 15,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 13,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Mace",
+    "src": "icons/mace/mace-120.png",
+    "monetaryValue": 50,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 16,
+    "toDamage": 17,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 25,
+      "intellect": 7,
+      "agility": 3,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Ironbound Mace",
+    "src": "icons/mace/mace-121.png",
+    "monetaryValue": 88,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 11,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 25,
+      "agility": 5,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Ironbound Mace",
+    "src": "icons/mace/mace-122.png",
+    "monetaryValue": 77,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 24,
+    "toDamage": 34,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 29,
+      "strength": 48,
+      "intellect": 10,
+      "agility": 7,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Hammer",
+    "src": "icons/mace/mace-123.png",
+    "monetaryValue": 136,
+    "value": 65,
+    "rank": "diamond",
+    "fromDamage": 26,
+    "toDamage": 45,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 42,
+      "intellect": 22,
+      "agility": 13,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Maul",
+    "src": "icons/mace/mace-124.png",
+    "monetaryValue": 152,
+    "value": 79,
+    "rank": "master",
+    "fromDamage": 28,
+    "toDamage": 30,
+    "parry": 6,
+    "block": 3,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 19,
+      "intellect": 71,
+      "agility": 15,
+      "spirit": 38
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 5,
+      "haste": 4,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Maul",
+    "src": "icons/mace/mace-125.png",
+    "monetaryValue": 229,
+    "value": 152,
+    "rank": "demon",
+    "fromDamage": 76,
+    "toDamage": 81,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 97,
+      "strength": 110,
+      "intellect": 47,
+      "agility": 20,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 21,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Maul",
+    "src": "icons/mace/mace-126.png",
+    "monetaryValue": 21,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Mace",
+    "src": "icons/mace/mace-127.png",
+    "monetaryValue": 28,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 2,
+      "intellect": 13,
+      "agility": 3,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Ironbound Mace",
+    "src": "icons/mace/mace-128.png",
+    "monetaryValue": 44,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 14,
+      "intellect": 2,
+      "agility": 5,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Mace",
+    "src": "icons/mace/mace-129.png",
+    "monetaryValue": 53,
+    "value": 28,
+    "rank": "gold",
+    "fromDamage": 21,
+    "toDamage": 21,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 13,
+      "intellect": 7,
+      "agility": 4,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Ironbound Mace",
+    "src": "icons/mace/mace-130.png",
+    "monetaryValue": 88,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 14,
+    "parry": 1,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 10,
+      "intellect": 27,
+      "agility": 6,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Hammer",
+    "src": "icons/mace/mace-131.png",
+    "monetaryValue": 112,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 25,
+    "toDamage": 32,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 34,
+      "intellect": 7,
+      "agility": 9,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Mace",
+    "src": "icons/mace/mace-132.png",
+    "monetaryValue": 132,
+    "value": 67,
+    "rank": "diamond",
+    "fromDamage": 15,
+    "toDamage": 39,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 37,
+      "intellect": 21,
+      "agility": 13,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Ironbound Mace",
+    "src": "icons/mace/mace-133.png",
+    "monetaryValue": 168,
+    "value": 70,
+    "rank": "master",
+    "fromDamage": 30,
+    "toDamage": 32,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 14,
+      "intellect": 97,
+      "agility": 19,
+      "spirit": 31
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 4,
+      "haste": 3,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Mace",
+    "src": "icons/mace/mace-134.png",
+    "monetaryValue": 278,
+    "value": 107,
+    "rank": "demon",
+    "fromDamage": 86,
+    "toDamage": 86,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 73,
+      "strength": 109,
+      "intellect": 25,
+      "agility": 55,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 14,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Hammer",
+    "src": "icons/mace/mace-135.png",
+    "monetaryValue": 20,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 6,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 1,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Ironbound Mace",
+    "src": "icons/mace/mace-136.png",
+    "monetaryValue": 34,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 1,
+    "block": 1,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 13,
+      "agility": 2,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Ironbound Mace",
+    "src": "icons/mace/mace-137.png",
+    "monetaryValue": 48,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 12,
+      "intellect": 3,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Mace",
+    "src": "icons/mace/mace-138.png",
+    "monetaryValue": 67,
+    "value": 24,
+    "rank": "gold",
+    "fromDamage": 13,
+    "toDamage": 21,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 16,
+      "intellect": 8,
+      "agility": 4,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Mace",
+    "src": "icons/mace/mace-139.png",
+    "monetaryValue": 62,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 1,
+    "block": 3,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 6,
+      "intellect": 34,
+      "agility": 6,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Mace",
+    "src": "icons/mace/mace-140.png",
+    "monetaryValue": 97,
+    "value": 58,
+    "rank": "emerald",
+    "fromDamage": 18,
+    "toDamage": 26,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 47,
+      "intellect": 9,
+      "agility": 18,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 11,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Hammer",
+    "src": "icons/mace/mace-141.png",
+    "monetaryValue": 123,
+    "value": 61,
+    "rank": "diamond",
+    "fromDamage": 24,
+    "toDamage": 36,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 35,
+      "strength": 43,
+      "intellect": 19,
+      "agility": 13,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 2,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Masterwork Ironbound Mace",
+    "src": "icons/mace/mace-142.png",
+    "monetaryValue": 174,
+    "value": 72,
+    "rank": "master",
+    "fromDamage": 24,
+    "toDamage": 24,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 18,
+      "intellect": 90,
+      "agility": 18,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 7,
+      "haste": 3,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Hammer",
+    "src": "icons/mace/mace-143.png",
+    "monetaryValue": 259,
+    "value": 109,
+    "rank": "demon",
+    "fromDamage": 40,
+    "toDamage": 44,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 104,
+      "strength": 114,
+      "intellect": 26,
+      "agility": 21,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 28,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Mace",
+    "src": "icons/mace/mace-144.png",
+    "monetaryValue": 30,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 4,
+      "agility": 1,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Ironbound Mace",
+    "src": "icons/mace/mace-145.png",
+    "monetaryValue": 40,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 7,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 2,
+      "intellect": 15,
+      "agility": 3,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Maul",
+    "src": "icons/mace/mace-146.png",
+    "monetaryValue": 39,
+    "value": 21,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 14,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Mace",
+    "src": "icons/mace/mace-147.png",
+    "monetaryValue": 58,
+    "value": 34,
+    "rank": "gold",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 13,
+      "intellect": 9,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Hammer",
+    "src": "icons/mace/mace-148.png",
+    "monetaryValue": 90,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 11,
+    "toDamage": 12,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 5,
+      "intellect": 31,
+      "agility": 7,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Maul",
+    "src": "icons/mace/mace-149.png",
+    "monetaryValue": 100,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 20,
+    "toDamage": 30,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 41,
+      "intellect": 10,
+      "agility": 10,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Maul",
+    "src": "icons/mace/mace-150.png",
+    "monetaryValue": 140,
+    "value": 65,
+    "rank": "diamond",
+    "fromDamage": 33,
+    "toDamage": 35,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 46,
+      "intellect": 21,
+      "agility": 10,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 4,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Mace",
+    "src": "icons/mace/mace-151.png",
+    "monetaryValue": 204,
+    "value": 85,
+    "rank": "master",
+    "fromDamage": 22,
+    "toDamage": 23,
+    "parry": 2,
+    "block": 5,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 19,
+      "intellect": 81,
+      "agility": 17,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 7,
+      "haste": 5,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Hammer",
+    "src": "icons/mace/mace-152.png",
+    "monetaryValue": 208,
+    "value": 141,
+    "rank": "demon",
+    "fromDamage": 78,
+    "toDamage": 84,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 75,
+      "strength": 106,
+      "intellect": 23,
+      "agility": 25,
+      "spirit": 24
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 25,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Hammer",
+    "src": "icons/mace/mace-153.png",
+    "monetaryValue": 23,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 2,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Mace",
+    "src": "icons/mace/mace-154.png",
+    "monetaryValue": 28,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 3,
+      "intellect": 17,
+      "agility": 2,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Mace",
+    "src": "icons/mace/mace-155.png",
+    "monetaryValue": 49,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 11,
+      "intellect": 2,
+      "agility": 3,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Ironbound Mace",
+    "src": "icons/mace/mace-156.png",
+    "monetaryValue": 52,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 9,
+    "toDamage": 20,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 17,
+      "intellect": 7,
+      "agility": 5,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 2,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Mace",
+    "src": "icons/mace/mace-157.png",
+    "monetaryValue": 86,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 9,
+      "intellect": 34,
+      "agility": 6,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

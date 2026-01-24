@@ -1,0 +1,3362 @@
+[
+  {
+    "quality": "common",
+    "name": "Old Road Dirk",
+    "src": "icons/dagger/dagger-0.png",
+    "monetaryValue": 24,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 2,
+      "intellect": 1,
+      "agility": 5,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Knife",
+    "src": "icons/dagger/dagger-1.png",
+    "monetaryValue": 22,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 7,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Stiletto",
+    "src": "icons/dagger/dagger-2.png",
+    "monetaryValue": 24,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 10,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Dirk",
+    "src": "icons/dagger/dagger-3.png",
+    "monetaryValue": 36,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 3,
+      "agility": 14,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Tempered Dirk",
+    "src": "icons/dagger/dagger-4.png",
+    "monetaryValue": 39,
+    "value": 18,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 8,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 12,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Dirk",
+    "src": "icons/dagger/dagger-5.png",
+    "monetaryValue": 28,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 16,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Shadowblade",
+    "src": "icons/dagger/dagger-6.png",
+    "monetaryValue": 40,
+    "value": 27,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 14,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Dirk",
+    "src": "icons/dagger/dagger-7.png",
+    "monetaryValue": 40,
+    "value": 20,
+    "rank": "iron",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 2,
+      "agility": 4,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Shadowblade",
+    "src": "icons/dagger/dagger-8.png",
+    "monetaryValue": 42,
+    "value": 26,
+    "rank": "iron",
+    "fromDamage": 7,
+    "toDamage": 10,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 4,
+      "agility": 15,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Dirk",
+    "src": "icons/dagger/dagger-9.png",
+    "monetaryValue": 53,
+    "value": 29,
+    "rank": "gold",
+    "fromDamage": 8,
+    "toDamage": 11,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 23,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Shadowblade",
+    "src": "icons/dagger/dagger-10.png",
+    "monetaryValue": 48,
+    "value": 31,
+    "rank": "gold",
+    "fromDamage": 15,
+    "toDamage": 15,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 9,
+      "intellect": 5,
+      "agility": 17,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Knife",
+    "src": "icons/dagger/dagger-11.png",
+    "monetaryValue": 55,
+    "value": 29,
+    "rank": "gold",
+    "fromDamage": 11,
+    "toDamage": 11,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 4,
+      "intellect": 6,
+      "agility": 25,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Shadowblade",
+    "src": "icons/dagger/dagger-12.png",
+    "monetaryValue": 68,
+    "value": 40,
+    "rank": "platinum",
+    "fromDamage": 16,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 5,
+      "intellect": 7,
+      "agility": 35,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 0,
+      "crit": 9,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Shadowblade",
+    "src": "icons/dagger/dagger-13.png",
+    "monetaryValue": 63,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 20,
+    "toDamage": 21,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 12,
+      "intellect": 7,
+      "agility": 21,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Dirk",
+    "src": "icons/dagger/dagger-14.png",
+    "monetaryValue": 74,
+    "value": 48,
+    "rank": "platinum",
+    "fromDamage": 9,
+    "toDamage": 13,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 5,
+      "intellect": 13,
+      "agility": 26,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Dirk",
+    "src": "icons/dagger/dagger-15.png",
+    "monetaryValue": 102,
+    "value": 45,
+    "rank": "emerald",
+    "fromDamage": 20,
+    "toDamage": 20,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 7,
+      "intellect": 8,
+      "agility": 50,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Stiletto",
+    "src": "icons/dagger/dagger-16.png",
+    "monetaryValue": 76,
+    "value": 46,
+    "rank": "emerald",
+    "fromDamage": 15,
+    "toDamage": 26,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 13,
+      "intellect": 9,
+      "agility": 29,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 2,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Stiletto",
+    "src": "icons/dagger/dagger-17.png",
+    "monetaryValue": 76,
+    "value": 56,
+    "rank": "emerald",
+    "fromDamage": 18,
+    "toDamage": 23,
+    "parry": 7,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 9,
+      "intellect": 18,
+      "agility": 41,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 8,
+      "haste": 7,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Stiletto",
+    "src": "icons/dagger/dagger-18.png",
+    "monetaryValue": 132,
+    "value": 53,
+    "rank": "diamond",
+    "fromDamage": 28,
+    "toDamage": 30,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 13,
+      "intellect": 10,
+      "agility": 52,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 0,
+      "haste": 0,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Stiletto",
+    "src": "icons/dagger/dagger-19.png",
+    "monetaryValue": 117,
+    "value": 76,
+    "rank": "diamond",
+    "fromDamage": 30,
+    "toDamage": 35,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 40,
+      "strength": 26,
+      "intellect": 12,
+      "agility": 42,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 3,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Shadowblade",
+    "src": "icons/dagger/dagger-20.png",
+    "monetaryValue": 118,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 29,
+    "toDamage": 29,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 11,
+      "intellect": 26,
+      "agility": 61,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 5,
+      "haste": 7,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Knife",
+    "src": "icons/dagger/dagger-21.png",
+    "monetaryValue": 142,
+    "value": 106,
+    "rank": "master",
+    "fromDamage": 32,
+    "toDamage": 32,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 38,
+      "strength": 16,
+      "intellect": 16,
+      "agility": 86,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 0,
+      "haste": 0,
+      "crit": 16,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Stiletto",
+    "src": "icons/dagger/dagger-22.png",
+    "monetaryValue": 193,
+    "value": 101,
+    "rank": "master",
+    "fromDamage": 22,
+    "toDamage": 32,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 52,
+      "intellect": 17,
+      "agility": 60,
+      "spirit": 26
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 6,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Shadowblade",
+    "src": "icons/dagger/dagger-23.png",
+    "monetaryValue": 192,
+    "value": 102,
+    "rank": "master",
+    "fromDamage": 40,
+    "toDamage": 41,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 17,
+      "intellect": 37,
+      "agility": 86,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 11,
+      "haste": 9,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Shadowblade",
+    "src": "icons/dagger/dagger-24.png",
+    "monetaryValue": 248,
+    "value": 122,
+    "rank": "demon",
+    "fromDamage": 35,
+    "toDamage": 43,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 94,
+      "strength": 23,
+      "intellect": 49,
+      "agility": 138,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 0,
+      "crit": 26,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Knife",
+    "src": "icons/dagger/dagger-25.png",
+    "monetaryValue": 270,
+    "value": 99,
+    "rank": "demon",
+    "fromDamage": 33,
+    "toDamage": 62,
+    "parry": 15,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 42,
+      "strength": 47,
+      "intellect": 25,
+      "agility": 88,
+      "spirit": 54
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 5,
+      "haste": 5,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Stiletto",
+    "src": "icons/dagger/dagger-26.png",
+    "monetaryValue": 258,
+    "value": 108,
+    "rank": "demon",
+    "fromDamage": 46,
+    "toDamage": 47,
+    "parry": 16,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 52,
+      "strength": 53,
+      "intellect": 47,
+      "agility": 96,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 19,
+      "haste": 16,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Dirk",
+    "src": "icons/dagger/dagger-27.png",
+    "monetaryValue": 27,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 1,
+      "agility": 11,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Stiletto",
+    "src": "icons/dagger/dagger-28.png",
+    "monetaryValue": 34,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 7,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 9,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Knife",
+    "src": "icons/dagger/dagger-29.png",
+    "monetaryValue": 42,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 8,
+    "toDamage": 9,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 13,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Shadowblade",
+    "src": "icons/dagger/dagger-30.png",
+    "monetaryValue": 65,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 11,
+    "toDamage": 13,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 18,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Shadowblade",
+    "src": "icons/dagger/dagger-31.png",
+    "monetaryValue": 73,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 11,
+    "toDamage": 20,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 10,
+      "intellect": 5,
+      "agility": 28,
+      "spirit": 12
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Shadowblade",
+    "src": "icons/dagger/dagger-32.png",
+    "monetaryValue": 83,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 15,
+    "toDamage": 21,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 8,
+      "intellect": 8,
+      "agility": 35,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 7,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Dirk",
+    "src": "icons/dagger/dagger-33.png",
+    "monetaryValue": 111,
+    "value": 68,
+    "rank": "diamond",
+    "fromDamage": 30,
+    "toDamage": 30,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 11,
+      "intellect": 14,
+      "agility": 60,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Knife",
+    "src": "icons/dagger/dagger-34.png",
+    "monetaryValue": 180,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 31,
+    "toDamage": 45,
+    "parry": 14,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 26,
+      "intellect": 14,
+      "agility": 55,
+      "spirit": 32
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 4,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Shadowblade",
+    "src": "icons/dagger/dagger-35.png",
+    "monetaryValue": 269,
+    "value": 112,
+    "rank": "demon",
+    "fromDamage": 47,
+    "toDamage": 50,
+    "parry": 17,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 51,
+      "strength": 21,
+      "intellect": 49,
+      "agility": 84,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 13,
+      "haste": 12,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Dirk",
+    "src": "icons/dagger/dagger-36.png",
+    "monetaryValue": 20,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 11,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Shadowblade",
+    "src": "icons/dagger/dagger-37.png",
+    "monetaryValue": 36,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 9,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 11,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Shadowblade",
+    "src": "icons/dagger/dagger-38.png",
+    "monetaryValue": 49,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 2,
+      "intellect": 5,
+      "agility": 8,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Shadowblade",
+    "src": "icons/dagger/dagger-39.png",
+    "monetaryValue": 62,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 8,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 26,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Stiletto",
+    "src": "icons/dagger/dagger-40.png",
+    "monetaryValue": 79,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 10,
+    "toDamage": 18,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 10,
+      "intellect": 5,
+      "agility": 24,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 3,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Dirk",
+    "src": "icons/dagger/dagger-41.png",
+    "monetaryValue": 81,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 16,
+    "toDamage": 18,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 8,
+      "intellect": 14,
+      "agility": 39,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 5,
+      "haste": 8,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Stiletto",
+    "src": "icons/dagger/dagger-42.png",
+    "monetaryValue": 139,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 18,
+    "toDamage": 28,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 13,
+      "intellect": 12,
+      "agility": 68,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 0,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Knife",
+    "src": "icons/dagger/dagger-43.png",
+    "monetaryValue": 197,
+    "value": 107,
+    "rank": "master",
+    "fromDamage": 28,
+    "toDamage": 48,
+    "parry": 13,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 35,
+      "intellect": 15,
+      "agility": 66,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 7,
+      "haste": 6,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Knife",
+    "src": "icons/dagger/dagger-44.png",
+    "monetaryValue": 276,
+    "value": 116,
+    "rank": "demon",
+    "fromDamage": 54,
+    "toDamage": 57,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 40,
+      "strength": 25,
+      "intellect": 44,
+      "agility": 133,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 15,
+      "haste": 15,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Shadowblade",
+    "src": "icons/dagger/dagger-45.png",
+    "monetaryValue": 20,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 2,
+      "intellect": 1,
+      "agility": 8,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Knife",
+    "src": "icons/dagger/dagger-46.png",
+    "monetaryValue": 35,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 15,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Dirk",
+    "src": "icons/dagger/dagger-47.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 9,
+    "toDamage": 10,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 4,
+      "agility": 12,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Shadowblade",
+    "src": "icons/dagger/dagger-48.png",
+    "monetaryValue": 61,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 13,
+    "toDamage": 14,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 19,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Knife",
+    "src": "icons/dagger/dagger-49.png",
+    "monetaryValue": 60,
+    "value": 46,
+    "rank": "platinum",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 11,
+      "intellect": 6,
+      "agility": 19,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Shadowblade",
+    "src": "icons/dagger/dagger-50.png",
+    "monetaryValue": 105,
+    "value": 48,
+    "rank": "emerald",
+    "fromDamage": 11,
+    "toDamage": 15,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 8,
+      "intellect": 16,
+      "agility": 43,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 8,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Shadowblade",
+    "src": "icons/dagger/dagger-51.png",
+    "monetaryValue": 114,
+    "value": 70,
+    "rank": "diamond",
+    "fromDamage": 28,
+    "toDamage": 29,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 11,
+      "intellect": 14,
+      "agility": 54,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Dirk",
+    "src": "icons/dagger/dagger-52.png",
+    "monetaryValue": 182,
+    "value": 80,
+    "rank": "master",
+    "fromDamage": 38,
+    "toDamage": 44,
+    "parry": 13,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 32,
+      "strength": 35,
+      "intellect": 19,
+      "agility": 65,
+      "spirit": 50
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 5,
+      "haste": 1,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Knife",
+    "src": "icons/dagger/dagger-53.png",
+    "monetaryValue": 222,
+    "value": 126,
+    "rank": "demon",
+    "fromDamage": 40,
+    "toDamage": 45,
+    "parry": 17,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 41,
+      "strength": 28,
+      "intellect": 40,
+      "agility": 128,
+      "spirit": 21
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 14,
+      "haste": 13,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Knife",
+    "src": "icons/dagger/dagger-54.png",
+    "monetaryValue": 23,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 9,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Shadowblade",
+    "src": "icons/dagger/dagger-55.png",
+    "monetaryValue": 37,
+    "value": 22,
+    "rank": "silver",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 9,
+      "intellect": 2,
+      "agility": 12,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Dirk",
+    "src": "icons/dagger/dagger-56.png",
+    "monetaryValue": 46,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 10,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 16,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Stiletto",
+    "src": "icons/dagger/dagger-57.png",
+    "monetaryValue": 58,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 10,
+    "toDamage": 11,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 23,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Dirk",
+    "src": "icons/dagger/dagger-58.png",
+    "monetaryValue": 67,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 20,
+    "toDamage": 20,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 13,
+      "intellect": 5,
+      "agility": 20,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 3,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Stiletto",
+    "src": "icons/dagger/dagger-59.png",
+    "monetaryValue": 103,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 12,
+    "toDamage": 21,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 13,
+      "intellect": 16,
+      "agility": 40,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 7,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Dirk",
+    "src": "icons/dagger/dagger-60.png",
+    "monetaryValue": 100,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 23,
+    "toDamage": 29,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 11,
+      "intellect": 10,
+      "agility": 65,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 0,
+      "haste": 0,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Stiletto",
+    "src": "icons/dagger/dagger-61.png",
+    "monetaryValue": 167,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 29,
+    "toDamage": 48,
+    "parry": 13,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 33,
+      "strength": 36,
+      "intellect": 17,
+      "agility": 64,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 5,
+      "haste": 4,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Knife",
+    "src": "icons/dagger/dagger-62.png",
+    "monetaryValue": 268,
+    "value": 115,
+    "rank": "demon",
+    "fromDamage": 53,
+    "toDamage": 53,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 55,
+      "strength": 24,
+      "intellect": 38,
+      "agility": 76,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 6,
+      "speed": 16,
+      "haste": 15,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Stiletto",
+    "src": "icons/dagger/dagger-63.png",
+    "monetaryValue": 23,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 6,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 8,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Dirk",
+    "src": "icons/dagger/dagger-64.png",
+    "monetaryValue": 37,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 8,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 11,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Knife",
+    "src": "icons/dagger/dagger-65.png",
+    "monetaryValue": 47,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 6,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 3,
+      "intellect": 6,
+      "agility": 15,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Stiletto",
+    "src": "icons/dagger/dagger-66.png",
+    "monetaryValue": 68,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 8,
+    "toDamage": 9,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 25,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Stiletto",
+    "src": "icons/dagger/dagger-67.png",
+    "monetaryValue": 75,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 17,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 12,
+      "intellect": 6,
+      "agility": 17,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Shadowblade",
+    "src": "icons/dagger/dagger-68.png",
+    "monetaryValue": 108,
+    "value": 49,
+    "rank": "emerald",
+    "fromDamage": 19,
+    "toDamage": 23,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 9,
+      "intellect": 16,
+      "agility": 48,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 7,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Stiletto",
+    "src": "icons/dagger/dagger-69.png",
+    "monetaryValue": 137,
+    "value": 54,
+    "rank": "diamond",
+    "fromDamage": 27,
+    "toDamage": 30,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 14,
+      "intellect": 14,
+      "agility": 69,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 0,
+      "crit": 15,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Dirk",
+    "src": "icons/dagger/dagger-70.png",
+    "monetaryValue": 194,
+    "value": 68,
+    "rank": "master",
+    "fromDamage": 41,
+    "toDamage": 48,
+    "parry": 9,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 34,
+      "strength": 27,
+      "intellect": 16,
+      "agility": 62,
+      "spirit": 37
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 2,
+      "haste": 5,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Shadowblade",
+    "src": "icons/dagger/dagger-71.png",
+    "monetaryValue": 203,
+    "value": 134,
+    "rank": "demon",
+    "fromDamage": 53,
+    "toDamage": 54,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 28,
+      "intellect": 39,
+      "agility": 102,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 19,
+      "haste": 18,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Knife",
+    "src": "icons/dagger/dagger-72.png",
+    "monetaryValue": 27,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 3,
+    "toDamage": 5,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 12,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Knife",
+    "src": "icons/dagger/dagger-73.png",
+    "monetaryValue": 28,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 2,
+      "agility": 9,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Stiletto",
+    "src": "icons/dagger/dagger-74.png",
+    "monetaryValue": 46,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 3,
+      "intellect": 6,
+      "agility": 12,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Dirk",
+    "src": "icons/dagger/dagger-75.png",
+    "monetaryValue": 67,
+    "value": 35,
+    "rank": "gold",
+    "fromDamage": 7,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 3,
+      "intellect": 4,
+      "agility": 15,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Stiletto",
+    "src": "icons/dagger/dagger-76.png",
+    "monetaryValue": 64,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 14,
+    "toDamage": 15,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 9,
+      "intellect": 7,
+      "agility": 17,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Shadowblade",
+    "src": "icons/dagger/dagger-77.png",
+    "monetaryValue": 110,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 11,
+    "toDamage": 23,
+    "parry": 8,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 15,
+      "strength": 7,
+      "intellect": 15,
+      "agility": 44,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 5,
+      "haste": 8,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Stiletto",
+    "src": "icons/dagger/dagger-78.png",
+    "monetaryValue": 144,
+    "value": 72,
+    "rank": "diamond",
+    "fromDamage": 17,
+    "toDamage": 30,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 11,
+      "intellect": 10,
+      "agility": 68,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 11,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Archon Stiletto",
+    "src": "icons/dagger/dagger-79.png",
+    "monetaryValue": 204,
+    "value": 78,
+    "rank": "master",
+    "fromDamage": 35,
+    "toDamage": 41,
+    "parry": 12,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 28,
+      "intellect": 14,
+      "agility": 83,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Shadowblade",
+    "src": "icons/dagger/dagger-80.png",
+    "monetaryValue": 204,
+    "value": 145,
+    "rank": "demon",
+    "fromDamage": 43,
+    "toDamage": 47,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 21,
+      "intellect": 84,
+      "agility": 99,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 14,
+      "haste": 16,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Dirk",
+    "src": "icons/dagger/dagger-81.png",
+    "monetaryValue": 21,
+    "value": 15,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 6,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 8,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Moonlit Stiletto",
+    "src": "icons/dagger/dagger-82.png",
+    "monetaryValue": 30,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 4,
+    "toDamage": 4,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 6,
+      "intellect": 2,
+      "agility": 8,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Knife",
+    "src": "icons/dagger/dagger-83.png",
+    "monetaryValue": 49,
+    "value": 20,
+    "rank": "iron",
+    "fromDamage": 8,
+    "toDamage": 10,
+    "parry": 2,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 13,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Dirk",
+    "src": "icons/dagger/dagger-84.png",
+    "monetaryValue": 62,
+    "value": 37,
+    "rank": "gold",
+    "fromDamage": 14,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 25,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Shadowblade",
+    "src": "icons/dagger/dagger-85.png",
+    "monetaryValue": 78,
+    "value": 35,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 17,
+    "parry": 4,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 13,
+      "intellect": 10,
+      "agility": 19,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Stiletto",
+    "src": "icons/dagger/dagger-86.png",
+    "monetaryValue": 87,
+    "value": 41,
+    "rank": "emerald",
+    "fromDamage": 20,
+    "toDamage": 22,
+    "parry": 3,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 7,
+      "intellect": 16,
+      "agility": 44,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 5,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Stiletto",
+    "src": "icons/dagger/dagger-87.png",
+    "monetaryValue": 132,
+    "value": 78,
+    "rank": "diamond",
+    "fromDamage": 18,
+    "toDamage": 19,
+    "parry": 0,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 18,
+      "strength": 11,
+      "intellect": 10,
+      "agility": 56,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Dirk",
+    "src": "icons/dagger/dagger-88.png",
+    "monetaryValue": 170,
+    "value": 79,
+    "rank": "master",
+    "fromDamage": 44,
+    "toDamage": 48,
+    "parry": 14,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 37,
+      "strength": 35,
+      "intellect": 19,
+      "agility": 50,
+      "spirit": 36
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 7,
+      "haste": 1,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Dirk",
+    "src": "icons/dagger/dagger-89.png",
+    "monetaryValue": 273,
+    "value": 132,
+    "rank": "demon",
+    "fromDamage": 33,
+    "toDamage": 36,
+    "parry": 13,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 84,
+      "strength": 20,
+      "intellect": 43,
+      "agility": 120,
+      "spirit": 22
+    },
+    "secondaryStats": {
+      "leech": 8,
+      "speed": 15,
+      "haste": 15,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Dirk",
+    "src": "icons/dagger/dagger-90.png",
+    "monetaryValue": 23,
+    "value": 14,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 5,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 2,
+      "intellect": 1,
+      "agility": 12,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Shadowblade",
+    "src": "icons/dagger/dagger-91.png",
+    "monetaryValue": 41,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 6,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 5,
+      "intellect": 6,
+      "agility": 9,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Shadowblade",
+    "src": "icons/dagger/dagger-92.png",
+    "monetaryValue": 45,
+    "value": 18,
+    "rank": "iron",
+    "fromDamage": 8,
+    "toDamage": 9,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 16,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Knife",
+    "src": "icons/dagger/dagger-93.png",
+    "monetaryValue": 69,
+    "value": 37,
+    "rank": "gold",
+    "fromDamage": 9,
+    "toDamage": 14,
+    "parry": 1,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 21,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Dirk",
+    "src": "icons/dagger/dagger-94.png",
+    "monetaryValue": 66,
+    "value": 42,
+    "rank": "platinum",
+    "fromDamage": 15,
+    "toDamage": 21,
+    "parry": 5,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 12,
+      "intellect": 5,
+      "agility": 19,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 3,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Dirk",
+    "src": "icons/dagger/dagger-95.png",
+    "monetaryValue": 80,
+    "value": 58,
+    "rank": "emerald",
+    "fromDamage": 11,
+    "toDamage": 21,
+    "parry": 6,
+    "block": 0,
+    "range": 1,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 8,
+      "intellect": 15,
+      "agility": 46,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 4,
+      "haste": 6,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]

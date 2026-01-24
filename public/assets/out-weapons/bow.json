@@ -1,0 +1,2732 @@
+[
+  {
+    "quality": "common",
+    "name": "Rusted Oaken Bow",
+    "src": "icons/bow/bow-0.png",
+    "monetaryValue": 26,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 5,
+    "toDamage": 5,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 6,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Wayfarer Huntsbow",
+    "src": "icons/bow/bow-1.png",
+    "monetaryValue": 20,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 5,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 7,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Windbow",
+    "src": "icons/bow/bow-2.png",
+    "monetaryValue": 30,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 2,
+      "intellect": 1,
+      "agility": 10,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Oaken Bow",
+    "src": "icons/bow/bow-3.png",
+    "monetaryValue": 31,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 5,
+      "agility": 15,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Windbow",
+    "src": "icons/bow/bow-4.png",
+    "monetaryValue": 39,
+    "value": 14,
+    "rank": "silver",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 11,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Windbow",
+    "src": "icons/bow/bow-5.png",
+    "monetaryValue": 33,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 3,
+      "intellect": 3,
+      "agility": 18,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Windbow",
+    "src": "icons/bow/bow-6.png",
+    "monetaryValue": 48,
+    "value": 23,
+    "rank": "iron",
+    "fromDamage": 11,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 12,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Huntsbow",
+    "src": "icons/bow/bow-7.png",
+    "monetaryValue": 40,
+    "value": 22,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 3,
+      "intellect": 3,
+      "agility": 12,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Oaken Bow",
+    "src": "icons/bow/bow-8.png",
+    "monetaryValue": 34,
+    "value": 22,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 2,
+      "agility": 14,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Huntsbow",
+    "src": "icons/bow/bow-9.png",
+    "monetaryValue": 69,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 9,
+    "toDamage": 13,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 4,
+      "intellect": 4,
+      "agility": 22,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 1,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Huntsbow",
+    "src": "icons/bow/bow-10.png",
+    "monetaryValue": 62,
+    "value": 31,
+    "rank": "gold",
+    "fromDamage": 16,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 5,
+      "intellect": 3,
+      "agility": 14,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Gilded Oaken Bow",
+    "src": "icons/bow/bow-11.png",
+    "monetaryValue": 66,
+    "value": 29,
+    "rank": "gold",
+    "fromDamage": 15,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 4,
+      "intellect": 4,
+      "agility": 24,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 8,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Oaken Bow",
+    "src": "icons/bow/bow-12.png",
+    "monetaryValue": 76,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 23,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 6,
+      "intellect": 5,
+      "agility": 35,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 2,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Huntsbow",
+    "src": "icons/bow/bow-13.png",
+    "monetaryValue": 70,
+    "value": 37,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 7,
+      "intellect": 7,
+      "agility": 20,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Huntsbow",
+    "src": "icons/bow/bow-14.png",
+    "monetaryValue": 66,
+    "value": 45,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 21,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 5,
+      "intellect": 6,
+      "agility": 34,
+      "spirit": 9
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 12,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Windbow",
+    "src": "icons/bow/bow-15.png",
+    "monetaryValue": 111,
+    "value": 50,
+    "rank": "emerald",
+    "fromDamage": 15,
+    "toDamage": 22,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 7,
+      "intellect": 10,
+      "agility": 41,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 2,
+      "haste": 2,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Longbow",
+    "src": "icons/bow/bow-16.png",
+    "monetaryValue": 105,
+    "value": 61,
+    "rank": "emerald",
+    "fromDamage": 23,
+    "toDamage": 27,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 31,
+      "strength": 7,
+      "intellect": 7,
+      "agility": 27,
+      "spirit": 8
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Wildheart Huntsbow",
+    "src": "icons/bow/bow-17.png",
+    "monetaryValue": 98,
+    "value": 54,
+    "rank": "emerald",
+    "fromDamage": 18,
+    "toDamage": 22,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 7,
+      "intellect": 7,
+      "agility": 37,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 9,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Windbow",
+    "src": "icons/bow/bow-18.png",
+    "monetaryValue": 117,
+    "value": 68,
+    "rank": "diamond",
+    "fromDamage": 25,
+    "toDamage": 29,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 12,
+      "strength": 10,
+      "intellect": 12,
+      "agility": 60,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 3,
+      "haste": 5,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Longbow",
+    "src": "icons/bow/bow-19.png",
+    "monetaryValue": 139,
+    "value": 72,
+    "rank": "diamond",
+    "fromDamage": 26,
+    "toDamage": 29,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 37,
+      "strength": 13,
+      "intellect": 21,
+      "agility": 52,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 13,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Windbow",
+    "src": "icons/bow/bow-20.png",
+    "monetaryValue": 118,
+    "value": 79,
+    "rank": "diamond",
+    "fromDamage": 20,
+    "toDamage": 26,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 12,
+      "intellect": 13,
+      "agility": 62,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 19,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Huntsbow",
+    "src": "icons/bow/bow-21.png",
+    "monetaryValue": 178,
+    "value": 86,
+    "rank": "master",
+    "fromDamage": 31,
+    "toDamage": 44,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 15,
+      "intellect": 19,
+      "agility": 94,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 3,
+      "haste": 1,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Oaken Bow",
+    "src": "icons/bow/bow-22.png",
+    "monetaryValue": 200,
+    "value": 100,
+    "rank": "master",
+    "fromDamage": 45,
+    "toDamage": 48,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 54,
+      "strength": 20,
+      "intellect": 15,
+      "agility": 57,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 16,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Windbow",
+    "src": "icons/bow/bow-23.png",
+    "monetaryValue": 139,
+    "value": 85,
+    "rank": "master",
+    "fromDamage": 43,
+    "toDamage": 43,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 18,
+      "intellect": 17,
+      "agility": 91,
+      "spirit": 30
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 17,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Windbow",
+    "src": "icons/bow/bow-24.png",
+    "monetaryValue": 269,
+    "value": 99,
+    "rank": "demon",
+    "fromDamage": 72,
+    "toDamage": 73,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 43,
+      "strength": 28,
+      "intellect": 20,
+      "agility": 139,
+      "spirit": 25
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 4,
+      "haste": 5,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Huntsbow",
+    "src": "icons/bow/bow-25.png",
+    "monetaryValue": 206,
+    "value": 108,
+    "rank": "demon",
+    "fromDamage": 61,
+    "toDamage": 62,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 114,
+      "strength": 23,
+      "intellect": 27,
+      "agility": 71,
+      "spirit": 23
+    },
+    "secondaryStats": {
+      "leech": 18,
+      "speed": 0,
+      "haste": 0,
+      "crit": 9,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Windbow",
+    "src": "icons/bow/bow-26.png",
+    "monetaryValue": 278,
+    "value": 152,
+    "rank": "demon",
+    "fromDamage": 51,
+    "toDamage": 62,
+    "parry": 0,
+    "block": 0,
+    "range": 12,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 27,
+      "strength": 25,
+      "intellect": 23,
+      "agility": 123,
+      "spirit": 39
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 33,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Huntsbow",
+    "src": "icons/bow/bow-27.png",
+    "monetaryValue": 27,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 1,
+      "agility": 11,
+      "spirit": 1
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Windbow",
+    "src": "icons/bow/bow-28.png",
+    "monetaryValue": 34,
+    "value": 19,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 13,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 9,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Warden's Longbow",
+    "src": "icons/bow/bow-29.png",
+    "monetaryValue": 42,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 13,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Oaken Bow",
+    "src": "icons/bow/bow-30.png",
+    "monetaryValue": 65,
+    "value": 25,
+    "rank": "gold",
+    "fromDamage": 14,
+    "toDamage": 17,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 18,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 1,
+      "haste": 2,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Oaken Bow",
+    "src": "icons/bow/bow-31.png",
+    "monetaryValue": 73,
+    "value": 32,
+    "rank": "platinum",
+    "fromDamage": 14,
+    "toDamage": 21,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 28,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Oaken Bow",
+    "src": "icons/bow/bow-32.png",
+    "monetaryValue": 83,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 17,
+    "toDamage": 25,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 8,
+      "intellect": 8,
+      "agility": 35,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 14,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Huntsbow",
+    "src": "icons/bow/bow-33.png",
+    "monetaryValue": 111,
+    "value": 68,
+    "rank": "diamond",
+    "fromDamage": 40,
+    "toDamage": 40,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 25,
+      "strength": 11,
+      "intellect": 14,
+      "agility": 60,
+      "spirit": 11
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 5,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Longbow",
+    "src": "icons/bow/bow-34.png",
+    "monetaryValue": 180,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 35,
+    "toDamage": 46,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 50,
+      "strength": 14,
+      "intellect": 14,
+      "agility": 55,
+      "spirit": 17
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Abyssal Oaken Bow",
+    "src": "icons/bow/bow-35.png",
+    "monetaryValue": 269,
+    "value": 112,
+    "rank": "demon",
+    "fromDamage": 54,
+    "toDamage": 57,
+    "parry": 0,
+    "block": 0,
+    "range": 12,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 21,
+      "intellect": 25,
+      "agility": 123,
+      "spirit": 52
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 38,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Huntsbow",
+    "src": "icons/bow/bow-36.png",
+    "monetaryValue": 20,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 7,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 11,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Oaken Bow",
+    "src": "icons/bow/bow-37.png",
+    "monetaryValue": 36,
+    "value": 15,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 11,
+      "strength": 2,
+      "intellect": 6,
+      "agility": 11,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Ironwall Oaken Bow",
+    "src": "icons/bow/bow-38.png",
+    "monetaryValue": 49,
+    "value": 25,
+    "rank": "iron",
+    "fromDamage": 8,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 5,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 13,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Oaken Bow",
+    "src": "icons/bow/bow-39.png",
+    "monetaryValue": 62,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 10,
+    "toDamage": 15,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 14,
+      "strength": 5,
+      "intellect": 4,
+      "agility": 26,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 2,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Platinum Windbow",
+    "src": "icons/bow/bow-40.png",
+    "monetaryValue": 79,
+    "value": 34,
+    "rank": "platinum",
+    "fromDamage": 13,
+    "toDamage": 19,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 17,
+      "strength": 5,
+      "intellect": 5,
+      "agility": 24,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 8,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Emerald Huntsbow",
+    "src": "icons/bow/bow-41.png",
+    "monetaryValue": 81,
+    "value": 57,
+    "rank": "emerald",
+    "fromDamage": 17,
+    "toDamage": 20,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 8,
+      "intellect": 8,
+      "agility": 39,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 14,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Glacier Windbow",
+    "src": "icons/bow/bow-42.png",
+    "monetaryValue": 139,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 25,
+    "toDamage": 37,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 13,
+      "intellect": 12,
+      "agility": 68,
+      "spirit": 10
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 4,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Longbow",
+    "src": "icons/bow/bow-43.png",
+    "monetaryValue": 197,
+    "value": 107,
+    "rank": "master",
+    "fromDamage": 33,
+    "toDamage": 48,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 77,
+      "strength": 19,
+      "intellect": 15,
+      "agility": 66,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 17,
+      "speed": 0,
+      "haste": 0,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Longbow",
+    "src": "icons/bow/bow-44.png",
+    "monetaryValue": 276,
+    "value": 116,
+    "rank": "demon",
+    "fromDamage": 63,
+    "toDamage": 66,
+    "parry": 0,
+    "block": 0,
+    "range": 12,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 25,
+      "intellect": 23,
+      "agility": 133,
+      "spirit": 53
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 27,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Oaken Bow",
+    "src": "icons/bow/bow-45.png",
+    "monetaryValue": 20,
+    "value": 10,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 2,
+      "intellect": 1,
+      "agility": 8,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Windworn Longbow",
+    "src": "icons/bow/bow-46.png",
+    "monetaryValue": 35,
+    "value": 21,
+    "rank": "silver",
+    "fromDamage": 7,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 3,
+      "intellect": 2,
+      "agility": 15,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Huntsbow",
+    "src": "icons/bow/bow-47.png",
+    "monetaryValue": 44,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 10,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 3,
+      "intellect": 2,
+      "agility": 12,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Oaken Bow",
+    "src": "icons/bow/bow-48.png",
+    "monetaryValue": 61,
+    "value": 36,
+    "rank": "gold",
+    "fromDamage": 17,
+    "toDamage": 18,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 19,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 0,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Longbow",
+    "src": "icons/bow/bow-49.png",
+    "monetaryValue": 60,
+    "value": 46,
+    "rank": "platinum",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 30,
+      "strength": 6,
+      "intellect": 6,
+      "agility": 19,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 9,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Oaken Bow",
+    "src": "icons/bow/bow-50.png",
+    "monetaryValue": 105,
+    "value": 48,
+    "rank": "emerald",
+    "fromDamage": 11,
+    "toDamage": 16,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 8,
+      "intellect": 9,
+      "agility": 43,
+      "spirit": 18
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 13,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Aether Oaken Bow",
+    "src": "icons/bow/bow-51.png",
+    "monetaryValue": 114,
+    "value": 70,
+    "rank": "diamond",
+    "fromDamage": 37,
+    "toDamage": 38,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 11,
+      "intellect": 14,
+      "agility": 54,
+      "spirit": 13
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 3,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Huntsbow",
+    "src": "icons/bow/bow-52.png",
+    "monetaryValue": 182,
+    "value": 80,
+    "rank": "master",
+    "fromDamage": 40,
+    "toDamage": 45,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 58,
+      "strength": 19,
+      "intellect": 19,
+      "agility": 65,
+      "spirit": 27
+    },
+    "secondaryStats": {
+      "leech": 10,
+      "speed": 0,
+      "haste": 0,
+      "crit": 7,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Demonic Longbow",
+    "src": "icons/bow/bow-53.png",
+    "monetaryValue": 222,
+    "value": 126,
+    "rank": "demon",
+    "fromDamage": 44,
+    "toDamage": 51,
+    "parry": 0,
+    "block": 0,
+    "range": 12,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 21,
+      "strength": 28,
+      "intellect": 21,
+      "agility": 128,
+      "spirit": 41
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 23,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Rusted Longbow",
+    "src": "icons/bow/bow-54.png",
+    "monetaryValue": 23,
+    "value": 16,
+    "rank": "bronze",
+    "fromDamage": 7,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 9,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Oaken Bow",
+    "src": "icons/bow/bow-55.png",
+    "monetaryValue": 37,
+    "value": 22,
+    "rank": "silver",
+    "fromDamage": 9,
+    "toDamage": 9,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 16,
+      "strength": 5,
+      "intellect": 2,
+      "agility": 12,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Huntsbow",
+    "src": "icons/bow/bow-56.png",
+    "monetaryValue": 46,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 12,
+    "toDamage": 12,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 16,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Auric Windbow",
+    "src": "icons/bow/bow-57.png",
+    "monetaryValue": 58,
+    "value": 33,
+    "rank": "gold",
+    "fromDamage": 13,
+    "toDamage": 15,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 4,
+      "intellect": 3,
+      "agility": 23,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 1,
+      "speed": 1,
+      "haste": 1,
+      "crit": 2,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Sanctified Huntsbow",
+    "src": "icons/bow/bow-58.png",
+    "monetaryValue": 67,
+    "value": 43,
+    "rank": "platinum",
+    "fromDamage": 20,
+    "toDamage": 20,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 24,
+      "strength": 7,
+      "intellect": 5,
+      "agility": 20,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 7,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Grovekeeper Windbow",
+    "src": "icons/bow/bow-59.png",
+    "monetaryValue": 103,
+    "value": 39,
+    "rank": "emerald",
+    "fromDamage": 13,
+    "toDamage": 25,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 13,
+      "intellect": 9,
+      "agility": 40,
+      "spirit": 7
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 9,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Starbound Huntsbow",
+    "src": "icons/bow/bow-60.png",
+    "monetaryValue": 100,
+    "value": 55,
+    "rank": "diamond",
+    "fromDamage": 31,
+    "toDamage": 38,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 26,
+      "strength": 11,
+      "intellect": 10,
+      "agility": 65,
+      "spirit": 14
+    },
+    "secondaryStats": {
+      "leech": 4,
+      "speed": 0,
+      "haste": 3,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eternal Windbow",
+    "src": "icons/bow/bow-61.png",
+    "monetaryValue": 167,
+    "value": 96,
+    "rank": "master",
+    "fromDamage": 34,
+    "toDamage": 48,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 60,
+      "strength": 19,
+      "intellect": 17,
+      "agility": 64,
+      "spirit": 15
+    },
+    "secondaryStats": {
+      "leech": 16,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Dreadlord Longbow",
+    "src": "icons/bow/bow-62.png",
+    "monetaryValue": 268,
+    "value": 115,
+    "rank": "demon",
+    "fromDamage": 61,
+    "toDamage": 61,
+    "parry": 0,
+    "block": 0,
+    "range": 12,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 28,
+      "strength": 24,
+      "intellect": 20,
+      "agility": 109,
+      "spirit": 28
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 33,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Old Road Windbow",
+    "src": "icons/bow/bow-63.png",
+    "monetaryValue": 23,
+    "value": 11,
+    "rank": "bronze",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 8,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Huntsbow",
+    "src": "icons/bow/bow-64.png",
+    "monetaryValue": 37,
+    "value": 17,
+    "rank": "silver",
+    "fromDamage": 5,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 10,
+      "strength": 2,
+      "intellect": 3,
+      "agility": 11,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Forge-Bound Longbow",
+    "src": "icons/bow/bow-65.png",
+    "monetaryValue": 47,
+    "value": 19,
+    "rank": "iron",
+    "fromDamage": 7,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 2,
+      "strength": 3,
+      "intellect": 3,
+      "agility": 15,
+      "spirit": 4
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 6,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Royal Windbow",
+    "src": "icons/bow/bow-66.png",
+    "monetaryValue": 68,
+    "value": 32,
+    "rank": "gold",
+    "fromDamage": 10,
+    "toDamage": 11,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 6,
+      "strength": 3,
+      "intellect": 5,
+      "agility": 25,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 2,
+      "speed": 0,
+      "haste": 2,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Oathbound Windbow",
+    "src": "icons/bow/bow-67.png",
+    "monetaryValue": 75,
+    "value": 38,
+    "rank": "platinum",
+    "fromDamage": 16,
+    "toDamage": 18,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 19,
+      "strength": 7,
+      "intellect": 6,
+      "agility": 17,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Oaken Bow",
+    "src": "icons/bow/bow-68.png",
+    "monetaryValue": 108,
+    "value": 49,
+    "rank": "emerald",
+    "fromDamage": 22,
+    "toDamage": 26,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 9,
+      "strength": 9,
+      "intellect": 9,
+      "agility": 48,
+      "spirit": 29
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 13,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Diamond Windbow",
+    "src": "icons/bow/bow-69.png",
+    "monetaryValue": 137,
+    "value": 54,
+    "rank": "diamond",
+    "fromDamage": 36,
+    "toDamage": 40,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 36,
+      "strength": 14,
+      "intellect": 14,
+      "agility": 69,
+      "spirit": 19
+    },
+    "secondaryStats": {
+      "leech": 3,
+      "speed": 0,
+      "haste": 2,
+      "crit": 5,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "epic",
+    "name": "Eclipsed Huntsbow",
+    "src": "icons/bow/bow-70.png",
+    "monetaryValue": 194,
+    "value": 68,
+    "rank": "master",
+    "fromDamage": 43,
+    "toDamage": 48,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 61,
+      "strength": 14,
+      "intellect": 16,
+      "agility": 62,
+      "spirit": 20
+    },
+    "secondaryStats": {
+      "leech": 17,
+      "speed": 0,
+      "haste": 0,
+      "crit": 3,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "legendary",
+    "name": "Infernal Oaken Bow",
+    "src": "icons/bow/bow-71.png",
+    "monetaryValue": 203,
+    "value": 134,
+    "rank": "demon",
+    "fromDamage": 61,
+    "toDamage": 62,
+    "parry": 0,
+    "block": 0,
+    "range": 12,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 22,
+      "strength": 28,
+      "intellect": 20,
+      "agility": 102,
+      "spirit": 44
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 19,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "Town Guard Longbow",
+    "src": "icons/bow/bow-72.png",
+    "monetaryValue": 27,
+    "value": 12,
+    "rank": "bronze",
+    "fromDamage": 4,
+    "toDamage": 6,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 4,
+      "strength": 1,
+      "intellect": 2,
+      "agility": 12,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "common",
+    "name": "City Watch Longbow",
+    "src": "icons/bow/bow-73.png",
+    "monetaryValue": 28,
+    "value": 20,
+    "rank": "silver",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 2,
+      "intellect": 2,
+      "agility": 9,
+      "spirit": 2
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Steel Windbow",
+    "src": "icons/bow/bow-74.png",
+    "monetaryValue": 46,
+    "value": 17,
+    "rank": "iron",
+    "fromDamage": 8,
+    "toDamage": 8,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 3,
+      "strength": 3,
+      "intellect": 3,
+      "agility": 12,
+      "spirit": 3
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 4,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "uncommon",
+    "name": "Sunforged Huntsbow",
+    "src": "icons/bow/bow-75.png",
+    "monetaryValue": 67,
+    "value": 35,
+    "rank": "gold",
+    "fromDamage": 10,
+    "toDamage": 14,
+    "parry": 0,
+    "block": 0,
+    "range": 7,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 7,
+      "strength": 3,
+      "intellect": 4,
+      "agility": 15,
+      "spirit": 5
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 2,
+      "haste": 1,
+      "crit": 1,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Highborne Windbow",
+    "src": "icons/bow/bow-76.png",
+    "monetaryValue": 64,
+    "value": 39,
+    "rank": "platinum",
+    "fromDamage": 16,
+    "toDamage": 17,
+    "parry": 0,
+    "block": 0,
+    "range": 6,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 20,
+      "strength": 5,
+      "intellect": 7,
+      "agility": 17,
+      "spirit": 6
+    },
+    "secondaryStats": {
+      "leech": 5,
+      "speed": 0,
+      "haste": 0,
+      "crit": 0,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  },
+  {
+    "quality": "rare",
+    "name": "Verdant Oaken Bow",
+    "src": "icons/bow/bow-77.png",
+    "monetaryValue": 110,
+    "value": 42,
+    "rank": "emerald",
+    "fromDamage": 11,
+    "toDamage": 27,
+    "parry": 0,
+    "block": 0,
+    "range": 9,
+    "armor": 0,
+    "primaryStats": {
+      "stamina": 8,
+      "strength": 7,
+      "intellect": 8,
+      "agility": 44,
+      "spirit": 16
+    },
+    "secondaryStats": {
+      "leech": 0,
+      "speed": 0,
+      "haste": 0,
+      "crit": 10,
+      "resistances": {
+        "fireResistance": 0,
+        "frostResistance": 0,
+        "arcaneResistance": 0,
+        "shadowResistance": 0,
+        "poisonResistance": 0,
+        "stunResistance": 0
+      }
+    }
+  }
+]
