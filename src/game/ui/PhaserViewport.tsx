@@ -1,20 +1,17 @@
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { createGame, type GameBridge } from "../phaser/createGame";
 import { useAppStore } from "../../state/store";
-import type {PlacedTile} from "../phaser/scenes/maps/scenes.ts";
-
+import { useGameStore } from "../../state/store";
+import type { PlacedTile } from "../phaser/scenes/maps/scenes";
 
 function computeSquareSize() {
-  // Fit within viewport width, and leave room for “below the square” UI if needed.
-  // On phones, this tends to pick near full width.
   const vw = window.innerWidth;
   const vh = window.innerHeight;
 
-  // Reserve some space for below-panels (tweak as you like).
   const reservedBelow = Math.min(260, Math.floor(vh * 0.32));
   const availableH = Math.max(240, vh - reservedBelow);
 
-  const size = Math.floor(Math.min(vw, availableH, 920)); // cap a bit on desktop
+  const size = Math.floor(Math.min(vw, availableH, 920));
   return Math.max(240, size);
 }
 
@@ -23,11 +20,12 @@ export function PhaserViewport(props: {
 }) {
   const hostRef = useRef<HTMLDivElement | null>(null);
   const bridgeRef = useRef<GameBridge | null>(null);
-  const [size, setSize] = useState<number>(() => (typeof window === "undefined" ? 480 : computeSquareSize()));
 
-  const openBuildingPanel = useAppStore((s) => s.openBuildingPanel);
-  // const bridge = useMemo(() => ({ current: bridgeRef.current }), []);
+  const [size, setSize] = useState<number>(() =>
+    typeof window === "undefined" ? 480 : computeSquareSize()
+  );
 
+  // App/UI store
   const editorEnabled = useAppStore((s) => s.editorEnabled);
   const editorLayer = useAppStore((s) => s.editorLayer);
   const selectedSpriteKey = useAppStore((s) => s.selectedSpriteKey);
@@ -36,6 +34,8 @@ export function PhaserViewport(props: {
   const eraseAt = useAppStore((s) => s.eraseAt);
   const sceneMap = useAppStore((s) => s.sceneMap);
 
+  // Game store: selected scene ("town" | "hell" | etc)
+  const selectedSceneId = useGameStore((s) => s.selectedSceneId);
 
   useLayoutEffect(() => {
     const onResize = () => setSize(computeSquareSize());
@@ -47,10 +47,10 @@ export function PhaserViewport(props: {
     };
   }, []);
 
+  // Create Phaser ONCE
   useEffect(() => {
     if (!hostRef.current) return;
 
-    // Create game once
     bridgeRef.current = createGame(hostRef.current, size);
     props.onCanvasReady?.(bridgeRef.current.getCanvas());
 
@@ -62,47 +62,57 @@ export function PhaserViewport(props: {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // Switch scenes when selectedSceneId changes
+  useEffect(() => {
+    const b = bridgeRef.current;
+    if (!b) return;
 
+    b.startScene(selectedSceneId === "hell" ? "HellScene" : "TownScene");
 
+    // Keep sizing consistent
+    b.resize(size);
+
+    // Push map data to the active map scene (Town/Hell if they implement it)
+    b.setSceneMap(sceneMap);
+  }, [selectedSceneId, size, sceneMap]);
+
+  // Keep active scene updated with latest map edits
+  useEffect(() => {
+    bridgeRef.current?.setSceneMap(sceneMap);
+  }, [sceneMap]);
+
+  // Resize Phaser when size changes
+  useEffect(() => {
+    bridgeRef.current?.resize(size);
+  }, [size]);
+
+  // Editor paint (unchanged)
   useEffect(() => {
     const canvas = bridgeRef.current?.getCanvas();
     if (!canvas) return;
 
-    // How fast to paint while holding (ms)
     const PAINT_INTERVAL_MS = 5;
 
     let isDown = false;
     let activePointerId: number | null = null;
     let lastPaintAt = 0;
 
-    // Cache latest pointer position (updated on move)
-    let latestClientX = 0;
-    let latestClientY = 0;
-
-    // Avoid repainting the same tile repeatedly
     let lastTx: number | null = null;
     let lastTy: number | null = null;
 
-    const rectForEvent = () => canvas.getBoundingClientRect();
-
     const paintAtClient = (clientX: number, clientY: number, button: number) => {
-      const rect = rectForEvent();
-
+      const rect = canvas.getBoundingClientRect();
       const cx = clientX - rect.left;
       const cy = clientY - rect.top;
 
       const z = Number(canvas.dataset.zoom || "1") || 1;
-
       const wx = cx / z;
       const wy = cy / z;
 
       const tx = Math.floor(wx / sceneMap.tileSize);
       const ty = Math.floor(wy / sceneMap.tileSize);
 
-      // Bounds check
       if (tx < 0 || ty < 0 || tx >= sceneMap.width || ty >= sceneMap.height) return;
-
-      // If we’re still in the same tile, don’t spam updates
       if (tx === lastTx && ty === lastTy) return;
 
       lastTx = tx;
@@ -124,45 +134,30 @@ export function PhaserViewport(props: {
     const onPointerDown = (ev: PointerEvent) => {
       if (!editorEnabled) return;
 
-      // track pointer
       isDown = true;
       activePointerId = ev.pointerId;
-
-      latestClientX = ev.clientX;
-      latestClientY = ev.clientY;
-
       lastTx = null;
       lastTy = null;
 
-      // capture so we still get move/up even if pointer leaves canvas
       try {
         canvas.setPointerCapture(ev.pointerId);
       } catch {
-        // some browsers can throw if capture fails; safe to ignore
+        // ignore
       }
 
-      // IMPORTANT: paint immediately so a normal click works
       paintAtClient(ev.clientX, ev.clientY, ev.button);
-
-      // Prevent browser actions (like scrolling on touch)
       ev.preventDefault();
     };
 
     const onPointerMove = (ev: PointerEvent) => {
-      if (!editorEnabled) return;
-      if (!isDown) return;
+      if (!editorEnabled || !isDown) return;
       if (activePointerId !== ev.pointerId) return;
-
-      latestClientX = ev.clientX;
-      latestClientY = ev.clientY;
 
       const now = performance.now();
       if (now - lastPaintAt < PAINT_INTERVAL_MS) return;
       lastPaintAt = now;
 
-      // paint while dragging
-      paintAtClient(latestClientX, latestClientY, ev.buttons === 2 ? 2 : 0);
-
+      paintAtClient(ev.clientX, ev.clientY, ev.buttons === 2 ? 2 : 0);
       ev.preventDefault();
     };
 
@@ -187,11 +182,8 @@ export function PhaserViewport(props: {
     canvas.addEventListener("pointermove", onPointerMove);
     canvas.addEventListener("pointerup", endStroke);
     canvas.addEventListener("pointercancel", endStroke);
-
-    // Prevent right click menu
     canvas.addEventListener("contextmenu", (e) => e.preventDefault());
 
-    // Prevent touch scrolling while painting
     canvas.style.touchAction = "none";
 
     return () => {
@@ -211,24 +203,6 @@ export function PhaserViewport(props: {
     eraseAt,
     placeAt,
   ]);
-
-
-
-  useEffect(() => {
-    if (!bridgeRef.current) return;
-    bridgeRef.current.setTownCallbacks({
-      onBuildingClicked: (id) => openBuildingPanel(id),
-    });
-  }, [openBuildingPanel]);
-
-  useEffect(() => {
-    bridgeRef.current?.setSceneMap(sceneMap);
-  }, [sceneMap]);
-
-  useEffect(() => {
-    // Resize Phaser when size changes
-    bridgeRef.current?.resize(size);
-  }, [size]);
 
   return (
     <div

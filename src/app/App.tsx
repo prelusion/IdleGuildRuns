@@ -1,18 +1,19 @@
 import { useEffect, useMemo, useState } from "react";
 import { PhaserViewport } from "../game/ui/PhaserViewport";
-import { useAppStore } from "../state/store";
+import {useAppStore, useGameStore} from "../state/store";
 import type { SimOutMsg } from "../sim/simTypes";
 import { allSpriteKeys } from "../game/assets/tilesets";
 import Navigation from "./navigation.tsx";
 import Inventory from "./inventory.tsx";
 import Creative from "./creative.tsx";
+import GuildPanel from "./guildPanel.tsx";
 
 export default function App() {
   const gold = useAppStore((s) => s.gold);
   const ticks = useAppStore((s) => s.ticks);
-  const sceneMap = useAppStore((s) => s.sceneMap);
   const simConnected = useAppStore((s) => s.simConnected);
 
+  const selectedSceneId = useGameStore((s) => s.selectedSceneId);
   const applyOfflineProgress = useAppStore((s) => s.applyOfflineProgress);
   const applySimSnapshot = useAppStore((s) => s.applySimSnapshot);
   const setSimConnected = useAppStore((s) => s.setSimConnected);
@@ -50,6 +51,11 @@ export default function App() {
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
   }, [rotateSelected]);
+
+  useEffect(() => {
+    const s = useGameStore.getState();
+    if (Object.keys(s.guildMembers).length === 0) s.createStarterGuild();
+  }, []);
 
   useEffect(() => {
     const now = Date.now();
@@ -154,6 +160,9 @@ export default function App() {
             </label>
           </div>
 
+          {/* Guild Panel */}
+          <GuildPanel />
+
           {/* Creative panel */}
           <Creative/>
 
@@ -250,7 +259,7 @@ export default function App() {
             <div className="flex flex-wrap gap-2">
               <div className="min-w-[140px] rounded-lg border border-white/10 bg-black/20 p-2.5">
                 <div className="text-xs text-white/70">Scene</div>
-                <div className="text-xl font-extrabold">{(sceneMap as any).scene}</div>
+                <div className="text-xl font-extrabold">{selectedSceneId}</div>
               </div>
               <div className="min-w-[140px] rounded-lg border border-white/10 bg-black/20 p-2.5">
                 <div className="text-xs text-white/70">Gold</div>

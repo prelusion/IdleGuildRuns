@@ -442,6 +442,8 @@ export const MOBS: Record<string, MobDef> = build([
   {
     family: TypeMobs.SLIMEBOSS,
     variants: ["slime_boss1", "slime_boss2", "slime_boss3"],
+    frameH: 128,
+    frameW: 128,
     layers: [
       { id: "shadow", depthOffset: 0 },
       { id: "body", depthOffset: 1 },

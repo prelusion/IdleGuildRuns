@@ -64,11 +64,18 @@ export function createMobAnimations(scene: Phaser.Scene, def: MobDef) {
         const frames = scene.anims.generateFrameNumbers(tKey, { start, end });
         if (!frames.length) continue;
 
+        const oneShot =
+          action.includes("death") ||
+          action.includes("attack") ||
+          action.includes("swing") ||
+          action.includes("hurt");
+
+
         scene.anims.create({
           key: aKey,
           frames,
           frameRate: fps,
-          repeat: action.includes("death") ? 0 : -1,
+          repeat: oneShot ? 0 : -1,
         });
       }
     }

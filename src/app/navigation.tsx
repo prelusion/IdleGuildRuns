@@ -1,5 +1,5 @@
-import {useMemo, useState} from "react";
-import {useAppStore} from "../state/store.ts";
+import { useMemo, useState } from "react";
+import { useGameStore } from "../state/store";
 
 type NavItem = {
   name: string;
@@ -8,8 +8,8 @@ type NavItem = {
 
 type NavTopic = {
   name: string;
-  onClick?: () => void;     // optional: only needed for leaf topics
-  items?: NavItem[];        // sub-items (dropdown)
+  onClick?: () => void;
+  items?: NavItem[];
 };
 
 type NavSection = {
@@ -19,27 +19,39 @@ type NavSection = {
 };
 
 export default function Navigation() {
-  const setSceneMap = useAppStore((s) => s.setSceneMap);
-
   const [navigationOpen, setNavigationOpen] = useState(false);
-
-  // Which topic dropdowns are open? Keyed by a stable string.
   const [openTopics, setOpenTopics] = useState<Record<string, boolean>>({});
 
-  const toggleTopic = (key: string) => {
-    setOpenTopics((prev) => ({...prev, [key]: !prev[key]}));
-  };
+  const parties = useGameStore((s) => s.parties);
+  const selectedPartyId = useGameStore((s) => s.selectedPartyId);
 
-  const navContent: NavSection[] = useMemo(
-    () => [
+  const sendPartyToScene = useGameStore((s) => s.sendPartyToScene);
+  const goToScene = useGameStore((s) => s.goToScene);
+
+  const toggleTopic = (key: string) => setOpenTopics((prev) => ({ ...prev, [key]: !prev[key] }));
+
+  // Choose which party to deploy when clicking "Hell"
+  const partyToDeployId =
+    selectedPartyId ??
+    Object.keys(parties)[0] ??
+    null;
+
+  const navContent: NavSection[] = useMemo(() => {
+    const goTown = () => goToScene("town");
+
+    const goHell = () => {
+      // Deploy party if we have one
+      if (partyToDeployId) sendPartyToScene(partyToDeployId, "hell");
+      goToScene("hell");
+    };
+
+    return [
       {
         title: "Town",
-        onClick: () => {
-          setSceneMap("town")
-        },
+        onClick: goTown,
         topics: [
-          {name: "Guild", onClick: () => console.log("Guild clicked")},
-          {name: "Blacksmith", onClick: () => console.log("Blacksmith clicked")},
+          { name: "Guild", onClick: () => console.log("Guild clicked") },
+          { name: "Blacksmith", onClick: () => console.log("Blacksmith clicked") },
         ],
       },
       {
@@ -48,38 +60,32 @@ export default function Navigation() {
           {
             name: "Open World",
             items: [
-              {
-                name: "Hell", onClick: () => {
-                  setSceneMap("hell")
-                  console.log("Open Hell scene")
-                }
-              },
-              {name: "Forest", onClick: () => console.log("Open Forest scene")},
+              { name: "Hell", onClick: goHell },
+              { name: "Forest", onClick: () => console.log("Open Forest scene") },
             ],
           },
-          {name: "Dungeons", onClick: () => console.log("Dungeons clicked")},
-          {name: "Raids", onClick: () => console.log("Raids clicked")},
+          { name: "Dungeons", onClick: () => console.log("Dungeons clicked") },
+          { name: "Raids", onClick: () => console.log("Raids clicked") },
         ],
       },
       {
         title: "Guild Members",
         topics: [
-          {name: "Member List", onClick: () => console.log("Member List clicked")},
-          {name: "Recruit", onClick: () => console.log("Recruit clicked")},
-          {name: "Roles", onClick: () => console.log("Roles clicked")},
+          { name: "Member List", onClick: () => console.log("Member List clicked") },
+          { name: "Recruit", onClick: () => console.log("Recruit clicked") },
+          { name: "Roles", onClick: () => console.log("Roles clicked") },
         ],
       },
       {
         title: "Quests",
         topics: [
-          {name: "Quest 1", onClick: () => console.log("Quest 1 clicked")},
-          {name: "Quest 2", onClick: () => console.log("Quest 2 clicked")},
-          {name: "Quest 3", onClick: () => console.log("Quest 3 clicked")},
+          { name: "Quest 1", onClick: () => console.log("Quest 1 clicked") },
+          { name: "Quest 2", onClick: () => console.log("Quest 2 clicked") },
+          { name: "Quest 3", onClick: () => console.log("Quest 3 clicked") },
         ],
       },
-    ],
-    []
-  );
+    ];
+  }, [goToScene, sendPartyToScene, partyToDeployId]);
 
   return (
     <div className="pointer-events-auto -mt-3 md:mt-3">
@@ -92,8 +98,7 @@ export default function Navigation() {
       </button>
 
       {navigationOpen && (
-        <div
-          className="fixed right-0 top-0 h-dvh w-full bg-gray-600 p-2 md:absolute md:h-full md:w-40 md:rounded-br-2xl md:rounded-tr-2xl">
+        <div className="fixed right-0 top-0 h-dvh w-full bg-gray-600 p-2 md:absolute md:h-full md:w-40 md:rounded-br-2xl md:rounded-tr-2xl">
           <div className="flex flex-col gap-4">
             {navContent.map((section) => (
               <div key={section.title}>
@@ -122,9 +127,7 @@ export default function Navigation() {
                           }}
                         >
                           <span>{topic.name}</span>
-                          {hasItems && (
-                            <span className="text-white/70">{isOpen ? "▾" : "▸"}</span>
-                          )}
+                          {hasItems && <span className="text-white/70">{isOpen ? "▾" : "▸"}</span>}
                         </button>
 
                         {hasItems && isOpen && (

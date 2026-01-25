@@ -1,4 +1,4 @@
-import React, {useEffect, useMemo, useRef, useState} from "react";
+import React, {useMemo, useState} from "react";
 import {useAppStore} from "../state/store.ts";
 import type {Accessory, Gear, Item, Weapon} from "./types.ts";
 import ItemPreview from "./ItemPreview.tsx";

@@ -4,6 +4,7 @@ import { SAVE_VERSION, migrateSave } from "./saveMigrations";
 import type {PlacedTile, Rotation, SceneMap, SceneWrapper} from "../game/phaser/scenes/maps/scenes.ts";
 import { Scenes } from "../game/phaser/scenes/maps/scenes.ts";
 import type {Item} from "../app/types.ts";
+import type { GuildMember, GuildMemberId, Party, PartyId, SceneId, GearItem } from "./gameTypes.ts";
 
 type UiPanel = "none" | "building";
 
@@ -195,5 +196,327 @@ export const useAppStore = create<AppState>()(
         ticks: s.ticks,
       }),
     }
+  )
+);
+
+type GameState = {
+  gold: number;
+
+  // --- guild / parties ---
+  guildMembers: Record<GuildMemberId, GuildMember>;
+  parties: Record<PartyId, Party>;
+
+  // --- selection / ui (optional) ---
+  selectedPartyId: PartyId | null;
+  selectedMemberId: GuildMemberId | null;
+
+  // --- actions ---
+  addGold: (amount: number) => void;
+
+  createStarterGuild: () => void;
+
+  createParty: (name: string) => PartyId;
+  addMemberToParty: (memberId: GuildMemberId, partyId: PartyId) => void;
+  removeMemberFromParty: (memberId: GuildMemberId) => void;
+
+  sendPartyToScene: (partyId: PartyId, sceneId: SceneId) => void;
+  setMemberScene: (memberId: GuildMemberId, sceneId: SceneId) => void;
+
+  applyGear: (memberId: GuildMemberId, item: GearItem) => void;
+  recomputeMemberStats: (memberId: GuildMemberId) => void;
+
+  // combat sync hooks called by Phaser
+  setMemberHp: (memberId: GuildMemberId, hp: number) => void;
+  markMemberDead: (memberId: GuildMemberId, nowMs: number) => void;
+
+  // “death rule”: after 60s dead -> remove from party & send back to town
+  reviveOrRecallDeadMembers: (nowMs: number) => void;
+
+  selectedSceneId: SceneId;
+  setSelectedSceneId: (id: SceneId) => void;
+  goToScene: (sceneId: SceneId) => void;
+
+};
+
+const DEAD_RECALL_MS = 60_000;
+
+function uid(prefix = "id") {
+  return `${prefix}_${Math.random().toString(16).slice(2)}_${Date.now().toString(16)}`;
+}
+
+export const useGameStore = create<GameState>()(
+  persist(
+    (set, get) => ({
+      gold: 0,
+
+      guildMembers: {},
+      parties: {},
+
+      selectedPartyId: null,
+      selectedMemberId: null,
+
+      selectedSceneId: "town",
+      setSelectedSceneId: (id) => set({ selectedSceneId: id }),
+
+      addGold: (amount) => set((s) => ({ gold: s.gold + amount })),
+      goToScene: (sceneId) => {
+        set({ selectedSceneId: sceneId });
+        // update tile scene map in app store too
+        useAppStore.getState().setSceneMap(sceneId);
+      },
+
+      createStarterGuild: () => {
+        const a1: GuildMember = {
+          id: uid("gm"),
+          name: "Alya",
+          role: "adventurer",
+          unitDefId: "lizardman1",
+          sceneId: "town",
+          partyId: null,
+          level: 1,
+          gear: {},
+          maxHp: 140,
+          hp: 140,
+          deadAtMs: null,
+        };
+        // const a2: GuildMember = {
+        //   id: uid("gm"),
+        //   name: "cccc",
+        //   role: "adventurer",
+        //   unitDefId: "lizardman1",
+        //   sceneId: "town",
+        //   partyId: null,
+        //   level: 1,
+        //   gear: {},
+        //   maxHp: 140,
+        //   hp: 140,
+        //   deadAtMs: null,
+        // };
+        // const a3: GuildMember = {
+        //   id: uid("gm"),
+        //   name: "bbbb",
+        //   role: "adventurer",
+        //   unitDefId: "lizardman1",
+        //   sceneId: "town",
+        //   partyId: null,
+        //   level: 1,
+        //   gear: {},
+        //   maxHp: 140,
+        //   hp: 140,
+        //   deadAtMs: null,
+        // };
+        // const a4: GuildMember = {
+        //   id: uid("gm"),
+        //   name: "dddd",
+        //   role: "adventurer",
+        //   unitDefId: "lizardman1",
+        //   sceneId: "town",
+        //   partyId: null,
+        //   level: 1,
+        //   gear: {},
+        //   maxHp: 140,
+        //   hp: 140,
+        //   deadAtMs: null,
+        // };
+        //
+        // const w1: GuildMember = {
+        //   id: uid("gm"),
+        //   name: "Miro",
+        //   role: "worker",
+        //   unitDefId: "ghost1_worker",
+        //   sceneId: "town",
+        //   partyId: null,
+        //   level: 1,
+        //   gear: {},
+        //   maxHp: 90,
+        //   hp: 90,
+        //   deadAtMs: null,
+        // };
+
+        set((s) => ({
+          guildMembers: { ...s.guildMembers,
+            [a1.id]: a1,
+            // [a2.id]: a2, [a3.id]: a3, [a4.id]: a4, [w1.id]: w1
+            },
+        }));
+
+        // create a default party and put adventurer in it
+        const partyId = get().createParty("Party 1");
+        get().addMemberToParty(a1.id, partyId);
+        // get().addMemberToParty(a2.id, partyId);
+        // get().addMemberToParty(a3.id, partyId);
+        // get().addMemberToParty(a4.id, partyId);
+      },
+
+      createParty: (name) => {
+        const id = uid("party");
+        set((s) => ({
+          parties: {
+            ...s.parties,
+            [id]: { id, name, memberIds: [], sceneId: "town" },
+          },
+        }));
+        return id;
+      },
+
+      addMemberToParty: (memberId, partyId) => {
+        const gm = get().guildMembers[memberId];
+        const party = get().parties[partyId];
+        if (!gm || !party) return;
+
+        // remove from any previous party first
+        if (gm.partyId) get().removeMemberFromParty(memberId);
+
+        set((s) => ({
+          guildMembers: {
+            ...s.guildMembers,
+            [memberId]: { ...gm, partyId, sceneId: party.sceneId },
+          },
+          parties: {
+            ...s.parties,
+            [partyId]: {
+              ...party,
+              memberIds: party.memberIds.includes(memberId)
+                ? party.memberIds
+                : [...party.memberIds, memberId],
+            },
+          },
+        }));
+      },
+
+      removeMemberFromParty: (memberId) => {
+        const gm = get().guildMembers[memberId];
+        if (!gm || !gm.partyId) return;
+
+        const party = get().parties[gm.partyId];
+        if (!party) return;
+
+        set((s) => ({
+          guildMembers: {
+            ...s.guildMembers,
+            [memberId]: { ...gm, partyId: null, sceneId: "town" },
+          },
+          parties: {
+            ...s.parties,
+            [party.id]: {
+              ...party,
+              memberIds: party.memberIds.filter((id) => id !== memberId),
+            },
+          },
+        }));
+      },
+
+      sendPartyToScene: (partyId, sceneId) => {
+        const party = get().parties[partyId];
+        if (!party) return;
+
+        set((s) => {
+          const updatedMembers = { ...s.guildMembers };
+          for (const mid of party.memberIds) {
+            const gm = updatedMembers[mid];
+            if (gm) updatedMembers[mid] = { ...gm, sceneId };
+          }
+          return {
+            parties: { ...s.parties, [partyId]: { ...party, sceneId } },
+            guildMembers: updatedMembers,
+          };
+        });
+      },
+
+      setMemberScene: (memberId, sceneId) => {
+        const gm = get().guildMembers[memberId];
+        if (!gm) return;
+        set((s) => ({
+          guildMembers: { ...s.guildMembers, [memberId]: { ...gm, sceneId } },
+        }));
+      },
+
+      applyGear: (memberId, item) => {
+        const gm = get().guildMembers[memberId];
+        if (!gm) return;
+        set((s) => ({
+          guildMembers: {
+            ...s.guildMembers,
+            [memberId]: { ...gm, gear: { ...gm.gear, [item.slot]: item } },
+          },
+        }));
+        get().recomputeMemberStats(memberId);
+      },
+
+      recomputeMemberStats: (memberId) => {
+        const gm = get().guildMembers[memberId];
+        if (!gm) return;
+
+        const gearItems = Object.values(gm.gear).filter(Boolean) as GearItem[];
+        const bonus = gearItems.reduce(
+          (acc, it) => {
+            for (const [k, v] of Object.entries(it.stats)) {
+              (acc)[k] = ((acc)[k] ?? 0) + (v ?? 0);
+            }
+            return acc;
+          },
+          {} as Record<string, number>
+        );
+
+        // for now keep it simple: only maxHp affects hp clamp
+        const newMaxHp = Math.max(1, gm.maxHp + (bonus.maxHp ?? 0));
+        const newHp = Math.min(gm.hp, newMaxHp);
+
+        set((s) => ({
+          guildMembers: {
+            ...s.guildMembers,
+            [memberId]: { ...gm, maxHp: newMaxHp, hp: newHp },
+          },
+        }));
+      },
+
+      setMemberHp: (memberId, hp) => {
+        const gm = get().guildMembers[memberId];
+        if (!gm) return;
+        set((s) => ({
+          guildMembers: { ...s.guildMembers, [memberId]: { ...gm, hp } },
+        }));
+      },
+
+      markMemberDead: (memberId, nowMs) => {
+        const gm = get().guildMembers[memberId];
+        if (!gm) return;
+        set((s) => ({
+          guildMembers: {
+            ...s.guildMembers,
+            [memberId]: { ...gm, hp: 0, deadAtMs: nowMs },
+          },
+        }));
+      },
+
+      reviveOrRecallDeadMembers: (nowMs) => {
+        const { guildMembers, parties } = get();
+
+        // recall anyone who’s been dead for >= 60s
+        const updatedMembers: typeof guildMembers = { ...guildMembers };
+        const updatedParties: typeof parties = { ...parties };
+        let changed = false;
+
+        for (const gm of Object.values(guildMembers)) {
+          if (!gm.deadAtMs) continue;
+
+          if (nowMs - gm.deadAtMs >= DEAD_RECALL_MS) {
+            // remove from party and send to town
+            if (gm.partyId && updatedParties[gm.partyId]) {
+              const p = updatedParties[gm.partyId];
+              updatedParties[gm.partyId] = {
+                ...p,
+                memberIds: p.memberIds.filter((id) => id !== gm.id),
+              };
+            }
+            updatedMembers[gm.id] = { ...gm, partyId: null, sceneId: "town" };
+            changed = true;
+          }
+        }
+
+        if (changed) set({ guildMembers: updatedMembers, parties: updatedParties });
+      },
+    }),
+    { name: "idle-raiders-save-v1" }
   )
 );
