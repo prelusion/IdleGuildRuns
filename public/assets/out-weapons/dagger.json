@@ -1,5 +1,6 @@
 [
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Old Road Dirk",
     "src": "icons/dagger/dagger-0.png",
@@ -35,6 +36,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Wayfarer Knife",
     "src": "icons/dagger/dagger-1.png",
@@ -70,6 +72,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Town Guard Stiletto",
     "src": "icons/dagger/dagger-2.png",
@@ -105,6 +108,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "City Watch Dirk",
     "src": "icons/dagger/dagger-3.png",
@@ -140,6 +144,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Tempered Dirk",
     "src": "icons/dagger/dagger-4.png",
@@ -175,6 +180,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Moonlit Dirk",
     "src": "icons/dagger/dagger-5.png",
@@ -210,6 +216,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Ironwall Shadowblade",
     "src": "icons/dagger/dagger-6.png",
@@ -245,6 +252,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Warden's Dirk",
     "src": "icons/dagger/dagger-7.png",
@@ -280,6 +288,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Ironwall Shadowblade",
     "src": "icons/dagger/dagger-8.png",
@@ -315,6 +324,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Gilded Dirk",
     "src": "icons/dagger/dagger-9.png",
@@ -350,6 +360,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Royal Shadowblade",
     "src": "icons/dagger/dagger-10.png",
@@ -385,6 +396,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Royal Knife",
     "src": "icons/dagger/dagger-11.png",
@@ -420,6 +432,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Platinum Shadowblade",
     "src": "icons/dagger/dagger-12.png",
@@ -455,6 +468,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Platinum Shadowblade",
     "src": "icons/dagger/dagger-13.png",
@@ -490,6 +504,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Sanctified Dirk",
     "src": "icons/dagger/dagger-14.png",
@@ -525,6 +540,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Emerald Dirk",
     "src": "icons/dagger/dagger-15.png",
@@ -560,6 +576,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Wildheart Stiletto",
     "src": "icons/dagger/dagger-16.png",
@@ -595,6 +612,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Emerald Stiletto",
     "src": "icons/dagger/dagger-17.png",
@@ -630,6 +648,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Diamond Stiletto",
     "src": "icons/dagger/dagger-18.png",
@@ -665,6 +684,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Diamond Stiletto",
     "src": "icons/dagger/dagger-19.png",
@@ -700,6 +720,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Glacier Shadowblade",
     "src": "icons/dagger/dagger-20.png",
@@ -735,6 +756,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Archon Knife",
     "src": "icons/dagger/dagger-21.png",
@@ -770,6 +792,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Archon Stiletto",
     "src": "icons/dagger/dagger-22.png",
@@ -805,6 +828,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Eternal Shadowblade",
     "src": "icons/dagger/dagger-23.png",
@@ -840,6 +864,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Demonic Shadowblade",
     "src": "icons/dagger/dagger-24.png",
@@ -875,6 +900,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Demonic Knife",
     "src": "icons/dagger/dagger-25.png",
@@ -910,6 +936,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Demonic Stiletto",
     "src": "icons/dagger/dagger-26.png",
@@ -945,6 +972,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Rusted Dirk",
     "src": "icons/dagger/dagger-27.png",
@@ -980,6 +1008,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Windworn Stiletto",
     "src": "icons/dagger/dagger-28.png",
@@ -1015,6 +1044,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Warden's Knife",
     "src": "icons/dagger/dagger-29.png",
@@ -1050,6 +1080,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Auric Shadowblade",
     "src": "icons/dagger/dagger-30.png",
@@ -1085,6 +1116,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Highborne Shadowblade",
     "src": "icons/dagger/dagger-31.png",
@@ -1120,6 +1152,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Verdant Shadowblade",
     "src": "icons/dagger/dagger-32.png",
@@ -1155,6 +1188,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Aether Dirk",
     "src": "icons/dagger/dagger-33.png",
@@ -1190,6 +1224,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Eclipsed Knife",
     "src": "icons/dagger/dagger-34.png",
@@ -1225,6 +1260,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Abyssal Shadowblade",
     "src": "icons/dagger/dagger-35.png",
@@ -1260,6 +1296,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Town Guard Dirk",
     "src": "icons/dagger/dagger-36.png",
@@ -1295,6 +1332,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "City Watch Shadowblade",
     "src": "icons/dagger/dagger-37.png",
@@ -1330,6 +1368,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Ironwall Shadowblade",
     "src": "icons/dagger/dagger-38.png",
@@ -1365,6 +1404,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Sunforged Shadowblade",
     "src": "icons/dagger/dagger-39.png",
@@ -1400,6 +1440,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Platinum Stiletto",
     "src": "icons/dagger/dagger-40.png",
@@ -1435,6 +1476,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Emerald Dirk",
     "src": "icons/dagger/dagger-41.png",
@@ -1470,6 +1512,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Glacier Stiletto",
     "src": "icons/dagger/dagger-42.png",
@@ -1505,6 +1548,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Eclipsed Knife",
     "src": "icons/dagger/dagger-43.png",
@@ -1540,6 +1584,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Infernal Knife",
     "src": "icons/dagger/dagger-44.png",
@@ -1575,6 +1620,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Rusted Shadowblade",
     "src": "icons/dagger/dagger-45.png",
@@ -1610,6 +1656,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Windworn Knife",
     "src": "icons/dagger/dagger-46.png",
@@ -1645,6 +1692,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Steel Dirk",
     "src": "icons/dagger/dagger-47.png",
@@ -1680,6 +1728,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Royal Shadowblade",
     "src": "icons/dagger/dagger-48.png",
@@ -1715,6 +1764,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Oathbound Knife",
     "src": "icons/dagger/dagger-49.png",
@@ -1750,6 +1800,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Grovekeeper Shadowblade",
     "src": "icons/dagger/dagger-50.png",
@@ -1785,6 +1836,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Aether Shadowblade",
     "src": "icons/dagger/dagger-51.png",
@@ -1820,6 +1872,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Eternal Dirk",
     "src": "icons/dagger/dagger-52.png",
@@ -1855,6 +1908,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Demonic Knife",
     "src": "icons/dagger/dagger-53.png",
@@ -1890,6 +1944,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Rusted Knife",
     "src": "icons/dagger/dagger-54.png",
@@ -1925,6 +1980,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "City Watch Shadowblade",
     "src": "icons/dagger/dagger-55.png",
@@ -1960,6 +2016,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Forge-Bound Dirk",
     "src": "icons/dagger/dagger-56.png",
@@ -1995,6 +2052,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Auric Stiletto",
     "src": "icons/dagger/dagger-57.png",
@@ -2030,6 +2088,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Sanctified Dirk",
     "src": "icons/dagger/dagger-58.png",
@@ -2065,6 +2124,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Grovekeeper Stiletto",
     "src": "icons/dagger/dagger-59.png",
@@ -2100,6 +2160,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Starbound Dirk",
     "src": "icons/dagger/dagger-60.png",
@@ -2135,6 +2196,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Eternal Stiletto",
     "src": "icons/dagger/dagger-61.png",
@@ -2170,6 +2232,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Dreadlord Knife",
     "src": "icons/dagger/dagger-62.png",
@@ -2205,6 +2268,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Old Road Stiletto",
     "src": "icons/dagger/dagger-63.png",
@@ -2240,6 +2304,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "City Watch Dirk",
     "src": "icons/dagger/dagger-64.png",
@@ -2275,6 +2340,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Forge-Bound Knife",
     "src": "icons/dagger/dagger-65.png",
@@ -2310,6 +2376,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Royal Stiletto",
     "src": "icons/dagger/dagger-66.png",
@@ -2345,6 +2412,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Oathbound Stiletto",
     "src": "icons/dagger/dagger-67.png",
@@ -2380,6 +2448,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Verdant Shadowblade",
     "src": "icons/dagger/dagger-68.png",
@@ -2415,6 +2484,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Diamond Stiletto",
     "src": "icons/dagger/dagger-69.png",
@@ -2450,6 +2520,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Eclipsed Dirk",
     "src": "icons/dagger/dagger-70.png",
@@ -2485,6 +2556,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Infernal Shadowblade",
     "src": "icons/dagger/dagger-71.png",
@@ -2520,6 +2592,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Town Guard Knife",
     "src": "icons/dagger/dagger-72.png",
@@ -2555,6 +2628,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "City Watch Knife",
     "src": "icons/dagger/dagger-73.png",
@@ -2590,6 +2664,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Steel Stiletto",
     "src": "icons/dagger/dagger-74.png",
@@ -2625,6 +2700,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Sunforged Dirk",
     "src": "icons/dagger/dagger-75.png",
@@ -2660,6 +2736,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Highborne Stiletto",
     "src": "icons/dagger/dagger-76.png",
@@ -2695,6 +2772,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Verdant Shadowblade",
     "src": "icons/dagger/dagger-77.png",
@@ -2730,6 +2808,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Aether Stiletto",
     "src": "icons/dagger/dagger-78.png",
@@ -2765,6 +2844,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Archon Stiletto",
     "src": "icons/dagger/dagger-79.png",
@@ -2800,6 +2880,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Demonic Shadowblade",
     "src": "icons/dagger/dagger-80.png",
@@ -2835,6 +2916,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Rusted Dirk",
     "src": "icons/dagger/dagger-81.png",
@@ -2870,6 +2952,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Moonlit Stiletto",
     "src": "icons/dagger/dagger-82.png",
@@ -2905,6 +2988,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Ironwall Knife",
     "src": "icons/dagger/dagger-83.png",
@@ -2940,6 +3024,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Auric Dirk",
     "src": "icons/dagger/dagger-84.png",
@@ -2975,6 +3060,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Oathbound Shadowblade",
     "src": "icons/dagger/dagger-85.png",
@@ -3010,6 +3096,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Grovekeeper Stiletto",
     "src": "icons/dagger/dagger-86.png",
@@ -3045,6 +3132,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Aether Stiletto",
     "src": "icons/dagger/dagger-87.png",
@@ -3080,6 +3168,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "epic",
     "name": "Eclipsed Dirk",
     "src": "icons/dagger/dagger-88.png",
@@ -3115,6 +3204,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "legendary",
     "name": "Demonic Dirk",
     "src": "icons/dagger/dagger-89.png",
@@ -3150,6 +3240,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "Town Guard Dirk",
     "src": "icons/dagger/dagger-90.png",
@@ -3185,6 +3276,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "common",
     "name": "City Watch Shadowblade",
     "src": "icons/dagger/dagger-91.png",
@@ -3220,6 +3312,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Ironwall Shadowblade",
     "src": "icons/dagger/dagger-92.png",
@@ -3255,6 +3348,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "uncommon",
     "name": "Royal Knife",
     "src": "icons/dagger/dagger-93.png",
@@ -3290,6 +3384,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Oathbound Dirk",
     "src": "icons/dagger/dagger-94.png",
@@ -3325,6 +3420,7 @@
     }
   },
   {
+    "slot": "dagger",
     "quality": "rare",
     "name": "Emerald Dirk",
     "src": "icons/dagger/dagger-95.png",

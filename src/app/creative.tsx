@@ -1,11 +1,10 @@
 import { useEffect, useMemo, useState } from "react";
 import { useAppStore } from "../state/store.ts";
-import type { Accessory, Gear, Item, Weapon } from "./types.ts";
+import type {Accessory, Gear, Item, Weapon} from "./types.ts";
 import ItemPreview from "./ItemPreview.tsx";
 
 type AnyItem = (Item | Gear | Weapon | Accessory) & {
   __group: "weapons" | "armor" | "accessories";
-  __slot: string;
 };
 
 type GroupFilter = "all" | "weapons" | "armor" | "accessories";
@@ -71,11 +70,43 @@ function normalizeSrc(src: string) {
   return `/${src}`;
 }
 
-async function fetchJson<T>(path: string): Promise<T> {
-  const res = await fetch(path, { cache: "force-cache" });
-  if (!res.ok) throw new Error(`Failed to load ${path} (${res.status})`);
-  return res.json();
+async function fetchJson<T>(url: string): Promise<T> {
+  const res = await fetch(url);
+
+  const contentType = res.headers.get("content-type") ?? "";
+  const text = await res.text();
+
+  if (!res.ok) {
+    console.error("FETCH FAILED", {
+      url,
+      status: res.status,
+      statusText: res.statusText,
+      contentType,
+      bodyStart: text.slice(0, 200),
+    });
+    throw new Error(`HTTP ${res.status} for ${url}`);
+  }
+
+  if (!contentType.includes("application/json")) {
+    console.warn("NOT JSON RESPONSE", {
+      url,
+      contentType,
+      bodyStart: text.slice(0, 200),
+    });
+  }
+
+  try {
+    return JSON.parse(text) as T;
+  } catch (e) {
+    console.error("JSON PARSE ERROR", {
+      url,
+      contentType,
+      bodyStart: text.slice(0, 200),
+    });
+    throw e;
+  }
 }
+
 
 export default function Creative() {
   const creativeEnabled = useAppStore((s) => s.creativeEnabled);
@@ -107,11 +138,9 @@ export default function Creative() {
       setErr(null);
 
       try {
-        // These paths assume you put the jsons under /public/assets/data/...
-        // Adjust base path if yours differs.
         const base = "public/assets";
 
-        const accessories = ["neckless", "ring", "trinket"] as const;
+        const accessories = ["necklace", "ring", "trinket"] as const;
         const armor = ["belt", "bracers", "chest", "feet", "helmet", "trousers"] as const;
         const weapons = ["axe", "bow", "crossbow", "dagger", "mace", "shield", "staff", "sword", "tome"] as const;
 
@@ -119,16 +148,15 @@ export default function Creative() {
 
         for (const s of accessories) {
           reqs.push(
-            fetchJson<Array<Accessory>>(`${base}/out-accessories/${s}.json`).then((arr) =>
-              arr.map((it) => ({ ...(it), __group: "accessories", __slot: s }))
-            )
+            fetchJson<Accessory[]>(`${base}/out-accessories/${s}.json`)
+              .then((arr) => arr.map((it) => ({ ...it, __group: "accessories" as const, slot: s })))
           );
         }
 
         for (const s of armor) {
           reqs.push(
             fetchJson<Array<Gear>>(`${base}/out-armor/${s}.json`).then((arr) =>
-              arr.map((it) => ({ ...(it), __group: "armor", __slot: s }))
+              arr.map((it) => ({ ...(it), __group: "armor",  slot: s }))
             )
           );
         }
@@ -136,7 +164,7 @@ export default function Creative() {
         for (const s of weapons) {
           reqs.push(
             fetchJson<Array<Weapon>>(`${base}/out-weapons/${s}.json`).then((arr) =>
-              arr.map((it) => ({ ...(it), __group: "weapons", __slot: s }))
+              arr.map((it) => ({ ...(it), __group: "weapons",  slot: s }))
             )
           );
         }
@@ -169,7 +197,7 @@ export default function Creative() {
 
   const slots = useMemo(() => {
     const set = new Set<string>();
-    for (const it of items) set.add(it.__slot);
+    for (const it of items) set.add(it.slot);
     return ["all", ...Array.from(set).sort()];
   }, [items]);
 
@@ -179,7 +207,7 @@ export default function Creative() {
     let arr = items;
 
     if (group !== "all") arr = arr.filter((it) => it.__group === group);
-    if (slot !== "all") arr = arr.filter((it) => it.__slot === slot);
+    if (slot !== "all") arr = arr.filter((it) => it.slot === slot);
     if (quality !== "all") arr = arr.filter((it) => it.quality === quality);
 
     if (gearType !== "all") {
@@ -201,7 +229,7 @@ export default function Creative() {
         case "group":
           return it.__group;
         case "slot":
-          return it.__slot;
+          return it.slot;
         case "rank":
           return (it).rank ?? "";
         case "gearType":
@@ -330,9 +358,9 @@ export default function Creative() {
 
             return (
               <button
-                key={`${it.__group}-${it.__slot}-${it.name}-${idx}`}
+                key={`${it.__group}-${it. slot}-${it.name}-${idx}`}
                 className="group rounded-lg p-1 text-left hover:bg-white/5"
-                title={`${it.name} • ${it.__group}/${it.__slot} • ${qm.label}`}
+                title={`${it.name} • ${it.__group}/${it. slot} • ${qm.label}`}
                 onClick={() => {
                   setSelectedItem(it);
                   setInventoryItems(it);

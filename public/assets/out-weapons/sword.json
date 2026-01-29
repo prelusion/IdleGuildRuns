@@ -1,5 +1,6 @@
 [
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Rusted Sword",
     "src": "icons/sword/sword-0.png",
@@ -35,6 +36,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Wayfarer Longsword",
     "src": "icons/sword/sword-1.png",
@@ -70,6 +72,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Rusted Sabre",
     "src": "icons/sword/sword-2.png",
@@ -105,6 +108,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Windworn Greatsword",
     "src": "icons/sword/sword-3.png",
@@ -140,6 +144,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Windworn Greatsword",
     "src": "icons/sword/sword-4.png",
@@ -175,6 +180,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Windworn Greatsword",
     "src": "icons/sword/sword-5.png",
@@ -210,6 +216,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Forge-Bound Sword",
     "src": "icons/sword/sword-6.png",
@@ -245,6 +252,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Steel Sword",
     "src": "icons/sword/sword-7.png",
@@ -280,6 +288,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Warden's Greatsword",
     "src": "icons/sword/sword-8.png",
@@ -315,6 +324,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Auric Longsword",
     "src": "icons/sword/sword-9.png",
@@ -350,6 +360,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Sunforged Sabre",
     "src": "icons/sword/sword-10.png",
@@ -385,6 +396,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Royal Greatsword",
     "src": "icons/sword/sword-11.png",
@@ -420,6 +432,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Platinum Sword",
     "src": "icons/sword/sword-12.png",
@@ -455,6 +468,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Sanctified Sword",
     "src": "icons/sword/sword-13.png",
@@ -490,6 +504,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Sanctified Sabre",
     "src": "icons/sword/sword-14.png",
@@ -525,6 +540,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Wildheart Greatsword",
     "src": "icons/sword/sword-15.png",
@@ -560,6 +576,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Emerald Sabre",
     "src": "icons/sword/sword-16.png",
@@ -595,6 +612,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Grovekeeper Greatsword",
     "src": "icons/sword/sword-17.png",
@@ -630,6 +648,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Aether Longsword",
     "src": "icons/sword/sword-18.png",
@@ -665,6 +684,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Glacier Sabre",
     "src": "icons/sword/sword-19.png",
@@ -700,6 +720,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Glacier Sword",
     "src": "icons/sword/sword-20.png",
@@ -735,6 +756,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eclipsed Sabre",
     "src": "icons/sword/sword-21.png",
@@ -770,6 +792,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eternal Greatsword",
     "src": "icons/sword/sword-22.png",
@@ -805,6 +828,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eclipsed Longsword",
     "src": "icons/sword/sword-23.png",
@@ -840,6 +864,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Abyssal Sword",
     "src": "icons/sword/sword-24.png",
@@ -875,6 +900,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Infernal Longsword",
     "src": "icons/sword/sword-25.png",
@@ -910,6 +936,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Abyssal Longsword",
     "src": "icons/sword/sword-26.png",
@@ -945,6 +972,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Rusted Longsword",
     "src": "icons/sword/sword-27.png",
@@ -980,6 +1008,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Windworn Sabre",
     "src": "icons/sword/sword-28.png",
@@ -1015,6 +1044,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Warden's Sword",
     "src": "icons/sword/sword-29.png",
@@ -1050,6 +1080,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Auric Greatsword",
     "src": "icons/sword/sword-30.png",
@@ -1085,6 +1116,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Highborne Greatsword",
     "src": "icons/sword/sword-31.png",
@@ -1120,6 +1152,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Verdant Greatsword",
     "src": "icons/sword/sword-32.png",
@@ -1155,6 +1188,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Aether Longsword",
     "src": "icons/sword/sword-33.png",
@@ -1190,6 +1224,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eclipsed Sword",
     "src": "icons/sword/sword-34.png",
@@ -1225,6 +1260,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Abyssal Greatsword",
     "src": "icons/sword/sword-35.png",
@@ -1260,6 +1296,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Town Guard Longsword",
     "src": "icons/sword/sword-36.png",
@@ -1295,6 +1332,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "City Watch Greatsword",
     "src": "icons/sword/sword-37.png",
@@ -1330,6 +1368,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Ironwall Greatsword",
     "src": "icons/sword/sword-38.png",
@@ -1365,6 +1404,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Sunforged Greatsword",
     "src": "icons/sword/sword-39.png",
@@ -1400,6 +1440,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Platinum Sabre",
     "src": "icons/sword/sword-40.png",
@@ -1435,6 +1476,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Emerald Longsword",
     "src": "icons/sword/sword-41.png",
@@ -1470,6 +1512,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Glacier Sabre",
     "src": "icons/sword/sword-42.png",
@@ -1505,6 +1548,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eclipsed Sword",
     "src": "icons/sword/sword-43.png",
@@ -1540,6 +1584,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Infernal Sword",
     "src": "icons/sword/sword-44.png",
@@ -1575,6 +1620,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Rusted Greatsword",
     "src": "icons/sword/sword-45.png",
@@ -1610,6 +1656,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Windworn Sword",
     "src": "icons/sword/sword-46.png",
@@ -1645,6 +1692,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Steel Longsword",
     "src": "icons/sword/sword-47.png",
@@ -1680,6 +1728,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Royal Greatsword",
     "src": "icons/sword/sword-48.png",
@@ -1715,6 +1764,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Oathbound Sword",
     "src": "icons/sword/sword-49.png",
@@ -1750,6 +1800,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Grovekeeper Greatsword",
     "src": "icons/sword/sword-50.png",
@@ -1785,6 +1836,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Aether Greatsword",
     "src": "icons/sword/sword-51.png",
@@ -1820,6 +1872,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eternal Longsword",
     "src": "icons/sword/sword-52.png",
@@ -1855,6 +1908,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Demonic Sword",
     "src": "icons/sword/sword-53.png",
@@ -1890,6 +1944,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Rusted Sword",
     "src": "icons/sword/sword-54.png",
@@ -1925,6 +1980,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "City Watch Greatsword",
     "src": "icons/sword/sword-55.png",
@@ -1960,6 +2016,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Forge-Bound Longsword",
     "src": "icons/sword/sword-56.png",
@@ -1995,6 +2052,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Auric Sabre",
     "src": "icons/sword/sword-57.png",
@@ -2030,6 +2088,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Sanctified Longsword",
     "src": "icons/sword/sword-58.png",
@@ -2065,6 +2124,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Grovekeeper Sabre",
     "src": "icons/sword/sword-59.png",
@@ -2100,6 +2160,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Starbound Longsword",
     "src": "icons/sword/sword-60.png",
@@ -2135,6 +2196,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eternal Sabre",
     "src": "icons/sword/sword-61.png",
@@ -2170,6 +2232,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Dreadlord Sword",
     "src": "icons/sword/sword-62.png",
@@ -2205,6 +2268,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Old Road Sabre",
     "src": "icons/sword/sword-63.png",
@@ -2240,6 +2304,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "City Watch Longsword",
     "src": "icons/sword/sword-64.png",
@@ -2275,6 +2340,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Forge-Bound Sword",
     "src": "icons/sword/sword-65.png",
@@ -2310,6 +2376,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Royal Sabre",
     "src": "icons/sword/sword-66.png",
@@ -2345,6 +2412,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Oathbound Sabre",
     "src": "icons/sword/sword-67.png",
@@ -2380,6 +2448,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Verdant Greatsword",
     "src": "icons/sword/sword-68.png",
@@ -2415,6 +2484,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Diamond Sabre",
     "src": "icons/sword/sword-69.png",
@@ -2450,6 +2520,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eclipsed Longsword",
     "src": "icons/sword/sword-70.png",
@@ -2485,6 +2556,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Infernal Greatsword",
     "src": "icons/sword/sword-71.png",
@@ -2520,6 +2592,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Town Guard Sword",
     "src": "icons/sword/sword-72.png",
@@ -2555,6 +2628,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "City Watch Sword",
     "src": "icons/sword/sword-73.png",
@@ -2590,6 +2664,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Steel Sabre",
     "src": "icons/sword/sword-74.png",
@@ -2625,6 +2700,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Sunforged Longsword",
     "src": "icons/sword/sword-75.png",
@@ -2660,6 +2736,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Highborne Sabre",
     "src": "icons/sword/sword-76.png",
@@ -2695,6 +2772,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Verdant Greatsword",
     "src": "icons/sword/sword-77.png",
@@ -2730,6 +2808,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Aether Sabre",
     "src": "icons/sword/sword-78.png",
@@ -2765,6 +2844,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Archon Sabre",
     "src": "icons/sword/sword-79.png",
@@ -2800,6 +2880,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Demonic Greatsword",
     "src": "icons/sword/sword-80.png",
@@ -2835,6 +2916,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Rusted Longsword",
     "src": "icons/sword/sword-81.png",
@@ -2870,6 +2952,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Moonlit Sabre",
     "src": "icons/sword/sword-82.png",
@@ -2905,6 +2988,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Ironwall Sword",
     "src": "icons/sword/sword-83.png",
@@ -2940,6 +3024,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Auric Longsword",
     "src": "icons/sword/sword-84.png",
@@ -2975,6 +3060,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Oathbound Greatsword",
     "src": "icons/sword/sword-85.png",
@@ -3010,6 +3096,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Grovekeeper Sabre",
     "src": "icons/sword/sword-86.png",
@@ -3045,6 +3132,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Aether Sabre",
     "src": "icons/sword/sword-87.png",
@@ -3080,6 +3168,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eclipsed Longsword",
     "src": "icons/sword/sword-88.png",
@@ -3115,6 +3204,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Demonic Longsword",
     "src": "icons/sword/sword-89.png",
@@ -3150,6 +3240,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Town Guard Longsword",
     "src": "icons/sword/sword-90.png",
@@ -3185,6 +3276,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "City Watch Greatsword",
     "src": "icons/sword/sword-91.png",
@@ -3220,6 +3312,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Ironwall Greatsword",
     "src": "icons/sword/sword-92.png",
@@ -3255,6 +3348,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Royal Sword",
     "src": "icons/sword/sword-93.png",
@@ -3290,6 +3384,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Oathbound Longsword",
     "src": "icons/sword/sword-94.png",
@@ -3325,6 +3420,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Emerald Longsword",
     "src": "icons/sword/sword-95.png",
@@ -3360,6 +3456,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Aether Longsword",
     "src": "icons/sword/sword-96.png",
@@ -3395,6 +3492,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eternal Sword",
     "src": "icons/sword/sword-97.png",
@@ -3430,6 +3528,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Dreadlord Greatsword",
     "src": "icons/sword/sword-98.png",
@@ -3465,6 +3564,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Wayfarer Longsword",
     "src": "icons/sword/sword-99.png",
@@ -3500,6 +3600,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Tempered Sword",
     "src": "icons/sword/sword-100.png",
@@ -3535,6 +3636,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Forge-Bound Sabre",
     "src": "icons/sword/sword-101.png",
@@ -3570,6 +3672,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Royal Longsword",
     "src": "icons/sword/sword-102.png",
@@ -3605,6 +3708,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Sanctified Greatsword",
     "src": "icons/sword/sword-103.png",
@@ -3640,6 +3744,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Wildheart Greatsword",
     "src": "icons/sword/sword-104.png",
@@ -3675,6 +3780,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Glacier Greatsword",
     "src": "icons/sword/sword-105.png",
@@ -3710,6 +3816,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Archon Sabre",
     "src": "icons/sword/sword-106.png",
@@ -3745,6 +3852,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Infernal Sword",
     "src": "icons/sword/sword-107.png",
@@ -3780,6 +3888,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Old Road Sabre",
     "src": "icons/sword/sword-108.png",
@@ -3815,6 +3924,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Tempered Sabre",
     "src": "icons/sword/sword-109.png",
@@ -3850,6 +3960,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Ironwall Sword",
     "src": "icons/sword/sword-110.png",
@@ -3885,6 +3996,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Auric Longsword",
     "src": "icons/sword/sword-111.png",
@@ -3920,6 +4032,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Platinum Greatsword",
     "src": "icons/sword/sword-112.png",
@@ -3955,6 +4068,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Verdant Greatsword",
     "src": "icons/sword/sword-113.png",
@@ -3990,6 +4104,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Diamond Greatsword",
     "src": "icons/sword/sword-114.png",
@@ -4025,6 +4140,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Masterwork Longsword",
     "src": "icons/sword/sword-115.png",
@@ -4060,6 +4176,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Infernal Longsword",
     "src": "icons/sword/sword-116.png",
@@ -4095,6 +4212,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Old Road Longsword",
     "src": "icons/sword/sword-117.png",
@@ -4130,6 +4248,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "City Watch Sword",
     "src": "icons/sword/sword-118.png",
@@ -4165,6 +4284,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Ironwall Sword",
     "src": "icons/sword/sword-119.png",
@@ -4200,6 +4320,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Royal Longsword",
     "src": "icons/sword/sword-120.png",
@@ -4235,6 +4356,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Highborne Greatsword",
     "src": "icons/sword/sword-121.png",
@@ -4270,6 +4392,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Emerald Greatsword",
     "src": "icons/sword/sword-122.png",
@@ -4305,6 +4428,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Starbound Sword",
     "src": "icons/sword/sword-123.png",
@@ -4340,6 +4464,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Masterwork Sabre",
     "src": "icons/sword/sword-124.png",
@@ -4375,6 +4500,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Demonic Sabre",
     "src": "icons/sword/sword-125.png",
@@ -4410,6 +4536,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Wayfarer Sabre",
     "src": "icons/sword/sword-126.png",
@@ -4445,6 +4572,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Tempered Longsword",
     "src": "icons/sword/sword-127.png",
@@ -4480,6 +4608,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Ironwall Greatsword",
     "src": "icons/sword/sword-128.png",
@@ -4515,6 +4644,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Sunforged Longsword",
     "src": "icons/sword/sword-129.png",
@@ -4550,6 +4680,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Platinum Greatsword",
     "src": "icons/sword/sword-130.png",
@@ -4585,6 +4716,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Verdant Sword",
     "src": "icons/sword/sword-131.png",
@@ -4620,6 +4752,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Starbound Longsword",
     "src": "icons/sword/sword-132.png",
@@ -4655,6 +4788,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Eternal Greatsword",
     "src": "icons/sword/sword-133.png",
@@ -4690,6 +4824,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Dreadlord Longsword",
     "src": "icons/sword/sword-134.png",
@@ -4725,6 +4860,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Old Road Sword",
     "src": "icons/sword/sword-135.png",
@@ -4760,6 +4896,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Moonlit Greatsword",
     "src": "icons/sword/sword-136.png",
@@ -4795,6 +4932,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Steel Greatsword",
     "src": "icons/sword/sword-137.png",
@@ -4830,6 +4968,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Auric Longsword",
     "src": "icons/sword/sword-138.png",
@@ -4865,6 +5004,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Oathbound Longsword",
     "src": "icons/sword/sword-139.png",
@@ -4900,6 +5040,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Emerald Longsword",
     "src": "icons/sword/sword-140.png",
@@ -4935,6 +5076,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Diamond Sword",
     "src": "icons/sword/sword-141.png",
@@ -4970,6 +5112,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Masterwork Greatsword",
     "src": "icons/sword/sword-142.png",
@@ -5005,6 +5148,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Abyssal Sword",
     "src": "icons/sword/sword-143.png",
@@ -5040,6 +5184,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Rusted Longsword",
     "src": "icons/sword/sword-144.png",
@@ -5075,6 +5220,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Windworn Greatsword",
     "src": "icons/sword/sword-145.png",
@@ -5110,6 +5256,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Ironwall Sabre",
     "src": "icons/sword/sword-146.png",
@@ -5145,6 +5292,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Gilded Longsword",
     "src": "icons/sword/sword-147.png",
@@ -5180,6 +5328,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Platinum Sword",
     "src": "icons/sword/sword-148.png",
@@ -5215,6 +5364,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "rare",
     "name": "Verdant Sabre",
     "src": "icons/sword/sword-149.png",
@@ -5250,6 +5400,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Diamond Sabre",
     "src": "icons/sword/sword-150.png",
@@ -5285,6 +5436,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "epic",
     "name": "Archon Longsword",
     "src": "icons/sword/sword-151.png",
@@ -5320,6 +5472,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "legendary",
     "name": "Abyssal Sword",
     "src": "icons/sword/sword-152.png",
@@ -5355,6 +5508,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Wayfarer Sword",
     "src": "icons/sword/sword-153.png",
@@ -5390,6 +5544,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "common",
     "name": "Windworn Longsword",
     "src": "icons/sword/sword-154.png",
@@ -5425,6 +5580,7 @@
     }
   },
   {
+    "slot": "sword",
     "quality": "uncommon",
     "name": "Ironwall Longsword",
     "src": "icons/sword/sword-155.png",

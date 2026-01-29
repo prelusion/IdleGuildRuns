@@ -1,6 +1,7 @@
-import React, {useMemo, useState} from "react";
-import {useAppStore} from "../state/store.ts";
-import type {Accessory, Gear, Item, Weapon} from "./types.ts";
+// Inventory.tsx
+import React, { useMemo, useState } from "react";
+import { useAppStore, useGameStore } from "../state/store.ts";
+import type { Accessory, EquipSlotUI, Gear, Item, Weapon } from "./types.ts";
 import ItemPreview from "./ItemPreview.tsx";
 
 type AnyItem = Item | Gear | Weapon | Accessory;
@@ -30,21 +31,22 @@ function normalizeSrc(src: string) {
   return `/${src}`;
 }
 
-function clamp(n: number, min: number, max: number) {
-  return Math.max(min, Math.min(max, n));
-}
-
 export default function Inventory() {
   const inventorySize = useAppStore((s: any) => s.inventorySize) as number;
   const inventoryItems = useAppStore((s: any) => s.inventoryItems) as (AnyItem | null)[];
 
+
   const ROWS = 5;
-  const cols = useMemo(() => Math.ceil(Math.max(1, inventorySize) / ROWS), [inventorySize]);
+  const cols = useMemo(
+    () => Math.ceil(Math.max(1, inventorySize) / ROWS),
+    [inventorySize]
+  );
   const slotCount = useMemo(() => ROWS * cols, [ROWS, cols]);
 
   const slots = useMemo(() => {
     const out: Array<AnyItem | null> = new Array(slotCount).fill(null);
-    for (let i = 0; i < Math.min(inventoryItems?.length ?? 0, slotCount); i++) out[i] = inventoryItems[i];
+    for (let i = 0; i < Math.min(inventoryItems?.length ?? 0, slotCount); i++)
+      out[i] = inventoryItems[i];
     return out;
   }, [inventoryItems, slotCount]);
 
@@ -52,12 +54,10 @@ export default function Inventory() {
   const [hoverItem, setHoverItem] = useState<AnyItem | null>(null);
   const [anchorRect, setAnchorRect] = useState<DOMRect | null>(null);
 
+
   return (
     <div className={"w-full flex flex-row justify-center gap-10 p-5"}>
-
       <div className="w-60 pointer-events-auto z-40">
-        {/* Preview (always above hovered slot) */}
-
         {/* Bag background */}
         <div
           className="relative rounded-2xl border border-black/40 p-4 shadow-2xl"
@@ -68,8 +68,8 @@ export default function Inventory() {
               "0 20px 60px rgba(0,0,0,0.55), 0 0 0 1px rgba(255,255,255,0.06) inset",
           }}
         >
-          <div className="pointer-events-none absolute inset-2 rounded-xl border border-white/10"/>
-          <div className="pointer-events-none absolute inset-3 rounded-lg border border-black/35"/>
+          <div className="pointer-events-none absolute inset-2 rounded-xl border border-white/10" />
+          <div className="pointer-events-none absolute inset-3 rounded-lg border border-black/35" />
 
           {/* Grid wrapper */}
           <div
@@ -100,20 +100,30 @@ export default function Inventory() {
                       "relative aspect-square rounded-lg border bg-black/85",
                       it ? QUALITY_RING[quality] : "border-white/10",
                     ].join(" ")}
-                    style={{boxShadow: "0 0 0 1px rgba(255,255,255,0.05) inset"}}
+                    style={{ boxShadow: "0 0 0 1px rgba(255,255,255,0.05) inset" }}
                     onMouseEnter={(e) => {
                       if (!it) return;
                       setHoverItem(it);
-                      setAnchorRect((e.currentTarget as HTMLDivElement).getBoundingClientRect());
+                      setAnchorRect(
+                        (e.currentTarget as HTMLDivElement).getBoundingClientRect()
+                      );
                     }}
                     onMouseMove={(e) => {
-                      // keep it anchored if layout/scroll changes slightly while hovering
                       if (!it) return;
-                      setAnchorRect((e.currentTarget as HTMLDivElement).getBoundingClientRect());
+                      setAnchorRect(
+                        (e.currentTarget as HTMLDivElement).getBoundingClientRect()
+                      );
                     }}
                     onMouseLeave={() => {
                       setHoverItem(null);
                       setAnchorRect(null);
+                    }}
+                    // DRAG FROM INVENTORY
+                    draggable={!!it}
+                    onDragStart={(e) => {
+                      if (!it) return;
+                      e.dataTransfer.setData("application/x-inv-idx", String(idx));
+                      e.dataTransfer.effectAllowed = "move";
                     }}
                   >
                     {it && (
@@ -153,23 +163,20 @@ export default function Inventory() {
 
             <div className="mt-2 text-[11px] text-white/70">
               Slots:{" "}
-              <span className="text-white/90 font-semibold tabular-nums">{inventorySize}</span>{" "}
+              <span className="text-white/90 font-semibold tabular-nums">
+                {inventorySize}
+              </span>{" "}
               <span className="text-white/50">
-              ({ROWS}×{cols})
-            </span>
+                ({ROWS}×{cols})
+              </span>
             </div>
           </div>
         </div>
       </div>
 
+      {hoverItem && anchorRect && <ItemPreview item={hoverItem as any} customClass="absolute" />}
 
-
-      {hoverItem && anchorRect && (
-          <ItemPreview item={hoverItem as any}/>
-      )}
-
-      <div className="z-50 text-center align-middle w-[360px]">
-      </div>
+      <div className="z-50 text-center align-middle w-[360px]" />
     </div>
   );
 }

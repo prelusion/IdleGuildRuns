@@ -68,13 +68,13 @@ export function PhaserViewport(props: {
     if (!b) return;
 
     b.startScene(selectedSceneId === "hell" ? "HellScene" : "TownScene");
-
-    // Keep sizing consistent
     b.resize(size);
 
-    // Push map data to the active map scene (Town/Hell if they implement it)
-    b.setSceneMap(sceneMap);
-  }, [selectedSceneId, size, sceneMap]);
+    //  Only push map overrides when editor is enabled (or when you KNOW it matches the active scene)
+    if (editorEnabled) {
+      b.setSceneMap(sceneMap);
+    }
+  }, [selectedSceneId, size, editorEnabled]);
 
   // Keep active scene updated with latest map edits
   useEffect(() => {
@@ -85,6 +85,7 @@ export function PhaserViewport(props: {
   useEffect(() => {
     bridgeRef.current?.resize(size);
   }, [size]);
+
 
   // Editor paint (unchanged)
   useEffect(() => {
@@ -130,6 +131,7 @@ export function PhaserViewport(props: {
       placeAt(tx, ty);
       bridgeRef.current?.placeTile(tx, ty, placed, editorLayer);
     };
+
 
     const onPointerDown = (ev: PointerEvent) => {
       if (!editorEnabled) return;

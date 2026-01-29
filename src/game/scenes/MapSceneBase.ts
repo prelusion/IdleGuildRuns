@@ -15,6 +15,8 @@ export abstract class MapSceneBase extends Phaser.Scene {
         for (let y = 0; y <= ts.yMax; y++) {
           const key = makeKey(ts.id, x, y);
           const url = makeUrl(ts.baseUrl, x, y);
+
+          if (this.textures.exists(key)) continue;
           this.load.image(key, url);
         }
       }
@@ -51,21 +53,37 @@ export abstract class MapSceneBase extends Phaser.Scene {
     if (canvas) canvas.dataset.zoom = String(zoomToFit);
   }
 
-
   public onViewportResized() {
     this.fitCameraToMap();
   }
 
   public setSceneMap(map: SceneMap) {
     this.currentMap = map;
+
+    // This prevents “zombie containers” after scene stop/start swaps.
+    if (this.groundLayer) {
+      this.groundLayer.destroy(true);
+      this.groundLayer = undefined;
+    }
+    if (this.objectLayer) {
+      this.objectLayer.destroy(true);
+      this.objectLayer = undefined;
+    }
+
     this.renderFromMap();
     this.fitCameraToMap();
   }
 
-  public placeTile(tx: number, ty: number, placed: PlacedTile | null, layer: "ground" | "objects") {
+  public placeTile(
+    tx: number,
+    ty: number,
+    placed: PlacedTile | null,
+    layer: "ground" | "objects"
+  ) {
     if (!this.currentMap) return;
 
-    if (tx < 0 || ty < 0 || tx >= this.currentMap.width || ty >= this.currentMap.height) return;
+    if (tx < 0 || ty < 0 || tx >= this.currentMap.width || ty >= this.currentMap.height)
+      return;
 
     const next: SceneMap = {
       ...this.currentMap,
@@ -83,6 +101,7 @@ export abstract class MapSceneBase extends Phaser.Scene {
   protected ensureLayers() {
     if (!this.groundLayer) this.groundLayer = this.add.container(0, 0);
     if (!this.objectLayer) this.objectLayer = this.add.container(0, 0);
+
     this.groundLayer.setDepth(0);
     this.objectLayer.setDepth(10);
   }
@@ -92,12 +111,16 @@ export abstract class MapSceneBase extends Phaser.Scene {
 
     this.ensureLayers();
 
+    // Clear existing tiles
     this.groundLayer!.removeAll(true);
     this.objectLayer!.removeAll(true);
 
     const TILE = this.currentMap.tileSize;
 
-    const drawLayer = (container: Phaser.GameObjects.Container, layer: (PlacedTile | null)[][]) => {
+    const drawLayer = (
+      container: Phaser.GameObjects.Container,
+      layer: (PlacedTile | null)[][]
+    ) => {
       for (let y = 0; y < layer.length; y++) {
         for (let x = 0; x < layer[y].length; x++) {
           const cell = layer[y][x];

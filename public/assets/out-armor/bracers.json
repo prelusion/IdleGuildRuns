@@ -1,7 +1,8 @@
 [
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Town Guard Bulwark (warrior) Bracers",
+    "name": "Town Guard Bulwark Bracers",
     "src": "icons/bracers/bracers-0.png",
     "monetaryValue": 30,
     "value": 11,
@@ -31,8 +32,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Apprentice Bastion (paladin) Bracers",
+    "name": "Apprentice Bastion Bracers",
     "src": "icons/bracers/bracers-1.png",
     "monetaryValue": 24,
     "value": 11,
@@ -62,8 +64,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Apprentice Sentinel (tank) Bracers",
+    "name": "Apprentice Sentinel Bracers",
     "src": "icons/bracers/bracers-2.png",
     "monetaryValue": 25,
     "value": 15,
@@ -93,8 +96,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Militia Pathfinder (hunter) Bracers",
+    "name": "Militia Pathfinder Bracers",
     "src": "icons/bracers/bracers-3.png",
     "monetaryValue": 32,
     "value": 9,
@@ -124,8 +128,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Town Guard Huntsman (shaman) Bracers",
+    "name": "Town Guard Huntsman Bracers",
     "src": "icons/bracers/bracers-4.png",
     "monetaryValue": 25,
     "value": 10,
@@ -155,8 +160,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Militia Sabatuer (rogue) Bracers",
+    "name": "Militia Sabatuer Bracers",
     "src": "icons/bracers/bracers-5.png",
     "monetaryValue": 25,
     "value": 13,
@@ -186,8 +192,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Militia Cutpurse (druid) Bracers",
+    "name": "Militia Cutpurse Bracers",
     "src": "icons/bracers/bracers-6.png",
     "monetaryValue": 23,
     "value": 12,
@@ -217,8 +224,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Militia Sage (mage) Bracers",
+    "name": "Militia Sage Bracers",
     "src": "icons/bracers/bracers-7.png",
     "monetaryValue": 18,
     "value": 8,
@@ -248,8 +256,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Town Guard Invoker (priest) Bracers",
+    "name": "Town Guard Invoker Bracers",
     "src": "icons/bracers/bracers-8.png",
     "monetaryValue": 22,
     "value": 9,
@@ -279,8 +288,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Rusted Seer (warlock) Bracers",
+    "name": "Rusted Seer Bracers",
     "src": "icons/bracers/bracers-9.png",
     "monetaryValue": 18,
     "value": 11,
@@ -310,8 +320,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "City Watch Bulwark (warrior) Bracers",
+    "name": "City Watch Bulwark Bracers",
     "src": "icons/bracers/bracers-10.png",
     "monetaryValue": 34,
     "value": 22,
@@ -341,8 +352,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Squire Juggernaut (paladin) Bracers",
+    "name": "Squire Juggernaut Bracers",
     "src": "icons/bracers/bracers-11.png",
     "monetaryValue": 34,
     "value": 20,
@@ -372,8 +384,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "City Watch Bastion (tank) Bracers",
+    "name": "City Watch Bastion Bracers",
     "src": "icons/bracers/bracers-12.png",
     "monetaryValue": 43,
     "value": 17,
@@ -403,8 +416,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Squire Ranger (hunter) Bracers",
+    "name": "Squire Ranger Bracers",
     "src": "icons/bracers/bracers-13.png",
     "monetaryValue": 36,
     "value": 17,
@@ -434,8 +448,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Squire Ranger (shaman) Bracers",
+    "name": "Squire Ranger Bracers",
     "src": "icons/bracers/bracers-14.png",
     "monetaryValue": 32,
     "value": 13,
@@ -465,8 +480,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Tempered Cutpurse (rogue) Bracers",
+    "name": "Tempered Cutpurse Bracers",
     "src": "icons/bracers/bracers-15.png",
     "monetaryValue": 32,
     "value": 16,
@@ -496,8 +512,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "City Watch Shadow (druid) Bracers",
+    "name": "City Watch Shadow Bracers",
     "src": "icons/bracers/bracers-16.png",
     "monetaryValue": 34,
     "value": 12,
@@ -527,8 +544,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Tempered Sage (mage) Bracers",
+    "name": "Tempered Sage Bracers",
     "src": "icons/bracers/bracers-17.png",
     "monetaryValue": 19,
     "value": 10,
@@ -558,8 +576,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Squire Invoker (priest) Bracers",
+    "name": "Squire Invoker Bracers",
     "src": "icons/bracers/bracers-18.png",
     "monetaryValue": 24,
     "value": 14,
@@ -589,8 +608,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "common",
-    "name": "Squire Invoker (warlock) Bracers",
+    "name": "Squire Invoker Bracers",
     "src": "icons/bracers/bracers-19.png",
     "monetaryValue": 19,
     "value": 14,
@@ -620,8 +640,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Ironwall Bulwark (warrior) Bracers",
+    "name": "Ironwall Bulwark Bracers",
     "src": "icons/bracers/bracers-20.png",
     "monetaryValue": 51,
     "value": 24,
@@ -651,8 +672,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Ironwall Sentinel (paladin) Bracers",
+    "name": "Ironwall Sentinel Bracers",
     "src": "icons/bracers/bracers-21.png",
     "monetaryValue": 58,
     "value": 21,
@@ -682,8 +704,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Warden Sentinel (tank) Bracers",
+    "name": "Warden Sentinel Bracers",
     "src": "icons/bracers/bracers-22.png",
     "monetaryValue": 56,
     "value": 24,
@@ -713,8 +736,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Ironwall Pathfinder (hunter) Bracers",
+    "name": "Ironwall Pathfinder Bracers",
     "src": "icons/bracers/bracers-23.png",
     "monetaryValue": 47,
     "value": 22,
@@ -744,8 +768,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Steel Pathfinder (shaman) Bracers",
+    "name": "Steel Pathfinder Bracers",
     "src": "icons/bracers/bracers-24.png",
     "monetaryValue": 51,
     "value": 20,
@@ -775,8 +800,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Forge Shadow (rogue) Bracers",
+    "name": "Forge Shadow Bracers",
     "src": "icons/bracers/bracers-25.png",
     "monetaryValue": 37,
     "value": 19,
@@ -806,8 +832,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Forge Cutpurse (druid) Bracers",
+    "name": "Forge Cutpurse Bracers",
     "src": "icons/bracers/bracers-26.png",
     "monetaryValue": 36,
     "value": 19,
@@ -837,8 +864,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Forge Seer (mage) Bracers",
+    "name": "Forge Seer Bracers",
     "src": "icons/bracers/bracers-27.png",
     "monetaryValue": 27,
     "value": 16,
@@ -868,8 +896,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Forge Seer (priest) Bracers",
+    "name": "Forge Seer Bracers",
     "src": "icons/bracers/bracers-28.png",
     "monetaryValue": 34,
     "value": 18,
@@ -899,8 +928,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Ironwall Seer (warlock) Bracers",
+    "name": "Ironwall Seer Bracers",
     "src": "icons/bracers/bracers-29.png",
     "monetaryValue": 29,
     "value": 14,
@@ -930,8 +960,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Sunforged Sentinel (warrior) Bracers",
+    "name": "Sunforged Sentinel Bracers",
     "src": "icons/bracers/bracers-30.png",
     "monetaryValue": 81,
     "value": 30,
@@ -961,8 +992,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Royal Bulwark (paladin) Bracers",
+    "name": "Royal Bulwark Bracers",
     "src": "icons/bracers/bracers-31.png",
     "monetaryValue": 86,
     "value": 36,
@@ -992,8 +1024,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Auric Bulwark (tank) Bracers",
+    "name": "Auric Bulwark Bracers",
     "src": "icons/bracers/bracers-32.png",
     "monetaryValue": 82,
     "value": 37,
@@ -1023,8 +1056,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Royal Huntsman (hunter) Bracers",
+    "name": "Royal Huntsman Bracers",
     "src": "icons/bracers/bracers-33.png",
     "monetaryValue": 72,
     "value": 28,
@@ -1054,8 +1088,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Sunforged Ranger (shaman) Bracers",
+    "name": "Sunforged Ranger Bracers",
     "src": "icons/bracers/bracers-34.png",
     "monetaryValue": 70,
     "value": 30,
@@ -1085,8 +1120,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Royal Stalker (rogue) Bracers",
+    "name": "Royal Stalker Bracers",
     "src": "icons/bracers/bracers-35.png",
     "monetaryValue": 59,
     "value": 26,
@@ -1116,8 +1152,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Royal Stalker (druid) Bracers",
+    "name": "Royal Stalker Bracers",
     "src": "icons/bracers/bracers-36.png",
     "monetaryValue": 52,
     "value": 24,
@@ -1147,8 +1184,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Auric Shadow (monk) Bracers",
+    "name": "Auric Shadow Bracers",
     "src": "icons/bracers/bracers-37.png",
     "monetaryValue": 55,
     "value": 23,
@@ -1178,8 +1216,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Sunforged Invoker (mage) Bracers",
+    "name": "Sunforged Invoker Bracers",
     "src": "icons/bracers/bracers-38.png",
     "monetaryValue": 46,
     "value": 23,
@@ -1209,8 +1248,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Royal Seer (priest) Bracers",
+    "name": "Royal Seer Bracers",
     "src": "icons/bracers/bracers-39.png",
     "monetaryValue": 41,
     "value": 20,
@@ -1240,8 +1280,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "uncommon",
-    "name": "Royal Invoker (warlock) Bracers",
+    "name": "Royal Invoker Bracers",
     "src": "icons/bracers/bracers-40.png",
     "monetaryValue": 42,
     "value": 20,
@@ -1271,8 +1312,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Platinum Bastion (warrior) Bracers",
+    "name": "Platinum Bastion Bracers",
     "src": "icons/bracers/bracers-41.png",
     "monetaryValue": 116,
     "value": 49,
@@ -1302,8 +1344,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Highborne Bastion (paladin) Bracers",
+    "name": "Highborne Bastion Bracers",
     "src": "icons/bracers/bracers-42.png",
     "monetaryValue": 112,
     "value": 50,
@@ -1333,8 +1376,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Oathbound Sentinel (tank) Bracers",
+    "name": "Oathbound Sentinel Bracers",
     "src": "icons/bracers/bracers-43.png",
     "monetaryValue": 121,
     "value": 46,
@@ -1364,8 +1408,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Platinum Skirmisher (hunter) Bracers",
+    "name": "Platinum Skirmisher Bracers",
     "src": "icons/bracers/bracers-44.png",
     "monetaryValue": 101,
     "value": 39,
@@ -1395,8 +1440,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Highborne Ranger (shaman) Bracers",
+    "name": "Highborne Ranger Bracers",
     "src": "icons/bracers/bracers-45.png",
     "monetaryValue": 96,
     "value": 43,
@@ -1426,8 +1472,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Platinum Sabatuer (rogue) Bracers",
+    "name": "Platinum Sabatuer Bracers",
     "src": "icons/bracers/bracers-46.png",
     "monetaryValue": 85,
     "value": 40,
@@ -1457,8 +1504,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Platinum Cutpurse (druid) Bracers",
+    "name": "Platinum Cutpurse Bracers",
     "src": "icons/bracers/bracers-47.png",
     "monetaryValue": 81,
     "value": 37,
@@ -1488,8 +1536,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Sanctified Stalker (monk) Bracers",
+    "name": "Sanctified Stalker Bracers",
     "src": "icons/bracers/bracers-48.png",
     "monetaryValue": 85,
     "value": 34,
@@ -1519,8 +1568,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Platinum Invoker (mage) Bracers",
+    "name": "Platinum Invoker Bracers",
     "src": "icons/bracers/bracers-49.png",
     "monetaryValue": 69,
     "value": 32,
@@ -1550,8 +1600,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Platinum Arcanist (priest) Bracers",
+    "name": "Platinum Arcanist Bracers",
     "src": "icons/bracers/bracers-50.png",
     "monetaryValue": 62,
     "value": 31,
@@ -1581,8 +1632,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Highborne Seer (warlock) Bracers",
+    "name": "Highborne Seer Bracers",
     "src": "icons/bracers/bracers-51.png",
     "monetaryValue": 66,
     "value": 32,
@@ -1612,8 +1664,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Grovekeeper Juggernaut (warrior) Bracers",
+    "name": "Grovekeeper Juggernaut Bracers",
     "src": "icons/bracers/bracers-52.png",
     "monetaryValue": 162,
     "value": 65,
@@ -1643,8 +1696,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Wildheart Bulwark (paladin) Bracers",
+    "name": "Wildheart Bulwark Bracers",
     "src": "icons/bracers/bracers-53.png",
     "monetaryValue": 165,
     "value": 72,
@@ -1674,8 +1728,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Grovekeeper Bulwark (tank) Bracers",
+    "name": "Grovekeeper Bulwark Bracers",
     "src": "icons/bracers/bracers-54.png",
     "monetaryValue": 165,
     "value": 73,
@@ -1705,8 +1760,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Wildheart Skirmisher (hunter) Bracers",
+    "name": "Wildheart Skirmisher Bracers",
     "src": "icons/bracers/bracers-55.png",
     "monetaryValue": 141,
     "value": 58,
@@ -1736,8 +1792,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Wildheart Pathfinder (shaman) Bracers",
+    "name": "Wildheart Pathfinder Bracers",
     "src": "icons/bracers/bracers-56.png",
     "monetaryValue": 139,
     "value": 60,
@@ -1767,8 +1824,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Grovekeeper Shadow (rogue) Bracers",
+    "name": "Grovekeeper Shadow Bracers",
     "src": "icons/bracers/bracers-57.png",
     "monetaryValue": 113,
     "value": 49,
@@ -1798,8 +1856,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Wildheart Sabatuer (druid) Bracers",
+    "name": "Wildheart Sabatuer Bracers",
     "src": "icons/bracers/bracers-58.png",
     "monetaryValue": 117,
     "value": 51,
@@ -1829,8 +1888,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Wildheart Stalker (monk) Bracers",
+    "name": "Wildheart Stalker Bracers",
     "src": "icons/bracers/bracers-59.png",
     "monetaryValue": 115,
     "value": 49,
@@ -1860,8 +1920,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Grovekeeper Sage (mage) Bracers",
+    "name": "Grovekeeper Sage Bracers",
     "src": "icons/bracers/bracers-60.png",
     "monetaryValue": 91,
     "value": 43,
@@ -1891,8 +1952,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Grovekeeper Invoker (priest) Bracers",
+    "name": "Grovekeeper Invoker Bracers",
     "src": "icons/bracers/bracers-61.png",
     "monetaryValue": 89,
     "value": 41,
@@ -1922,8 +1984,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "rare",
-    "name": "Wildheart Seer (warlock) Bracers",
+    "name": "Wildheart Seer Bracers",
     "src": "icons/bracers/bracers-62.png",
     "monetaryValue": 95,
     "value": 44,
@@ -1953,8 +2016,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Aether Bastion (warrior) Bracers",
+    "name": "Aether Bastion Bracers",
     "src": "icons/bracers/bracers-63.png",
     "monetaryValue": 226,
     "value": 95,
@@ -1984,8 +2048,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Aether Bulwark (paladin) Bracers",
+    "name": "Aether Bulwark Bracers",
     "src": "icons/bracers/bracers-64.png",
     "monetaryValue": 223,
     "value": 93,
@@ -2015,8 +2080,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Glacier Bastion (tank) Bracers",
+    "name": "Glacier Bastion Bracers",
     "src": "icons/bracers/bracers-65.png",
     "monetaryValue": 226,
     "value": 93,
@@ -2046,8 +2112,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Aether Ranger (hunter) Bracers",
+    "name": "Aether Ranger Bracers",
     "src": "icons/bracers/bracers-66.png",
     "monetaryValue": 190,
     "value": 79,
@@ -2077,8 +2144,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Diamond Skirmisher (shaman) Bracers",
+    "name": "Diamond Skirmisher Bracers",
     "src": "icons/bracers/bracers-67.png",
     "monetaryValue": 192,
     "value": 83,
@@ -2108,8 +2176,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Aether Cutpurse (rogue) Bracers",
+    "name": "Aether Cutpurse Bracers",
     "src": "icons/bracers/bracers-68.png",
     "monetaryValue": 154,
     "value": 70,
@@ -2139,8 +2208,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Glacier Sabatuer (druid) Bracers",
+    "name": "Glacier Sabatuer Bracers",
     "src": "icons/bracers/bracers-69.png",
     "monetaryValue": 159,
     "value": 71,
@@ -2170,8 +2240,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Diamond Sabatuer (monk) Bracers",
+    "name": "Diamond Sabatuer Bracers",
     "src": "icons/bracers/bracers-70.png",
     "monetaryValue": 160,
     "value": 68,
@@ -2201,8 +2272,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Aether Arcanist (mage) Bracers",
+    "name": "Aether Arcanist Bracers",
     "src": "icons/bracers/bracers-71.png",
     "monetaryValue": 124,
     "value": 58,
@@ -2232,8 +2304,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Diamond Invoker (priest) Bracers",
+    "name": "Diamond Invoker Bracers",
     "src": "icons/bracers/bracers-72.png",
     "monetaryValue": 129,
     "value": 58,
@@ -2263,8 +2336,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Starbound Invoker (warlock) Bracers",
+    "name": "Starbound Invoker Bracers",
     "src": "icons/bracers/bracers-73.png",
     "monetaryValue": 123,
     "value": 56,
@@ -2294,8 +2368,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Masterwork Bastion (warrior) Bracers",
+    "name": "Masterwork Bastion Bracers",
     "src": "icons/bracers/bracers-74.png",
     "monetaryValue": 320,
     "value": 136,
@@ -2325,8 +2400,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Eternal Sentinel (paladin) Bracers",
+    "name": "Eternal Sentinel Bracers",
     "src": "icons/bracers/bracers-75.png",
     "monetaryValue": 323,
     "value": 135,
@@ -2356,8 +2432,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Eclipsed Juggernaut (tank) Bracers",
+    "name": "Eclipsed Juggernaut Bracers",
     "src": "icons/bracers/bracers-76.png",
     "monetaryValue": 324,
     "value": 138,
@@ -2387,8 +2464,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Masterwork Skirmisher (hunter) Bracers",
+    "name": "Masterwork Skirmisher Bracers",
     "src": "icons/bracers/bracers-77.png",
     "monetaryValue": 273,
     "value": 114,
@@ -2418,8 +2496,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Masterwork Ranger (shaman) Bracers",
+    "name": "Masterwork Ranger Bracers",
     "src": "icons/bracers/bracers-78.png",
     "monetaryValue": 276,
     "value": 118,
@@ -2449,8 +2528,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Eternal Cutpurse (rogue) Bracers",
+    "name": "Eternal Cutpurse Bracers",
     "src": "icons/bracers/bracers-79.png",
     "monetaryValue": 221,
     "value": 98,
@@ -2480,8 +2560,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Archon Stalker (druid) Bracers",
+    "name": "Archon Stalker Bracers",
     "src": "icons/bracers/bracers-80.png",
     "monetaryValue": 221,
     "value": 103,
@@ -2511,8 +2592,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Masterwork Cutpurse (monk) Bracers",
+    "name": "Masterwork Cutpurse Bracers",
     "src": "icons/bracers/bracers-81.png",
     "monetaryValue": 230,
     "value": 99,
@@ -2542,8 +2624,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Masterwork Sage (mage) Bracers",
+    "name": "Masterwork Sage Bracers",
     "src": "icons/bracers/bracers-82.png",
     "monetaryValue": 182,
     "value": 81,
@@ -2573,8 +2656,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Eternal Invoker (priest) Bracers",
+    "name": "Eternal Invoker Bracers",
     "src": "icons/bracers/bracers-83.png",
     "monetaryValue": 183,
     "value": 82,
@@ -2604,8 +2688,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "epic",
-    "name": "Eternal Sage (warlock) Bracers",
+    "name": "Eternal Sage Bracers",
     "src": "icons/bracers/bracers-84.png",
     "monetaryValue": 180,
     "value": 82,
@@ -2635,8 +2720,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Dreadlord Sentinel (warrior) Bracers",
+    "name": "Dreadlord Sentinel Bracers",
     "src": "icons/bracers/bracers-85.png",
     "monetaryValue": 487,
     "value": 206,
@@ -2666,8 +2752,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Dreadlord Bastion (paladin) Bracers",
+    "name": "Dreadlord Bastion Bracers",
     "src": "icons/bracers/bracers-86.png",
     "monetaryValue": 489,
     "value": 202,
@@ -2697,8 +2784,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Infernal Bastion (tank) Bracers",
+    "name": "Infernal Bastion Bracers",
     "src": "icons/bracers/bracers-87.png",
     "monetaryValue": 492,
     "value": 207,
@@ -2728,8 +2816,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Infernal Pathfinder (hunter) Bracers",
+    "name": "Infernal Pathfinder Bracers",
     "src": "icons/bracers/bracers-88.png",
     "monetaryValue": 413,
     "value": 180,
@@ -2759,8 +2848,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Dreadlord Skirmisher (shaman) Bracers",
+    "name": "Dreadlord Skirmisher Bracers",
     "src": "icons/bracers/bracers-89.png",
     "monetaryValue": 410,
     "value": 181,
@@ -2790,8 +2880,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Dreadlord Cutpurse (rogue) Bracers",
+    "name": "Dreadlord Cutpurse Bracers",
     "src": "icons/bracers/bracers-90.png",
     "monetaryValue": 346,
     "value": 151,
@@ -2821,8 +2912,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Abyssal Cutpurse (druid) Bracers",
+    "name": "Abyssal Cutpurse Bracers",
     "src": "icons/bracers/bracers-91.png",
     "monetaryValue": 350,
     "value": 156,
@@ -2852,8 +2944,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Demonic Sabatuer (monk) Bracers",
+    "name": "Demonic Sabatuer Bracers",
     "src": "icons/bracers/bracers-92.png",
     "monetaryValue": 343,
     "value": 150,
@@ -2883,8 +2976,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Abyssal Invoker (mage) Bracers",
+    "name": "Abyssal Invoker Bracers",
     "src": "icons/bracers/bracers-93.png",
     "monetaryValue": 276,
     "value": 128,
@@ -2914,8 +3008,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Infernal Arcanist (priest) Bracers",
+    "name": "Infernal Arcanist Bracers",
     "src": "icons/bracers/bracers-94.png",
     "monetaryValue": 274,
     "value": 126,
@@ -2945,8 +3040,9 @@
     }
   },
   {
+    "slot": "bracers",
     "quality": "legendary",
-    "name": "Dreadlord Seer (warlock) Bracers",
+    "name": "Dreadlord Seer Bracers",
     "src": "icons/bracers/bracers-95.png",
     "monetaryValue": 270,
     "value": 127,

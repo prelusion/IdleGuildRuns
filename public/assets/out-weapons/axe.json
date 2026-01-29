@@ -1,5 +1,6 @@
 [
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Rusted War-Axe",
     "src": "icons/axe/axe-0.png",
@@ -35,6 +36,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Wayfarer Cleaver",
     "src": "icons/axe/axe-1.png",
@@ -70,6 +72,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Rusted Hatchet",
     "src": "icons/axe/axe-2.png",
@@ -105,6 +108,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Windworn War-Axe",
     "src": "icons/axe/axe-3.png",
@@ -140,6 +144,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Windworn Hatchet",
     "src": "icons/axe/axe-4.png",
@@ -175,6 +180,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Windworn Hatchet",
     "src": "icons/axe/axe-5.png",
@@ -210,6 +216,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Steel Hatchet",
     "src": "icons/axe/axe-6.png",
@@ -245,6 +252,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Steel Cleaver",
     "src": "icons/axe/axe-7.png",
@@ -280,6 +288,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Steel War-Axe",
     "src": "icons/axe/axe-8.png",
@@ -315,6 +324,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Gilded Cleaver",
     "src": "icons/axe/axe-9.png",
@@ -350,6 +360,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Gilded Cleaver",
     "src": "icons/axe/axe-10.png",
@@ -385,6 +396,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Gilded War-Axe",
     "src": "icons/axe/axe-11.png",
@@ -420,6 +432,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Oathbound War-Axe",
     "src": "icons/axe/axe-12.png",
@@ -455,6 +468,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Platinum Cleaver",
     "src": "icons/axe/axe-13.png",
@@ -490,6 +504,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Oathbound Cleaver",
     "src": "icons/axe/axe-14.png",
@@ -525,6 +540,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Emerald Hatchet",
     "src": "icons/axe/axe-15.png",
@@ -560,6 +576,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Wildheart Chopper",
     "src": "icons/axe/axe-16.png",
@@ -595,6 +612,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Wildheart Cleaver",
     "src": "icons/axe/axe-17.png",
@@ -630,6 +648,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Glacier Hatchet",
     "src": "icons/axe/axe-18.png",
@@ -665,6 +684,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Starbound Chopper",
     "src": "icons/axe/axe-19.png",
@@ -700,6 +720,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Aether Hatchet",
     "src": "icons/axe/axe-20.png",
@@ -735,6 +756,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eternal Cleaver",
     "src": "icons/axe/axe-21.png",
@@ -770,6 +792,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eternal War-Axe",
     "src": "icons/axe/axe-22.png",
@@ -805,6 +828,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eclipsed Hatchet",
     "src": "icons/axe/axe-23.png",
@@ -840,6 +864,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Dreadlord Hatchet",
     "src": "icons/axe/axe-24.png",
@@ -875,6 +900,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Abyssal Cleaver",
     "src": "icons/axe/axe-25.png",
@@ -910,6 +936,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Dreadlord Hatchet",
     "src": "icons/axe/axe-26.png",
@@ -945,6 +972,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Rusted Cleaver",
     "src": "icons/axe/axe-27.png",
@@ -980,6 +1008,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Windworn Hatchet",
     "src": "icons/axe/axe-28.png",
@@ -1015,6 +1044,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Warden's Chopper",
     "src": "icons/axe/axe-29.png",
@@ -1050,6 +1080,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Auric War-Axe",
     "src": "icons/axe/axe-30.png",
@@ -1085,6 +1116,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Highborne War-Axe",
     "src": "icons/axe/axe-31.png",
@@ -1120,6 +1152,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Verdant War-Axe",
     "src": "icons/axe/axe-32.png",
@@ -1155,6 +1188,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Aether Cleaver",
     "src": "icons/axe/axe-33.png",
@@ -1190,6 +1224,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eclipsed Chopper",
     "src": "icons/axe/axe-34.png",
@@ -1225,6 +1260,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Abyssal War-Axe",
     "src": "icons/axe/axe-35.png",
@@ -1260,6 +1296,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Town Guard Cleaver",
     "src": "icons/axe/axe-36.png",
@@ -1295,6 +1332,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "City Watch War-Axe",
     "src": "icons/axe/axe-37.png",
@@ -1330,6 +1368,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Ironwall War-Axe",
     "src": "icons/axe/axe-38.png",
@@ -1365,6 +1404,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Sunforged War-Axe",
     "src": "icons/axe/axe-39.png",
@@ -1400,6 +1440,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Platinum Hatchet",
     "src": "icons/axe/axe-40.png",
@@ -1435,6 +1476,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Emerald Cleaver",
     "src": "icons/axe/axe-41.png",
@@ -1470,6 +1512,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Glacier Hatchet",
     "src": "icons/axe/axe-42.png",
@@ -1505,6 +1548,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eclipsed Chopper",
     "src": "icons/axe/axe-43.png",
@@ -1540,6 +1584,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Infernal Chopper",
     "src": "icons/axe/axe-44.png",
@@ -1575,6 +1620,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Rusted War-Axe",
     "src": "icons/axe/axe-45.png",
@@ -1610,6 +1656,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Windworn Chopper",
     "src": "icons/axe/axe-46.png",
@@ -1645,6 +1692,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Steel Cleaver",
     "src": "icons/axe/axe-47.png",
@@ -1680,6 +1728,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Royal War-Axe",
     "src": "icons/axe/axe-48.png",
@@ -1715,6 +1764,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Oathbound Chopper",
     "src": "icons/axe/axe-49.png",
@@ -1750,6 +1800,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Grovekeeper War-Axe",
     "src": "icons/axe/axe-50.png",
@@ -1785,6 +1836,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Aether War-Axe",
     "src": "icons/axe/axe-51.png",
@@ -1820,6 +1872,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eternal Cleaver",
     "src": "icons/axe/axe-52.png",
@@ -1855,6 +1908,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Demonic Chopper",
     "src": "icons/axe/axe-53.png",
@@ -1890,6 +1944,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Rusted Chopper",
     "src": "icons/axe/axe-54.png",
@@ -1925,6 +1980,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "City Watch War-Axe",
     "src": "icons/axe/axe-55.png",
@@ -1960,6 +2016,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Forge-Bound Cleaver",
     "src": "icons/axe/axe-56.png",
@@ -1995,6 +2052,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Auric Hatchet",
     "src": "icons/axe/axe-57.png",
@@ -2030,6 +2088,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Sanctified Cleaver",
     "src": "icons/axe/axe-58.png",
@@ -2065,6 +2124,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Grovekeeper Hatchet",
     "src": "icons/axe/axe-59.png",
@@ -2100,6 +2160,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Starbound Cleaver",
     "src": "icons/axe/axe-60.png",
@@ -2135,6 +2196,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eternal Hatchet",
     "src": "icons/axe/axe-61.png",
@@ -2170,6 +2232,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Dreadlord Chopper",
     "src": "icons/axe/axe-62.png",
@@ -2205,6 +2268,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Old Road Hatchet",
     "src": "icons/axe/axe-63.png",
@@ -2240,6 +2304,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "City Watch Cleaver",
     "src": "icons/axe/axe-64.png",
@@ -2275,6 +2340,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Forge-Bound Chopper",
     "src": "icons/axe/axe-65.png",
@@ -2310,6 +2376,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Royal Hatchet",
     "src": "icons/axe/axe-66.png",
@@ -2345,6 +2412,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Oathbound Hatchet",
     "src": "icons/axe/axe-67.png",
@@ -2380,6 +2448,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Verdant War-Axe",
     "src": "icons/axe/axe-68.png",
@@ -2415,6 +2484,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Diamond Hatchet",
     "src": "icons/axe/axe-69.png",
@@ -2450,6 +2520,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eclipsed Cleaver",
     "src": "icons/axe/axe-70.png",
@@ -2485,6 +2556,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Infernal War-Axe",
     "src": "icons/axe/axe-71.png",
@@ -2520,6 +2592,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Town Guard Chopper",
     "src": "icons/axe/axe-72.png",
@@ -2555,6 +2628,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "City Watch Chopper",
     "src": "icons/axe/axe-73.png",
@@ -2590,6 +2664,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Steel Hatchet",
     "src": "icons/axe/axe-74.png",
@@ -2625,6 +2700,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Sunforged Cleaver",
     "src": "icons/axe/axe-75.png",
@@ -2660,6 +2736,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Highborne Hatchet",
     "src": "icons/axe/axe-76.png",
@@ -2695,6 +2772,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Verdant War-Axe",
     "src": "icons/axe/axe-77.png",
@@ -2730,6 +2808,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Aether Hatchet",
     "src": "icons/axe/axe-78.png",
@@ -2765,6 +2844,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Archon Hatchet",
     "src": "icons/axe/axe-79.png",
@@ -2800,6 +2880,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Demonic War-Axe",
     "src": "icons/axe/axe-80.png",
@@ -2835,6 +2916,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Rusted Cleaver",
     "src": "icons/axe/axe-81.png",
@@ -2870,6 +2952,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Moonlit Hatchet",
     "src": "icons/axe/axe-82.png",
@@ -2905,6 +2988,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Ironwall Chopper",
     "src": "icons/axe/axe-83.png",
@@ -2940,6 +3024,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Auric Cleaver",
     "src": "icons/axe/axe-84.png",
@@ -2975,6 +3060,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Oathbound War-Axe",
     "src": "icons/axe/axe-85.png",
@@ -3010,6 +3096,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Grovekeeper Hatchet",
     "src": "icons/axe/axe-86.png",
@@ -3045,6 +3132,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Aether Hatchet",
     "src": "icons/axe/axe-87.png",
@@ -3080,6 +3168,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eclipsed Cleaver",
     "src": "icons/axe/axe-88.png",
@@ -3115,6 +3204,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Demonic Cleaver",
     "src": "icons/axe/axe-89.png",
@@ -3150,6 +3240,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Town Guard Cleaver",
     "src": "icons/axe/axe-90.png",
@@ -3185,6 +3276,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "City Watch War-Axe",
     "src": "icons/axe/axe-91.png",
@@ -3220,6 +3312,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Ironwall War-Axe",
     "src": "icons/axe/axe-92.png",
@@ -3255,6 +3348,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Royal Chopper",
     "src": "icons/axe/axe-93.png",
@@ -3290,6 +3384,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Oathbound Cleaver",
     "src": "icons/axe/axe-94.png",
@@ -3325,6 +3420,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Emerald Cleaver",
     "src": "icons/axe/axe-95.png",
@@ -3360,6 +3456,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Aether Cleaver",
     "src": "icons/axe/axe-96.png",
@@ -3395,6 +3492,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eternal Chopper",
     "src": "icons/axe/axe-97.png",
@@ -3430,6 +3528,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Dreadlord War-Axe",
     "src": "icons/axe/axe-98.png",
@@ -3465,6 +3564,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Wayfarer Cleaver",
     "src": "icons/axe/axe-99.png",
@@ -3500,6 +3600,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Tempered Chopper",
     "src": "icons/axe/axe-100.png",
@@ -3535,6 +3636,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Forge-Bound Hatchet",
     "src": "icons/axe/axe-101.png",
@@ -3570,6 +3672,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Royal Cleaver",
     "src": "icons/axe/axe-102.png",
@@ -3605,6 +3708,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Sanctified War-Axe",
     "src": "icons/axe/axe-103.png",
@@ -3640,6 +3744,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Wildheart War-Axe",
     "src": "icons/axe/axe-104.png",
@@ -3675,6 +3780,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Glacier War-Axe",
     "src": "icons/axe/axe-105.png",
@@ -3710,6 +3816,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Archon Hatchet",
     "src": "icons/axe/axe-106.png",
@@ -3745,6 +3852,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Infernal Chopper",
     "src": "icons/axe/axe-107.png",
@@ -3780,6 +3888,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Old Road Hatchet",
     "src": "icons/axe/axe-108.png",
@@ -3815,6 +3924,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Tempered Hatchet",
     "src": "icons/axe/axe-109.png",
@@ -3850,6 +3960,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Ironwall Chopper",
     "src": "icons/axe/axe-110.png",
@@ -3885,6 +3996,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Auric Cleaver",
     "src": "icons/axe/axe-111.png",
@@ -3920,6 +4032,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Platinum War-Axe",
     "src": "icons/axe/axe-112.png",
@@ -3955,6 +4068,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Verdant War-Axe",
     "src": "icons/axe/axe-113.png",
@@ -3990,6 +4104,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Diamond War-Axe",
     "src": "icons/axe/axe-114.png",
@@ -4025,6 +4140,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Masterwork Cleaver",
     "src": "icons/axe/axe-115.png",
@@ -4060,6 +4176,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Infernal Cleaver",
     "src": "icons/axe/axe-116.png",
@@ -4095,6 +4212,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Old Road Cleaver",
     "src": "icons/axe/axe-117.png",
@@ -4130,6 +4248,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "City Watch Chopper",
     "src": "icons/axe/axe-118.png",
@@ -4165,6 +4284,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Ironwall Chopper",
     "src": "icons/axe/axe-119.png",
@@ -4200,6 +4320,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Royal Cleaver",
     "src": "icons/axe/axe-120.png",
@@ -4235,6 +4356,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Highborne War-Axe",
     "src": "icons/axe/axe-121.png",
@@ -4270,6 +4392,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Emerald War-Axe",
     "src": "icons/axe/axe-122.png",
@@ -4305,6 +4428,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Starbound Chopper",
     "src": "icons/axe/axe-123.png",
@@ -4340,6 +4464,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Masterwork Hatchet",
     "src": "icons/axe/axe-124.png",
@@ -4375,6 +4500,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Demonic Hatchet",
     "src": "icons/axe/axe-125.png",
@@ -4410,6 +4536,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Wayfarer Hatchet",
     "src": "icons/axe/axe-126.png",
@@ -4445,6 +4572,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Tempered Cleaver",
     "src": "icons/axe/axe-127.png",
@@ -4480,6 +4608,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Ironwall War-Axe",
     "src": "icons/axe/axe-128.png",
@@ -4515,6 +4644,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Sunforged Cleaver",
     "src": "icons/axe/axe-129.png",
@@ -4550,6 +4680,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Platinum War-Axe",
     "src": "icons/axe/axe-130.png",
@@ -4585,6 +4716,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Verdant Chopper",
     "src": "icons/axe/axe-131.png",
@@ -4620,6 +4752,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Starbound Cleaver",
     "src": "icons/axe/axe-132.png",
@@ -4655,6 +4788,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Eternal War-Axe",
     "src": "icons/axe/axe-133.png",
@@ -4690,6 +4824,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Dreadlord Cleaver",
     "src": "icons/axe/axe-134.png",
@@ -4725,6 +4860,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Old Road Chopper",
     "src": "icons/axe/axe-135.png",
@@ -4760,6 +4896,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Moonlit War-Axe",
     "src": "icons/axe/axe-136.png",
@@ -4795,6 +4932,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Steel War-Axe",
     "src": "icons/axe/axe-137.png",
@@ -4830,6 +4968,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Auric Cleaver",
     "src": "icons/axe/axe-138.png",
@@ -4865,6 +5004,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Oathbound Cleaver",
     "src": "icons/axe/axe-139.png",
@@ -4900,6 +5040,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Emerald Cleaver",
     "src": "icons/axe/axe-140.png",
@@ -4935,6 +5076,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Diamond Chopper",
     "src": "icons/axe/axe-141.png",
@@ -4970,6 +5112,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Masterwork War-Axe",
     "src": "icons/axe/axe-142.png",
@@ -5005,6 +5148,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Abyssal Chopper",
     "src": "icons/axe/axe-143.png",
@@ -5040,6 +5184,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Rusted Cleaver",
     "src": "icons/axe/axe-144.png",
@@ -5075,6 +5220,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Windworn War-Axe",
     "src": "icons/axe/axe-145.png",
@@ -5110,6 +5256,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Ironwall Hatchet",
     "src": "icons/axe/axe-146.png",
@@ -5145,6 +5292,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "uncommon",
     "name": "Gilded Cleaver",
     "src": "icons/axe/axe-147.png",
@@ -5180,6 +5328,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Platinum Chopper",
     "src": "icons/axe/axe-148.png",
@@ -5215,6 +5364,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "rare",
     "name": "Verdant Hatchet",
     "src": "icons/axe/axe-149.png",
@@ -5250,6 +5400,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Diamond Hatchet",
     "src": "icons/axe/axe-150.png",
@@ -5285,6 +5436,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "epic",
     "name": "Archon Cleaver",
     "src": "icons/axe/axe-151.png",
@@ -5320,6 +5472,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "legendary",
     "name": "Abyssal Chopper",
     "src": "icons/axe/axe-152.png",
@@ -5355,6 +5508,7 @@
     }
   },
   {
+    "slot": "axe",
     "quality": "common",
     "name": "Wayfarer Chopper",
     "src": "icons/axe/axe-153.png",

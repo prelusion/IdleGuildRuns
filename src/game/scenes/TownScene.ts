@@ -1,47 +1,87 @@
 import Phaser from "phaser";
 import town from "../phaser/scenes/maps/town.json";
 import type { SceneMap } from "../phaser/scenes/maps/scenes";
-import { MapSceneBase } from "./MapSceneBase";
 
+import { PartySceneBase } from "./PartySceneBase";
 import { UnitSystem } from "../phaser/units/UnitSystem";
-import { buildUnitCatalog } from "../phaser/units/UnitProperties";
-import { AdventurerController, WorkerController } from "../phaser/units/controller";
 
-import { useGameStore } from "../../state/store";
-import {preloadMob} from "../phaser/mobs/mobLoader.ts";
-import {MOBS} from "../phaser/mobs/mobVisuals.ts";
-import {TypeMobs} from "../phaser/mobs/mobTypes.ts";
-import {TownRallyController} from "../phaser/units/TownRallyController.ts";
+import { preloadMob, createMobAnimations } from "../phaser/mobs/mobLoader";
+import { MOBS } from "../phaser/mobs/mobVisuals";
+import { TypeMobs } from "../phaser/mobs/mobTypes";
+import { TownRallyController } from "../phaser/units/TownRallyController";
+import { buildUnitCatalog } from "../phaser/units/UnitProperties";
+import {useGameStore} from "../../state/store.ts";
 
 const UNIT_DEFS = buildUnitCatalog();
 
-export class TownScene extends MapSceneBase {
-  private units!: UnitSystem;
+export class TownScene extends PartySceneBase {
+  protected sceneId = "town" as const;
 
   constructor() {
     super("TownScene");
   }
 
-
   preload() {
     this.preloadTilesets();
-
     preloadMob(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
     preloadMob(this, MOBS[TypeMobs.GHOST + "1"]);
+  }
+
+  protected override getPartySpawn() {
+    // you can tweak this per-map if you want
+    // (UnitSystem also computes worldCenterX/Y but it's set after bounds)
+    return { x: 1000, y: 1000, cols: 5, spacing: 48 };
+  }
+
+  /** Town wants a different controller than combat scenes */
+  protected override syncPartyMembersForScene() {
+    const gs = useGameStore.getState();
+    const members = Object.values(gs.guildMembers).filter(
+      (m) => m.sceneId === this.sceneId && m.hp > 0
+    );
+
+    const shouldIds = new Set(members.map((m) => m.id));
+
+    for (const [memberId, unit] of this.partyUnits) {
+      if (!shouldIds.has(memberId)) {
+        this.units.remove(unit);
+        this.partyUnits.delete(memberId);
+      }
+    }
+
+    const { x, y, cols, spacing } = this.getPartySpawn();
+    let i = 0;
+
+    for (const m of members) {
+      if (this.partyUnits.has(m.id)) continue;
+
+      const def = (UNIT_DEFS as any)[m.unitDefId];
+      if (!def) continue;
+
+      const ox = (i % cols) * spacing;
+      const oy = Math.floor(i / cols) * spacing;
+
+      //  Town controller
+      const unit = this.units.add(def, x + ox, y + oy, new TownRallyController());
+      (unit as any).memberId = m.id;
+
+      this.partyUnits.set(m.id, unit);
+      i++;
+    }
+
+    this.units.assignIds();
   }
 
   create() {
     this.applyNearestFilters();
 
-    // Map first
+    createMobAnimations(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
+    createMobAnimations(this, MOBS[TypeMobs.GHOST + "1"]);
+
     this.setSceneMap(town as SceneMap);
     this.fitCameraToMap();
 
-    // Units
     this.units = new UnitSystem(this);
-    (this as any).__units = this.units; // used by TownRallyController convenience
-
-    // Set bounds for UnitSystem (prevents cam.bounds undefined issues)
     const map = this.currentMap!;
     this.units.setWorldBounds({
       x: 0,
@@ -50,37 +90,25 @@ export class TownScene extends MapSceneBase {
       height: map.height * map.tileSize,
     });
 
-    this.spawnGuildMembersForTown();
-
-    this.events.on(Phaser.Scenes.Events.UPDATE, (_t: number, dt: number) => {
-      this.units.update(this.time.now, dt);
-    });
+    //  Hotload town members in/out
+    this.enablePartyHotload();
   }
 
-  private spawnGuildMembersForTown() {
-    const gs = useGameStore.getState();
-    const members = Object.values(gs.guildMembers).filter(
-      (m) => m.sceneId === "town" && m.hp > 0
-    );
+  update(_t: number, dt: number) {
+    this.units?.update(this.time.now, dt);
+  }
 
-    // Prefer UnitSystem computed center if you have it
-    const cx = this.units.worldCenterX || 1000;
-    const cy = this.units.worldCenterY || 1000;
+  public override setSceneMap(map: SceneMap) {
+    super.setSceneMap(map);
+    this.fitCameraToMap();
 
-    let i = 0;
-    for (const m of members) {
-      const def = UNIT_DEFS[m.unitDefId];
-      if (!def) continue;
-
-      const ox = (i % 5) * 48;
-      const oy = Math.floor(i / 5) * 48;
-
-      // Town: rally/wander controller (no combat wrapper)
-      this.units.add(def, cx + ox, cy + oy, new TownRallyController());
-      i++;
+    if (this.units) {
+      this.units.setWorldBounds({
+        x: 0,
+        y: 0,
+        width: map.width * map.tileSize,
+        height: map.height * map.tileSize,
+      });
     }
-
-    this.units.assignIds();
   }
-
 }

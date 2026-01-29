@@ -1,8 +1,9 @@
 [
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "Wayfarer Necklace",
-    "src": "icons/neckless/necklessy-0.png",
+    "src": "icons/necklace/necklace-0.png",
     "monetaryValue": 21,
     "value": 12,
     "primaryStats": {
@@ -28,9 +29,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "Rusted Amulet",
-    "src": "icons/neckless/necklessy-1.png",
+    "src": "icons/necklace/necklace-1.png",
     "monetaryValue": 20,
     "value": 10,
     "primaryStats": {
@@ -56,9 +58,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "Moonlit Pendant",
-    "src": "icons/neckless/necklessy-2.png",
+    "src": "icons/necklace/necklace-2.png",
     "monetaryValue": 34,
     "value": 17,
     "primaryStats": {
@@ -84,9 +87,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "Windworn Amulet",
-    "src": "icons/neckless/necklessy-3.png",
+    "src": "icons/necklace/necklace-3.png",
     "monetaryValue": 24,
     "value": 15,
     "primaryStats": {
@@ -112,9 +116,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Steel Amulet",
-    "src": "icons/neckless/necklessy-4.png",
+    "src": "icons/necklace/necklace-4.png",
     "monetaryValue": 39,
     "value": 24,
     "primaryStats": {
@@ -140,9 +145,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Warden's Pendant",
-    "src": "icons/neckless/necklessy-5.png",
+    "src": "icons/necklace/necklace-5.png",
     "monetaryValue": 38,
     "value": 21,
     "primaryStats": {
@@ -168,9 +174,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Royal Amulet",
-    "src": "icons/neckless/necklessy-6.png",
+    "src": "icons/necklace/necklace-6.png",
     "monetaryValue": 59,
     "value": 27,
     "primaryStats": {
@@ -196,9 +203,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Sunforged Pendant",
-    "src": "icons/neckless/necklessy-7.png",
+    "src": "icons/necklace/necklace-7.png",
     "monetaryValue": 44,
     "value": 27,
     "primaryStats": {
@@ -224,9 +232,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Sunforged Pendant",
-    "src": "icons/neckless/necklessy-8.png",
+    "src": "icons/necklace/necklace-8.png",
     "monetaryValue": 53,
     "value": 27,
     "primaryStats": {
@@ -252,9 +261,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Platinum Locket",
-    "src": "icons/neckless/necklessy-9.png",
+    "src": "icons/necklace/necklace-9.png",
     "monetaryValue": 62,
     "value": 26,
     "primaryStats": {
@@ -280,9 +290,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Oathbound Necklace",
-    "src": "icons/neckless/necklessy-10.png",
+    "src": "icons/necklace/necklace-10.png",
     "monetaryValue": 68,
     "value": 34,
     "primaryStats": {
@@ -308,9 +319,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Oathbound Necklace",
-    "src": "icons/neckless/necklessy-11.png",
+    "src": "icons/necklace/necklace-11.png",
     "monetaryValue": 66,
     "value": 41,
     "primaryStats": {
@@ -336,9 +348,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Wildheart Amulet",
-    "src": "icons/neckless/necklessy-12.png",
+    "src": "icons/necklace/necklace-12.png",
     "monetaryValue": 70,
     "value": 32,
     "primaryStats": {
@@ -364,9 +377,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Emerald Pendant",
-    "src": "icons/neckless/necklessy-13.png",
+    "src": "icons/necklace/necklace-13.png",
     "monetaryValue": 69,
     "value": 41,
     "primaryStats": {
@@ -392,9 +406,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Emerald Amulet",
-    "src": "icons/neckless/necklessy-14.png",
+    "src": "icons/necklace/necklace-14.png",
     "monetaryValue": 62,
     "value": 33,
     "primaryStats": {
@@ -420,9 +435,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Aether Pendant",
-    "src": "icons/neckless/necklessy-15.png",
+    "src": "icons/necklace/necklace-15.png",
     "monetaryValue": 76,
     "value": 52,
     "primaryStats": {
@@ -448,9 +464,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Diamond Locket",
-    "src": "icons/neckless/necklessy-16.png",
+    "src": "icons/necklace/necklace-16.png",
     "monetaryValue": 99,
     "value": 40,
     "primaryStats": {
@@ -476,9 +493,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Aether Pendant",
-    "src": "icons/neckless/necklessy-17.png",
+    "src": "icons/necklace/necklace-17.png",
     "monetaryValue": 68,
     "value": 45,
     "primaryStats": {
@@ -504,9 +522,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Glacier Pendant",
-    "src": "icons/neckless/necklessy-18.png",
+    "src": "icons/necklace/necklace-18.png",
     "monetaryValue": 84,
     "value": 37,
     "primaryStats": {
@@ -532,9 +551,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Eclipsed Amulet",
-    "src": "icons/neckless/necklessy-19.png",
+    "src": "icons/necklace/necklace-19.png",
     "monetaryValue": 107,
     "value": 56,
     "primaryStats": {
@@ -560,9 +580,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Eternal Locket",
-    "src": "icons/neckless/necklessy-20.png",
+    "src": "icons/necklace/necklace-20.png",
     "monetaryValue": 77,
     "value": 53,
     "primaryStats": {
@@ -588,9 +609,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Masterwork Necklace",
-    "src": "icons/neckless/necklessy-21.png",
+    "src": "icons/necklace/necklace-21.png",
     "monetaryValue": 111,
     "value": 50,
     "primaryStats": {
@@ -616,9 +638,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Archon Necklace",
-    "src": "icons/neckless/necklessy-22.png",
+    "src": "icons/necklace/necklace-22.png",
     "monetaryValue": 103,
     "value": 62,
     "primaryStats": {
@@ -644,9 +667,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "legendary",
     "name": "Demonic Locket",
-    "src": "icons/neckless/necklessy-23.png",
+    "src": "icons/necklace/necklace-23.png",
     "monetaryValue": 100,
     "value": 46,
     "primaryStats": {
@@ -672,9 +696,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "legendary",
     "name": "Dreadlord Necklace",
-    "src": "icons/neckless/necklessy-24.png",
+    "src": "icons/necklace/necklace-24.png",
     "monetaryValue": 85,
     "value": 56,
     "primaryStats": {
@@ -700,9 +725,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "legendary",
     "name": "Demonic Necklace",
-    "src": "icons/neckless/necklessy-25.png",
+    "src": "icons/necklace/necklace-25.png",
     "monetaryValue": 100,
     "value": 44,
     "primaryStats": {
@@ -728,9 +754,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "legendary",
     "name": "Demonic Locket",
-    "src": "icons/neckless/necklessy-26.png",
+    "src": "icons/necklace/necklace-26.png",
     "monetaryValue": 93,
     "value": 58,
     "primaryStats": {
@@ -756,9 +783,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "Old Road Necklace",
-    "src": "icons/neckless/necklessy-27.png",
+    "src": "icons/necklace/necklace-27.png",
     "monetaryValue": 15,
     "value": 10,
     "primaryStats": {
@@ -784,9 +812,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "City Watch Pendant",
-    "src": "icons/neckless/necklessy-28.png",
+    "src": "icons/necklace/necklace-28.png",
     "monetaryValue": 28,
     "value": 16,
     "primaryStats": {
@@ -812,9 +841,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Steel Necklace",
-    "src": "icons/neckless/necklessy-29.png",
+    "src": "icons/necklace/necklace-29.png",
     "monetaryValue": 38,
     "value": 28,
     "primaryStats": {
@@ -840,9 +870,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Royal Amulet",
-    "src": "icons/neckless/necklessy-30.png",
+    "src": "icons/necklace/necklace-30.png",
     "monetaryValue": 49,
     "value": 28,
     "primaryStats": {
@@ -868,9 +899,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Oathbound Amulet",
-    "src": "icons/neckless/necklessy-31.png",
+    "src": "icons/necklace/necklace-31.png",
     "monetaryValue": 69,
     "value": 42,
     "primaryStats": {
@@ -896,9 +928,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Verdant Necklace",
-    "src": "icons/neckless/necklessy-32.png",
+    "src": "icons/necklace/necklace-32.png",
     "monetaryValue": 65,
     "value": 49,
     "primaryStats": {
@@ -924,9 +957,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Glacier Locket",
-    "src": "icons/neckless/necklessy-33.png",
+    "src": "icons/necklace/necklace-33.png",
     "monetaryValue": 93,
     "value": 37,
     "primaryStats": {
@@ -952,9 +986,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Archon Necklace",
-    "src": "icons/neckless/necklessy-34.png",
+    "src": "icons/necklace/necklace-34.png",
     "monetaryValue": 77,
     "value": 39,
     "primaryStats": {
@@ -980,9 +1015,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "legendary",
     "name": "Abyssal Locket",
-    "src": "icons/neckless/necklessy-35.png",
+    "src": "icons/necklace/necklace-35.png",
     "monetaryValue": 106,
     "value": 51,
     "primaryStats": {
@@ -1008,9 +1044,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "Rusted Necklace",
-    "src": "icons/neckless/necklessy-36.png",
+    "src": "icons/necklace/necklace-36.png",
     "monetaryValue": 21,
     "value": 8,
     "primaryStats": {
@@ -1036,9 +1073,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "Moonlit Locket",
-    "src": "icons/neckless/necklessy-37.png",
+    "src": "icons/necklace/necklace-37.png",
     "monetaryValue": 35,
     "value": 16,
     "primaryStats": {
@@ -1064,9 +1102,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Warden's Locket",
-    "src": "icons/neckless/necklessy-38.png",
+    "src": "icons/necklace/necklace-38.png",
     "monetaryValue": 37,
     "value": 28,
     "primaryStats": {
@@ -1092,9 +1131,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Gilded Amulet",
-    "src": "icons/neckless/necklessy-39.png",
+    "src": "icons/necklace/necklace-39.png",
     "monetaryValue": 44,
     "value": 21,
     "primaryStats": {
@@ -1120,9 +1160,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Highborne Pendant",
-    "src": "icons/neckless/necklessy-40.png",
+    "src": "icons/necklace/necklace-40.png",
     "monetaryValue": 49,
     "value": 34,
     "primaryStats": {
@@ -1148,9 +1189,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "rare",
     "name": "Emerald Locket",
-    "src": "icons/neckless/necklessy-41.png",
+    "src": "icons/necklace/necklace-41.png",
     "monetaryValue": 57,
     "value": 31,
     "primaryStats": {
@@ -1176,9 +1218,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Aether Necklace",
-    "src": "icons/neckless/necklessy-42.png",
+    "src": "icons/necklace/necklace-42.png",
     "monetaryValue": 80,
     "value": 51,
     "primaryStats": {
@@ -1204,9 +1247,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "epic",
     "name": "Eternal Necklace",
-    "src": "icons/neckless/necklessy-43.png",
+    "src": "icons/necklace/necklace-43.png",
     "monetaryValue": 75,
     "value": 39,
     "primaryStats": {
@@ -1232,9 +1276,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "legendary",
     "name": "Dreadlord Necklace",
-    "src": "icons/neckless/necklessy-44.png",
+    "src": "icons/necklace/necklace-44.png",
     "monetaryValue": 121,
     "value": 47,
     "primaryStats": {
@@ -1260,9 +1305,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "Town Guard Necklace",
-    "src": "icons/neckless/necklessy-45.png",
+    "src": "icons/necklace/necklace-45.png",
     "monetaryValue": 16,
     "value": 12,
     "primaryStats": {
@@ -1288,9 +1334,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "common",
     "name": "City Watch Locket",
-    "src": "icons/neckless/necklessy-46.png",
+    "src": "icons/necklace/necklace-46.png",
     "monetaryValue": 25,
     "value": 15,
     "primaryStats": {
@@ -1316,9 +1363,10 @@
     }
   },
   {
+    "slot": "necklace",
     "quality": "uncommon",
     "name": "Warden's Necklace",
-    "src": "icons/neckless/necklessy-47.png",
+    "src": "icons/necklace/necklace-47.png",
     "monetaryValue": 42,
     "value": 19,
     "primaryStats": {

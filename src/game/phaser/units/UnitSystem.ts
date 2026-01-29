@@ -127,7 +127,6 @@ export class UnitSystem {
   }
 
   private updateWorldCenterSafe() {
-    // Prefer camera bounds if present, else use worldBounds
     const cam = this.scene.cameras.main;
     const camBounds = (cam as any).bounds as Phaser.Geom.Rectangle | undefined;
 
@@ -140,6 +139,12 @@ export class UnitSystem {
 
     this.worldCenterX = b.x + b.width / 2;
     this.worldCenterY = b.y + b.height / 2;
+
+    //  Make center available to all controllers without scene hacks
+    for (const u of this.units) {
+      u.sceneCenterX = this.worldCenterX;
+      u.sceneCenterY = this.worldCenterY;
+    }
   }
 
   private applyMovementAndCollisions(dtMs: number) {

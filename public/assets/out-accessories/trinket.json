@@ -1,5 +1,6 @@
 [
   {
+    "slot": "trinket",
     "quality": "common",
     "name": "Wayfarer Idol",
     "src": "icons/trinket/trinket-0.png",
@@ -28,6 +29,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "common",
     "name": "Wayfarer Relic",
     "src": "icons/trinket/trinket-1.png",
@@ -56,6 +58,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "common",
     "name": "Windworn Idol",
     "src": "icons/trinket/trinket-2.png",
@@ -84,6 +87,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "common",
     "name": "City Watch Talisman",
     "src": "icons/trinket/trinket-3.png",
@@ -112,6 +116,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "uncommon",
     "name": "Warden's Idol",
     "src": "icons/trinket/trinket-4.png",
@@ -140,6 +145,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "uncommon",
     "name": "Warden's Relic",
     "src": "icons/trinket/trinket-5.png",
@@ -168,6 +174,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "uncommon",
     "name": "Royal Charm",
     "src": "icons/trinket/trinket-6.png",
@@ -196,6 +203,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "uncommon",
     "name": "Gilded Relic",
     "src": "icons/trinket/trinket-7.png",
@@ -224,6 +232,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "uncommon",
     "name": "Auric Relic",
     "src": "icons/trinket/trinket-8.png",
@@ -252,6 +261,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "rare",
     "name": "Sanctified Charm",
     "src": "icons/trinket/trinket-9.png",
@@ -280,6 +290,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "rare",
     "name": "Platinum Relic",
     "src": "icons/trinket/trinket-10.png",
@@ -308,6 +319,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "rare",
     "name": "Platinum Talisman",
     "src": "icons/trinket/trinket-11.png",
@@ -336,6 +348,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "rare",
     "name": "Verdant Idol",
     "src": "icons/trinket/trinket-12.png",
@@ -364,6 +377,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "rare",
     "name": "Grovekeeper Relic",
     "src": "icons/trinket/trinket-13.png",
@@ -392,6 +406,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "rare",
     "name": "Wildheart Talisman",
     "src": "icons/trinket/trinket-14.png",
@@ -420,6 +435,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "epic",
     "name": "Starbound Relic",
     "src": "icons/trinket/trinket-15.png",
@@ -448,6 +464,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "epic",
     "name": "Starbound Charm",
     "src": "icons/trinket/trinket-16.png",
@@ -476,6 +493,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "epic",
     "name": "Aether Idol",
     "src": "icons/trinket/trinket-17.png",
@@ -504,6 +522,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "epic",
     "name": "Diamond Relic",
     "src": "icons/trinket/trinket-18.png",
@@ -532,6 +551,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "epic",
     "name": "Eclipsed Idol",
     "src": "icons/trinket/trinket-19.png",
@@ -560,6 +580,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "epic",
     "name": "Masterwork Relic",
     "src": "icons/trinket/trinket-20.png",
@@ -588,6 +609,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "epic",
     "name": "Eternal Relic",
     "src": "icons/trinket/trinket-21.png",
@@ -616,6 +638,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "epic",
     "name": "Archon Relic",
     "src": "icons/trinket/trinket-22.png",
@@ -644,6 +667,7 @@
     }
   },
   {
+    "slot": "trinket",
     "quality": "legendary",
     "name": "Abyssal Talisman",
     "src": "icons/trinket/trinket-23.png",

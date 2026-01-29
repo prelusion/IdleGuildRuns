@@ -42,7 +42,7 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
   let pendingMap: SceneMap | null = null;
   let pendingResize: number | null = initialSize;
 
-  // ✅ boot gating
+  //  boot gating
   let isReady = false;
   let queuedScene: SceneKey | null = null;
 
@@ -77,7 +77,7 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
   });
 
   const startScene = (key: SceneKey) => {
-    // ✅ if Phaser not ready yet, queue it and bail
+    //  if Phaser not ready yet, queue it and bail
     if (!isReady) {
       queuedScene = key;
       return;

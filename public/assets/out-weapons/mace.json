@@ -1,5 +1,6 @@
 [
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Wayfarer Ironbound Mace",
     "src": "icons/mace/mace-0.png",
@@ -35,6 +36,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Town Guard Mace",
     "src": "icons/mace/mace-1.png",
@@ -70,6 +72,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Rusted Hammer",
     "src": "icons/mace/mace-2.png",
@@ -105,6 +108,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Moonlit Maul",
     "src": "icons/mace/mace-3.png",
@@ -140,6 +144,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Tempered Hammer",
     "src": "icons/mace/mace-4.png",
@@ -175,6 +180,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Windworn Mace",
     "src": "icons/mace/mace-5.png",
@@ -210,6 +216,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Warden's Hammer",
     "src": "icons/mace/mace-6.png",
@@ -245,6 +252,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Warden's Maul",
     "src": "icons/mace/mace-7.png",
@@ -280,6 +288,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Warden's Maul",
     "src": "icons/mace/mace-8.png",
@@ -315,6 +324,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Auric Mace",
     "src": "icons/mace/mace-9.png",
@@ -350,6 +360,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Royal Mace",
     "src": "icons/mace/mace-10.png",
@@ -385,6 +396,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Gilded Hammer",
     "src": "icons/mace/mace-11.png",
@@ -420,6 +432,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Highborne Maul",
     "src": "icons/mace/mace-12.png",
@@ -455,6 +468,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Platinum Mace",
     "src": "icons/mace/mace-13.png",
@@ -490,6 +504,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Platinum Maul",
     "src": "icons/mace/mace-14.png",
@@ -525,6 +540,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Emerald Mace",
     "src": "icons/mace/mace-15.png",
@@ -560,6 +576,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Verdant Maul",
     "src": "icons/mace/mace-16.png",
@@ -595,6 +612,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Verdant Ironbound Mace",
     "src": "icons/mace/mace-17.png",
@@ -630,6 +648,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Starbound Maul",
     "src": "icons/mace/mace-18.png",
@@ -665,6 +684,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Starbound Maul",
     "src": "icons/mace/mace-19.png",
@@ -700,6 +720,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Aether Mace",
     "src": "icons/mace/mace-20.png",
@@ -735,6 +756,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eclipsed Mace",
     "src": "icons/mace/mace-21.png",
@@ -770,6 +792,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Archon Maul",
     "src": "icons/mace/mace-22.png",
@@ -805,6 +828,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eternal Hammer",
     "src": "icons/mace/mace-23.png",
@@ -840,6 +864,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Infernal Maul",
     "src": "icons/mace/mace-24.png",
@@ -875,6 +900,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Abyssal Mace",
     "src": "icons/mace/mace-25.png",
@@ -910,6 +936,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Demonic Ironbound Mace",
     "src": "icons/mace/mace-26.png",
@@ -945,6 +972,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Rusted Mace",
     "src": "icons/mace/mace-27.png",
@@ -980,6 +1008,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Windworn Maul",
     "src": "icons/mace/mace-28.png",
@@ -1015,6 +1044,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Warden's Hammer",
     "src": "icons/mace/mace-29.png",
@@ -1050,6 +1080,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Auric Ironbound Mace",
     "src": "icons/mace/mace-30.png",
@@ -1085,6 +1116,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Highborne Ironbound Mace",
     "src": "icons/mace/mace-31.png",
@@ -1120,6 +1152,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Verdant Ironbound Mace",
     "src": "icons/mace/mace-32.png",
@@ -1155,6 +1188,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Aether Mace",
     "src": "icons/mace/mace-33.png",
@@ -1190,6 +1224,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eclipsed Hammer",
     "src": "icons/mace/mace-34.png",
@@ -1225,6 +1260,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Abyssal Ironbound Mace",
     "src": "icons/mace/mace-35.png",
@@ -1260,6 +1296,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Town Guard Mace",
     "src": "icons/mace/mace-36.png",
@@ -1295,6 +1332,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "City Watch Ironbound Mace",
     "src": "icons/mace/mace-37.png",
@@ -1330,6 +1368,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Ironwall Ironbound Mace",
     "src": "icons/mace/mace-38.png",
@@ -1365,6 +1404,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Sunforged Ironbound Mace",
     "src": "icons/mace/mace-39.png",
@@ -1400,6 +1440,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Platinum Maul",
     "src": "icons/mace/mace-40.png",
@@ -1435,6 +1476,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Emerald Mace",
     "src": "icons/mace/mace-41.png",
@@ -1470,6 +1512,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Glacier Maul",
     "src": "icons/mace/mace-42.png",
@@ -1505,6 +1548,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eclipsed Hammer",
     "src": "icons/mace/mace-43.png",
@@ -1540,6 +1584,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Infernal Hammer",
     "src": "icons/mace/mace-44.png",
@@ -1575,6 +1620,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Rusted Ironbound Mace",
     "src": "icons/mace/mace-45.png",
@@ -1610,6 +1656,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Windworn Hammer",
     "src": "icons/mace/mace-46.png",
@@ -1645,6 +1692,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Steel Mace",
     "src": "icons/mace/mace-47.png",
@@ -1680,6 +1728,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Royal Ironbound Mace",
     "src": "icons/mace/mace-48.png",
@@ -1715,6 +1764,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Oathbound Hammer",
     "src": "icons/mace/mace-49.png",
@@ -1750,6 +1800,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Grovekeeper Ironbound Mace",
     "src": "icons/mace/mace-50.png",
@@ -1785,6 +1836,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Aether Ironbound Mace",
     "src": "icons/mace/mace-51.png",
@@ -1820,6 +1872,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eternal Mace",
     "src": "icons/mace/mace-52.png",
@@ -1855,6 +1908,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Demonic Hammer",
     "src": "icons/mace/mace-53.png",
@@ -1890,6 +1944,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Rusted Hammer",
     "src": "icons/mace/mace-54.png",
@@ -1925,6 +1980,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "City Watch Ironbound Mace",
     "src": "icons/mace/mace-55.png",
@@ -1960,6 +2016,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Forge-Bound Mace",
     "src": "icons/mace/mace-56.png",
@@ -1995,6 +2052,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Auric Maul",
     "src": "icons/mace/mace-57.png",
@@ -2030,6 +2088,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Sanctified Mace",
     "src": "icons/mace/mace-58.png",
@@ -2065,6 +2124,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Grovekeeper Maul",
     "src": "icons/mace/mace-59.png",
@@ -2100,6 +2160,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Starbound Mace",
     "src": "icons/mace/mace-60.png",
@@ -2135,6 +2196,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eternal Maul",
     "src": "icons/mace/mace-61.png",
@@ -2170,6 +2232,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Dreadlord Hammer",
     "src": "icons/mace/mace-62.png",
@@ -2205,6 +2268,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Old Road Maul",
     "src": "icons/mace/mace-63.png",
@@ -2240,6 +2304,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "City Watch Mace",
     "src": "icons/mace/mace-64.png",
@@ -2275,6 +2340,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Forge-Bound Hammer",
     "src": "icons/mace/mace-65.png",
@@ -2310,6 +2376,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Royal Maul",
     "src": "icons/mace/mace-66.png",
@@ -2345,6 +2412,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Oathbound Maul",
     "src": "icons/mace/mace-67.png",
@@ -2380,6 +2448,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Verdant Ironbound Mace",
     "src": "icons/mace/mace-68.png",
@@ -2415,6 +2484,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Diamond Maul",
     "src": "icons/mace/mace-69.png",
@@ -2450,6 +2520,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eclipsed Mace",
     "src": "icons/mace/mace-70.png",
@@ -2485,6 +2556,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Infernal Ironbound Mace",
     "src": "icons/mace/mace-71.png",
@@ -2520,6 +2592,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Town Guard Hammer",
     "src": "icons/mace/mace-72.png",
@@ -2555,6 +2628,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "City Watch Hammer",
     "src": "icons/mace/mace-73.png",
@@ -2590,6 +2664,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Steel Maul",
     "src": "icons/mace/mace-74.png",
@@ -2625,6 +2700,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Sunforged Mace",
     "src": "icons/mace/mace-75.png",
@@ -2660,6 +2736,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Highborne Maul",
     "src": "icons/mace/mace-76.png",
@@ -2695,6 +2772,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Verdant Ironbound Mace",
     "src": "icons/mace/mace-77.png",
@@ -2730,6 +2808,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Aether Maul",
     "src": "icons/mace/mace-78.png",
@@ -2765,6 +2844,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Archon Maul",
     "src": "icons/mace/mace-79.png",
@@ -2800,6 +2880,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Demonic Ironbound Mace",
     "src": "icons/mace/mace-80.png",
@@ -2835,6 +2916,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Rusted Mace",
     "src": "icons/mace/mace-81.png",
@@ -2870,6 +2952,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Moonlit Maul",
     "src": "icons/mace/mace-82.png",
@@ -2905,6 +2988,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Ironwall Hammer",
     "src": "icons/mace/mace-83.png",
@@ -2940,6 +3024,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Auric Mace",
     "src": "icons/mace/mace-84.png",
@@ -2975,6 +3060,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Oathbound Ironbound Mace",
     "src": "icons/mace/mace-85.png",
@@ -3010,6 +3096,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Grovekeeper Maul",
     "src": "icons/mace/mace-86.png",
@@ -3045,6 +3132,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Aether Maul",
     "src": "icons/mace/mace-87.png",
@@ -3080,6 +3168,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eclipsed Mace",
     "src": "icons/mace/mace-88.png",
@@ -3115,6 +3204,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Demonic Mace",
     "src": "icons/mace/mace-89.png",
@@ -3150,6 +3240,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Town Guard Mace",
     "src": "icons/mace/mace-90.png",
@@ -3185,6 +3276,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "City Watch Ironbound Mace",
     "src": "icons/mace/mace-91.png",
@@ -3220,6 +3312,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Ironwall Ironbound Mace",
     "src": "icons/mace/mace-92.png",
@@ -3255,6 +3348,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Royal Hammer",
     "src": "icons/mace/mace-93.png",
@@ -3290,6 +3384,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Oathbound Mace",
     "src": "icons/mace/mace-94.png",
@@ -3325,6 +3420,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Emerald Mace",
     "src": "icons/mace/mace-95.png",
@@ -3360,6 +3456,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Aether Mace",
     "src": "icons/mace/mace-96.png",
@@ -3395,6 +3492,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eternal Hammer",
     "src": "icons/mace/mace-97.png",
@@ -3430,6 +3528,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Dreadlord Ironbound Mace",
     "src": "icons/mace/mace-98.png",
@@ -3465,6 +3564,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Wayfarer Mace",
     "src": "icons/mace/mace-99.png",
@@ -3500,6 +3600,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Tempered Hammer",
     "src": "icons/mace/mace-100.png",
@@ -3535,6 +3636,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Forge-Bound Maul",
     "src": "icons/mace/mace-101.png",
@@ -3570,6 +3672,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Royal Mace",
     "src": "icons/mace/mace-102.png",
@@ -3605,6 +3708,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Sanctified Ironbound Mace",
     "src": "icons/mace/mace-103.png",
@@ -3640,6 +3744,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Wildheart Ironbound Mace",
     "src": "icons/mace/mace-104.png",
@@ -3675,6 +3780,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Glacier Ironbound Mace",
     "src": "icons/mace/mace-105.png",
@@ -3710,6 +3816,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Archon Maul",
     "src": "icons/mace/mace-106.png",
@@ -3745,6 +3852,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Infernal Hammer",
     "src": "icons/mace/mace-107.png",
@@ -3780,6 +3888,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Old Road Maul",
     "src": "icons/mace/mace-108.png",
@@ -3815,6 +3924,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Tempered Maul",
     "src": "icons/mace/mace-109.png",
@@ -3850,6 +3960,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Ironwall Hammer",
     "src": "icons/mace/mace-110.png",
@@ -3885,6 +3996,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Auric Mace",
     "src": "icons/mace/mace-111.png",
@@ -3920,6 +4032,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Platinum Ironbound Mace",
     "src": "icons/mace/mace-112.png",
@@ -3955,6 +4068,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Verdant Ironbound Mace",
     "src": "icons/mace/mace-113.png",
@@ -3990,6 +4104,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Diamond Ironbound Mace",
     "src": "icons/mace/mace-114.png",
@@ -4025,6 +4140,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Masterwork Mace",
     "src": "icons/mace/mace-115.png",
@@ -4060,6 +4176,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Infernal Mace",
     "src": "icons/mace/mace-116.png",
@@ -4095,6 +4212,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Old Road Mace",
     "src": "icons/mace/mace-117.png",
@@ -4130,6 +4248,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "City Watch Hammer",
     "src": "icons/mace/mace-118.png",
@@ -4165,6 +4284,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Ironwall Hammer",
     "src": "icons/mace/mace-119.png",
@@ -4200,6 +4320,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Royal Mace",
     "src": "icons/mace/mace-120.png",
@@ -4235,6 +4356,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Highborne Ironbound Mace",
     "src": "icons/mace/mace-121.png",
@@ -4270,6 +4392,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Emerald Ironbound Mace",
     "src": "icons/mace/mace-122.png",
@@ -4305,6 +4428,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Starbound Hammer",
     "src": "icons/mace/mace-123.png",
@@ -4340,6 +4464,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Masterwork Maul",
     "src": "icons/mace/mace-124.png",
@@ -4375,6 +4500,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Demonic Maul",
     "src": "icons/mace/mace-125.png",
@@ -4410,6 +4536,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Wayfarer Maul",
     "src": "icons/mace/mace-126.png",
@@ -4445,6 +4572,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Tempered Mace",
     "src": "icons/mace/mace-127.png",
@@ -4480,6 +4608,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Ironwall Ironbound Mace",
     "src": "icons/mace/mace-128.png",
@@ -4515,6 +4644,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Sunforged Mace",
     "src": "icons/mace/mace-129.png",
@@ -4550,6 +4680,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Platinum Ironbound Mace",
     "src": "icons/mace/mace-130.png",
@@ -4585,6 +4716,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Verdant Hammer",
     "src": "icons/mace/mace-131.png",
@@ -4620,6 +4752,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Starbound Mace",
     "src": "icons/mace/mace-132.png",
@@ -4655,6 +4788,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Eternal Ironbound Mace",
     "src": "icons/mace/mace-133.png",
@@ -4690,6 +4824,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Dreadlord Mace",
     "src": "icons/mace/mace-134.png",
@@ -4725,6 +4860,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Old Road Hammer",
     "src": "icons/mace/mace-135.png",
@@ -4760,6 +4896,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Moonlit Ironbound Mace",
     "src": "icons/mace/mace-136.png",
@@ -4795,6 +4932,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Steel Ironbound Mace",
     "src": "icons/mace/mace-137.png",
@@ -4830,6 +4968,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Auric Mace",
     "src": "icons/mace/mace-138.png",
@@ -4865,6 +5004,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Oathbound Mace",
     "src": "icons/mace/mace-139.png",
@@ -4900,6 +5040,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Emerald Mace",
     "src": "icons/mace/mace-140.png",
@@ -4935,6 +5076,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Diamond Hammer",
     "src": "icons/mace/mace-141.png",
@@ -4970,6 +5112,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Masterwork Ironbound Mace",
     "src": "icons/mace/mace-142.png",
@@ -5005,6 +5148,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Abyssal Hammer",
     "src": "icons/mace/mace-143.png",
@@ -5040,6 +5184,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Rusted Mace",
     "src": "icons/mace/mace-144.png",
@@ -5075,6 +5220,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Windworn Ironbound Mace",
     "src": "icons/mace/mace-145.png",
@@ -5110,6 +5256,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Ironwall Maul",
     "src": "icons/mace/mace-146.png",
@@ -5145,6 +5292,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Gilded Mace",
     "src": "icons/mace/mace-147.png",
@@ -5180,6 +5328,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Platinum Hammer",
     "src": "icons/mace/mace-148.png",
@@ -5215,6 +5364,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Verdant Maul",
     "src": "icons/mace/mace-149.png",
@@ -5250,6 +5400,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Diamond Maul",
     "src": "icons/mace/mace-150.png",
@@ -5285,6 +5436,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "epic",
     "name": "Archon Mace",
     "src": "icons/mace/mace-151.png",
@@ -5320,6 +5472,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "legendary",
     "name": "Abyssal Hammer",
     "src": "icons/mace/mace-152.png",
@@ -5355,6 +5508,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Wayfarer Hammer",
     "src": "icons/mace/mace-153.png",
@@ -5390,6 +5544,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "common",
     "name": "Windworn Mace",
     "src": "icons/mace/mace-154.png",
@@ -5425,6 +5580,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Ironwall Mace",
     "src": "icons/mace/mace-155.png",
@@ -5460,6 +5616,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "uncommon",
     "name": "Royal Ironbound Mace",
     "src": "icons/mace/mace-156.png",
@@ -5495,6 +5652,7 @@
     }
   },
   {
+    "slot": "mace",
     "quality": "rare",
     "name": "Oathbound Mace",
     "src": "icons/mace/mace-157.png",

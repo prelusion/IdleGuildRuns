@@ -1,5 +1,6 @@
 [
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Staff",
     "src": "icons/staff/staff-0-dup1.png",
@@ -35,6 +36,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Runestaff",
     "src": "icons/staff/staff-0.png",
@@ -70,6 +72,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Sagewood Staff",
     "src": "icons/staff/staff-1-dup1.png",
@@ -105,6 +108,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Spirestaff",
     "src": "icons/staff/staff-1.png",
@@ -140,6 +144,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Spirestaff",
     "src": "icons/staff/staff-2-dup1.png",
@@ -175,6 +180,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Spirestaff",
     "src": "icons/staff/staff-2.png",
@@ -210,6 +216,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Forge-Bound Staff",
     "src": "icons/staff/staff-3-dup1.png",
@@ -245,6 +252,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Staff",
     "src": "icons/staff/staff-3.png",
@@ -280,6 +288,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Warden's Spirestaff",
     "src": "icons/staff/staff-4-dup1.png",
@@ -315,6 +324,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Runestaff",
     "src": "icons/staff/staff-4.png",
@@ -350,6 +360,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Sagewood Staff",
     "src": "icons/staff/staff-5-dup1.png",
@@ -385,6 +396,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Royal Spirestaff",
     "src": "icons/staff/staff-5.png",
@@ -420,6 +432,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Platinum Staff",
     "src": "icons/staff/staff-6-dup1.png",
@@ -455,6 +468,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Staff",
     "src": "icons/staff/staff-6.png",
@@ -490,6 +504,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Sagewood Staff",
     "src": "icons/staff/staff-7-dup1.png",
@@ -525,6 +540,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Wildheart Spirestaff",
     "src": "icons/staff/staff-7.png",
@@ -560,6 +576,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Sagewood Staff",
     "src": "icons/staff/staff-8-dup1.png",
@@ -595,6 +612,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Grovekeeper Spirestaff",
     "src": "icons/staff/staff-8.png",
@@ -630,6 +648,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Aether Runestaff",
     "src": "icons/staff/staff-9-dup1.png",
@@ -665,6 +684,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Glacier Sagewood Staff",
     "src": "icons/staff/staff-9.png",
@@ -700,6 +720,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Glacier Staff",
     "src": "icons/staff/staff-10-dup1.png",
@@ -735,6 +756,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eclipsed Sagewood Staff",
     "src": "icons/staff/staff-10.png",
@@ -770,6 +792,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Spirestaff",
     "src": "icons/staff/staff-11-dup1.png",
@@ -805,6 +828,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eclipsed Runestaff",
     "src": "icons/staff/staff-11.png",
@@ -840,6 +864,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Abyssal Staff",
     "src": "icons/staff/staff-12-dup1.png",
@@ -875,6 +900,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Runestaff",
     "src": "icons/staff/staff-12.png",
@@ -910,6 +936,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Abyssal Runestaff",
     "src": "icons/staff/staff-13-dup1.png",
@@ -945,6 +972,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Runestaff",
     "src": "icons/staff/staff-13.png",
@@ -980,6 +1008,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Sagewood Staff",
     "src": "icons/staff/staff-14-dup1.png",
@@ -1015,6 +1044,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Warden's Staff",
     "src": "icons/staff/staff-14.png",
@@ -1050,6 +1080,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Spirestaff",
     "src": "icons/staff/staff-15-dup1.png",
@@ -1085,6 +1116,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Highborne Spirestaff",
     "src": "icons/staff/staff-15.png",
@@ -1120,6 +1152,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Spirestaff",
     "src": "icons/staff/staff-16-dup1.png",
@@ -1155,6 +1188,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Aether Runestaff",
     "src": "icons/staff/staff-16.png",
@@ -1190,6 +1224,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eclipsed Staff",
     "src": "icons/staff/staff-17-dup1.png",
@@ -1225,6 +1260,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Abyssal Spirestaff",
     "src": "icons/staff/staff-17.png",
@@ -1260,6 +1296,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Town Guard Runestaff",
     "src": "icons/staff/staff-18-dup1.png",
@@ -1295,6 +1332,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Spirestaff",
     "src": "icons/staff/staff-18.png",
@@ -1330,6 +1368,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Spirestaff",
     "src": "icons/staff/staff-19-dup1.png",
@@ -1365,6 +1404,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Spirestaff",
     "src": "icons/staff/staff-19.png",
@@ -1400,6 +1440,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Platinum Sagewood Staff",
     "src": "icons/staff/staff-20-dup1.png",
@@ -1435,6 +1476,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Runestaff",
     "src": "icons/staff/staff-20.png",
@@ -1470,6 +1512,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Glacier Sagewood Staff",
     "src": "icons/staff/staff-21-dup1.png",
@@ -1505,6 +1548,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eclipsed Staff",
     "src": "icons/staff/staff-21.png",
@@ -1540,6 +1584,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Staff",
     "src": "icons/staff/staff-22-dup1.png",
@@ -1575,6 +1620,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Spirestaff",
     "src": "icons/staff/staff-22.png",
@@ -1610,6 +1656,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Staff",
     "src": "icons/staff/staff-23-dup1.png",
@@ -1645,6 +1692,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Runestaff",
     "src": "icons/staff/staff-23.png",
@@ -1680,6 +1728,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Royal Spirestaff",
     "src": "icons/staff/staff-24-dup1.png",
@@ -1715,6 +1764,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Staff",
     "src": "icons/staff/staff-24.png",
@@ -1750,6 +1800,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Grovekeeper Spirestaff",
     "src": "icons/staff/staff-25-dup1.png",
@@ -1785,6 +1836,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Aether Spirestaff",
     "src": "icons/staff/staff-25.png",
@@ -1820,6 +1872,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Runestaff",
     "src": "icons/staff/staff-26-dup1.png",
@@ -1855,6 +1908,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Staff",
     "src": "icons/staff/staff-26.png",
@@ -1890,6 +1944,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Staff",
     "src": "icons/staff/staff-27-dup1.png",
@@ -1925,6 +1980,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Spirestaff",
     "src": "icons/staff/staff-27.png",
@@ -1960,6 +2016,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Forge-Bound Runestaff",
     "src": "icons/staff/staff-28-dup1.png",
@@ -1995,6 +2052,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Sagewood Staff",
     "src": "icons/staff/staff-28.png",
@@ -2030,6 +2088,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Runestaff",
     "src": "icons/staff/staff-29-dup1.png",
@@ -2065,6 +2124,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Grovekeeper Sagewood Staff",
     "src": "icons/staff/staff-29.png",
@@ -2100,6 +2160,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Starbound Runestaff",
     "src": "icons/staff/staff-30-dup1.png",
@@ -2135,6 +2196,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Sagewood Staff",
     "src": "icons/staff/staff-30.png",
@@ -2170,6 +2232,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Dreadlord Staff",
     "src": "icons/staff/staff-31-dup1.png",
@@ -2205,6 +2268,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Old Road Sagewood Staff",
     "src": "icons/staff/staff-31.png",
@@ -2240,6 +2304,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Runestaff",
     "src": "icons/staff/staff-32-dup1.png",
@@ -2275,6 +2340,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Forge-Bound Staff",
     "src": "icons/staff/staff-32.png",
@@ -2310,6 +2376,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Royal Sagewood Staff",
     "src": "icons/staff/staff-33-dup1.png",
@@ -2345,6 +2412,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Sagewood Staff",
     "src": "icons/staff/staff-33.png",
@@ -2380,6 +2448,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Spirestaff",
     "src": "icons/staff/staff-34-dup1.png",
@@ -2415,6 +2484,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Sagewood Staff",
     "src": "icons/staff/staff-34.png",
@@ -2450,6 +2520,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eclipsed Runestaff",
     "src": "icons/staff/staff-35-dup1.png",
@@ -2485,6 +2556,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Spirestaff",
     "src": "icons/staff/staff-35.png",
@@ -2520,6 +2592,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Town Guard Staff",
     "src": "icons/staff/staff-36-dup1.png",
@@ -2555,6 +2628,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Staff",
     "src": "icons/staff/staff-36.png",
@@ -2590,6 +2664,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Sagewood Staff",
     "src": "icons/staff/staff-37-dup1.png",
@@ -2625,6 +2700,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Runestaff",
     "src": "icons/staff/staff-37.png",
@@ -2660,6 +2736,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Highborne Sagewood Staff",
     "src": "icons/staff/staff-38-dup1.png",
@@ -2695,6 +2772,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Spirestaff",
     "src": "icons/staff/staff-38.png",
@@ -2730,6 +2808,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Aether Sagewood Staff",
     "src": "icons/staff/staff-39-dup1.png",
@@ -2765,6 +2844,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Archon Sagewood Staff",
     "src": "icons/staff/staff-39.png",
@@ -2800,6 +2880,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Spirestaff",
     "src": "icons/staff/staff-40-dup1.png",
@@ -2835,6 +2916,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Runestaff",
     "src": "icons/staff/staff-40.png",
@@ -2870,6 +2952,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Moonlit Sagewood Staff",
     "src": "icons/staff/staff-41-dup1.png",
@@ -2905,6 +2988,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Staff",
     "src": "icons/staff/staff-41.png",
@@ -2940,6 +3024,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Runestaff",
     "src": "icons/staff/staff-42-dup1.png",
@@ -2975,6 +3060,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Spirestaff",
     "src": "icons/staff/staff-42.png",
@@ -3010,6 +3096,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Grovekeeper Sagewood Staff",
     "src": "icons/staff/staff-43-dup1.png",
@@ -3045,6 +3132,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Aether Sagewood Staff",
     "src": "icons/staff/staff-43.png",
@@ -3080,6 +3168,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eclipsed Runestaff",
     "src": "icons/staff/staff-44-dup1.png",
@@ -3115,6 +3204,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Runestaff",
     "src": "icons/staff/staff-44.png",
@@ -3150,6 +3240,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Town Guard Runestaff",
     "src": "icons/staff/staff-45-dup1.png",
@@ -3185,6 +3276,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Spirestaff",
     "src": "icons/staff/staff-45.png",
@@ -3220,6 +3312,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Spirestaff",
     "src": "icons/staff/staff-46-dup1.png",
@@ -3255,6 +3348,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Royal Staff",
     "src": "icons/staff/staff-46.png",
@@ -3290,6 +3384,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Runestaff",
     "src": "icons/staff/staff-47-dup1.png",
@@ -3325,6 +3420,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Runestaff",
     "src": "icons/staff/staff-47.png",
@@ -3360,6 +3456,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Aether Runestaff",
     "src": "icons/staff/staff-48-dup1.png",
@@ -3395,6 +3492,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Staff",
     "src": "icons/staff/staff-48.png",
@@ -3430,6 +3528,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Dreadlord Spirestaff",
     "src": "icons/staff/staff-49-dup1.png",
@@ -3465,6 +3564,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Runestaff",
     "src": "icons/staff/staff-49.png",
@@ -3500,6 +3600,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Tempered Staff",
     "src": "icons/staff/staff-50-dup1.png",
@@ -3535,6 +3636,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Forge-Bound Sagewood Staff",
     "src": "icons/staff/staff-50.png",
@@ -3570,6 +3672,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Royal Runestaff",
     "src": "icons/staff/staff-51-dup1.png",
@@ -3605,6 +3708,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Spirestaff",
     "src": "icons/staff/staff-51.png",
@@ -3640,6 +3744,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Wildheart Spirestaff",
     "src": "icons/staff/staff-52-dup1.png",
@@ -3675,6 +3780,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Glacier Spirestaff",
     "src": "icons/staff/staff-52.png",
@@ -3710,6 +3816,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Archon Sagewood Staff",
     "src": "icons/staff/staff-53-dup1.png",
@@ -3745,6 +3852,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Staff",
     "src": "icons/staff/staff-53.png",
@@ -3780,6 +3888,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Old Road Sagewood Staff",
     "src": "icons/staff/staff-54-dup1.png",
@@ -3815,6 +3924,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Tempered Sagewood Staff",
     "src": "icons/staff/staff-54.png",
@@ -3850,6 +3960,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Staff",
     "src": "icons/staff/staff-55-dup1.png",
@@ -3885,6 +3996,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Runestaff",
     "src": "icons/staff/staff-55.png",
@@ -3920,6 +4032,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Platinum Spirestaff",
     "src": "icons/staff/staff-56-dup1.png",
@@ -3955,6 +4068,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Spirestaff",
     "src": "icons/staff/staff-56.png",
@@ -3990,6 +4104,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Spirestaff",
     "src": "icons/staff/staff-57-dup1.png",
@@ -4025,6 +4140,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Masterwork Runestaff",
     "src": "icons/staff/staff-57.png",
@@ -4060,6 +4176,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Runestaff",
     "src": "icons/staff/staff-58-dup1.png",
@@ -4095,6 +4212,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Old Road Runestaff",
     "src": "icons/staff/staff-58.png",
@@ -4130,6 +4248,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Staff",
     "src": "icons/staff/staff-59-dup1.png",
@@ -4165,6 +4284,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Staff",
     "src": "icons/staff/staff-59.png",
@@ -4200,6 +4320,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Royal Runestaff",
     "src": "icons/staff/staff-60-dup1.png",
@@ -4235,6 +4356,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Highborne Spirestaff",
     "src": "icons/staff/staff-60.png",
@@ -4270,6 +4392,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Spirestaff",
     "src": "icons/staff/staff-61-dup1.png",
@@ -4305,6 +4428,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Starbound Staff",
     "src": "icons/staff/staff-61.png",
@@ -4340,6 +4464,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Masterwork Sagewood Staff",
     "src": "icons/staff/staff-62-dup1.png",
@@ -4375,6 +4500,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Sagewood Staff",
     "src": "icons/staff/staff-62.png",
@@ -4410,6 +4536,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Sagewood Staff",
     "src": "icons/staff/staff-63-dup1.png",
@@ -4445,6 +4572,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Tempered Runestaff",
     "src": "icons/staff/staff-63.png",
@@ -4480,6 +4608,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Spirestaff",
     "src": "icons/staff/staff-64-dup1.png",
@@ -4515,6 +4644,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Runestaff",
     "src": "icons/staff/staff-64.png",
@@ -4550,6 +4680,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Platinum Spirestaff",
     "src": "icons/staff/staff-65-dup1.png",
@@ -4585,6 +4716,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Staff",
     "src": "icons/staff/staff-65.png",
@@ -4620,6 +4752,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Starbound Runestaff",
     "src": "icons/staff/staff-66-dup1.png",
@@ -4655,6 +4788,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Spirestaff",
     "src": "icons/staff/staff-66.png",
@@ -4690,6 +4824,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Dreadlord Runestaff",
     "src": "icons/staff/staff-67-dup1.png",
@@ -4725,6 +4860,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Old Road Staff",
     "src": "icons/staff/staff-67.png",
@@ -4760,6 +4896,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Moonlit Spirestaff",
     "src": "icons/staff/staff-68-dup1.png",
@@ -4795,6 +4932,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Spirestaff",
     "src": "icons/staff/staff-68.png",
@@ -4830,6 +4968,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Runestaff",
     "src": "icons/staff/staff-69-dup1.png",
@@ -4865,6 +5004,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Runestaff",
     "src": "icons/staff/staff-69.png",
@@ -4900,6 +5040,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Runestaff",
     "src": "icons/staff/staff-70-dup1.png",
@@ -4935,6 +5076,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Staff",
     "src": "icons/staff/staff-70.png",
@@ -4970,6 +5112,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Masterwork Spirestaff",
     "src": "icons/staff/staff-71-dup1.png",
@@ -5005,6 +5148,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Abyssal Staff",
     "src": "icons/staff/staff-71.png",
@@ -5040,6 +5184,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Runestaff",
     "src": "icons/staff/staff-72-dup1.png",
@@ -5075,6 +5220,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Spirestaff",
     "src": "icons/staff/staff-72.png",
@@ -5110,6 +5256,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Sagewood Staff",
     "src": "icons/staff/staff-73-dup1.png",
@@ -5145,6 +5292,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Gilded Runestaff",
     "src": "icons/staff/staff-73.png",
@@ -5180,6 +5328,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Platinum Staff",
     "src": "icons/staff/staff-74-dup1.png",
@@ -5215,6 +5364,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Sagewood Staff",
     "src": "icons/staff/staff-74.png",
@@ -5250,6 +5400,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Sagewood Staff",
     "src": "icons/staff/staff-75-dup1.png",
@@ -5285,6 +5436,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Archon Runestaff",
     "src": "icons/staff/staff-75.png",
@@ -5320,6 +5472,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Abyssal Staff",
     "src": "icons/staff/staff-76-dup1.png",
@@ -5355,6 +5508,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Staff",
     "src": "icons/staff/staff-76.png",
@@ -5390,6 +5544,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Runestaff",
     "src": "icons/staff/staff-77-dup1.png",
@@ -5425,6 +5580,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Runestaff",
     "src": "icons/staff/staff-77.png",
@@ -5460,6 +5616,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Royal Spirestaff",
     "src": "icons/staff/staff-78-dup1.png",
@@ -5495,6 +5652,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Runestaff",
     "src": "icons/staff/staff-78.png",
@@ -5530,6 +5688,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Runestaff",
     "src": "icons/staff/staff-79-dup1.png",
@@ -5565,6 +5724,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Glacier Runestaff",
     "src": "icons/staff/staff-79.png",
@@ -5600,6 +5760,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Archon Sagewood Staff",
     "src": "icons/staff/staff-80-dup1.png",
@@ -5635,6 +5796,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Abyssal Sagewood Staff",
     "src": "icons/staff/staff-80.png",
@@ -5670,6 +5832,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Staff",
     "src": "icons/staff/staff-81-dup1.png",
@@ -5705,6 +5868,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Spirestaff",
     "src": "icons/staff/staff-81.png",
@@ -5740,6 +5904,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Runestaff",
     "src": "icons/staff/staff-82-dup1.png",
@@ -5775,6 +5940,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Staff",
     "src": "icons/staff/staff-82.png",
@@ -5810,6 +5976,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Runestaff",
     "src": "icons/staff/staff-83-dup1.png",
@@ -5845,6 +6012,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Spirestaff",
     "src": "icons/staff/staff-83.png",
@@ -5880,6 +6048,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Starbound Runestaff",
     "src": "icons/staff/staff-84-dup1.png",
@@ -5915,6 +6084,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Archon Sagewood Staff",
     "src": "icons/staff/staff-84.png",
@@ -5950,6 +6120,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Spirestaff",
     "src": "icons/staff/staff-85-dup1.png",
@@ -5985,6 +6156,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Old Road Sagewood Staff",
     "src": "icons/staff/staff-85.png",
@@ -6020,6 +6192,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Spirestaff",
     "src": "icons/staff/staff-86-dup1.png",
@@ -6055,6 +6228,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Warden's Runestaff",
     "src": "icons/staff/staff-86.png",
@@ -6090,6 +6264,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Royal Sagewood Staff",
     "src": "icons/staff/staff-87-dup1.png",
@@ -6125,6 +6300,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Spirestaff",
     "src": "icons/staff/staff-87.png",
@@ -6160,6 +6336,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Grovekeeper Runestaff",
     "src": "icons/staff/staff-88-dup1.png",
@@ -6195,6 +6372,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Spirestaff",
     "src": "icons/staff/staff-88.png",
@@ -6230,6 +6408,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Masterwork Sagewood Staff",
     "src": "icons/staff/staff-89-dup1.png",
@@ -6265,6 +6444,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Dreadlord Runestaff",
     "src": "icons/staff/staff-89.png",
@@ -6300,6 +6480,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Staff",
     "src": "icons/staff/staff-90-dup1.png",
@@ -6335,6 +6516,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Moonlit Sagewood Staff",
     "src": "icons/staff/staff-90.png",
@@ -6370,6 +6552,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Warden's Runestaff",
     "src": "icons/staff/staff-91-dup1.png",
@@ -6405,6 +6588,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Spirestaff",
     "src": "icons/staff/staff-91.png",
@@ -6440,6 +6624,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Runestaff",
     "src": "icons/staff/staff-92-dup1.png",
@@ -6475,6 +6660,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Spirestaff",
     "src": "icons/staff/staff-92.png",
@@ -6510,6 +6696,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Sagewood Staff",
     "src": "icons/staff/staff-93-dup1.png",
@@ -6545,6 +6732,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Archon Spirestaff",
     "src": "icons/staff/staff-93.png",
@@ -6580,6 +6768,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Spirestaff",
     "src": "icons/staff/staff-94-dup1.png",
@@ -6615,6 +6804,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Sagewood Staff",
     "src": "icons/staff/staff-94.png",
@@ -6650,6 +6840,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Moonlit Runestaff",
     "src": "icons/staff/staff-95-dup1.png",
@@ -6685,6 +6876,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Spirestaff",
     "src": "icons/staff/staff-95.png",
@@ -6720,6 +6912,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Gilded Runestaff",
     "src": "icons/staff/staff-96-dup1.png",
@@ -6755,6 +6948,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Runestaff",
     "src": "icons/staff/staff-96.png",
@@ -6790,6 +6984,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Staff",
     "src": "icons/staff/staff-97-dup1.png",
@@ -6825,6 +7020,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Starbound Spirestaff",
     "src": "icons/staff/staff-97.png",
@@ -6860,6 +7056,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Masterwork Sagewood Staff",
     "src": "icons/staff/staff-98-dup1.png",
@@ -6895,6 +7092,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Runestaff",
     "src": "icons/staff/staff-98.png",
@@ -6930,6 +7128,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Town Guard Staff",
     "src": "icons/staff/staff-99-dup1.png",
@@ -6965,6 +7164,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Sagewood Staff",
     "src": "icons/staff/staff-99.png",
@@ -7000,6 +7200,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Runestaff",
     "src": "icons/staff/staff-100-dup1.png",
@@ -7035,6 +7236,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Runestaff",
     "src": "icons/staff/staff-100.png",
@@ -7070,6 +7272,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Platinum Sagewood Staff",
     "src": "icons/staff/staff-101-dup1.png",
@@ -7105,6 +7308,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Spirestaff",
     "src": "icons/staff/staff-101.png",
@@ -7140,6 +7344,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Glacier Runestaff",
     "src": "icons/staff/staff-102-dup1.png",
@@ -7175,6 +7380,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Staff",
     "src": "icons/staff/staff-102.png",
@@ -7210,6 +7416,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Dreadlord Runestaff",
     "src": "icons/staff/staff-103-dup1.png",
@@ -7245,6 +7452,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Staff",
     "src": "icons/staff/staff-103.png",
@@ -7280,6 +7488,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Staff",
     "src": "icons/staff/staff-104-dup1.png",
@@ -7315,6 +7524,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Runestaff",
     "src": "icons/staff/staff-104.png",
@@ -7350,6 +7560,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Staff",
     "src": "icons/staff/staff-105-dup1.png",
@@ -7385,6 +7596,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Spirestaff",
     "src": "icons/staff/staff-105.png",
@@ -7420,6 +7632,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Spirestaff",
     "src": "icons/staff/staff-106-dup1.png",
@@ -7455,6 +7668,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Glacier Runestaff",
     "src": "icons/staff/staff-106.png",
@@ -7490,6 +7704,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Spirestaff",
     "src": "icons/staff/staff-107-dup1.png",
@@ -7525,6 +7740,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Runestaff",
     "src": "icons/staff/staff-107.png",
@@ -7560,6 +7776,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Runestaff",
     "src": "icons/staff/staff-108-dup1.png",
@@ -7595,6 +7812,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Spirestaff",
     "src": "icons/staff/staff-108.png",
@@ -7630,6 +7848,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Spirestaff",
     "src": "icons/staff/staff-109-dup1.png",
@@ -7665,6 +7884,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Spirestaff",
     "src": "icons/staff/staff-109.png",
@@ -7700,6 +7920,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Spirestaff",
     "src": "icons/staff/staff-110-dup1.png",
@@ -7735,6 +7956,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Staff",
     "src": "icons/staff/staff-110.png",
@@ -7770,6 +7992,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Runestaff",
     "src": "icons/staff/staff-111-dup1.png",
@@ -7805,6 +8028,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eclipsed Sagewood Staff",
     "src": "icons/staff/staff-111.png",
@@ -7840,6 +8064,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Sagewood Staff",
     "src": "icons/staff/staff-112-dup1.png",
@@ -7875,6 +8100,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Spirestaff",
     "src": "icons/staff/staff-112.png",
@@ -7910,6 +8136,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Runestaff",
     "src": "icons/staff/staff-113-dup1.png",
@@ -7945,6 +8172,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Spirestaff",
     "src": "icons/staff/staff-113.png",
@@ -7980,6 +8208,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Staff",
     "src": "icons/staff/staff-114-dup1.png",
@@ -8015,6 +8244,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Highborne Runestaff",
     "src": "icons/staff/staff-114.png",
@@ -8050,6 +8280,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Runestaff",
     "src": "icons/staff/staff-115-dup1.png",
@@ -8085,6 +8316,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Runestaff",
     "src": "icons/staff/staff-115.png",
@@ -8120,6 +8352,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Sagewood Staff",
     "src": "icons/staff/staff-116-dup1.png",
@@ -8155,6 +8388,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Dreadlord Spirestaff",
     "src": "icons/staff/staff-116.png",
@@ -8190,6 +8424,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Runestaff",
     "src": "icons/staff/staff-117-dup1.png",
@@ -8225,6 +8460,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Moonlit Sagewood Staff",
     "src": "icons/staff/staff-117.png",
@@ -8260,6 +8496,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Runestaff",
     "src": "icons/staff/staff-118-dup1.png",
@@ -8295,6 +8532,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Sagewood Staff",
     "src": "icons/staff/staff-118.png",
@@ -8330,6 +8568,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Sagewood Staff",
     "src": "icons/staff/staff-119-dup1.png",
@@ -8365,6 +8604,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Grovekeeper Staff",
     "src": "icons/staff/staff-119.png",
@@ -8400,6 +8640,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Aether Sagewood Staff",
     "src": "icons/staff/staff-120-dup1.png",
@@ -8435,6 +8676,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Sagewood Staff",
     "src": "icons/staff/staff-120.png",
@@ -8470,6 +8712,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Sagewood Staff",
     "src": "icons/staff/staff-121-dup1.png",
@@ -8505,6 +8748,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Old Road Runestaff",
     "src": "icons/staff/staff-121.png",
@@ -8540,6 +8784,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Moonlit Sagewood Staff",
     "src": "icons/staff/staff-122-dup1.png",
@@ -8575,6 +8820,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Spirestaff",
     "src": "icons/staff/staff-122.png",
@@ -8610,6 +8856,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Sagewood Staff",
     "src": "icons/staff/staff-123-dup1.png",
@@ -8645,6 +8892,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Sagewood Staff",
     "src": "icons/staff/staff-123.png",
@@ -8680,6 +8928,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Wildheart Runestaff",
     "src": "icons/staff/staff-124-dup1.png",
@@ -8715,6 +8964,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Glacier Spirestaff",
     "src": "icons/staff/staff-124.png",
@@ -8750,6 +9000,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Archon Runestaff",
     "src": "icons/staff/staff-125-dup1.png",
@@ -8785,6 +9036,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Staff",
     "src": "icons/staff/staff-125.png",
@@ -8820,6 +9072,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Old Road Spirestaff",
     "src": "icons/staff/staff-126-dup1.png",
@@ -8855,6 +9108,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Tempered Staff",
     "src": "icons/staff/staff-126.png",
@@ -8890,6 +9144,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Steel Runestaff",
     "src": "icons/staff/staff-127-dup1.png",
@@ -8925,6 +9180,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Spirestaff",
     "src": "icons/staff/staff-127.png",
@@ -8960,6 +9216,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Staff",
     "src": "icons/staff/staff-128-dup1.png",
@@ -8995,6 +9252,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Wildheart Sagewood Staff",
     "src": "icons/staff/staff-128.png",
@@ -9030,6 +9288,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Runestaff",
     "src": "icons/staff/staff-129-dup1.png",
@@ -9065,6 +9324,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eclipsed Spirestaff",
     "src": "icons/staff/staff-129.png",
@@ -9100,6 +9360,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Runestaff",
     "src": "icons/staff/staff-130-dup1.png",
@@ -9135,6 +9396,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Staff",
     "src": "icons/staff/staff-130.png",
@@ -9170,6 +9432,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Tempered Sagewood Staff",
     "src": "icons/staff/staff-131-dup1.png",
@@ -9205,6 +9468,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Forge-Bound Spirestaff",
     "src": "icons/staff/staff-131.png",
@@ -9240,6 +9504,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Gilded Staff",
     "src": "icons/staff/staff-132-dup1.png",
@@ -9275,6 +9540,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Staff",
     "src": "icons/staff/staff-132.png",
@@ -9310,6 +9576,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Wildheart Runestaff",
     "src": "icons/staff/staff-133-dup1.png",
@@ -9345,6 +9612,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Runestaff",
     "src": "icons/staff/staff-133.png",
@@ -9380,6 +9648,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Masterwork Spirestaff",
     "src": "icons/staff/staff-134-dup1.png",
@@ -9415,6 +9684,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Infernal Staff",
     "src": "icons/staff/staff-134.png",
@@ -9450,6 +9720,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Old Road Sagewood Staff",
     "src": "icons/staff/staff-135-dup1.png",
@@ -9485,6 +9756,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Runestaff",
     "src": "icons/staff/staff-135.png",
@@ -9520,6 +9792,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Warden's Runestaff",
     "src": "icons/staff/staff-136-dup1.png",
@@ -9555,6 +9828,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Runestaff",
     "src": "icons/staff/staff-136.png",
@@ -9590,6 +9864,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Sagewood Staff",
     "src": "icons/staff/staff-137-dup1.png",
@@ -9625,6 +9900,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Verdant Spirestaff",
     "src": "icons/staff/staff-137.png",
@@ -9660,6 +9936,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Diamond Staff",
     "src": "icons/staff/staff-138-dup1.png",
@@ -9695,6 +9972,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Archon Sagewood Staff",
     "src": "icons/staff/staff-138.png",
@@ -9730,6 +10008,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Staff",
     "src": "icons/staff/staff-139-dup1.png",
@@ -9765,6 +10044,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Sagewood Staff",
     "src": "icons/staff/staff-139.png",
@@ -9800,6 +10080,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Windworn Spirestaff",
     "src": "icons/staff/staff-140-dup1.png",
@@ -9835,6 +10116,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Warden's Spirestaff",
     "src": "icons/staff/staff-140.png",
@@ -9870,6 +10152,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Staff",
     "src": "icons/staff/staff-141-dup1.png",
@@ -9905,6 +10188,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Highborne Staff",
     "src": "icons/staff/staff-141.png",
@@ -9940,6 +10224,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Wildheart Staff",
     "src": "icons/staff/staff-142-dup1.png",
@@ -9975,6 +10260,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Aether Sagewood Staff",
     "src": "icons/staff/staff-142.png",
@@ -10010,6 +10296,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Runestaff",
     "src": "icons/staff/staff-143-dup1.png",
@@ -10045,6 +10332,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Abyssal Spirestaff",
     "src": "icons/staff/staff-143.png",
@@ -10080,6 +10368,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Wayfarer Runestaff",
     "src": "icons/staff/staff-144-dup1.png",
@@ -10115,6 +10404,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Tempered Spirestaff",
     "src": "icons/staff/staff-144.png",
@@ -10150,6 +10440,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Ironwall Spirestaff",
     "src": "icons/staff/staff-145-dup1.png",
@@ -10185,6 +10476,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Sunforged Sagewood Staff",
     "src": "icons/staff/staff-145.png",
@@ -10220,6 +10512,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Runestaff",
     "src": "icons/staff/staff-146-dup1.png",
@@ -10255,6 +10548,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Emerald Staff",
     "src": "icons/staff/staff-146.png",
@@ -10290,6 +10584,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Glacier Sagewood Staff",
     "src": "icons/staff/staff-147-dup1.png",
@@ -10325,6 +10620,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Eternal Sagewood Staff",
     "src": "icons/staff/staff-147.png",
@@ -10360,6 +10656,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Demonic Staff",
     "src": "icons/staff/staff-148-dup1.png",
@@ -10395,6 +10692,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Town Guard Spirestaff",
     "src": "icons/staff/staff-148.png",
@@ -10430,6 +10728,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Spirestaff",
     "src": "icons/staff/staff-149-dup1.png",
@@ -10465,6 +10764,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Warden's Staff",
     "src": "icons/staff/staff-149.png",
@@ -10500,6 +10800,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Auric Spirestaff",
     "src": "icons/staff/staff-150-dup1.png",
@@ -10535,6 +10836,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Oathbound Staff",
     "src": "icons/staff/staff-150.png",
@@ -10570,6 +10872,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Grovekeeper Runestaff",
     "src": "icons/staff/staff-151-dup1.png",
@@ -10605,6 +10908,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Starbound Sagewood Staff",
     "src": "icons/staff/staff-151.png",
@@ -10640,6 +10944,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "epic",
     "name": "Masterwork Runestaff",
     "src": "icons/staff/staff-152-dup1.png",
@@ -10675,6 +10980,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "legendary",
     "name": "Abyssal Runestaff",
     "src": "icons/staff/staff-152.png",
@@ -10710,6 +11016,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "Rusted Sagewood Staff",
     "src": "icons/staff/staff-153-dup1.png",
@@ -10745,6 +11052,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "common",
     "name": "City Watch Runestaff",
     "src": "icons/staff/staff-153.png",
@@ -10780,6 +11088,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Forge-Bound Staff",
     "src": "icons/staff/staff-154-dup1.png",
@@ -10815,6 +11124,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "uncommon",
     "name": "Gilded Staff",
     "src": "icons/staff/staff-154.png",
@@ -10850,6 +11160,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Sanctified Staff",
     "src": "icons/staff/staff-155-dup1.png",
@@ -10885,6 +11196,7 @@
     }
   },
   {
+    "slot": "staff",
     "quality": "rare",
     "name": "Wildheart Runestaff",
     "src": "icons/staff/staff-155.png",

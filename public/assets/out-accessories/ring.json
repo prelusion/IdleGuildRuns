@@ -1,5 +1,6 @@
 [
   {
+    "slot": "ring",
     "quality": "common",
     "name": "Town Guard Signet",
     "src": "icons/ring/ring-0.png",
@@ -28,6 +29,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "common",
     "name": "Rusted Signet",
     "src": "icons/ring/ring-1.png",
@@ -56,6 +58,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "common",
     "name": "City Watch Signet",
     "src": "icons/ring/ring-2.png",
@@ -84,6 +87,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "common",
     "name": "Moonlit Loop",
     "src": "icons/ring/ring-3.png",
@@ -112,6 +116,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Forge-Bound Loop",
     "src": "icons/ring/ring-4.png",
@@ -140,6 +145,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Ironwall Loop",
     "src": "icons/ring/ring-5.png",
@@ -168,6 +174,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Auric Band",
     "src": "icons/ring/ring-6.png",
@@ -196,6 +203,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Gilded Band",
     "src": "icons/ring/ring-7.png",
@@ -224,6 +232,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Sunforged Ring",
     "src": "icons/ring/ring-8.png",
@@ -252,6 +261,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Sanctified Ring",
     "src": "icons/ring/ring-9.png",
@@ -280,6 +290,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Platinum Band",
     "src": "icons/ring/ring-10.png",
@@ -308,6 +319,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Highborne Signet",
     "src": "icons/ring/ring-11.png",
@@ -336,6 +348,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Wildheart Loop",
     "src": "icons/ring/ring-12.png",
@@ -364,6 +377,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Grovekeeper Ring",
     "src": "icons/ring/ring-13.png",
@@ -392,6 +406,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Grovekeeper Loop",
     "src": "icons/ring/ring-14.png",
@@ -420,6 +435,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Aether Band",
     "src": "icons/ring/ring-15.png",
@@ -448,6 +464,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Glacier Signet",
     "src": "icons/ring/ring-16.png",
@@ -476,6 +493,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Diamond Loop",
     "src": "icons/ring/ring-17.png",
@@ -504,6 +522,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Diamond Band",
     "src": "icons/ring/ring-18.png",
@@ -532,6 +551,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Eternal Loop",
     "src": "icons/ring/ring-19.png",
@@ -560,6 +580,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Archon Band",
     "src": "icons/ring/ring-20.png",
@@ -588,6 +609,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Archon Ring",
     "src": "icons/ring/ring-21.png",
@@ -616,6 +638,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Eclipsed Ring",
     "src": "icons/ring/ring-22.png",
@@ -644,6 +667,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "legendary",
     "name": "Demonic Signet",
     "src": "icons/ring/ring-23.png",
@@ -672,6 +696,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "legendary",
     "name": "Abyssal Ring",
     "src": "icons/ring/ring-24.png",
@@ -700,6 +725,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "legendary",
     "name": "Demonic Ring",
     "src": "icons/ring/ring-25.png",
@@ -728,6 +754,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "legendary",
     "name": "Dreadlord Band",
     "src": "icons/ring/ring-26.png",
@@ -756,6 +783,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "common",
     "name": "Old Road Signet",
     "src": "icons/ring/ring-27.png",
@@ -784,6 +812,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "common",
     "name": "City Watch Ring",
     "src": "icons/ring/ring-28.png",
@@ -812,6 +841,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Steel Signet",
     "src": "icons/ring/ring-29.png",
@@ -840,6 +870,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Royal Band",
     "src": "icons/ring/ring-30.png",
@@ -868,6 +899,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Oathbound Band",
     "src": "icons/ring/ring-31.png",
@@ -896,6 +928,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Verdant Signet",
     "src": "icons/ring/ring-32.png",
@@ -924,6 +957,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Glacier Loop",
     "src": "icons/ring/ring-33.png",
@@ -952,6 +986,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Archon Signet",
     "src": "icons/ring/ring-34.png",
@@ -980,6 +1015,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "legendary",
     "name": "Abyssal Loop",
     "src": "icons/ring/ring-35.png",
@@ -1008,6 +1044,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "common",
     "name": "Rusted Signet",
     "src": "icons/ring/ring-36.png",
@@ -1036,6 +1073,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "common",
     "name": "Moonlit Loop",
     "src": "icons/ring/ring-37.png",
@@ -1064,6 +1102,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Warden's Loop",
     "src": "icons/ring/ring-38.png",
@@ -1092,6 +1131,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Gilded Band",
     "src": "icons/ring/ring-39.png",
@@ -1120,6 +1160,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Highborne Ring",
     "src": "icons/ring/ring-40.png",
@@ -1148,6 +1189,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "rare",
     "name": "Emerald Loop",
     "src": "icons/ring/ring-41.png",
@@ -1176,6 +1218,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Aether Signet",
     "src": "icons/ring/ring-42.png",
@@ -1204,6 +1247,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "epic",
     "name": "Eternal Signet",
     "src": "icons/ring/ring-43.png",
@@ -1232,6 +1276,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "legendary",
     "name": "Dreadlord Signet",
     "src": "icons/ring/ring-44.png",
@@ -1260,6 +1305,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "common",
     "name": "Town Guard Signet",
     "src": "icons/ring/ring-45.png",
@@ -1288,6 +1334,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "common",
     "name": "City Watch Loop",
     "src": "icons/ring/ring-46.png",
@@ -1316,6 +1363,7 @@
     }
   },
   {
+    "slot": "ring",
     "quality": "uncommon",
     "name": "Warden's Signet",
     "src": "icons/ring/ring-47.png",

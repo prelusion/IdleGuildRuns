@@ -2,8 +2,14 @@ import Phaser from "phaser";
 import type {Dir4, LayerId} from "../mobs/mobTypes";
 import type { UnitDef, UnitStats } from "./unitTypes";
 import { animKey, textureKey } from "../mobs/mobLoader";
+import {dirFromDelta} from "./controller.ts";
 
 type MoveIntent = { tx: number; ty: number; speed: number } | null;
+
+export function safePlay(self: UnitEntity, action: string, dir: Dir4) {
+  if (self.action === action && self.dir === dir) return;
+  self.play(action, dir);
+}
 
 export class UnitEntity {
   readonly def: UnitDef;
@@ -11,6 +17,7 @@ export class UnitEntity {
 
   readonly container: Phaser.GameObjects.Container;
   readonly layers: Record<string, Phaser.GameObjects.Sprite> = {};
+  private hitZone: Phaser.GameObjects.Zone;
 
   x: number;
   y: number;
@@ -30,7 +37,6 @@ export class UnitEntity {
 
   private moveIntent: MoveIntent = null
 
-
   constructor(scene: Phaser.Scene, def: UnitDef, x: number, y: number) {
     this.def = def;
     this.radius = def.radius;
@@ -44,6 +50,22 @@ export class UnitEntity {
     this.y = y;
 
     this.container = scene.add.container(x, y);
+
+    const size = Math.max(24, def.radius * 2);
+    this.hitZone = scene.add.zone(0, 0, size, size);
+    this.hitZone.setOrigin(0.5);
+    this.hitZone.setInteractive({ useHandCursor: true });
+
+    this.hitZone.on("pointerdown", () => {
+      const memberId = (this as any).memberId as string | undefined;
+      if (!memberId) return;
+      scene.events.emit("unit:selected", memberId);
+    });
+
+    this.container.add(this.hitZone);
+
+
+
 
     // create sprites per layer, but do NOT assume "idle" exists for every layer
     for (const layer of def.visuals.layers) {
@@ -163,8 +185,12 @@ export class UnitEntity {
     return this.moveIntent !== null;
   }
 
+
   applyIntent(dtMs: number) {
     if (!this.moveIntent) return;
+
+    const beforeX = this.x;
+    const beforeY = this.y;
 
     const { tx, ty, speed } = this.moveIntent;
     const dx = tx - this.x;
@@ -172,7 +198,6 @@ export class UnitEntity {
 
     const d = Math.hypot(dx, dy);
     if (d < 0.5) {
-      // close enough -> stop so we don't jitter
       this.moveIntent = null;
       return;
     }
@@ -181,5 +206,15 @@ export class UnitEntity {
     const vy = (dy / d) * speed;
 
     this.setPos(this.x + (vx * dtMs) / 1000, this.y + (vy * dtMs) / 1000);
+
+    //  Update facing only if we actually moved a bit
+    const mx = this.x - beforeX;
+    const my = this.y - beforeY;
+    const moved = Math.hypot(mx, my);
+
+    if (moved > 0.2) {
+      // use actual movement direction, not dx/dy to target
+      this.dir = dirFromDelta(mx, my);
+    }
   }
 }

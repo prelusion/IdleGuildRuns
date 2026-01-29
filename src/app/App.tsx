@@ -7,6 +7,7 @@ import Navigation from "./navigation.tsx";
 import Inventory from "./inventory.tsx";
 import Creative from "./creative.tsx";
 import GuildPanel from "./guildPanel.tsx";
+import CharacterView from "./CharacterView.tsx";
 
 export default function App() {
   const gold = useAppStore((s) => s.gold);
@@ -14,6 +15,8 @@ export default function App() {
   const simConnected = useAppStore((s) => s.simConnected);
 
   const selectedSceneId = useGameStore((s) => s.selectedSceneId);
+  const clearSelectedMember = useGameStore((s) => s.clearSelectedMember);
+
   const applyOfflineProgress = useAppStore((s) => s.applyOfflineProgress);
   const applySimSnapshot = useAppStore((s) => s.applySimSnapshot);
   const setSimConnected = useAppStore((s) => s.setSimConnected);
@@ -42,6 +45,10 @@ export default function App() {
     []
   );
 
+  const selectedMember = useGameStore((s) =>
+    s.selectedMemberId ? s.guildMembers[s.selectedMemberId] : null
+  );
+
   const [unitOverlay, setUnitOverlay] = useState<{ x: number; y: number } | null>(null);
 
   useEffect(() => {
@@ -51,6 +58,17 @@ export default function App() {
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
   }, [rotateSelected]);
+
+
+  useEffect(() => {
+    if (!selectedMember) return;
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "Escape") clearSelectedMember();
+    };
+    window.addEventListener("keydown", onKeyDown);
+    return () => window.removeEventListener("keydown", onKeyDown);
+  }, [selectedMember, clearSelectedMember]);
+
 
   useEffect(() => {
     const s = useGameStore.getState();
@@ -117,9 +135,16 @@ export default function App() {
                     transform: "translate(-50%, -100%)",
                   }}
                 >
-                  Unit A
                 </div>
               )}
+
+              {/* Navigation / buttons - needs pointer events */}
+              {selectedMember && (
+                <div className="pointer-events-auto">
+                    <CharacterView />
+                </div>
+              )}
+
 
               {/* Navigation / buttons - needs pointer events */}
               <div className="pointer-events-auto">
@@ -260,6 +285,10 @@ export default function App() {
               <div className="min-w-[140px] rounded-lg border border-white/10 bg-black/20 p-2.5">
                 <div className="text-xs text-white/70">Scene</div>
                 <div className="text-xl font-extrabold">{selectedSceneId}</div>
+              </div>
+              <div className="min-w-[140px] rounded-lg border border-white/10 bg-black/20 p-2.5">
+                <div className="text-xs text-white/70">Selected Unit</div>
+                <div className="text-xl font-extrabold">{selectedMember?.name}</div>
               </div>
               <div className="min-w-[140px] rounded-lg border border-white/10 bg-black/20 p-2.5">
                 <div className="text-xs text-white/70">Gold</div>

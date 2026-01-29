@@ -1,7 +1,8 @@
 [
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Town Guard Bulwark (warrior) Helmet",
+    "name": "Town Guard Bulwark Helmet",
     "src": "icons/helmet/helment-0.png",
     "monetaryValue": 27,
     "value": 11,
@@ -31,8 +32,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Apprentice Bastion (paladin) Helmet",
+    "name": "Apprentice Bastion Helmet",
     "src": "icons/helmet/helment-1.png",
     "monetaryValue": 32,
     "value": 13,
@@ -62,8 +64,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Apprentice Sentinel (tank) Helmet",
+    "name": "Apprentice Sentinel Helmet",
     "src": "icons/helmet/helment-2.png",
     "monetaryValue": 34,
     "value": 14,
@@ -93,8 +96,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Militia Pathfinder (hunter) Helmet",
+    "name": "Militia Pathfinder Helmet",
     "src": "icons/helmet/helment-3.png",
     "monetaryValue": 25,
     "value": 14,
@@ -124,8 +128,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Town Guard Huntsman (shaman) Helmet",
+    "name": "Town Guard Huntsman Helmet",
     "src": "icons/helmet/helment-4.png",
     "monetaryValue": 29,
     "value": 16,
@@ -155,8 +160,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Militia Sabatuer (rogue) Helmet",
+    "name": "Militia Sabatuer Helmet",
     "src": "icons/helmet/helment-5.png",
     "monetaryValue": 20,
     "value": 13,
@@ -186,8 +192,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Militia Cutpurse (druid) Helmet",
+    "name": "Militia Cutpurse Helmet",
     "src": "icons/helmet/helment-6.png",
     "monetaryValue": 18,
     "value": 8,
@@ -217,8 +224,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Militia Sage (mage) Helmet",
+    "name": "Militia Sage Helmet",
     "src": "icons/helmet/helment-7.png",
     "monetaryValue": 21,
     "value": 9,
@@ -248,8 +256,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Town Guard Invoker (priest) Helmet",
+    "name": "Town Guard Invoker Helmet",
     "src": "icons/helmet/helment-8.png",
     "monetaryValue": 22,
     "value": 9,
@@ -279,8 +288,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Rusted Seer (warlock) Helmet",
+    "name": "Rusted Seer Helmet",
     "src": "icons/helmet/helment-9.png",
     "monetaryValue": 20,
     "value": 6,
@@ -310,8 +320,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "City Watch Bulwark (warrior) Helmet",
+    "name": "City Watch Bulwark Helmet",
     "src": "icons/helmet/helment-10.png",
     "monetaryValue": 43,
     "value": 20,
@@ -341,8 +352,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Squire Juggernaut (paladin) Helmet",
+    "name": "Squire Juggernaut Helmet",
     "src": "icons/helmet/helment-11.png",
     "monetaryValue": 45,
     "value": 17,
@@ -372,8 +384,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "City Watch Bastion (tank) Helmet",
+    "name": "City Watch Bastion Helmet",
     "src": "icons/helmet/helment-12.png",
     "monetaryValue": 48,
     "value": 17,
@@ -403,8 +416,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Squire Ranger (hunter) Helmet",
+    "name": "Squire Ranger Helmet",
     "src": "icons/helmet/helment-13.png",
     "monetaryValue": 30,
     "value": 13,
@@ -434,8 +448,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Squire Ranger (shaman) Helmet",
+    "name": "Squire Ranger Helmet",
     "src": "icons/helmet/helment-14.png",
     "monetaryValue": 37,
     "value": 19,
@@ -465,8 +480,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Tempered Cutpurse (rogue) Helmet",
+    "name": "Tempered Cutpurse Helmet",
     "src": "icons/helmet/helment-15.png",
     "monetaryValue": 28,
     "value": 13,
@@ -496,8 +512,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "City Watch Shadow (druid) Helmet",
+    "name": "City Watch Shadow Helmet",
     "src": "icons/helmet/helment-16.png",
     "monetaryValue": 28,
     "value": 15,
@@ -527,8 +544,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Tempered Sage (mage) Helmet",
+    "name": "Tempered Sage Helmet",
     "src": "icons/helmet/helment-17.png",
     "monetaryValue": 26,
     "value": 12,
@@ -558,8 +576,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Squire Invoker (priest) Helmet",
+    "name": "Squire Invoker Helmet",
     "src": "icons/helmet/helment-18.png",
     "monetaryValue": 22,
     "value": 10,
@@ -589,8 +608,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "common",
-    "name": "Squire Invoker (warlock) Helmet",
+    "name": "Squire Invoker Helmet",
     "src": "icons/helmet/helment-19.png",
     "monetaryValue": 23,
     "value": 9,
@@ -620,8 +640,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Ironwall Bulwark (warrior) Helmet",
+    "name": "Ironwall Bulwark Helmet",
     "src": "icons/helmet/helment-20.png",
     "monetaryValue": 60,
     "value": 27,
@@ -651,8 +672,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Ironwall Sentinel (paladin) Helmet",
+    "name": "Ironwall Sentinel Helmet",
     "src": "icons/helmet/helment-21.png",
     "monetaryValue": 51,
     "value": 27,
@@ -682,8 +704,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Warden Sentinel (tank) Helmet",
+    "name": "Warden Sentinel Helmet",
     "src": "icons/helmet/helment-22.png",
     "monetaryValue": 53,
     "value": 23,
@@ -713,8 +736,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Ironwall Pathfinder (hunter) Helmet",
+    "name": "Ironwall Pathfinder Helmet",
     "src": "icons/helmet/helment-23.png",
     "monetaryValue": 48,
     "value": 24,
@@ -744,8 +768,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Steel Pathfinder (shaman) Helmet",
+    "name": "Steel Pathfinder Helmet",
     "src": "icons/helmet/helment-24.png",
     "monetaryValue": 46,
     "value": 20,
@@ -775,8 +800,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Forge Shadow (rogue) Helmet",
+    "name": "Forge Shadow Helmet",
     "src": "icons/helmet/helment-25.png",
     "monetaryValue": 43,
     "value": 16,
@@ -806,8 +832,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Forge Cutpurse (druid) Helmet",
+    "name": "Forge Cutpurse Helmet",
     "src": "icons/helmet/helment-26.png",
     "monetaryValue": 42,
     "value": 16,
@@ -837,8 +864,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Forge Seer (mage) Helmet",
+    "name": "Forge Seer Helmet",
     "src": "icons/helmet/helment-27.png",
     "monetaryValue": 34,
     "value": 14,
@@ -868,8 +896,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Forge Seer (priest) Helmet",
+    "name": "Forge Seer Helmet",
     "src": "icons/helmet/helment-28.png",
     "monetaryValue": 27,
     "value": 17,
@@ -899,8 +928,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Ironwall Seer (warlock) Helmet",
+    "name": "Ironwall Seer Helmet",
     "src": "icons/helmet/helment-29.png",
     "monetaryValue": 29,
     "value": 13,
@@ -930,8 +960,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Sunforged Sentinel (warrior) Helmet",
+    "name": "Sunforged Sentinel Helmet",
     "src": "icons/helmet/helment-30.png",
     "monetaryValue": 80,
     "value": 33,
@@ -961,8 +992,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Royal Bulwark (paladin) Helmet",
+    "name": "Royal Bulwark Helmet",
     "src": "icons/helmet/helment-31.png",
     "monetaryValue": 84,
     "value": 32,
@@ -992,8 +1024,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Auric Bulwark (tank) Helmet",
+    "name": "Auric Bulwark Helmet",
     "src": "icons/helmet/helment-32.png",
     "monetaryValue": 83,
     "value": 36,
@@ -1023,8 +1056,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Royal Huntsman (hunter) Helmet",
+    "name": "Royal Huntsman Helmet",
     "src": "icons/helmet/helment-33.png",
     "monetaryValue": 74,
     "value": 31,
@@ -1054,8 +1088,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Sunforged Ranger (shaman) Helmet",
+    "name": "Sunforged Ranger Helmet",
     "src": "icons/helmet/helment-34.png",
     "monetaryValue": 65,
     "value": 28,
@@ -1085,8 +1120,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Royal Stalker (rogue) Helmet",
+    "name": "Royal Stalker Helmet",
     "src": "icons/helmet/helment-35.png",
     "monetaryValue": 59,
     "value": 24,
@@ -1116,8 +1152,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Royal Stalker (druid) Helmet",
+    "name": "Royal Stalker Helmet",
     "src": "icons/helmet/helment-36.png",
     "monetaryValue": 58,
     "value": 25,
@@ -1147,8 +1184,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Auric Shadow (monk) Helmet",
+    "name": "Auric Shadow Helmet",
     "src": "icons/helmet/helment-37.png",
     "monetaryValue": 53,
     "value": 28,
@@ -1178,8 +1216,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Sunforged Invoker (mage) Helmet",
+    "name": "Sunforged Invoker Helmet",
     "src": "icons/helmet/helment-38.png",
     "monetaryValue": 46,
     "value": 22,
@@ -1209,8 +1248,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Royal Seer (priest) Helmet",
+    "name": "Royal Seer Helmet",
     "src": "icons/helmet/helment-39.png",
     "monetaryValue": 44,
     "value": 24,
@@ -1240,8 +1280,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "uncommon",
-    "name": "Royal Invoker (warlock) Helmet",
+    "name": "Royal Invoker Helmet",
     "src": "icons/helmet/helment-40.png",
     "monetaryValue": 43,
     "value": 22,
@@ -1271,8 +1312,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Platinum Bastion (warrior) Helmet",
+    "name": "Platinum Bastion Helmet",
     "src": "icons/helmet/helment-41.png",
     "monetaryValue": 113,
     "value": 53,
@@ -1302,8 +1344,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Highborne Bastion (paladin) Helmet",
+    "name": "Highborne Bastion Helmet",
     "src": "icons/helmet/helment-42.png",
     "monetaryValue": 111,
     "value": 50,
@@ -1333,8 +1376,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Oathbound Sentinel (tank) Helmet",
+    "name": "Oathbound Sentinel Helmet",
     "src": "icons/helmet/helment-43.png",
     "monetaryValue": 113,
     "value": 48,
@@ -1364,8 +1408,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Platinum Skirmisher (hunter) Helmet",
+    "name": "Platinum Skirmisher Helmet",
     "src": "icons/helmet/helment-44.png",
     "monetaryValue": 103,
     "value": 41,
@@ -1395,8 +1440,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Highborne Ranger (shaman) Helmet",
+    "name": "Highborne Ranger Helmet",
     "src": "icons/helmet/helment-45.png",
     "monetaryValue": 94,
     "value": 41,
@@ -1426,8 +1472,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Platinum Sabatuer (rogue) Helmet",
+    "name": "Platinum Sabatuer Helmet",
     "src": "icons/helmet/helment-46.png",
     "monetaryValue": 82,
     "value": 34,
@@ -1457,8 +1504,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Platinum Cutpurse (druid) Helmet",
+    "name": "Platinum Cutpurse Helmet",
     "src": "icons/helmet/helment-47.png",
     "monetaryValue": 82,
     "value": 40,
@@ -1488,8 +1536,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Sanctified Stalker (monk) Helmet",
+    "name": "Sanctified Stalker Helmet",
     "src": "icons/helmet/helment-48.png",
     "monetaryValue": 85,
     "value": 34,
@@ -1519,8 +1568,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Platinum Invoker (mage) Helmet",
+    "name": "Platinum Invoker Helmet",
     "src": "icons/helmet/helment-49.png",
     "monetaryValue": 63,
     "value": 30,
@@ -1550,8 +1600,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Platinum Arcanist (priest) Helmet",
+    "name": "Platinum Arcanist Helmet",
     "src": "icons/helmet/helment-50.png",
     "monetaryValue": 62,
     "value": 29,
@@ -1581,8 +1632,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Highborne Seer (warlock) Helmet",
+    "name": "Highborne Seer Helmet",
     "src": "icons/helmet/helment-51.png",
     "monetaryValue": 66,
     "value": 33,
@@ -1612,8 +1664,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Grovekeeper Juggernaut (warrior) Helmet",
+    "name": "Grovekeeper Juggernaut Helmet",
     "src": "icons/helmet/helment-52.png",
     "monetaryValue": 170,
     "value": 67,
@@ -1643,8 +1696,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Wildheart Bulwark (paladin) Helmet",
+    "name": "Wildheart Bulwark Helmet",
     "src": "icons/helmet/helment-53.png",
     "monetaryValue": 170,
     "value": 65,
@@ -1674,8 +1728,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Grovekeeper Bulwark (tank) Helmet",
+    "name": "Grovekeeper Bulwark Helmet",
     "src": "icons/helmet/helment-54.png",
     "monetaryValue": 167,
     "value": 72,
@@ -1705,8 +1760,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Wildheart Skirmisher (hunter) Helmet",
+    "name": "Wildheart Skirmisher Helmet",
     "src": "icons/helmet/helment-55.png",
     "monetaryValue": 133,
     "value": 60,
@@ -1736,8 +1792,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Wildheart Pathfinder (shaman) Helmet",
+    "name": "Wildheart Pathfinder Helmet",
     "src": "icons/helmet/helment-56.png",
     "monetaryValue": 144,
     "value": 58,
@@ -1767,8 +1824,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Grovekeeper Shadow (rogue) Helmet",
+    "name": "Grovekeeper Shadow Helmet",
     "src": "icons/helmet/helment-57.png",
     "monetaryValue": 113,
     "value": 53,
@@ -1798,8 +1856,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Wildheart Sabatuer (druid) Helmet",
+    "name": "Wildheart Sabatuer Helmet",
     "src": "icons/helmet/helment-58.png",
     "monetaryValue": 116,
     "value": 49,
@@ -1829,8 +1888,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Wildheart Stalker (monk) Helmet",
+    "name": "Wildheart Stalker Helmet",
     "src": "icons/helmet/helment-59.png",
     "monetaryValue": 117,
     "value": 52,
@@ -1860,8 +1920,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Grovekeeper Sage (mage) Helmet",
+    "name": "Grovekeeper Sage Helmet",
     "src": "icons/helmet/helment-60.png",
     "monetaryValue": 94,
     "value": 43,
@@ -1891,8 +1952,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Grovekeeper Invoker (priest) Helmet",
+    "name": "Grovekeeper Invoker Helmet",
     "src": "icons/helmet/helment-61.png",
     "monetaryValue": 96,
     "value": 46,
@@ -1922,8 +1984,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "rare",
-    "name": "Wildheart Seer (warlock) Helmet",
+    "name": "Wildheart Seer Helmet",
     "src": "icons/helmet/helment-62.png",
     "monetaryValue": 96,
     "value": 41,
@@ -1953,8 +2016,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Aether Bastion (warrior) Helmet",
+    "name": "Aether Bastion Helmet",
     "src": "icons/helmet/helment-63.png",
     "monetaryValue": 227,
     "value": 92,
@@ -1984,8 +2048,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Aether Bulwark (paladin) Helmet",
+    "name": "Aether Bulwark Helmet",
     "src": "icons/helmet/helment-64.png",
     "monetaryValue": 222,
     "value": 91,
@@ -2015,8 +2080,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Glacier Bastion (tank) Helmet",
+    "name": "Glacier Bastion Helmet",
     "src": "icons/helmet/helment-65.png",
     "monetaryValue": 227,
     "value": 96,
@@ -2046,8 +2112,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Aether Ranger (hunter) Helmet",
+    "name": "Aether Ranger Helmet",
     "src": "icons/helmet/helment-66.png",
     "monetaryValue": 186,
     "value": 84,
@@ -2077,8 +2144,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Diamond Skirmisher (shaman) Helmet",
+    "name": "Diamond Skirmisher Helmet",
     "src": "icons/helmet/helment-67.png",
     "monetaryValue": 184,
     "value": 82,
@@ -2108,8 +2176,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Aether Cutpurse (rogue) Helmet",
+    "name": "Aether Cutpurse Helmet",
     "src": "icons/helmet/helment-68.png",
     "monetaryValue": 157,
     "value": 71,
@@ -2139,8 +2208,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Glacier Sabatuer (druid) Helmet",
+    "name": "Glacier Sabatuer Helmet",
     "src": "icons/helmet/helment-69.png",
     "monetaryValue": 153,
     "value": 69,
@@ -2170,8 +2240,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Diamond Sabatuer (monk) Helmet",
+    "name": "Diamond Sabatuer Helmet",
     "src": "icons/helmet/helment-70.png",
     "monetaryValue": 162,
     "value": 74,
@@ -2201,8 +2272,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Aether Arcanist (mage) Helmet",
+    "name": "Aether Arcanist Helmet",
     "src": "icons/helmet/helment-71.png",
     "monetaryValue": 126,
     "value": 56,
@@ -2232,8 +2304,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Diamond Invoker (priest) Helmet",
+    "name": "Diamond Invoker Helmet",
     "src": "icons/helmet/helment-72.png",
     "monetaryValue": 125,
     "value": 58,
@@ -2263,8 +2336,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Starbound Invoker (warlock) Helmet",
+    "name": "Starbound Invoker Helmet",
     "src": "icons/helmet/helment-73.png",
     "monetaryValue": 127,
     "value": 57,
@@ -2294,8 +2368,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Masterwork Bastion (warrior) Helmet",
+    "name": "Masterwork Bastion Helmet",
     "src": "icons/helmet/helment-74.png",
     "monetaryValue": 326,
     "value": 138,
@@ -2325,8 +2400,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Eternal Sentinel (paladin) Helmet",
+    "name": "Eternal Sentinel Helmet",
     "src": "icons/helmet/helment-75.png",
     "monetaryValue": 315,
     "value": 137,
@@ -2356,8 +2432,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Eclipsed Juggernaut (tank) Helmet",
+    "name": "Eclipsed Juggernaut Helmet",
     "src": "icons/helmet/helment-76.png",
     "monetaryValue": 316,
     "value": 131,
@@ -2387,8 +2464,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Masterwork Skirmisher (hunter) Helmet",
+    "name": "Masterwork Skirmisher Helmet",
     "src": "icons/helmet/helment-77.png",
     "monetaryValue": 278,
     "value": 117,
@@ -2418,8 +2496,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Masterwork Ranger (shaman) Helmet",
+    "name": "Masterwork Ranger Helmet",
     "src": "icons/helmet/helment-78.png",
     "monetaryValue": 270,
     "value": 114,
@@ -2449,8 +2528,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Eternal Cutpurse (rogue) Helmet",
+    "name": "Eternal Cutpurse Helmet",
     "src": "icons/helmet/helment-79.png",
     "monetaryValue": 224,
     "value": 101,
@@ -2480,8 +2560,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Archon Stalker (druid) Helmet",
+    "name": "Archon Stalker Helmet",
     "src": "icons/helmet/helment-80.png",
     "monetaryValue": 225,
     "value": 100,
@@ -2511,8 +2592,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Masterwork Cutpurse (monk) Helmet",
+    "name": "Masterwork Cutpurse Helmet",
     "src": "icons/helmet/helment-81.png",
     "monetaryValue": 226,
     "value": 101,
@@ -2542,8 +2624,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Masterwork Sage (mage) Helmet",
+    "name": "Masterwork Sage Helmet",
     "src": "icons/helmet/helment-82.png",
     "monetaryValue": 181,
     "value": 83,
@@ -2573,8 +2656,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Eternal Invoker (priest) Helmet",
+    "name": "Eternal Invoker Helmet",
     "src": "icons/helmet/helment-83.png",
     "monetaryValue": 183,
     "value": 81,
@@ -2604,8 +2688,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "epic",
-    "name": "Eternal Sage (warlock) Helmet",
+    "name": "Eternal Sage Helmet",
     "src": "icons/helmet/helment-84.png",
     "monetaryValue": 176,
     "value": 84,
@@ -2635,8 +2720,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Dreadlord Sentinel (warrior) Helmet",
+    "name": "Dreadlord Sentinel Helmet",
     "src": "icons/helmet/helment-85.png",
     "monetaryValue": 490,
     "value": 204,
@@ -2666,8 +2752,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Dreadlord Bastion (paladin) Helmet",
+    "name": "Dreadlord Bastion Helmet",
     "src": "icons/helmet/helment-86.png",
     "monetaryValue": 481,
     "value": 206,
@@ -2697,8 +2784,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Infernal Bastion (tank) Helmet",
+    "name": "Infernal Bastion Helmet",
     "src": "icons/helmet/helment-87.png",
     "monetaryValue": 490,
     "value": 207,
@@ -2728,8 +2816,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Infernal Pathfinder (hunter) Helmet",
+    "name": "Infernal Pathfinder Helmet",
     "src": "icons/helmet/helment-88.png",
     "monetaryValue": 411,
     "value": 176,
@@ -2759,8 +2848,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Dreadlord Skirmisher (shaman) Helmet",
+    "name": "Dreadlord Skirmisher Helmet",
     "src": "icons/helmet/helment-89.png",
     "monetaryValue": 414,
     "value": 178,
@@ -2790,8 +2880,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Dreadlord Cutpurse (rogue) Helmet",
+    "name": "Dreadlord Cutpurse Helmet",
     "src": "icons/helmet/helment-90.png",
     "monetaryValue": 342,
     "value": 152,
@@ -2821,8 +2912,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Abyssal Cutpurse (druid) Helmet",
+    "name": "Abyssal Cutpurse Helmet",
     "src": "icons/helmet/helment-91.png",
     "monetaryValue": 341,
     "value": 152,
@@ -2852,8 +2944,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Demonic Sabatuer (monk) Helmet",
+    "name": "Demonic Sabatuer Helmet",
     "src": "icons/helmet/helment-92.png",
     "monetaryValue": 340,
     "value": 151,
@@ -2883,8 +2976,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Abyssal Invoker (mage) Helmet",
+    "name": "Abyssal Invoker Helmet",
     "src": "icons/helmet/helment-93.png",
     "monetaryValue": 278,
     "value": 126,
@@ -2914,8 +3008,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Infernal Arcanist (priest) Helmet",
+    "name": "Infernal Arcanist Helmet",
     "src": "icons/helmet/helment-94.png",
     "monetaryValue": 271,
     "value": 130,
@@ -2945,8 +3040,9 @@
     }
   },
   {
+    "slot": "helmet",
     "quality": "legendary",
-    "name": "Dreadlord Seer (warlock) Helmet",
+    "name": "Dreadlord Seer Helmet",
     "src": "icons/helmet/helment-95.png",
     "monetaryValue": 274,
     "value": 129,

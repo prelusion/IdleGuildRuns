@@ -2,6 +2,7 @@ import type { Accessory, Gear, Item, Weapon } from "./types.ts";
 
 type Props = {
   item: Item | Gear | Weapon | Accessory;
+  customClass: string;
 };
 
 const QUALITY = {
@@ -114,14 +115,14 @@ function StatRow({
   );
 }
 
-export default function ItemPreview({ item }: Props) {
+export default function ItemPreview({ item, customClass }: Props) {
   const q = QUALITY[item.quality];
 
   const primary = hasStats(item) ? item.primaryStats : null;
   const secondary = hasStats(item) ? item.secondaryStats : null;
 
   return (
-    <div className="w-[360px] absolute top-10 right-90 z-50">
+    <div className={"w-[230px] top-10 right-90 z-50 "+ customClass }>
       {/* Gradient fantasy frame */}
       <div className="relative rounded-2xl p-[2px]">
         {/* Outer gradient ring */}
@@ -135,40 +136,6 @@ export default function ItemPreview({ item }: Props) {
 
         {/* Ornamental “branches” overlay */}
         <div className="pointer-events-none absolute inset-0 rounded-2xl">
-          {/* top-left flourish */}
-          <div
-            className="absolute -left-3 -top-3 h-16 w-16 rotate-12 rounded-[28px] border border-white/15"
-            style={{
-              boxShadow: `0 0 18px ${q.glow}`,
-              background:
-                "radial-gradient(circle at 30% 30%, rgba(255,255,255,0.12), rgba(0,0,0,0) 60%)",
-            }}
-          />
-          <div
-            className="absolute left-6 top-2 h-10 w-10 -rotate-12 rounded-[22px] border border-white/10"
-            style={{
-              background:
-                "radial-gradient(circle at 40% 35%, rgba(255,255,255,0.10), rgba(0,0,0,0) 65%)",
-            }}
-          />
-
-          {/* bottom-right flourish */}
-          <div
-            className="absolute -bottom-3 -right-3 h-16 w-16 -rotate-12 rounded-[28px] border border-white/15"
-            style={{
-              boxShadow: `0 0 18px ${q.glow}`,
-              background:
-                "radial-gradient(circle at 70% 70%, rgba(255,255,255,0.12), rgba(0,0,0,0) 60%)",
-            }}
-          />
-          <div
-            className="absolute bottom-2 right-6 h-10 w-10 rotate-12 rounded-[22px] border border-white/10"
-            style={{
-              background:
-                "radial-gradient(circle at 60% 65%, rgba(255,255,255,0.10), rgba(0,0,0,0) 65%)",
-            }}
-          />
-
           {/* subtle inner filigree lines */}
           <div className="absolute inset-2 rounded-xl border border-white/10" />
         </div>
@@ -199,108 +166,111 @@ export default function ItemPreview({ item }: Props) {
                   <span className="text-white/60 text-xl select-none">✦</span>
                 </div>
               </div>
-
-              {/* Quality pill */}
-              <div className="absolute -bottom-2 left-1/2 -translate-x-1/2 rounded-full px-2 py-[2px] text-[10px] font-semibold tracking-wide text-white/90 bg-black/60 border border-white/10">
-                {q.label}
-              </div>
             </div>
 
             <div className="min-w-0 flex-1">
-              <div className="flex items-start justify-between gap-2">
-                <div className="min-w-0">
-                  <div
-                    className={[
-                      "text-base font-semibold leading-5 truncate",
-                      q.accent,
-                    ].join(" ")}
-                  >
-                    {item.name}
-                  </div>
-                  <div className={["text-xs mt-1", q.muted].join(" ")}>
-                    Value:{" "}
-                    <span className="font-semibold text-white/90 tabular-nums">
-                      {item.value}
-                    </span>{" "}
-                    · Gold:{" "}
-                    <span className="font-semibold text-white/90 tabular-nums">
-                      {item.monetaryValue}
-                    </span>
-                  </div>
-                </div>
+              <div className="shrink-0 flex justify-end">
+                <span
+                  className="inline-flex items-center rounded-full px-2 py-1 text-[10px] font-semibold bg-white/5 border border-white/10 text-white/75">
 
-                {/* Type badge (weapon/gear) */}
-                <div className="shrink-0">
-                  <span className="inline-flex items-center rounded-full px-2 py-1 text-[10px] font-semibold bg-white/5 border border-white/10 text-white/75">
+                {q.label}
+                </span>
+                <span
+                  className="inline-flex items-center rounded-full px-2 py-1 text-[10px] font-semibold bg-white/5 border border-white/10 text-white/75">
                     {isWeapon(item)
                       ? "Weapon"
                       : isGear(item)
                         ? `${item.type.toUpperCase()} • ${item.rank.toUpperCase()}`
                         : "Item"}
                   </span>
+              </div>
+              <div className="flex items-start justify-between gap-2">
+                <div className="min-w-0">
+                  <div
+                    className={[
+                      "text-base font-semibold leading-5 ",
+                      q.accent,
+                    ].join(" ")}
+                  >
+                    {item.name}
+                  </div>
                 </div>
               </div>
 
-              {/* Weapon/Gear extra line */}
-              {(isWeapon(item) || isGear(item)) && (
-                <div className="mt-2 text-[11px] text-white/70 flex flex-wrap gap-x-3 gap-y-1">
-                  {isWeapon(item) && (
-                    <>
+            </div>
+          </div>
+
+          <div className={"flex flex-col w-full items-center justify-center"}>
+
+            <div className={["text-xs mt-1", q.muted].join(" ")}>
+              Value:{" "}
+              <span className="font-semibold text-white/90 tabular-nums">
+                      {item.value}
+                    </span>{" "}
+              · Gold:{" "}
+              <span className="font-semibold text-white/90 tabular-nums">
+                      {item.monetaryValue}
+                    </span>
+            </div>
+            {/* Weapon/Gear extra line */}
+            {(isWeapon(item) || isGear(item)) && (
+              <div className="mt-2 text-[11px] text-white/70 flex flex-wrap gap-x-3 gap-y-1  items-center justify-center">
+                {isWeapon(item) && (
+                  <>
                       <span className="tabular-nums">
                         DMG:{" "}
                         <span className="text-white/90 font-semibold">
                           {item.fromDamage}-{item.toDamage}
                         </span>
                       </span>
-                      <span className="tabular-nums">
+                    <span className="tabular-nums">
                         Parry:{" "}
-                        <span className="text-white/90 font-semibold">
+                      <span className="text-white/90 font-semibold">
                           {item.parry}
                         </span>
                       </span>
-                      <span className="tabular-nums">
+                    <span className="tabular-nums">
                         Block:{" "}
-                        <span className="text-white/90 font-semibold">
+                      <span className="text-white/90 font-semibold">
                           {item.block}
                         </span>
                       </span>
-                      <span className="tabular-nums">
+                    <span className="tabular-nums">
                         Range:{" "}
-                        <span className="text-white/90 font-semibold">
+                      <span className="text-white/90 font-semibold">
                           {item.range}
                         </span>
                       </span>
-                      <span className="tabular-nums">
+                    <span className="tabular-nums">
                         Armor:{" "}
-                        <span className="text-white/90 font-semibold">
+                      <span className="text-white/90 font-semibold">
                           {item.armor}
                         </span>
                       </span>
-                    </>
-                  )}
+                  </>
+                )}
 
-                  {isGear(item) && (
-                    <span className="tabular-nums">
+                {isGear(item) && (
+                  <span className="tabular-nums">
                       Armor:{" "}
-                      <span className="text-white/90 font-semibold">
+                    <span className="text-white/90 font-semibold">
                         {item.armor}
                       </span>
                     </span>
-                  )}
-                </div>
-              )}
-            </div>
+                )}
+              </div>
+            )}
           </div>
 
           {/* Stats: primary under icon, secondary to the right */}
           {primary && secondary && (
-            <div className="mt-4 grid grid-cols-[72px_1fr] gap-3">
+            <div className="grid grid-rows-1 gap-3">
               {/* Spacer column aligns under icon */}
               <div className="pt-2">
                 <div className="text-[10px] uppercase tracking-wider text-white/50 mb-2">
                   Primary
                 </div>
-                <div className="space-y-1 rounded-xl bg-white/5 border border-white/10 p-2">
+                <div className="space-y-1 rounded-xl bg-white/5 border border-white/10 p-2 grid grid-cols-2 gap-x-4">
                   {(Object.keys(PRIMARY_LABELS) as Array<keyof typeof PRIMARY_LABELS>).map(
                     (k) => (
                       <StatRow key={k} label={PRIMARY_LABELS[k]} value={primary[k]} />
@@ -309,7 +279,7 @@ export default function ItemPreview({ item }: Props) {
                 </div>
               </div>
 
-              <div className="pt-2">
+              <div className="">
                 <div className="flex items-baseline justify-between">
                   <div className="text-[10px] uppercase tracking-wider text-white/50 mb-2">
                     Secondary
@@ -330,7 +300,7 @@ export default function ItemPreview({ item }: Props) {
                     <StatRow label={SECONDARY_LABELS.crit} value={secondary.crit} />
                   </div>
 
-                  <div className="space-y-1 rounded-xl bg-white/5 border border-white/10 p-2">
+                  <div className="space-y-[.5] rounded-xl bg-white/5 border border-white/10 p-2">
                     <StatRow label="Fire" value={secondary.resistances.fireResistance} />
                     <StatRow label="Frost" value={secondary.resistances.frostResistance} />
                     <StatRow label="Arcane" value={secondary.resistances.arcaneResistance} />

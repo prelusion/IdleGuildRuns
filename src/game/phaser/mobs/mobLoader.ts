@@ -13,6 +13,7 @@ export function animKey(mobId: string, layerId: string, action: string, dir: Dir
 }
 
 export function preloadMob(scene: Phaser.Scene, def: MobDef) {
+
   for (const [action, adef] of Object.entries(def.actions)) {
     for (const layer of def.layers) {
       const filename = adef.files[layer.id];
@@ -21,10 +22,13 @@ export function preloadMob(scene: Phaser.Scene, def: MobDef) {
       const tKey = textureKey(def.id, layer.id, action);
       const url = `/${def.basePath}/${adef.folder}/${filename}`;
 
-      scene.load.spritesheet(tKey, url, {
-        frameWidth: def.frameW,
-        frameHeight: def.frameH,
-      });
+
+      if (!scene.textures.exists(tKey)) {
+        scene.load.spritesheet(tKey, url, {
+          frameWidth: def.frameW,
+          frameHeight: def.frameH,
+        });
+      }
     }
   }
 }
@@ -40,7 +44,7 @@ export function createMobAnimations(scene: Phaser.Scene, def: MobDef) {
       const tex = scene.textures.get(tKey);
       const src = tex.getSourceImage() as HTMLImageElement | HTMLCanvasElement;
 
-      // ✅ Auto-detect columns from the actual sheet width
+      //  Auto-detect columns from the actual sheet width
       const detectedCols = Math.floor(src.width / def.frameW);
       const cols = adef.cols ?? (detectedCols > 0 ? detectedCols : def.cols);
 

@@ -1,7 +1,8 @@
 [
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Town Guard Bulwark (warrior) Feet",
+    "name": "Town Guard Bulwark Feet",
     "src": "icons/feet/feet-0.png",
     "monetaryValue": 25,
     "value": 12,
@@ -31,8 +32,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Apprentice Bastion (paladin) Feet",
+    "name": "Apprentice Bastion Feet",
     "src": "icons/feet/feet-1.png",
     "monetaryValue": 36,
     "value": 14,
@@ -62,8 +64,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Apprentice Sentinel (tank) Feet",
+    "name": "Apprentice Sentinel Feet",
     "src": "icons/feet/feet-2.png",
     "monetaryValue": 32,
     "value": 10,
@@ -93,8 +96,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Militia Pathfinder (hunter) Feet",
+    "name": "Militia Pathfinder Feet",
     "src": "icons/feet/feet-3.png",
     "monetaryValue": 29,
     "value": 11,
@@ -124,8 +128,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Town Guard Huntsman (shaman) Feet",
+    "name": "Town Guard Huntsman Feet",
     "src": "icons/feet/feet-4.png",
     "monetaryValue": 21,
     "value": 16,
@@ -155,8 +160,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Militia Sabatuer (rogue) Feet",
+    "name": "Militia Sabatuer Feet",
     "src": "icons/feet/feet-5.png",
     "monetaryValue": 18,
     "value": 12,
@@ -186,8 +192,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Militia Cutpurse (druid) Feet",
+    "name": "Militia Cutpurse Feet",
     "src": "icons/feet/feet-6.png",
     "monetaryValue": 19,
     "value": 10,
@@ -217,8 +224,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Militia Sage (mage) Feet",
+    "name": "Militia Sage Feet",
     "src": "icons/feet/feet-7.png",
     "monetaryValue": 17,
     "value": 7,
@@ -248,8 +256,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Town Guard Invoker (priest) Feet",
+    "name": "Town Guard Invoker Feet",
     "src": "icons/feet/feet-8.png",
     "monetaryValue": 18,
     "value": 9,
@@ -279,8 +288,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Rusted Seer (warlock) Feet",
+    "name": "Rusted Seer Feet",
     "src": "icons/feet/feet-9.png",
     "monetaryValue": 15,
     "value": 8,
@@ -310,8 +320,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "City Watch Bulwark (warrior) Feet",
+    "name": "City Watch Bulwark Feet",
     "src": "icons/feet/feet-10.png",
     "monetaryValue": 48,
     "value": 21,
@@ -341,8 +352,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Squire Juggernaut (paladin) Feet",
+    "name": "Squire Juggernaut Feet",
     "src": "icons/feet/feet-11.png",
     "monetaryValue": 42,
     "value": 14,
@@ -372,8 +384,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "City Watch Bastion (tank) Feet",
+    "name": "City Watch Bastion Feet",
     "src": "icons/feet/feet-12.png",
     "monetaryValue": 47,
     "value": 16,
@@ -403,8 +416,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Squire Ranger (hunter) Feet",
+    "name": "Squire Ranger Feet",
     "src": "icons/feet/feet-13.png",
     "monetaryValue": 37,
     "value": 12,
@@ -434,8 +448,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Squire Ranger (shaman) Feet",
+    "name": "Squire Ranger Feet",
     "src": "icons/feet/feet-14.png",
     "monetaryValue": 37,
     "value": 14,
@@ -465,8 +480,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Tempered Cutpurse (rogue) Feet",
+    "name": "Tempered Cutpurse Feet",
     "src": "icons/feet/feet-15.png",
     "monetaryValue": 31,
     "value": 11,
@@ -496,8 +512,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "City Watch Shadow (druid) Feet",
+    "name": "City Watch Shadow Feet",
     "src": "icons/feet/feet-16.png",
     "monetaryValue": 26,
     "value": 12,
@@ -527,8 +544,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Tempered Sage (mage) Feet",
+    "name": "Tempered Sage Feet",
     "src": "icons/feet/feet-17.png",
     "monetaryValue": 24,
     "value": 12,
@@ -558,8 +576,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Squire Invoker (priest) Feet",
+    "name": "Squire Invoker Feet",
     "src": "icons/feet/feet-18.png",
     "monetaryValue": 24,
     "value": 10,
@@ -589,8 +608,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "common",
-    "name": "Squire Invoker (warlock) Feet",
+    "name": "Squire Invoker Feet",
     "src": "icons/feet/feet-19.png",
     "monetaryValue": 22,
     "value": 13,
@@ -620,8 +640,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Ironwall Bulwark (warrior) Feet",
+    "name": "Ironwall Bulwark Feet",
     "src": "icons/feet/feet-20.png",
     "monetaryValue": 48,
     "value": 20,
@@ -651,8 +672,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Ironwall Sentinel (paladin) Feet",
+    "name": "Ironwall Sentinel Feet",
     "src": "icons/feet/feet-21.png",
     "monetaryValue": 57,
     "value": 27,
@@ -682,8 +704,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Warden Sentinel (tank) Feet",
+    "name": "Warden Sentinel Feet",
     "src": "icons/feet/feet-22.png",
     "monetaryValue": 51,
     "value": 21,
@@ -713,8 +736,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Ironwall Pathfinder (hunter) Feet",
+    "name": "Ironwall Pathfinder Feet",
     "src": "icons/feet/feet-23.png",
     "monetaryValue": 50,
     "value": 24,
@@ -744,8 +768,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Steel Pathfinder (shaman) Feet",
+    "name": "Steel Pathfinder Feet",
     "src": "icons/feet/feet-24.png",
     "monetaryValue": 50,
     "value": 20,
@@ -775,8 +800,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Forge Shadow (rogue) Feet",
+    "name": "Forge Shadow Feet",
     "src": "icons/feet/feet-25.png",
     "monetaryValue": 39,
     "value": 18,
@@ -806,8 +832,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Forge Cutpurse (druid) Feet",
+    "name": "Forge Cutpurse Feet",
     "src": "icons/feet/feet-26.png",
     "monetaryValue": 44,
     "value": 15,
@@ -837,8 +864,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Forge Seer (mage) Feet",
+    "name": "Forge Seer Feet",
     "src": "icons/feet/feet-27.png",
     "monetaryValue": 31,
     "value": 13,
@@ -868,8 +896,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Forge Seer (priest) Feet",
+    "name": "Forge Seer Feet",
     "src": "icons/feet/feet-28.png",
     "monetaryValue": 34,
     "value": 16,
@@ -899,8 +928,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Ironwall Seer (warlock) Feet",
+    "name": "Ironwall Seer Feet",
     "src": "icons/feet/feet-29.png",
     "monetaryValue": 29,
     "value": 17,
@@ -930,8 +960,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Sunforged Sentinel (warrior) Feet",
+    "name": "Sunforged Sentinel Feet",
     "src": "icons/feet/feet-30.png",
     "monetaryValue": 74,
     "value": 34,
@@ -961,8 +992,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Royal Bulwark (paladin) Feet",
+    "name": "Royal Bulwark Feet",
     "src": "icons/feet/feet-31.png",
     "monetaryValue": 82,
     "value": 35,
@@ -992,8 +1024,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Auric Bulwark (tank) Feet",
+    "name": "Auric Bulwark Feet",
     "src": "icons/feet/feet-32.png",
     "monetaryValue": 85,
     "value": 30,
@@ -1023,8 +1056,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Royal Huntsman (hunter) Feet",
+    "name": "Royal Huntsman Feet",
     "src": "icons/feet/feet-33.png",
     "monetaryValue": 69,
     "value": 27,
@@ -1054,8 +1088,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Sunforged Ranger (shaman) Feet",
+    "name": "Sunforged Ranger Feet",
     "src": "icons/feet/feet-34.png",
     "monetaryValue": 74,
     "value": 27,
@@ -1085,8 +1120,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Royal Stalker (rogue) Feet",
+    "name": "Royal Stalker Feet",
     "src": "icons/feet/feet-35.png",
     "monetaryValue": 53,
     "value": 27,
@@ -1116,8 +1152,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Royal Stalker (druid) Feet",
+    "name": "Royal Stalker Feet",
     "src": "icons/feet/feet-36.png",
     "monetaryValue": 61,
     "value": 29,
@@ -1147,8 +1184,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Auric Shadow (monk) Feet",
+    "name": "Auric Shadow Feet",
     "src": "icons/feet/feet-37.png",
     "monetaryValue": 53,
     "value": 26,
@@ -1178,8 +1216,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Sunforged Invoker (mage) Feet",
+    "name": "Sunforged Invoker Feet",
     "src": "icons/feet/feet-38.png",
     "monetaryValue": 43,
     "value": 24,
@@ -1209,8 +1248,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Royal Seer (priest) Feet",
+    "name": "Royal Seer Feet",
     "src": "icons/feet/feet-39.png",
     "monetaryValue": 44,
     "value": 23,
@@ -1240,8 +1280,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "uncommon",
-    "name": "Royal Invoker (warlock) Feet",
+    "name": "Royal Invoker Feet",
     "src": "icons/feet/feet-40.png",
     "monetaryValue": 41,
     "value": 20,
@@ -1271,8 +1312,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Platinum Bastion (warrior) Feet",
+    "name": "Platinum Bastion Feet",
     "src": "icons/feet/feet-41.png",
     "monetaryValue": 118,
     "value": 46,
@@ -1302,8 +1344,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Highborne Bastion (paladin) Feet",
+    "name": "Highborne Bastion Feet",
     "src": "icons/feet/feet-42.png",
     "monetaryValue": 113,
     "value": 52,
@@ -1333,8 +1376,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Oathbound Sentinel (tank) Feet",
+    "name": "Oathbound Sentinel Feet",
     "src": "icons/feet/feet-43.png",
     "monetaryValue": 111,
     "value": 53,
@@ -1364,8 +1408,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Platinum Skirmisher (hunter) Feet",
+    "name": "Platinum Skirmisher Feet",
     "src": "icons/feet/feet-44.png",
     "monetaryValue": 93,
     "value": 45,
@@ -1395,8 +1440,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Highborne Ranger (shaman) Feet",
+    "name": "Highborne Ranger Feet",
     "src": "icons/feet/feet-45.png",
     "monetaryValue": 103,
     "value": 41,
@@ -1426,8 +1472,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Platinum Sabatuer (rogue) Feet",
+    "name": "Platinum Sabatuer Feet",
     "src": "icons/feet/feet-46.png",
     "monetaryValue": 82,
     "value": 40,
@@ -1457,8 +1504,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Platinum Cutpurse (druid) Feet",
+    "name": "Platinum Cutpurse Feet",
     "src": "icons/feet/feet-47.png",
     "monetaryValue": 80,
     "value": 36,
@@ -1488,8 +1536,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Sanctified Stalker (monk) Feet",
+    "name": "Sanctified Stalker Feet",
     "src": "icons/feet/feet-48.png",
     "monetaryValue": 78,
     "value": 34,
@@ -1519,8 +1568,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Platinum Invoker (mage) Feet",
+    "name": "Platinum Invoker Feet",
     "src": "icons/feet/feet-49.png",
     "monetaryValue": 66,
     "value": 32,
@@ -1550,8 +1600,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Platinum Arcanist (priest) Feet",
+    "name": "Platinum Arcanist Feet",
     "src": "icons/feet/feet-50.png",
     "monetaryValue": 65,
     "value": 31,
@@ -1581,8 +1632,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Highborne Seer (warlock) Feet",
+    "name": "Highborne Seer Feet",
     "src": "icons/feet/feet-51.png",
     "monetaryValue": 65,
     "value": 29,
@@ -1612,8 +1664,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Grovekeeper Juggernaut (warrior) Feet",
+    "name": "Grovekeeper Juggernaut Feet",
     "src": "icons/feet/feet-52.png",
     "monetaryValue": 166,
     "value": 65,
@@ -1643,8 +1696,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Wildheart Bulwark (paladin) Feet",
+    "name": "Wildheart Bulwark Feet",
     "src": "icons/feet/feet-53.png",
     "monetaryValue": 160,
     "value": 71,
@@ -1674,8 +1728,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Grovekeeper Bulwark (tank) Feet",
+    "name": "Grovekeeper Bulwark Feet",
     "src": "icons/feet/feet-54.png",
     "monetaryValue": 168,
     "value": 67,
@@ -1705,8 +1760,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Wildheart Skirmisher (hunter) Feet",
+    "name": "Wildheart Skirmisher Feet",
     "src": "icons/feet/feet-55.png",
     "monetaryValue": 137,
     "value": 60,
@@ -1736,8 +1792,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Wildheart Pathfinder (shaman) Feet",
+    "name": "Wildheart Pathfinder Feet",
     "src": "icons/feet/feet-56.png",
     "monetaryValue": 145,
     "value": 62,
@@ -1767,8 +1824,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Grovekeeper Shadow (rogue) Feet",
+    "name": "Grovekeeper Shadow Feet",
     "src": "icons/feet/feet-57.png",
     "monetaryValue": 111,
     "value": 49,
@@ -1798,8 +1856,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Wildheart Sabatuer (druid) Feet",
+    "name": "Wildheart Sabatuer Feet",
     "src": "icons/feet/feet-58.png",
     "monetaryValue": 114,
     "value": 52,
@@ -1829,8 +1888,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Wildheart Stalker (monk) Feet",
+    "name": "Wildheart Stalker Feet",
     "src": "icons/feet/feet-59.png",
     "monetaryValue": 117,
     "value": 50,
@@ -1860,8 +1920,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Grovekeeper Sage (mage) Feet",
+    "name": "Grovekeeper Sage Feet",
     "src": "icons/feet/feet-60.png",
     "monetaryValue": 91,
     "value": 44,
@@ -1891,8 +1952,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Grovekeeper Invoker (priest) Feet",
+    "name": "Grovekeeper Invoker Feet",
     "src": "icons/feet/feet-61.png",
     "monetaryValue": 88,
     "value": 45,
@@ -1922,8 +1984,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "rare",
-    "name": "Wildheart Seer (warlock) Feet",
+    "name": "Wildheart Seer Feet",
     "src": "icons/feet/feet-62.png",
     "monetaryValue": 91,
     "value": 42,
@@ -1953,8 +2016,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Aether Bastion (warrior) Feet",
+    "name": "Aether Bastion Feet",
     "src": "icons/feet/feet-63.png",
     "monetaryValue": 217,
     "value": 97,
@@ -1984,8 +2048,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Aether Bulwark (paladin) Feet",
+    "name": "Aether Bulwark Feet",
     "src": "icons/feet/feet-64.png",
     "monetaryValue": 223,
     "value": 92,
@@ -2015,8 +2080,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Glacier Bastion (tank) Feet",
+    "name": "Glacier Bastion Feet",
     "src": "icons/feet/feet-65.png",
     "monetaryValue": 219,
     "value": 98,
@@ -2046,8 +2112,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Aether Ranger (hunter) Feet",
+    "name": "Aether Ranger Feet",
     "src": "icons/feet/feet-66.png",
     "monetaryValue": 193,
     "value": 82,
@@ -2077,8 +2144,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Diamond Skirmisher (shaman) Feet",
+    "name": "Diamond Skirmisher Feet",
     "src": "icons/feet/feet-67.png",
     "monetaryValue": 191,
     "value": 85,
@@ -2108,8 +2176,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Aether Cutpurse (rogue) Feet",
+    "name": "Aether Cutpurse Feet",
     "src": "icons/feet/feet-68.png",
     "monetaryValue": 163,
     "value": 74,
@@ -2139,8 +2208,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Glacier Sabatuer (druid) Feet",
+    "name": "Glacier Sabatuer Feet",
     "src": "icons/feet/feet-69.png",
     "monetaryValue": 161,
     "value": 69,
@@ -2170,8 +2240,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Diamond Sabatuer (monk) Feet",
+    "name": "Diamond Sabatuer Feet",
     "src": "icons/feet/feet-70.png",
     "monetaryValue": 158,
     "value": 69,
@@ -2201,8 +2272,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Aether Arcanist (mage) Feet",
+    "name": "Aether Arcanist Feet",
     "src": "icons/feet/feet-71.png",
     "monetaryValue": 124,
     "value": 56,
@@ -2232,8 +2304,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Diamond Invoker (priest) Feet",
+    "name": "Diamond Invoker Feet",
     "src": "icons/feet/feet-72.png",
     "monetaryValue": 126,
     "value": 57,
@@ -2263,8 +2336,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Starbound Invoker (warlock) Feet",
+    "name": "Starbound Invoker Feet",
     "src": "icons/feet/feet-73.png",
     "monetaryValue": 124,
     "value": 59,
@@ -2294,8 +2368,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Masterwork Bastion (warrior) Feet",
+    "name": "Masterwork Bastion Feet",
     "src": "icons/feet/feet-74.png",
     "monetaryValue": 312,
     "value": 136,
@@ -2325,8 +2400,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Eternal Sentinel (paladin) Feet",
+    "name": "Eternal Sentinel Feet",
     "src": "icons/feet/feet-75.png",
     "monetaryValue": 313,
     "value": 131,
@@ -2356,8 +2432,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Eclipsed Juggernaut (tank) Feet",
+    "name": "Eclipsed Juggernaut Feet",
     "src": "icons/feet/feet-76.png",
     "monetaryValue": 324,
     "value": 136,
@@ -2387,8 +2464,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Masterwork Skirmisher (hunter) Feet",
+    "name": "Masterwork Skirmisher Feet",
     "src": "icons/feet/feet-77.png",
     "monetaryValue": 268,
     "value": 114,
@@ -2418,8 +2496,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Masterwork Ranger (shaman) Feet",
+    "name": "Masterwork Ranger Feet",
     "src": "icons/feet/feet-78.png",
     "monetaryValue": 271,
     "value": 119,
@@ -2449,8 +2528,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Eternal Cutpurse (rogue) Feet",
+    "name": "Eternal Cutpurse Feet",
     "src": "icons/feet/feet-79.png",
     "monetaryValue": 228,
     "value": 99,
@@ -2480,8 +2560,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Archon Stalker (druid) Feet",
+    "name": "Archon Stalker Feet",
     "src": "icons/feet/feet-80.png",
     "monetaryValue": 228,
     "value": 101,
@@ -2511,8 +2592,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Masterwork Cutpurse (monk) Feet",
+    "name": "Masterwork Cutpurse Feet",
     "src": "icons/feet/feet-81.png",
     "monetaryValue": 223,
     "value": 101,
@@ -2542,8 +2624,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Masterwork Sage (mage) Feet",
+    "name": "Masterwork Sage Feet",
     "src": "icons/feet/feet-82.png",
     "monetaryValue": 177,
     "value": 81,
@@ -2573,8 +2656,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Eternal Invoker (priest) Feet",
+    "name": "Eternal Invoker Feet",
     "src": "icons/feet/feet-83.png",
     "monetaryValue": 182,
     "value": 86,
@@ -2604,8 +2688,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "epic",
-    "name": "Eternal Sage (warlock) Feet",
+    "name": "Eternal Sage Feet",
     "src": "icons/feet/feet-84.png",
     "monetaryValue": 181,
     "value": 81,
@@ -2635,8 +2720,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Dreadlord Sentinel (warrior) Feet",
+    "name": "Dreadlord Sentinel Feet",
     "src": "icons/feet/feet-85.png",
     "monetaryValue": 494,
     "value": 202,
@@ -2666,8 +2752,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Dreadlord Bastion (paladin) Feet",
+    "name": "Dreadlord Bastion Feet",
     "src": "icons/feet/feet-86.png",
     "monetaryValue": 491,
     "value": 206,
@@ -2697,8 +2784,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Infernal Bastion (tank) Feet",
+    "name": "Infernal Bastion Feet",
     "src": "icons/feet/feet-87.png",
     "monetaryValue": 484,
     "value": 200,
@@ -2728,8 +2816,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Infernal Pathfinder (hunter) Feet",
+    "name": "Infernal Pathfinder Feet",
     "src": "icons/feet/feet-88.png",
     "monetaryValue": 421,
     "value": 179,
@@ -2759,8 +2848,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Dreadlord Skirmisher (shaman) Feet",
+    "name": "Dreadlord Skirmisher Feet",
     "src": "icons/feet/feet-89.png",
     "monetaryValue": 415,
     "value": 182,
@@ -2790,8 +2880,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Dreadlord Cutpurse (rogue) Feet",
+    "name": "Dreadlord Cutpurse Feet",
     "src": "icons/feet/feet-90.png",
     "monetaryValue": 345,
     "value": 154,
@@ -2821,8 +2912,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Abyssal Cutpurse (druid) Feet",
+    "name": "Abyssal Cutpurse Feet",
     "src": "icons/feet/feet-91.png",
     "monetaryValue": 342,
     "value": 155,
@@ -2852,8 +2944,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Demonic Sabatuer (monk) Feet",
+    "name": "Demonic Sabatuer Feet",
     "src": "icons/feet/feet-92.png",
     "monetaryValue": 350,
     "value": 154,
@@ -2883,8 +2976,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Abyssal Invoker (mage) Feet",
+    "name": "Abyssal Invoker Feet",
     "src": "icons/feet/feet-93.png",
     "monetaryValue": 274,
     "value": 130,
@@ -2914,8 +3008,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Infernal Arcanist (priest) Feet",
+    "name": "Infernal Arcanist Feet",
     "src": "icons/feet/feet-94.png",
     "monetaryValue": 277,
     "value": 130,
@@ -2945,8 +3040,9 @@
     }
   },
   {
+    "slot": "feet",
     "quality": "legendary",
-    "name": "Dreadlord Seer (warlock) Feet",
+    "name": "Dreadlord Seer Feet",
     "src": "icons/feet/feet-95.png",
     "monetaryValue": 278,
     "value": 125,

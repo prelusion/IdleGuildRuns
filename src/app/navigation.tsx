@@ -40,8 +40,6 @@ export default function Navigation() {
     const goTown = () => goToScene("town");
 
     const goHell = () => {
-      // Deploy party if we have one
-      if (partyToDeployId) sendPartyToScene(partyToDeployId, "hell");
       goToScene("hell");
     };
 

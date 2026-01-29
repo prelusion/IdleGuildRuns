@@ -1,60 +1,43 @@
+import type {EquipmentSlot, EquipSlot, ItemLike} from "../app/types.ts";
+
 export type InstanceType = "TOWN" | "OPEN_WORLD" | "DUNGEON" | "RAID" | "GATHERER";
 
 export type SceneId =
   | "town"
   | "hell"; // add more as you create scenes
 
-export type GuildMemberId = string;
-export type PartyId = string;
-
-export type GearSlot = "weapon" | "armor" | "trinket";
-
-export type GearItem = {
-  id: string;
-  name: string;
-  slot: GearSlot;
-  stats: Partial<{
-    maxHp: number;
-    damage: number;
-    attackCooldownMs: number;
-    attackRange: number;
-    walkSpeed: number;
-    runSpeed: number;
-    aggroRange: number;
-  }>;
-};
-
 export type MemberRole = "adventurer" | "worker";
 
+export type EquippedItem = {
+  slot: EquipSlot;
+  item: ItemLike;
+};
+
 export type GuildMember = {
-  id: GuildMemberId;
+  id: string;
   name: string;
   role: MemberRole;
 
-  // visuals: which UnitDef to use when spawning in Phaser
-  unitDefId: string; // e.g. "lizardman1", later "hero_knight1", etc.
+  unitDefId: string;
 
-  // assignment
-  sceneId: SceneId;         // where they currently are
-  partyId: PartyId | null;  // which party they’re in (if any)
+  sceneId: SceneId;
+  partyId: string | null;
 
-  // progression
   level: number;
-  gear: Partial<Record<GearSlot, GearItem>>;
 
-  // persistent combat state
   hp: number;
   maxHp: number;
 
-  // death handling
-  deadAtMs: number | null; // if dead in combat
+  deadAtMs: number | null
+
+  gear: Partial<Record<EquipmentSlot, ItemLike>>;
 };
 
 export type Party = {
-  id: PartyId;
+  id: string;
   name: string;
-  memberIds: GuildMemberId[];
-  sceneId: SceneId; // where this party is currently deployed
+  memberIds: string[];
+  sceneId: SceneId;
 };
 
 export type SceneMeta = {

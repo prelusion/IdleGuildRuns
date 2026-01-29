@@ -1,5 +1,6 @@
 [
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Wayfarer Codex",
     "src": "icons/tome/tomes-0.png",
@@ -35,6 +36,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Town Guard Tome",
     "src": "icons/tome/tomes-1.png",
@@ -70,6 +72,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Rusted Grimoire",
     "src": "icons/tome/tomes-2.png",
@@ -105,6 +108,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Moonlit Spellbook",
     "src": "icons/tome/tomes-3.png",
@@ -140,6 +144,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Tempered Grimoire",
     "src": "icons/tome/tomes-4.png",
@@ -175,6 +180,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Windworn Tome",
     "src": "icons/tome/tomes-5.png",
@@ -210,6 +216,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Warden's Grimoire",
     "src": "icons/tome/tomes-6.png",
@@ -245,6 +252,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Warden's Spellbook",
     "src": "icons/tome/tomes-7.png",
@@ -280,6 +288,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Warden's Spellbook",
     "src": "icons/tome/tomes-8.png",
@@ -315,6 +324,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Auric Tome",
     "src": "icons/tome/tomes-9.png",
@@ -350,6 +360,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Royal Tome",
     "src": "icons/tome/tomes-10.png",
@@ -385,6 +396,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Gilded Grimoire",
     "src": "icons/tome/tomes-11.png",
@@ -420,6 +432,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Highborne Spellbook",
     "src": "icons/tome/tomes-12.png",
@@ -455,6 +468,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Platinum Tome",
     "src": "icons/tome/tomes-13.png",
@@ -490,6 +504,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Platinum Spellbook",
     "src": "icons/tome/tomes-14.png",
@@ -525,6 +540,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Emerald Tome",
     "src": "icons/tome/tomes-15.png",
@@ -560,6 +576,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Verdant Spellbook",
     "src": "icons/tome/tomes-16.png",
@@ -595,6 +612,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Verdant Codex",
     "src": "icons/tome/tomes-17.png",
@@ -630,6 +648,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Starbound Spellbook",
     "src": "icons/tome/tomes-18.png",
@@ -665,6 +684,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Starbound Spellbook",
     "src": "icons/tome/tomes-19.png",
@@ -700,6 +720,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Aether Tome",
     "src": "icons/tome/tomes-20.png",
@@ -735,6 +756,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Eclipsed Tome",
     "src": "icons/tome/tomes-21.png",
@@ -770,6 +792,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Archon Spellbook",
     "src": "icons/tome/tomes-22.png",
@@ -805,6 +828,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Eternal Grimoire",
     "src": "icons/tome/tomes-23.png",
@@ -840,6 +864,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Infernal Spellbook",
     "src": "icons/tome/tomes-24.png",
@@ -875,6 +900,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Abyssal Tome",
     "src": "icons/tome/tomes-25.png",
@@ -910,6 +936,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Demonic Codex",
     "src": "icons/tome/tomes-26.png",
@@ -945,6 +972,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Rusted Tome",
     "src": "icons/tome/tomes-27.png",
@@ -980,6 +1008,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Windworn Spellbook",
     "src": "icons/tome/tomes-28.png",
@@ -1015,6 +1044,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Warden's Grimoire",
     "src": "icons/tome/tomes-29.png",
@@ -1050,6 +1080,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Auric Codex",
     "src": "icons/tome/tomes-30.png",
@@ -1085,6 +1116,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Highborne Codex",
     "src": "icons/tome/tomes-31.png",
@@ -1120,6 +1152,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Verdant Codex",
     "src": "icons/tome/tomes-32.png",
@@ -1155,6 +1188,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Aether Tome",
     "src": "icons/tome/tomes-33.png",
@@ -1190,6 +1224,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Eclipsed Grimoire",
     "src": "icons/tome/tomes-34.png",
@@ -1225,6 +1260,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Abyssal Codex",
     "src": "icons/tome/tomes-35.png",
@@ -1260,6 +1296,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Town Guard Tome",
     "src": "icons/tome/tomes-36.png",
@@ -1295,6 +1332,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "City Watch Codex",
     "src": "icons/tome/tomes-37.png",
@@ -1330,6 +1368,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Ironwall Codex",
     "src": "icons/tome/tomes-38.png",
@@ -1365,6 +1404,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Sunforged Codex",
     "src": "icons/tome/tomes-39.png",
@@ -1400,6 +1440,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Platinum Spellbook",
     "src": "icons/tome/tomes-40.png",
@@ -1435,6 +1476,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Emerald Tome",
     "src": "icons/tome/tomes-41.png",
@@ -1470,6 +1512,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Glacier Spellbook",
     "src": "icons/tome/tomes-42.png",
@@ -1505,6 +1548,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Eclipsed Grimoire",
     "src": "icons/tome/tomes-43.png",
@@ -1540,6 +1584,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Infernal Grimoire",
     "src": "icons/tome/tomes-44.png",
@@ -1575,6 +1620,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Rusted Codex",
     "src": "icons/tome/tomes-45.png",
@@ -1610,6 +1656,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Windworn Grimoire",
     "src": "icons/tome/tomes-46.png",
@@ -1645,6 +1692,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Steel Tome",
     "src": "icons/tome/tomes-47.png",
@@ -1680,6 +1728,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Royal Codex",
     "src": "icons/tome/tomes-48.png",
@@ -1715,6 +1764,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Oathbound Grimoire",
     "src": "icons/tome/tomes-49.png",
@@ -1750,6 +1800,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Grovekeeper Codex",
     "src": "icons/tome/tomes-50.png",
@@ -1785,6 +1836,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Aether Codex",
     "src": "icons/tome/tomes-51.png",
@@ -1820,6 +1872,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Eternal Tome",
     "src": "icons/tome/tomes-52.png",
@@ -1855,6 +1908,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Demonic Grimoire",
     "src": "icons/tome/tomes-53.png",
@@ -1890,6 +1944,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Rusted Grimoire",
     "src": "icons/tome/tomes-54.png",
@@ -1925,6 +1980,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "City Watch Codex",
     "src": "icons/tome/tomes-55.png",
@@ -1960,6 +2016,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Forge-Bound Tome",
     "src": "icons/tome/tomes-56.png",
@@ -1995,6 +2052,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Auric Spellbook",
     "src": "icons/tome/tomes-57.png",
@@ -2030,6 +2088,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Sanctified Tome",
     "src": "icons/tome/tomes-58.png",
@@ -2065,6 +2124,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Grovekeeper Spellbook",
     "src": "icons/tome/tomes-59.png",
@@ -2100,6 +2160,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Starbound Tome",
     "src": "icons/tome/tomes-60.png",
@@ -2135,6 +2196,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Eternal Spellbook",
     "src": "icons/tome/tomes-61.png",
@@ -2170,6 +2232,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Dreadlord Grimoire",
     "src": "icons/tome/tomes-62.png",
@@ -2205,6 +2268,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Old Road Spellbook",
     "src": "icons/tome/tomes-63.png",
@@ -2240,6 +2304,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "City Watch Tome",
     "src": "icons/tome/tomes-64.png",
@@ -2275,6 +2340,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Forge-Bound Grimoire",
     "src": "icons/tome/tomes-65.png",
@@ -2310,6 +2376,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Royal Spellbook",
     "src": "icons/tome/tomes-66.png",
@@ -2345,6 +2412,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Oathbound Spellbook",
     "src": "icons/tome/tomes-67.png",
@@ -2380,6 +2448,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Verdant Codex",
     "src": "icons/tome/tomes-68.png",
@@ -2415,6 +2484,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Diamond Spellbook",
     "src": "icons/tome/tomes-69.png",
@@ -2450,6 +2520,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Eclipsed Tome",
     "src": "icons/tome/tomes-70.png",
@@ -2485,6 +2556,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Infernal Codex",
     "src": "icons/tome/tomes-71.png",
@@ -2520,6 +2592,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Town Guard Grimoire",
     "src": "icons/tome/tomes-72.png",
@@ -2555,6 +2628,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "City Watch Grimoire",
     "src": "icons/tome/tomes-73.png",
@@ -2590,6 +2664,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Steel Spellbook",
     "src": "icons/tome/tomes-74.png",
@@ -2625,6 +2700,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Sunforged Tome",
     "src": "icons/tome/tomes-75.png",
@@ -2660,6 +2736,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Highborne Spellbook",
     "src": "icons/tome/tomes-76.png",
@@ -2695,6 +2772,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Verdant Codex",
     "src": "icons/tome/tomes-77.png",
@@ -2730,6 +2808,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Aether Spellbook",
     "src": "icons/tome/tomes-78.png",
@@ -2765,6 +2844,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Archon Spellbook",
     "src": "icons/tome/tomes-79.png",
@@ -2800,6 +2880,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Demonic Codex",
     "src": "icons/tome/tomes-80.png",
@@ -2835,6 +2916,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Rusted Tome",
     "src": "icons/tome/tomes-81.png",
@@ -2870,6 +2952,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Moonlit Spellbook",
     "src": "icons/tome/tomes-82.png",
@@ -2905,6 +2988,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Ironwall Grimoire",
     "src": "icons/tome/tomes-83.png",
@@ -2940,6 +3024,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Auric Tome",
     "src": "icons/tome/tomes-84.png",
@@ -2975,6 +3060,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Oathbound Codex",
     "src": "icons/tome/tomes-85.png",
@@ -3010,6 +3096,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Grovekeeper Spellbook",
     "src": "icons/tome/tomes-86.png",
@@ -3045,6 +3132,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Aether Spellbook",
     "src": "icons/tome/tomes-87.png",
@@ -3080,6 +3168,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "epic",
     "name": "Eclipsed Tome",
     "src": "icons/tome/tomes-88.png",
@@ -3115,6 +3204,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "legendary",
     "name": "Demonic Tome",
     "src": "icons/tome/tomes-89.png",
@@ -3150,6 +3240,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "Town Guard Tome",
     "src": "icons/tome/tomes-90.png",
@@ -3185,6 +3276,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "common",
     "name": "City Watch Codex",
     "src": "icons/tome/tomes-91.png",
@@ -3220,6 +3312,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Ironwall Codex",
     "src": "icons/tome/tomes-92.png",
@@ -3255,6 +3348,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "uncommon",
     "name": "Royal Grimoire",
     "src": "icons/tome/tomes-93.png",
@@ -3290,6 +3384,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Oathbound Tome",
     "src": "icons/tome/tomes-94.png",
@@ -3325,6 +3420,7 @@
     }
   },
   {
+    "slot": "tome",
     "quality": "rare",
     "name": "Emerald Tome",
     "src": "icons/tome/tomes-95.png",

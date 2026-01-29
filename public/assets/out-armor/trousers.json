@@ -1,7 +1,8 @@
 [
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Town Guard Bulwark (warrior) Trousers",
+    "name": "Town Guard Bulwark Trousers",
     "src": "icons/trousers/trousers-0.png",
     "monetaryValue": 33,
     "value": 18,
@@ -31,8 +32,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Apprentice Bastion (paladin) Trousers",
+    "name": "Apprentice Bastion Trousers",
     "src": "icons/trousers/trousers-1.png",
     "monetaryValue": 36,
     "value": 18,
@@ -62,8 +64,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Apprentice Sentinel (tank) Trousers",
+    "name": "Apprentice Sentinel Trousers",
     "src": "icons/trousers/trousers-2.png",
     "monetaryValue": 26,
     "value": 18,
@@ -93,8 +96,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Militia Pathfinder (hunter) Trousers",
+    "name": "Militia Pathfinder Trousers",
     "src": "icons/trousers/trousers-3.png",
     "monetaryValue": 32,
     "value": 12,
@@ -124,8 +128,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Town Guard Huntsman (shaman) Trousers",
+    "name": "Town Guard Huntsman Trousers",
     "src": "icons/trousers/trousers-4.png",
     "monetaryValue": 28,
     "value": 14,
@@ -155,8 +160,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Militia Sabatuer (rogue) Trousers",
+    "name": "Militia Sabatuer Trousers",
     "src": "icons/trousers/trousers-5.png",
     "monetaryValue": 21,
     "value": 13,
@@ -186,8 +192,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Militia Cutpurse (druid) Trousers",
+    "name": "Militia Cutpurse Trousers",
     "src": "icons/trousers/trousers-6.png",
     "monetaryValue": 26,
     "value": 14,
@@ -217,8 +224,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Militia Sage (mage) Trousers",
+    "name": "Militia Sage Trousers",
     "src": "icons/trousers/trousers-7.png",
     "monetaryValue": 14,
     "value": 8,
@@ -248,8 +256,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Town Guard Invoker (priest) Trousers",
+    "name": "Town Guard Invoker Trousers",
     "src": "icons/trousers/trousers-8.png",
     "monetaryValue": 20,
     "value": 6,
@@ -279,8 +288,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Rusted Seer (warlock) Trousers",
+    "name": "Rusted Seer Trousers",
     "src": "icons/trousers/trousers-9.png",
     "monetaryValue": 21,
     "value": 10,
@@ -310,8 +320,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "City Watch Bulwark (warrior) Trousers",
+    "name": "City Watch Bulwark Trousers",
     "src": "icons/trousers/trousers-10.png",
     "monetaryValue": 37,
     "value": 18,
@@ -341,8 +352,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Squire Juggernaut (paladin) Trousers",
+    "name": "Squire Juggernaut Trousers",
     "src": "icons/trousers/trousers-11.png",
     "monetaryValue": 35,
     "value": 18,
@@ -372,8 +384,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "City Watch Bastion (tank) Trousers",
+    "name": "City Watch Bastion Trousers",
     "src": "icons/trousers/trousers-12.png",
     "monetaryValue": 44,
     "value": 19,
@@ -403,8 +416,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Squire Ranger (hunter) Trousers",
+    "name": "Squire Ranger Trousers",
     "src": "icons/trousers/trousers-13.png",
     "monetaryValue": 41,
     "value": 16,
@@ -434,8 +448,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Squire Ranger (shaman) Trousers",
+    "name": "Squire Ranger Trousers",
     "src": "icons/trousers/trousers-14.png",
     "monetaryValue": 38,
     "value": 18,
@@ -465,8 +480,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Tempered Cutpurse (rogue) Trousers",
+    "name": "Tempered Cutpurse Trousers",
     "src": "icons/trousers/trousers-15.png",
     "monetaryValue": 25,
     "value": 17,
@@ -496,8 +512,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "City Watch Shadow (druid) Trousers",
+    "name": "City Watch Shadow Trousers",
     "src": "icons/trousers/trousers-16.png",
     "monetaryValue": 25,
     "value": 16,
@@ -527,8 +544,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Tempered Sage (mage) Trousers",
+    "name": "Tempered Sage Trousers",
     "src": "icons/trousers/trousers-17.png",
     "monetaryValue": 23,
     "value": 9,
@@ -558,8 +576,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Squire Invoker (priest) Trousers",
+    "name": "Squire Invoker Trousers",
     "src": "icons/trousers/trousers-18.png",
     "monetaryValue": 22,
     "value": 9,
@@ -589,8 +608,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "common",
-    "name": "Squire Invoker (warlock) Trousers",
+    "name": "Squire Invoker Trousers",
     "src": "icons/trousers/trousers-19.png",
     "monetaryValue": 23,
     "value": 13,
@@ -620,8 +640,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Ironwall Bulwark (warrior) Trousers",
+    "name": "Ironwall Bulwark Trousers",
     "src": "icons/trousers/trousers-20.png",
     "monetaryValue": 49,
     "value": 27,
@@ -651,8 +672,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Ironwall Sentinel (paladin) Trousers",
+    "name": "Ironwall Sentinel Trousers",
     "src": "icons/trousers/trousers-21.png",
     "monetaryValue": 56,
     "value": 24,
@@ -682,8 +704,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Warden Sentinel (tank) Trousers",
+    "name": "Warden Sentinel Trousers",
     "src": "icons/trousers/trousers-22.png",
     "monetaryValue": 56,
     "value": 26,
@@ -713,8 +736,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Ironwall Pathfinder (hunter) Trousers",
+    "name": "Ironwall Pathfinder Trousers",
     "src": "icons/trousers/trousers-23.png",
     "monetaryValue": 43,
     "value": 23,
@@ -744,8 +768,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Steel Pathfinder (shaman) Trousers",
+    "name": "Steel Pathfinder Trousers",
     "src": "icons/trousers/trousers-24.png",
     "monetaryValue": 48,
     "value": 25,
@@ -775,8 +800,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Forge Shadow (rogue) Trousers",
+    "name": "Forge Shadow Trousers",
     "src": "icons/trousers/trousers-25.png",
     "monetaryValue": 40,
     "value": 15,
@@ -806,8 +832,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Forge Cutpurse (druid) Trousers",
+    "name": "Forge Cutpurse Trousers",
     "src": "icons/trousers/trousers-26.png",
     "monetaryValue": 39,
     "value": 15,
@@ -837,8 +864,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Forge Seer (mage) Trousers",
+    "name": "Forge Seer Trousers",
     "src": "icons/trousers/trousers-27.png",
     "monetaryValue": 35,
     "value": 16,
@@ -868,8 +896,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Forge Seer (priest) Trousers",
+    "name": "Forge Seer Trousers",
     "src": "icons/trousers/trousers-28.png",
     "monetaryValue": 34,
     "value": 17,
@@ -899,8 +928,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Ironwall Seer (warlock) Trousers",
+    "name": "Ironwall Seer Trousers",
     "src": "icons/trousers/trousers-29.png",
     "monetaryValue": 30,
     "value": 17,
@@ -930,8 +960,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Sunforged Sentinel (warrior) Trousers",
+    "name": "Sunforged Sentinel Trousers",
     "src": "icons/trousers/trousers-30.png",
     "monetaryValue": 84,
     "value": 34,
@@ -961,8 +992,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Royal Bulwark (paladin) Trousers",
+    "name": "Royal Bulwark Trousers",
     "src": "icons/trousers/trousers-31.png",
     "monetaryValue": 74,
     "value": 31,
@@ -992,8 +1024,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Auric Bulwark (tank) Trousers",
+    "name": "Auric Bulwark Trousers",
     "src": "icons/trousers/trousers-32.png",
     "monetaryValue": 78,
     "value": 33,
@@ -1023,8 +1056,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Royal Huntsman (hunter) Trousers",
+    "name": "Royal Huntsman Trousers",
     "src": "icons/trousers/trousers-33.png",
     "monetaryValue": 65,
     "value": 32,
@@ -1054,8 +1088,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Sunforged Ranger (shaman) Trousers",
+    "name": "Sunforged Ranger Trousers",
     "src": "icons/trousers/trousers-34.png",
     "monetaryValue": 66,
     "value": 29,
@@ -1085,8 +1120,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Royal Stalker (rogue) Trousers",
+    "name": "Royal Stalker Trousers",
     "src": "icons/trousers/trousers-35.png",
     "monetaryValue": 54,
     "value": 25,
@@ -1116,8 +1152,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Royal Stalker (druid) Trousers",
+    "name": "Royal Stalker Trousers",
     "src": "icons/trousers/trousers-36.png",
     "monetaryValue": 59,
     "value": 29,
@@ -1147,8 +1184,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Auric Shadow (monk) Trousers",
+    "name": "Auric Shadow Trousers",
     "src": "icons/trousers/trousers-37.png",
     "monetaryValue": 54,
     "value": 24,
@@ -1178,8 +1216,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Sunforged Invoker (mage) Trousers",
+    "name": "Sunforged Invoker Trousers",
     "src": "icons/trousers/trousers-38.png",
     "monetaryValue": 44,
     "value": 22,
@@ -1209,8 +1248,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Royal Seer (priest) Trousers",
+    "name": "Royal Seer Trousers",
     "src": "icons/trousers/trousers-39.png",
     "monetaryValue": 49,
     "value": 21,
@@ -1240,8 +1280,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "uncommon",
-    "name": "Royal Invoker (warlock) Trousers",
+    "name": "Royal Invoker Trousers",
     "src": "icons/trousers/trousers-40.png",
     "monetaryValue": 48,
     "value": 21,
@@ -1271,8 +1312,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Platinum Bastion (warrior) Trousers",
+    "name": "Platinum Bastion Trousers",
     "src": "icons/trousers/trousers-41.png",
     "monetaryValue": 122,
     "value": 48,
@@ -1302,8 +1344,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Highborne Bastion (paladin) Trousers",
+    "name": "Highborne Bastion Trousers",
     "src": "icons/trousers/trousers-42.png",
     "monetaryValue": 112,
     "value": 45,
@@ -1333,8 +1376,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Oathbound Sentinel (tank) Trousers",
+    "name": "Oathbound Sentinel Trousers",
     "src": "icons/trousers/trousers-43.png",
     "monetaryValue": 111,
     "value": 47,
@@ -1364,8 +1408,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Platinum Skirmisher (hunter) Trousers",
+    "name": "Platinum Skirmisher Trousers",
     "src": "icons/trousers/trousers-44.png",
     "monetaryValue": 99,
     "value": 40,
@@ -1395,8 +1440,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Highborne Ranger (shaman) Trousers",
+    "name": "Highborne Ranger Trousers",
     "src": "icons/trousers/trousers-45.png",
     "monetaryValue": 93,
     "value": 41,
@@ -1426,8 +1472,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Platinum Sabatuer (rogue) Trousers",
+    "name": "Platinum Sabatuer Trousers",
     "src": "icons/trousers/trousers-46.png",
     "monetaryValue": 78,
     "value": 40,
@@ -1457,8 +1504,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Platinum Cutpurse (druid) Trousers",
+    "name": "Platinum Cutpurse Trousers",
     "src": "icons/trousers/trousers-47.png",
     "monetaryValue": 77,
     "value": 34,
@@ -1488,8 +1536,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Sanctified Stalker (monk) Trousers",
+    "name": "Sanctified Stalker Trousers",
     "src": "icons/trousers/trousers-48.png",
     "monetaryValue": 87,
     "value": 39,
@@ -1519,8 +1568,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Platinum Invoker (mage) Trousers",
+    "name": "Platinum Invoker Trousers",
     "src": "icons/trousers/trousers-49.png",
     "monetaryValue": 66,
     "value": 29,
@@ -1550,8 +1600,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Platinum Arcanist (priest) Trousers",
+    "name": "Platinum Arcanist Trousers",
     "src": "icons/trousers/trousers-50.png",
     "monetaryValue": 65,
     "value": 29,
@@ -1581,8 +1632,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Highborne Seer (warlock) Trousers",
+    "name": "Highborne Seer Trousers",
     "src": "icons/trousers/trousers-51.png",
     "monetaryValue": 64,
     "value": 28,
@@ -1612,8 +1664,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Grovekeeper Juggernaut (warrior) Trousers",
+    "name": "Grovekeeper Juggernaut Trousers",
     "src": "icons/trousers/trousers-52.png",
     "monetaryValue": 158,
     "value": 70,
@@ -1643,8 +1696,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Wildheart Bulwark (paladin) Trousers",
+    "name": "Wildheart Bulwark Trousers",
     "src": "icons/trousers/trousers-53.png",
     "monetaryValue": 166,
     "value": 67,
@@ -1674,8 +1728,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Grovekeeper Bulwark (tank) Trousers",
+    "name": "Grovekeeper Bulwark Trousers",
     "src": "icons/trousers/trousers-54.png",
     "monetaryValue": 159,
     "value": 69,
@@ -1705,8 +1760,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Wildheart Skirmisher (hunter) Trousers",
+    "name": "Wildheart Skirmisher Trousers",
     "src": "icons/trousers/trousers-55.png",
     "monetaryValue": 141,
     "value": 64,
@@ -1736,8 +1792,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Wildheart Pathfinder (shaman) Trousers",
+    "name": "Wildheart Pathfinder Trousers",
     "src": "icons/trousers/trousers-56.png",
     "monetaryValue": 137,
     "value": 64,
@@ -1767,8 +1824,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Grovekeeper Shadow (rogue) Trousers",
+    "name": "Grovekeeper Shadow Trousers",
     "src": "icons/trousers/trousers-57.png",
     "monetaryValue": 118,
     "value": 51,
@@ -1798,8 +1856,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Wildheart Sabatuer (druid) Trousers",
+    "name": "Wildheart Sabatuer Trousers",
     "src": "icons/trousers/trousers-58.png",
     "monetaryValue": 120,
     "value": 55,
@@ -1829,8 +1888,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Wildheart Stalker (monk) Trousers",
+    "name": "Wildheart Stalker Trousers",
     "src": "icons/trousers/trousers-59.png",
     "monetaryValue": 112,
     "value": 53,
@@ -1860,8 +1920,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Grovekeeper Sage (mage) Trousers",
+    "name": "Grovekeeper Sage Trousers",
     "src": "icons/trousers/trousers-60.png",
     "monetaryValue": 93,
     "value": 44,
@@ -1891,8 +1952,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Grovekeeper Invoker (priest) Trousers",
+    "name": "Grovekeeper Invoker Trousers",
     "src": "icons/trousers/trousers-61.png",
     "monetaryValue": 88,
     "value": 45,
@@ -1922,8 +1984,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "rare",
-    "name": "Wildheart Seer (warlock) Trousers",
+    "name": "Wildheart Seer Trousers",
     "src": "icons/trousers/trousers-62.png",
     "monetaryValue": 89,
     "value": 42,
@@ -1953,8 +2016,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Aether Bastion (warrior) Trousers",
+    "name": "Aether Bastion Trousers",
     "src": "icons/trousers/trousers-63.png",
     "monetaryValue": 229,
     "value": 90,
@@ -1984,8 +2048,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Aether Bulwark (paladin) Trousers",
+    "name": "Aether Bulwark Trousers",
     "src": "icons/trousers/trousers-64.png",
     "monetaryValue": 219,
     "value": 96,
@@ -2015,8 +2080,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Glacier Bastion (tank) Trousers",
+    "name": "Glacier Bastion Trousers",
     "src": "icons/trousers/trousers-65.png",
     "monetaryValue": 227,
     "value": 95,
@@ -2046,8 +2112,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Aether Ranger (hunter) Trousers",
+    "name": "Aether Ranger Trousers",
     "src": "icons/trousers/trousers-66.png",
     "monetaryValue": 188,
     "value": 79,
@@ -2077,8 +2144,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Diamond Skirmisher (shaman) Trousers",
+    "name": "Diamond Skirmisher Trousers",
     "src": "icons/trousers/trousers-67.png",
     "monetaryValue": 194,
     "value": 82,
@@ -2108,8 +2176,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Aether Cutpurse (rogue) Trousers",
+    "name": "Aether Cutpurse Trousers",
     "src": "icons/trousers/trousers-68.png",
     "monetaryValue": 161,
     "value": 74,
@@ -2139,8 +2208,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Glacier Sabatuer (druid) Trousers",
+    "name": "Glacier Sabatuer Trousers",
     "src": "icons/trousers/trousers-69.png",
     "monetaryValue": 160,
     "value": 70,
@@ -2170,8 +2240,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Diamond Sabatuer (monk) Trousers",
+    "name": "Diamond Sabatuer Trousers",
     "src": "icons/trousers/trousers-70.png",
     "monetaryValue": 161,
     "value": 69,
@@ -2201,8 +2272,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Aether Arcanist (mage) Trousers",
+    "name": "Aether Arcanist Trousers",
     "src": "icons/trousers/trousers-71.png",
     "monetaryValue": 130,
     "value": 60,
@@ -2232,8 +2304,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Diamond Invoker (priest) Trousers",
+    "name": "Diamond Invoker Trousers",
     "src": "icons/trousers/trousers-72.png",
     "monetaryValue": 126,
     "value": 60,
@@ -2263,8 +2336,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Starbound Invoker (warlock) Trousers",
+    "name": "Starbound Invoker Trousers",
     "src": "icons/trousers/trousers-73.png",
     "monetaryValue": 127,
     "value": 58,
@@ -2294,8 +2368,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Masterwork Bastion (warrior) Trousers",
+    "name": "Masterwork Bastion Trousers",
     "src": "icons/trousers/trousers-74.png",
     "monetaryValue": 320,
     "value": 137,
@@ -2325,8 +2400,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Eternal Sentinel (paladin) Trousers",
+    "name": "Eternal Sentinel Trousers",
     "src": "icons/trousers/trousers-75.png",
     "monetaryValue": 315,
     "value": 130,
@@ -2356,8 +2432,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Eclipsed Juggernaut (tank) Trousers",
+    "name": "Eclipsed Juggernaut Trousers",
     "src": "icons/trousers/trousers-76.png",
     "monetaryValue": 323,
     "value": 137,
@@ -2387,8 +2464,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Masterwork Skirmisher (hunter) Trousers",
+    "name": "Masterwork Skirmisher Trousers",
     "src": "icons/trousers/trousers-77.png",
     "monetaryValue": 277,
     "value": 114,
@@ -2418,8 +2496,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Masterwork Ranger (shaman) Trousers",
+    "name": "Masterwork Ranger Trousers",
     "src": "icons/trousers/trousers-78.png",
     "monetaryValue": 276,
     "value": 116,
@@ -2449,8 +2528,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Eternal Cutpurse (rogue) Trousers",
+    "name": "Eternal Cutpurse Trousers",
     "src": "icons/trousers/trousers-79.png",
     "monetaryValue": 225,
     "value": 98,
@@ -2480,8 +2560,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Archon Stalker (druid) Trousers",
+    "name": "Archon Stalker Trousers",
     "src": "icons/trousers/trousers-80.png",
     "monetaryValue": 229,
     "value": 102,
@@ -2511,8 +2592,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Masterwork Cutpurse (monk) Trousers",
+    "name": "Masterwork Cutpurse Trousers",
     "src": "icons/trousers/trousers-81.png",
     "monetaryValue": 227,
     "value": 98,
@@ -2542,8 +2624,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Masterwork Sage (mage) Trousers",
+    "name": "Masterwork Sage Trousers",
     "src": "icons/trousers/trousers-82.png",
     "monetaryValue": 176,
     "value": 86,
@@ -2573,8 +2656,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Eternal Invoker (priest) Trousers",
+    "name": "Eternal Invoker Trousers",
     "src": "icons/trousers/trousers-83.png",
     "monetaryValue": 179,
     "value": 83,
@@ -2604,8 +2688,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "epic",
-    "name": "Eternal Sage (warlock) Trousers",
+    "name": "Eternal Sage Trousers",
     "src": "icons/trousers/trousers-84.png",
     "monetaryValue": 184,
     "value": 85,
@@ -2635,8 +2720,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Dreadlord Sentinel (warrior) Trousers",
+    "name": "Dreadlord Sentinel Trousers",
     "src": "icons/trousers/trousers-85.png",
     "monetaryValue": 481,
     "value": 204,
@@ -2666,8 +2752,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Dreadlord Bastion (paladin) Trousers",
+    "name": "Dreadlord Bastion Trousers",
     "src": "icons/trousers/trousers-86.png",
     "monetaryValue": 490,
     "value": 200,
@@ -2697,8 +2784,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Infernal Bastion (tank) Trousers",
+    "name": "Infernal Bastion Trousers",
     "src": "icons/trousers/trousers-87.png",
     "monetaryValue": 494,
     "value": 205,
@@ -2728,8 +2816,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Infernal Pathfinder (hunter) Trousers",
+    "name": "Infernal Pathfinder Trousers",
     "src": "icons/trousers/trousers-88.png",
     "monetaryValue": 417,
     "value": 179,
@@ -2759,8 +2848,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Dreadlord Skirmisher (shaman) Trousers",
+    "name": "Dreadlord Skirmisher Trousers",
     "src": "icons/trousers/trousers-89.png",
     "monetaryValue": 417,
     "value": 178,
@@ -2790,8 +2880,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Dreadlord Cutpurse (rogue) Trousers",
+    "name": "Dreadlord Cutpurse Trousers",
     "src": "icons/trousers/trousers-90.png",
     "monetaryValue": 346,
     "value": 156,
@@ -2821,8 +2912,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Abyssal Cutpurse (druid) Trousers",
+    "name": "Abyssal Cutpurse Trousers",
     "src": "icons/trousers/trousers-91.png",
     "monetaryValue": 348,
     "value": 153,
@@ -2852,8 +2944,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Demonic Sabatuer (monk) Trousers",
+    "name": "Demonic Sabatuer Trousers",
     "src": "icons/trousers/trousers-92.png",
     "monetaryValue": 341,
     "value": 150,
@@ -2883,8 +2976,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Abyssal Invoker (mage) Trousers",
+    "name": "Abyssal Invoker Trousers",
     "src": "icons/trousers/trousers-93.png",
     "monetaryValue": 278,
     "value": 130,
@@ -2914,8 +3008,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Infernal Arcanist (priest) Trousers",
+    "name": "Infernal Arcanist Trousers",
     "src": "icons/trousers/trousers-94.png",
     "monetaryValue": 270,
     "value": 128,
@@ -2945,8 +3040,9 @@
     }
   },
   {
+    "slot": "trousers",
     "quality": "legendary",
-    "name": "Dreadlord Seer (warlock) Trousers",
+    "name": "Dreadlord Seer Trousers",
     "src": "icons/trousers/trousers-95.png",
     "monetaryValue": 278,
     "value": 127,

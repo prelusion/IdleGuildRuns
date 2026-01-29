@@ -1,5 +1,5 @@
 import type {Dir4} from "../mobs/mobTypes";
-import type {UnitEntity} from "./UnitEntity";
+import {safePlay, type UnitEntity} from "./UnitEntity";
 
 export type UnitSnapshot = {
   id: string;
@@ -23,7 +23,8 @@ export interface UnitController {
   update(ctx: UnitContext): void;
 }
 
-function dirFromDelta(dx: number, dy: number): Dir4 {
+// controller.ts
+export function dirFromDelta(dx: number, dy: number): Dir4 {
   if (Math.abs(dx) > Math.abs(dy)) return dx < 0 ? "left" : "right";
   return dy < 0 ? "up" : "down";
 }
@@ -49,7 +50,7 @@ function desiredVelocity(self: UnitEntity, tx: number, ty: number, speed: number
   return {x: d.x * speed, y: d.y * speed};
 }
 
-function pickAction(self: UnitEntity, preferred: string[]): string {
+export function pickAction(self: UnitEntity, preferred: string[]): string {
   const actions = self.def.visuals.actions;
   for (const a of preferred) {
     if (actions[a]) return a;
@@ -167,7 +168,7 @@ export class CombatController implements UnitController {
 
     if (!target) {
       this.state = "idle";
-      self.play("idle", self.dir);
+      safePlay(self, "idle", self.dir);
       return;
     }
 
@@ -185,7 +186,7 @@ export class CombatController implements UnitController {
 
       // If we are still inside the attack animation window, keep it playing.
       if (nowMs < this.attackAnimUntil) {
-        self.play(this.attackAction, this.lastAttackDir);
+        safePlay(self, this.attackAction, this.lastAttackDir);
         return;
       }
 
@@ -202,25 +203,25 @@ export class CombatController implements UnitController {
                     : "idle";
 
         // Start attack animation
-        self.play(this.attackAction, this.lastAttackDir);
+        safePlay(self, this.attackAction, this.lastAttackDir);
 
         const animDuration = self.getAnimDurationMs(this.attackAction, this.lastAttackDir);
         const fallback = Math.max(350, self.stats.attackWindupMs);
         const lockMs = animDuration > 0 ? animDuration : fallback;
         this.attackAnimUntil = nowMs + lockMs;
 
-        // ✅ Schedule hit at windup
+        //  Schedule hit at windup
         this.pendingHitAt = nowMs + self.stats.attackWindupMs;
         this.pendingHitTargetId = target.id;
 
-        // ✅ Cooldown gate (this is your "2 seconds nothing" part)
+        //  Cooldown gate (this is your "2 seconds nothing" part)
         this.nextAttackAt = nowMs + self.stats.attackCooldownMs;
 
         return;
       }
 
       // Cooldown not ready: do NOT restart attack. Just face target.
-      self.play("idle", this.lastAttackDir);
+      safePlay(self, "idle", this.lastAttackDir);
       return;
     }
 
@@ -245,7 +246,7 @@ export class CombatController implements UnitController {
 
     if (Math.abs(vel.x) + Math.abs(vel.y) > 0.5) {
       const runAction = pickAction(self, ["run", "walk"]); // some mobs may lack run
-      self.play(runAction, dirFromDelta(vel.x, vel.y));
+      safePlay(self, runAction, dirFromDelta(vel.x, vel.y));
     }
   }
 }
@@ -277,18 +278,18 @@ export class WorkerController implements UnitController {
       const vel = clampMag({x: desired.x + sep.x, y: desired.y + sep.y}, self.stats.runSpeed);
 
       self.setPos(self.x + (vel.x * dtMs) / 1000, self.y + (vel.y * dtMs) / 1000);
-      self.play("run", dirFromDelta(vel.x, vel.y));
+      safePlay(self, "run", dirFromDelta(vel.x, vel.y));
       return;
     }
 
     // no threat: simple idle/wander
     if (nowMs >= this.nextThinkAt) {
       if (Math.random() < 0.6) {
-        self.play("idle", self.dir);
+        safePlay(self, "idle", self.dir);
         this.nextThinkAt = nowMs + randInt(500, 1400);
       } else {
         this.wanderTarget = {x: self.x + randInt(-220, 220), y: self.y + randInt(-220, 220)};
-        self.play("walk", dirFromDelta(this.wanderTarget.x - self.x, this.wanderTarget.y - self.y));
+        safePlay(self, "walk", dirFromDelta(this.wanderTarget.x - self.x, this.wanderTarget.y - self.y));
         this.nextThinkAt = nowMs + randInt(600, 1400);
       }
     }
@@ -299,7 +300,7 @@ export class WorkerController implements UnitController {
     const vel = clampMag({x: desired.x + sep.x, y: desired.y + sep.y}, self.stats.walkSpeed);
 
     self.setPos(self.x + (vel.x * dtMs) / 1000, self.y + (vel.y * dtMs) / 1000);
-    if (Math.abs(vel.x) + Math.abs(vel.y) > 0.5) self.play("walk", dirFromDelta(vel.x, vel.y));
+    if (Math.abs(vel.x) + Math.abs(vel.y) > 0.5) safePlay(self, "walk", dirFromDelta(vel.x, vel.y));
   }
 }
 
