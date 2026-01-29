@@ -2,12 +2,13 @@ import { useEffect, useMemo, useState } from "react";
 import { PhaserViewport } from "../game/ui/PhaserViewport";
 import {useAppStore, useGameStore} from "../state/store";
 import type { SimOutMsg } from "../sim/simTypes";
-import { allSpriteKeys } from "../game/assets/tilesets";
 import Navigation from "./navigation.tsx";
 import Inventory from "./inventory.tsx";
 import Creative from "./creative.tsx";
 import GuildPanel from "./guildPanel.tsx";
 import CharacterView from "./CharacterView.tsx";
+import {mapsLibraryAllKeys, mapsLibraryUrlForKey} from "../game/assets/mapsLibraryManifest.ts";
+
 
 export default function App() {
   const gold = useAppStore((s) => s.gold);
@@ -38,7 +39,7 @@ export default function App() {
   const rotateSelected = useAppStore((s) => s.rotateSelected);
   const exportSceneMapJson = useAppStore((s) => s.exportSceneMapJson);
 
-  const spriteKeys = allSpriteKeys();
+  const spriteKeys = useMemo(() => mapsLibraryAllKeys(), []);
 
   const worker = useMemo(
     () => new Worker(new URL("../sim/sim.worker.ts", import.meta.url), { type: "module" }),
@@ -58,7 +59,6 @@ export default function App() {
     window.addEventListener("keydown", onKeyDown);
     return () => window.removeEventListener("keydown", onKeyDown);
   }, [rotateSelected]);
-
 
   useEffect(() => {
     if (!selectedMember) return;
@@ -246,28 +246,15 @@ export default function App() {
 
             <div className="grid max-h-80 grid-cols-4 gap-1.5 overflow-auto pr-1">
               {spriteKeys.map((k) => {
-                const [setId, x, y] = k.split("_");
-                const src =
-                  setId === "path"
-                    ? `/assets/tiles/path/tile_${x}_${y}.png`
-                    : setId === "nether"
-                      ? `/assets/tiles/nether/tile_${x}_${y}.png`
-                      : `/assets/tiles/grass/tile_${x}_${y}.png`;
+                const src = mapsLibraryUrlForKey(k);
+                if (!src) return null;
 
                 const selected = k === selectedSpriteKey;
 
                 return (
-                  <button
-                    key={k}
-                    onClick={() => setSelectedSpriteKey(k)}
-                    title={k}
-                    className={[
-                      "cursor-pointer rounded-lg p-1.5 text-left",
-                      selected ? "border-2 border-white bg-white/10" : "border border-white/10 bg-white/5",
-                    ].join(" ")}
-                  >
-                    <div className="mb-1 text-[10px] leading-tight opacity-85">{k}</div>
-                    <img src={src} className="w-full [image-rendering:pixelated]"/>
+                  <button key={k} onClick={() => setSelectedSpriteKey(k)} title={k}>
+                    <div className="mb-1 text-[10px] opacity-85">{k}</div>
+                    <img src={src} className="w-full [image-rendering:pixelated]" />
                   </button>
                 );
               })}

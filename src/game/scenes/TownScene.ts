@@ -1,4 +1,3 @@
-import Phaser from "phaser";
 import town from "../phaser/scenes/maps/town.json";
 import type { SceneMap } from "../phaser/scenes/maps/scenes";
 
@@ -23,6 +22,8 @@ export class TownScene extends PartySceneBase {
 
   preload() {
     this.preloadTilesets();
+    this.preloadMapsLibraryForMap(town as SceneMap);
+
     preloadMob(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
     preloadMob(this, MOBS[TypeMobs.GHOST + "1"]);
   }

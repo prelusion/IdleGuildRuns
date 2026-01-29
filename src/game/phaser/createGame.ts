@@ -3,6 +3,7 @@ import type { PlacedTile, SceneMap } from "./scenes/maps/scenes";
 import { TownScene } from "../scenes/TownScene";
 import { HellScene } from "../scenes/HellScene";
 import type { MapSceneBase } from "../scenes/MapSceneBase";
+import type {MapsLibraryManifest} from "../assets/mapsLibrary.ts";
 
 export type SceneKey = "TownScene" | "HellScene";
 
@@ -14,6 +15,7 @@ export type GameBridge = {
 
   setSceneMap: (map: SceneMap) => void;
   placeTile: (tx: number, ty: number, placed: PlacedTile | null, layer: "ground" | "objects") => void;
+  setMapsManifest: (m: MapsLibraryManifest) => void;
 };
 
 function getActiveMapScene(game: Phaser.Game): MapSceneBase | null {
@@ -38,6 +40,7 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
   };
 
   const game = new Phaser.Game(config);
+  let pendingManifest: MapsLibraryManifest | null = null;
 
   let pendingMap: SceneMap | null = null;
   let pendingResize: number | null = initialSize;
@@ -49,6 +52,11 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
   const applyPendingToActive = () => {
     const s = getActiveMapScene(game);
     if (!s) return;
+
+    if (pendingManifest) {
+      (s as any).setMapsManifest?.(pendingManifest);
+      pendingManifest = null;
+    }
 
     if (pendingResize != null) {
       game.scale.resize(pendingResize, pendingResize);
@@ -114,6 +122,11 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
 
     setSceneMap: (map) => {
       pendingMap = map;
+      applyPendingToActive();
+    },
+
+    setMapsManifest: (m) => {
+      pendingManifest = m;
       applyPendingToActive();
     },
 

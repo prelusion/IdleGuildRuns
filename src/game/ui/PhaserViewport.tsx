@@ -127,9 +127,9 @@ export function PhaserViewport(props: {
 
       if (!selectedSpriteKey) return;
 
-      const placed: PlacedTile = { key: selectedSpriteKey, rotation: selectedRotation };
+      // const placed: PlacedTile = { key: selectedSpriteKey, rotation: selectedRotation };
       placeAt(tx, ty);
-      bridgeRef.current?.placeTile(tx, ty, placed, editorLayer);
+      // bridgeRef.current?.placeTile(tx, ty, placed, editorLayer);
     };
 
 
