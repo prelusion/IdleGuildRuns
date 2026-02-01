@@ -1,5 +1,10 @@
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import { useGameStore } from "../state/store";
+import { OPENWORLD_SCENES } from "../game/phaser/scenes/maps/sceneCatalog";
+
+/* =========================
+   Types
+========================= */
 
 type NavItem = {
   name: string;
@@ -18,72 +23,95 @@ type NavSection = {
   topics: NavTopic[];
 };
 
+/* =========================
+   Precomputed scene groups
+========================= */
+
+const PLAINS_SCENES = OPENWORLD_SCENES.filter((s) => s.group === "plains");
+const SNOWY_SCENES = OPENWORLD_SCENES.filter((s) => s.group === "snowyfalls");
+
+/* =========================
+   Component
+========================= */
+
 export default function Navigation() {
   const [navigationOpen, setNavigationOpen] = useState(false);
   const [openTopics, setOpenTopics] = useState<Record<string, boolean>>({});
 
-  const parties = useGameStore((s) => s.parties);
-  const selectedPartyId = useGameStore((s) => s.selectedPartyId);
-
-  const sendPartyToScene = useGameStore((s) => s.sendPartyToScene);
   const goToScene = useGameStore((s) => s.goToScene);
 
-  const toggleTopic = (key: string) => setOpenTopics((prev) => ({ ...prev, [key]: !prev[key] }));
+  const toggleTopic = (key: string) =>
+    setOpenTopics((prev) => ({ ...prev, [key]: !prev[key] }));
 
-  // Choose which party to deploy when clicking "Hell"
-  const partyToDeployId =
-    selectedPartyId ??
-    Object.keys(parties)[0] ??
-    null;
+  /* =========================
+     Navigation actions
+  ========================= */
 
-  const navContent: NavSection[] = useMemo(() => {
-    const goTown = () => goToScene("town");
+  const goTown = () => goToScene("town");
 
-    const goHell = () => {
-      goToScene("hell");
-    };
+  const goHell = () => {
+    goToScene("hell");
+    // If you later want deployment logic:
+    // if (partyToDeployId) sendPartyToScene(partyToDeployId, "hell");
+  };
 
-    return [
-      {
-        title: "Town",
-        onClick: goTown,
-        topics: [
-          { name: "Guild", onClick: () => console.log("Guild clicked") },
-          { name: "Blacksmith", onClick: () => console.log("Blacksmith clicked") },
-        ],
-      },
-      {
-        title: "Adventures",
-        topics: [
-          {
-            name: "Open World",
-            items: [
-              { name: "Hell", onClick: goHell },
-              { name: "Forest", onClick: () => console.log("Open Forest scene") },
-            ],
-          },
-          { name: "Dungeons", onClick: () => console.log("Dungeons clicked") },
-          { name: "Raids", onClick: () => console.log("Raids clicked") },
-        ],
-      },
-      {
-        title: "Guild Members",
-        topics: [
-          { name: "Member List", onClick: () => console.log("Member List clicked") },
-          { name: "Recruit", onClick: () => console.log("Recruit clicked") },
-          { name: "Roles", onClick: () => console.log("Roles clicked") },
-        ],
-      },
-      {
-        title: "Quests",
-        topics: [
-          { name: "Quest 1", onClick: () => console.log("Quest 1 clicked") },
-          { name: "Quest 2", onClick: () => console.log("Quest 2 clicked") },
-          { name: "Quest 3", onClick: () => console.log("Quest 3 clicked") },
-        ],
-      },
-    ];
-  }, [goToScene, sendPartyToScene, partyToDeployId]);
+  /* =========================
+     Navigation structure
+  ========================= */
+
+  const navContent: NavSection[] = [
+    {
+      title: "Town",
+      onClick: goTown,
+      topics: [
+        { name: "Guild", onClick: () => console.log("Guild clicked") },
+        { name: "Blacksmith", onClick: () => console.log("Blacksmith clicked") },
+      ],
+    },
+    {
+      title: "Adventures",
+      topics: [
+        {
+          name: "Open World",
+          items: [
+            { name: "Hell", onClick: goHell },
+
+            ...PLAINS_SCENES.map((s) => ({
+              name: `Plains: ${s.name}`,
+              onClick: () => goToScene(s.id),
+            })),
+
+            ...SNOWY_SCENES.map((s) => ({
+              name: `Snowyfalls: ${s.name}`,
+              onClick: () => goToScene(s.id),
+            })),
+          ],
+        },
+        { name: "Dungeons", onClick: () => console.log("Dungeons clicked") },
+        { name: "Raids", onClick: () => console.log("Raids clicked") },
+      ],
+    },
+    {
+      title: "Guild Members",
+      topics: [
+        { name: "Member List", onClick: () => console.log("Member List clicked") },
+        { name: "Recruit", onClick: () => console.log("Recruit clicked") },
+        { name: "Roles", onClick: () => console.log("Roles clicked") },
+      ],
+    },
+    {
+      title: "Quests",
+      topics: [
+        { name: "Quest 1", onClick: () => console.log("Quest 1 clicked") },
+        { name: "Quest 2", onClick: () => console.log("Quest 2 clicked") },
+        { name: "Quest 3", onClick: () => console.log("Quest 3 clicked") },
+      ],
+    },
+  ];
+
+  /* =========================
+     Render
+  ========================= */
 
   return (
     <div className="pointer-events-auto -mt-3 md:mt-3">
@@ -102,7 +130,7 @@ export default function Navigation() {
               <div key={section.title}>
                 <button
                   type="button"
-                  className="mb-1 w-full cursor-pointer rounded-md px-2 py-1 text-left text-sm font-semibold text-white/95 hover:bg-white/10"
+                  className="mb-1 w-full rounded-md px-2 py-1 text-left text-sm font-semibold text-white/95 hover:bg-white/10"
                   onClick={section.onClick}
                 >
                   {section.title}
@@ -125,7 +153,11 @@ export default function Navigation() {
                           }}
                         >
                           <span>{topic.name}</span>
-                          {hasItems && <span className="text-white/70">{isOpen ? "▾" : "▸"}</span>}
+                          {hasItems && (
+                            <span className="text-white/70">
+                              {isOpen ? "▾" : "▸"}
+                            </span>
+                          )}
                         </button>
 
                         {hasItems && isOpen && (

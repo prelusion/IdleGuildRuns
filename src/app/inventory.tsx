@@ -1,7 +1,7 @@
 // Inventory.tsx
-import React, { useMemo, useState } from "react";
-import { useAppStore, useGameStore } from "../state/store.ts";
-import type { Accessory, EquipSlotUI, Gear, Item, Weapon } from "./types.ts";
+import { useMemo, useState } from "react";
+import { useAppStore } from "../state/store.ts";
+import type { Accessory, Gear, Item, Weapon } from "./types.ts";
 import ItemPreview from "./ItemPreview.tsx";
 
 type AnyItem = Item | Gear | Weapon | Accessory;
@@ -32,9 +32,8 @@ function normalizeSrc(src: string) {
 }
 
 export default function Inventory() {
-  const inventorySize = useAppStore((s: any) => s.inventorySize) as number;
-  const inventoryItems = useAppStore((s: any) => s.inventoryItems) as (AnyItem | null)[];
-
+  const inventorySize = useAppStore((s) => s.inventorySize);
+  const inventoryItems = useAppStore((s) => s.inventoryItems);
 
   const ROWS = 5;
   const cols = useMemo(
@@ -174,7 +173,7 @@ export default function Inventory() {
         </div>
       </div>
 
-      {hoverItem && anchorRect && <ItemPreview item={hoverItem as any} customClass="absolute" />}
+      {hoverItem && anchorRect && <ItemPreview item={hoverItem} customClass="absolute" />}
 
       <div className="z-50 text-center align-middle w-[360px]" />
     </div>

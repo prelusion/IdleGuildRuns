@@ -1,12 +1,26 @@
 import { create } from "zustand";
 import {persist, createJSONStorage, subscribeWithSelector} from "zustand/middleware";
 import { SAVE_VERSION, migrateSave } from "./saveMigrations";
-import type {PlacedTile, Rotation, SceneMap, SceneWrapper} from "../game/phaser/scenes/maps/scenes.ts";
-import { Scenes } from "../game/phaser/scenes/maps/scenes.ts";
-import type {Accessory, EquipmentSlot, EquipSlot, Gear, Item, ItemLike, Weapon} from "../app/types.ts";
-import type { GuildMember, GuildMemberId, Party, PartyId, SceneId, GearItem } from "./gameTypes.ts";
+import type {PlacedTile, Rotation, SceneMap} from "../game/phaser/scenes/maps/scenes.ts";
+import town from "../game/phaser/scenes/maps/town.json";
+import hell from "../game/phaser/scenes/maps/hell.json";
+import { getOpenWorldScene, getFirstOpenWorldSceneId } from "../game/phaser/scenes/maps/sceneCatalog";
+
+import type {
+  Accessory,
+  EquipmentSlot,
+  EquipSlot,
+  EquipSlotUI,
+  Gear,
+  Item,
+  ItemLike,
+  ItemLikeOrNull,
+  Weapon
+} from "../app/types.ts";
+import type { GuildMember, Party, SceneId } from "./gameTypes.ts";
 
 type UiPanel = "none" | "building";
+type BrushKind = "tile" | "object";
 
 type SimSnapshot = {
   tick: number;
@@ -38,7 +52,7 @@ type AppState = {
 
   inventorySize: number;
   setInventorySize: (v: number) => void;
-  inventoryItems: Item[];
+  inventoryItems: ItemLikeOrNull[];
   setInventoryItems: (v: Item) => void;
   removeInventoryItem: (idx: number) => void;
   swapInventoryItem: (idx: number, item: ItemLike | null) => void;
@@ -46,6 +60,7 @@ type AppState = {
   editorEnabled: boolean;
   creativeEnabled: boolean;
   editorLayer: "ground" | "objects";
+  brushKind: BrushKind;
   selectedSpriteKey: string | null;
   selectedRotation: Rotation;
   sceneMap: SceneMap;
@@ -54,6 +69,9 @@ type AppState = {
   setEditorEnabled: (v: boolean) => void;
   setCreativeEnabled: (v: boolean) => void;
   setEditorLayer: (v: "ground" | "objects") => void;
+  setBrushKind: (k: BrushKind) => void;
+  placeFreeObjectAt: (x: number, y: number) => void;
+  eraseFreeObjectAt: (x: number, y: number) => void;
   setSelectedSpriteKey: (k: string | null) => void;
   rotateSelected: () => void;
   placeAt: (tx: number, ty: number) => void;
@@ -70,6 +88,7 @@ export const useAppStore = create<AppState>()(
       lastSavedAt: Date.now(),
       gold: 0,
       ticks: 0,
+
 
       simConnected: false,
 
@@ -90,12 +109,14 @@ export const useAppStore = create<AppState>()(
       },
 
       applySimSnapshot: (snap) => {
-        // Snapshot includes delta, so UI doesn’t need to know internal sim details.
         set((s) => ({
           ticks: snap.tick,
           gold: s.gold + snap.goldDeltaSinceLast,
         }));
       },
+
+      brushKind: "tile",
+      setBrushKind: (k) => set({ brushKind: k }),
 
       markSavedNow: (now) => set({ lastSavedAt: now }),
       setSimConnected: (v) => set({ simConnected: v }),
@@ -121,6 +142,59 @@ export const useAppStore = create<AppState>()(
         }));
       },
 
+      placeFreeObjectAt: (x, y) =>
+        set((s) => {
+          const { selectedSpriteKey, selectedRotation, sceneMap } = s;
+          if (!selectedSpriteKey) return s;
+
+          const id = `o_${Math.random().toString(36).slice(2, 10)}`;
+          const next = {
+            id,
+            key: selectedSpriteKey,
+            x,
+            y,
+            rotation: selectedRotation,
+            scale: {x: 1, y: 1},
+          };
+
+          const nextMap: SceneMap = {
+            ...sceneMap,
+            objectsFree: [...(sceneMap.objectsFree ?? []), next],
+          };
+
+          return { sceneMap: nextMap };
+        }),
+
+      eraseFreeObjectAt: (x, y) =>
+        set((s) => {
+          const list = s.sceneMap.objectsFree ?? [];
+          if (list.length === 0) return s;
+
+          const R = 64; // radius px
+          let bestIdx = -1;
+          let bestD2 = Infinity;
+
+          for (let i = 0; i < list.length; i++) {
+            const dx = list[i].x - x;
+            const dy = list[i].y - y;
+            const d2 = dx * dx + dy * dy;
+            if (d2 < bestD2) {
+              bestD2 = d2;
+              bestIdx = i;
+            }
+          }
+
+          if (bestIdx === -1 || bestD2 > R * R) return s;
+
+          const nextList = list.slice();
+          nextList.splice(bestIdx, 1);
+
+          return {
+            sceneMap: { ...s.sceneMap, objectsFree: nextList },
+          };
+        }),
+
+
       removeInventoryItem: (idx) =>
         set((s: AppState) => {
           const next = [...s.inventoryItems];
@@ -138,12 +212,35 @@ export const useAppStore = create<AppState>()(
         }),
 
       sceneMap: (() => {
-        return (Scenes.find((s) => {return s.scene === "town"}) as SceneWrapper).sceneMap;
+        return town as unknown as SceneMap;
       })(),
 
-      setSceneMap: (v) => {
-        const scene =  (Scenes.filter((s) => v.toLowerCase() === s.scene) as SceneWrapper[])[0].sceneMap;
-        set({sceneMap: scene})
+      setSceneMap: (sceneId) => {
+        if (sceneId === "town") {
+          set({ sceneMap: town as unknown as SceneMap });
+          return;
+        }
+        if (sceneId === "hell") {
+          set({ sceneMap: hell as unknown as SceneMap });
+          return;
+        }
+
+        const def = getOpenWorldScene(sceneId);
+        if (def) {
+          set({ sceneMap: def.map });
+          return;
+        }
+
+        if (sceneId === "plains" || sceneId === "snowyfalls") {
+          const first = getFirstOpenWorldSceneId(sceneId);
+          if (first) {
+            const d = getOpenWorldScene(first);
+            if (d) set({ sceneMap: d.map });
+          }
+          return;
+        }
+
+        console.warn(`[setSceneMap] Unknown sceneId "${sceneId}"`);
       },
 
       setEditorEnabled: (v) => set({ editorEnabled: v }),
@@ -220,13 +317,13 @@ type GameState = {
   gold: number;
 
   // --- guild / parties ---
-  guildMembers: Record<GuildMemberId, GuildMember>;
-  parties: Record<PartyId, Party>;
+  guildMembers: Record<string, GuildMember>;
+  parties: Record<string, Party>;
 
   // --- selection / ui (optional) ---
-  selectedPartyId: PartyId | null;
-  selectedMemberId: GuildMemberId | null;
-  setSelectedMemberId: (id: GuildMemberId | null) => void;
+  selectedPartyId: string | null;
+  selectedMemberId: string | null;
+  setSelectedMemberId: (id: string | null) => void;
   clearSelectedMember: () => void
 
   // --- actions ---
@@ -234,23 +331,24 @@ type GameState = {
 
   createStarterGuild: () => void;
 
-  createParty: (name: string) => PartyId;
-  addMemberToParty: (memberId: GuildMemberId, partyId: PartyId) => void;
-  removeMemberFromParty: (memberId: GuildMemberId) => void;
+  createParty: (name: string) => string;
+  addMemberToParty: (memberId: string, partyId: string) => void;
+  removeMemberFromParty: (memberId: string) => void;
 
-  sendPartyToScene: (partyId: PartyId, sceneId: SceneId) => void;
-  setMemberScene: (memberId: GuildMemberId, sceneId: SceneId) => void;
+  sendPartyToScene: (partyId: string, sceneId: SceneId) => void;
+  setMemberScene: (memberId: string, sceneId: SceneId) => void;
 
-  applyGear: (memberId: GuildMemberId, slot: EquipSlot, item: ItemLike) => void;
-  recomputeMemberStats: (memberId: GuildMemberId) => void;
+  applyGear: (memberId: string, slot: EquipSlot, item: ItemLike) => void;
+  recomputeMemberStats: (memberId: string) => void;
 
   // combat sync hooks called by Phaser
-  setMemberHp: (memberId: GuildMemberId, hp: number) => void;
-  markMemberDead: (memberId: GuildMemberId, nowMs: number) => void;
+  setMemberHp: (memberId: string, hp: number) => void;
+  markMemberDead: (memberId: string, nowMs: number) => void;
 
   // “death rule”: after 60s dead -> remove from party & send back to town
   reviveOrRecallDeadMembers: (nowMs: number) => void;
 
+  equipToSelectedMember: (slot: EquipSlotUI, item: ItemLike) => void;
   selectedSceneId: SceneId;
   setSelectedSceneId: (id: SceneId) => void;
   goToScene: (sceneId: SceneId) => void;

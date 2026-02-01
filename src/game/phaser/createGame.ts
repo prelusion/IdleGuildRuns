@@ -2,13 +2,14 @@ import Phaser from "phaser";
 import type { PlacedTile, SceneMap } from "./scenes/maps/scenes";
 import { TownScene } from "../scenes/TownScene";
 import { HellScene } from "../scenes/HellScene";
+import { OpenWorldScene } from "../scenes/OpenWorldScene";
 import type { MapSceneBase } from "../scenes/MapSceneBase";
-import type {MapsLibraryManifest} from "../assets/mapsLibrary.ts";
+import type { MapsLibraryManifest } from "../assets/mapsLibraryManifest";
 
-export type SceneKey = "TownScene" | "HellScene";
+export type SceneKey = "TownScene" | "HellScene" | "OpenWorldScene";
 
 export type GameBridge = {
-  startScene: (key: SceneKey) => void;
+  startScene: (sceneId: string) => void;
   resize: (size: number) => void;
   getCanvas: () => HTMLCanvasElement | null;
   destroy: () => void;
@@ -18,12 +19,27 @@ export type GameBridge = {
   setMapsManifest: (m: MapsLibraryManifest) => void;
 };
 
+function isMapScene(scene: Phaser.Scene): scene is MapSceneBase {
+  return (
+    typeof (scene as MapSceneBase).setSceneMap === "function" &&
+    typeof (scene as MapSceneBase).placeTile === "function"
+  );
+}
+
 function getActiveMapScene(game: Phaser.Game): MapSceneBase | null {
   const active = game.scene.getScenes(true);
   for (const s of active) {
-    if ((s as any).setSceneMap && (s as any).placeTile) return s as MapSceneBase;
+    if (isMapScene(s)) {
+      return s;
+    }
   }
   return null;
+}
+
+function routeSceneKey(sceneId: string): SceneKey {
+  if (sceneId === "town") return "TownScene";
+  if (sceneId === "hell") return "HellScene";
+  return "OpenWorldScene";
 }
 
 export function createGame(parent: HTMLDivElement, initialSize: number): GameBridge {
@@ -33,7 +49,7 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
     width: initialSize,
     height: initialSize,
     backgroundColor: "#111827",
-    scene: [TownScene, HellScene],
+    scene: [TownScene, HellScene, OpenWorldScene],
     fps: { target: 60, forceSetTimeOut: true },
     render: { pixelArt: true, roundPixels: true },
     scale: { mode: Phaser.Scale.NONE, autoCenter: Phaser.Scale.NO_CENTER },
@@ -45,9 +61,8 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
   let pendingMap: SceneMap | null = null;
   let pendingResize: number | null = initialSize;
 
-  //  boot gating
   let isReady = false;
-  let queuedScene: SceneKey | null = null;
+  let queuedSceneId: string | null = null;
 
   const applyPendingToActive = () => {
     const s = getActiveMapScene(game);
@@ -73,44 +88,43 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
   game.events.once(Phaser.Core.Events.READY, () => {
     isReady = true;
 
-    // If React asked for a scene before READY, do it now.
-    if (queuedScene) {
-      const k = queuedScene;
-      queuedScene = null;
-      startScene(k);
+    if (queuedSceneId) {
+      const id = queuedSceneId;
+      queuedSceneId = null;
+      startScene(id);
     } else {
-      // If nothing requested, still apply pending size/map once something is active.
       applyPendingToActive();
     }
   });
 
-  const startScene = (key: SceneKey) => {
-    //  if Phaser not ready yet, queue it and bail
+  const startScene = (sceneId: string) => {
     if (!isReady) {
-      queuedScene = key;
+      queuedSceneId = sceneId;
       return;
     }
 
-    // If already active, just apply pending
+    const key = routeSceneKey(sceneId);
+
+    // if already active scene key, just pass data (OpenWorldScene needs sceneId)
     if (game.scene.isActive(key)) {
+      // re-init openworld with a different map, easiest: restart it
+      if (key === "OpenWorldScene") {
+        game.scene.stop(key);
+        game.scene.start(key, { sceneId });
+      }
       applyPendingToActive();
       return;
     }
 
-    // Stop any active scenes (hard reset)
     for (const s of game.scene.getScenes(true)) {
       game.scene.stop(s.scene.key);
     }
 
-    // Start requested
-    game.scene.start(key);
+    //  pass sceneId as data so OpenWorldScene can pick correct map
+    game.scene.start(key, { sceneId });
 
-    // Wait until the scene has actually created, then apply pending
     const scene = game.scene.getScene(key) as Phaser.Scene | null;
-    if (!scene) {
-      // Extremely rare after READY, but safe guard
-      return;
-    }
+    if (!scene) return;
 
     scene.events.once(Phaser.Scenes.Events.CREATE, () => {
       applyPendingToActive();

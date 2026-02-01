@@ -1,0 +1,9255 @@
+{
+  "scene": "GeneratedScene",
+  "tileSize": 128,
+  "width": 40,
+  "height": 40,
+  "ground": [
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      },
+      {
+        "key": "autumn/terrain/land/land/land_0",
+        "rotation": 0
+      }
+    ]
+  ],
+  "objects": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "objectsFree": [
+    {
+      "key": "autumn/props/misc/tree_1",
+      "x": 3162,
+      "y": 2141,
+      "z": 2237,
+      "rotation": 0,
+      "scale": {
+        "x": 1.565,
+        "y": 1.565
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_14",
+      "x": 1846,
+      "y": 1394,
+      "z": 1490,
+      "rotation": 0,
+      "scale": {
+        "x": 1.458,
+        "y": 1.458
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_4",
+      "x": 455,
+      "y": 729,
+      "z": 825,
+      "rotation": 0,
+      "scale": {
+        "x": 1.66,
+        "y": 1.66
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_15",
+      "x": 4266,
+      "y": 979,
+      "z": 1075,
+      "rotation": 0,
+      "scale": {
+        "x": 1.672,
+        "y": 1.672
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_10",
+      "x": 3647,
+      "y": 2903,
+      "z": 2999,
+      "rotation": 0,
+      "scale": {
+        "x": 1.412,
+        "y": 1.412
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_5",
+      "x": 814,
+      "y": 84,
+      "z": 180,
+      "rotation": 0,
+      "scale": {
+        "x": 1.564,
+        "y": 1.564
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_5",
+      "x": 2079,
+      "y": 4967,
+      "z": 5063,
+      "rotation": 0,
+      "scale": {
+        "x": 1.425,
+        "y": 1.425
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_7",
+      "x": 2459,
+      "y": 3804,
+      "z": 3900,
+      "rotation": 0,
+      "scale": {
+        "x": 1.508,
+        "y": 1.508
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_5",
+      "x": 4132,
+      "y": 3036,
+      "z": 3132,
+      "rotation": 0,
+      "scale": {
+        "x": 1.499,
+        "y": 1.499
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_7",
+      "x": 2116,
+      "y": 3289,
+      "z": 3385,
+      "rotation": 0,
+      "scale": {
+        "x": 1.695,
+        "y": 1.695
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_15",
+      "x": 1201,
+      "y": 2150,
+      "z": 2246,
+      "rotation": 0,
+      "scale": {
+        "x": 1.712,
+        "y": 1.712
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_9",
+      "x": 2013,
+      "y": 495,
+      "z": 591,
+      "rotation": 0,
+      "scale": {
+        "x": 1.784,
+        "y": 1.784
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_13",
+      "x": 4911,
+      "y": 1380,
+      "z": 1476,
+      "rotation": 0,
+      "scale": {
+        "x": 1.422,
+        "y": 1.422
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_15",
+      "x": 3038,
+      "y": 3684,
+      "z": 3780,
+      "rotation": 0,
+      "scale": {
+        "x": 1.531,
+        "y": 1.531
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_2",
+      "x": 4198,
+      "y": 1776,
+      "z": 1872,
+      "rotation": 0,
+      "scale": {
+        "x": 1.747,
+        "y": 1.747
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_6",
+      "x": 3657,
+      "y": 4337,
+      "z": 4433,
+      "rotation": 0,
+      "scale": {
+        "x": 1.568,
+        "y": 1.568
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_2",
+      "x": 330,
+      "y": 3927,
+      "z": 4023,
+      "rotation": 0,
+      "scale": {
+        "x": 1.754,
+        "y": 1.754
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_6",
+      "x": 4818,
+      "y": 346,
+      "z": 442,
+      "rotation": 0,
+      "scale": {
+        "x": 1.442,
+        "y": 1.442
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_8",
+      "x": 1356,
+      "y": 881,
+      "z": 977,
+      "rotation": 0,
+      "scale": {
+        "x": 1.688,
+        "y": 1.688
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_11",
+      "x": 2978,
+      "y": 754,
+      "z": 850,
+      "rotation": 0,
+      "scale": {
+        "x": 1.664,
+        "y": 1.664
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_6",
+      "x": 1061,
+      "y": 1381,
+      "z": 1477,
+      "rotation": 0,
+      "scale": {
+        "x": 1.671,
+        "y": 1.671
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_2",
+      "x": 4562,
+      "y": 4954,
+      "z": 5050,
+      "rotation": 0,
+      "scale": {
+        "x": 1.629,
+        "y": 1.629
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_8",
+      "x": 1491,
+      "y": 2658,
+      "z": 2754,
+      "rotation": 0,
+      "scale": {
+        "x": 1.727,
+        "y": 1.727
+      }
+    },
+    {
+      "key": "autumn/props/misc/tree_12",
+      "x": 3514,
+      "y": 4838,
+      "z": 4934,
+      "rotation": 0,
+      "scale": {
+        "x": 1.472,
+        "y": 1.472
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_2",
+      "x": 217,
+      "y": 1898,
+      "z": 1898,
+      "rotation": 0,
+      "scale": {
+        "x": 1.312,
+        "y": 1.312
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_4",
+      "x": 155,
+      "y": 2651,
+      "z": 2651,
+      "rotation": 0,
+      "scale": {
+        "x": 1.236,
+        "y": 1.236
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_2",
+      "x": 2115,
+      "y": 2148,
+      "z": 2148,
+      "rotation": 0,
+      "scale": {
+        "x": 1.418,
+        "y": 1.418
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_4",
+      "x": 3783,
+      "y": 3545,
+      "z": 3545,
+      "rotation": 0,
+      "scale": {
+        "x": 1.2,
+        "y": 1.2
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_5",
+      "x": 3928,
+      "y": 2391,
+      "z": 2391,
+      "rotation": 0,
+      "scale": {
+        "x": 1.291,
+        "y": 1.291
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_6",
+      "x": 559,
+      "y": 4449,
+      "z": 4449,
+      "rotation": 0,
+      "scale": {
+        "x": 1.379,
+        "y": 1.379
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_3",
+      "x": 4830,
+      "y": 3427,
+      "z": 3427,
+      "rotation": 0,
+      "scale": {
+        "x": 1.425,
+        "y": 1.425
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_6",
+      "x": 2396,
+      "y": 1004,
+      "z": 1004,
+      "rotation": 0,
+      "scale": {
+        "x": 1.387,
+        "y": 1.387
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_3",
+      "x": 4160,
+      "y": 352,
+      "z": 352,
+      "rotation": 0,
+      "scale": {
+        "x": 1.31,
+        "y": 1.31
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_6",
+      "x": 2108,
+      "y": 4319,
+      "z": 4319,
+      "rotation": 0,
+      "scale": {
+        "x": 1.176,
+        "y": 1.176
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_2",
+      "x": 944,
+      "y": 3692,
+      "z": 3692,
+      "rotation": 0,
+      "scale": {
+        "x": 1.358,
+        "y": 1.358
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_5",
+      "x": 794,
+      "y": 4964,
+      "z": 4964,
+      "rotation": 0,
+      "scale": {
+        "x": 1.421,
+        "y": 1.421
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_5",
+      "x": 4124,
+      "y": 88,
+      "z": 88,
+      "rotation": 0,
+      "scale": {
+        "x": 1.29,
+        "y": 1.29
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_2",
+      "x": 5078,
+      "y": 4192,
+      "z": 4192,
+      "rotation": 0,
+      "scale": {
+        "x": 1.219,
+        "y": 1.219
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_5",
+      "x": 3030,
+      "y": 4694,
+      "z": 4694,
+      "rotation": 0,
+      "scale": {
+        "x": 1.247,
+        "y": 1.247
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_5",
+      "x": 4530,
+      "y": 4076,
+      "z": 4076,
+      "rotation": 0,
+      "scale": {
+        "x": 1.176,
+        "y": 1.176
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_4",
+      "x": 5038,
+      "y": 3428,
+      "z": 3428,
+      "rotation": 0,
+      "scale": {
+        "x": 1.404,
+        "y": 1.404
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_2",
+      "x": 2872,
+      "y": 1518,
+      "z": 1518,
+      "rotation": 0,
+      "scale": {
+        "x": 1.204,
+        "y": 1.204
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_3",
+      "x": 2790,
+      "y": 2909,
+      "z": 2909,
+      "rotation": 0,
+      "scale": {
+        "x": 1.375,
+        "y": 1.375
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_1",
+      "x": 2772,
+      "y": 1385,
+      "z": 1385,
+      "rotation": 0,
+      "scale": {
+        "x": 1.284,
+        "y": 1.284
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_5",
+      "x": 1822,
+      "y": 2157,
+      "z": 2157,
+      "rotation": 0,
+      "scale": {
+        "x": 1.416,
+        "y": 1.416
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_1",
+      "x": 1510,
+      "y": 100,
+      "z": 100,
+      "rotation": 0,
+      "scale": {
+        "x": 1.347,
+        "y": 1.347
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_1",
+      "x": 1357,
+      "y": 362,
+      "z": 362,
+      "rotation": 0,
+      "scale": {
+        "x": 1.355,
+        "y": 1.355
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_3",
+      "x": 1344,
+      "y": 103,
+      "z": 103,
+      "rotation": 0,
+      "scale": {
+        "x": 1.219,
+        "y": 1.219
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_3",
+      "x": 1504,
+      "y": 4077,
+      "z": 4077,
+      "rotation": 0,
+      "scale": {
+        "x": 1.172,
+        "y": 1.172
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_6",
+      "x": 2649,
+      "y": 2789,
+      "z": 2789,
+      "rotation": 0,
+      "scale": {
+        "x": 1.327,
+        "y": 1.327
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_2",
+      "x": 1436,
+      "y": 3689,
+      "z": 3689,
+      "rotation": 0,
+      "scale": {
+        "x": 1.337,
+        "y": 1.337
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_6",
+      "x": 1109,
+      "y": 4948,
+      "z": 4948,
+      "rotation": 0,
+      "scale": {
+        "x": 1.293,
+        "y": 1.293
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_6",
+      "x": 3543,
+      "y": 1004,
+      "z": 1004,
+      "rotation": 0,
+      "scale": {
+        "x": 1.332,
+        "y": 1.332
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_5",
+      "x": 4024,
+      "y": 3687,
+      "z": 3687,
+      "rotation": 0,
+      "scale": {
+        "x": 1.269,
+        "y": 1.269
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_2",
+      "x": 2606,
+      "y": 2412,
+      "z": 2412,
+      "rotation": 0,
+      "scale": {
+        "x": 1.368,
+        "y": 1.368
+      }
+    },
+    {
+      "key": "autumn/props/misc/stones_3",
+      "x": 3394,
+      "y": 1235,
+      "z": 1235,
+      "rotation": 0,
+      "scale": {
+        "x": 1.184,
+        "y": 1.184
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_5",
+      "x": 2972,
+      "y": 4840,
+      "z": 4840,
+      "rotation": 0,
+      "scale": {
+        "x": 1.3,
+        "y": 1.3
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_8",
+      "x": 2727,
+      "y": 212,
+      "z": 212,
+      "rotation": 0,
+      "scale": {
+        "x": 1.201,
+        "y": 1.201
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_2",
+      "x": 428,
+      "y": 1755,
+      "z": 1755,
+      "rotation": 0,
+      "scale": {
+        "x": 1.251,
+        "y": 1.251
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_7",
+      "x": 175,
+      "y": 3175,
+      "z": 3175,
+      "rotation": 0,
+      "scale": {
+        "x": 1.164,
+        "y": 1.164
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_9",
+      "x": 4931,
+      "y": 1883,
+      "z": 1883,
+      "rotation": 0,
+      "scale": {
+        "x": 1.171,
+        "y": 1.171
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_8",
+      "x": 442,
+      "y": 2529,
+      "z": 2529,
+      "rotation": 0,
+      "scale": {
+        "x": 1.244,
+        "y": 1.244
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_3",
+      "x": 4137,
+      "y": 2399,
+      "z": 2399,
+      "rotation": 0,
+      "scale": {
+        "x": 1.108,
+        "y": 1.108
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_3",
+      "x": 2859,
+      "y": 2781,
+      "z": 2781,
+      "rotation": 0,
+      "scale": {
+        "x": 1.141,
+        "y": 1.141
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_2",
+      "x": 1203,
+      "y": 4954,
+      "z": 4954,
+      "rotation": 0,
+      "scale": {
+        "x": 1.304,
+        "y": 1.304
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_3",
+      "x": 2780,
+      "y": 3179,
+      "z": 3179,
+      "rotation": 0,
+      "scale": {
+        "x": 1.261,
+        "y": 1.261
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_6",
+      "x": 2907,
+      "y": 4338,
+      "z": 4338,
+      "rotation": 0,
+      "scale": {
+        "x": 1.121,
+        "y": 1.121
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_3",
+      "x": 4196,
+      "y": 3562,
+      "z": 3562,
+      "rotation": 0,
+      "scale": {
+        "x": 1.143,
+        "y": 1.143
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_1",
+      "x": 2496,
+      "y": 1510,
+      "z": 1510,
+      "rotation": 0,
+      "scale": {
+        "x": 1.198,
+        "y": 1.198
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_5",
+      "x": 186,
+      "y": 2028,
+      "z": 2028,
+      "rotation": 0,
+      "scale": {
+        "x": 1.129,
+        "y": 1.129
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_2",
+      "x": 5042,
+      "y": 2034,
+      "z": 2034,
+      "rotation": 0,
+      "scale": {
+        "x": 1.185,
+        "y": 1.185
+      }
+    },
+    {
+      "key": "autumn/props/misc/greenery_4",
+      "x": 4666,
+      "y": 3934,
+      "z": 3934,
+      "rotation": 0,
+      "scale": {
+        "x": 1.203,
+        "y": 1.203
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_6",
+      "x": 986,
+      "y": 3944,
+      "z": 3944,
+      "rotation": 0,
+      "scale": {
+        "x": 1.148,
+        "y": 1.148
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_9",
+      "x": 2529,
+      "y": 1236,
+      "z": 1236,
+      "rotation": 0,
+      "scale": {
+        "x": 1.126,
+        "y": 1.126
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_14",
+      "x": 214,
+      "y": 4594,
+      "z": 4594,
+      "rotation": 0,
+      "scale": {
+        "x": 1.129,
+        "y": 1.129
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_10",
+      "x": 1078,
+      "y": 4464,
+      "z": 4464,
+      "rotation": 0,
+      "scale": {
+        "x": 1.222,
+        "y": 1.222
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_16",
+      "x": 3155,
+      "y": 1387,
+      "z": 1387,
+      "rotation": 0,
+      "scale": {
+        "x": 1.188,
+        "y": 1.188
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_1",
+      "x": 207,
+      "y": 2140,
+      "z": 2140,
+      "rotation": 0,
+      "scale": {
+        "x": 1.208,
+        "y": 1.208
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_4",
+      "x": 2378,
+      "y": 2658,
+      "z": 2658,
+      "rotation": 0,
+      "scale": {
+        "x": 1.255,
+        "y": 1.255
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_5",
+      "x": 2787,
+      "y": 4578,
+      "z": 4578,
+      "rotation": 0,
+      "scale": {
+        "x": 1.134,
+        "y": 1.134
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_13",
+      "x": 3509,
+      "y": 470,
+      "z": 470,
+      "rotation": 0,
+      "scale": {
+        "x": 1.172,
+        "y": 1.172
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_15",
+      "x": 1359,
+      "y": 3548,
+      "z": 3548,
+      "rotation": 0,
+      "scale": {
+        "x": 1.274,
+        "y": 1.274
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_7",
+      "x": 174,
+      "y": 1392,
+      "z": 1392,
+      "rotation": 0,
+      "scale": {
+        "x": 1.115,
+        "y": 1.115
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_11",
+      "x": 2519,
+      "y": 106,
+      "z": 106,
+      "rotation": 0,
+      "scale": {
+        "x": 1.134,
+        "y": 1.134
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_1",
+      "x": 1592,
+      "y": 3687,
+      "z": 3687,
+      "rotation": 0,
+      "scale": {
+        "x": 1.232,
+        "y": 1.232
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_16",
+      "x": 974,
+      "y": 3035,
+      "z": 3035,
+      "rotation": 0,
+      "scale": {
+        "x": 1.217,
+        "y": 1.217
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_11",
+      "x": 991,
+      "y": 4057,
+      "z": 4057,
+      "rotation": 0,
+      "scale": {
+        "x": 1.166,
+        "y": 1.166
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_8",
+      "x": 2458,
+      "y": 866,
+      "z": 866,
+      "rotation": 0,
+      "scale": {
+        "x": 1.168,
+        "y": 1.168
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_14",
+      "x": 2269,
+      "y": 4445,
+      "z": 4445,
+      "rotation": 0,
+      "scale": {
+        "x": 1.17,
+        "y": 1.17
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_5",
+      "x": 2885,
+      "y": 1379,
+      "z": 1379,
+      "rotation": 0,
+      "scale": {
+        "x": 1.126,
+        "y": 1.126
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_5",
+      "x": 4413,
+      "y": 3674,
+      "z": 3674,
+      "rotation": 0,
+      "scale": {
+        "x": 1.293,
+        "y": 1.293
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_7",
+      "x": 1455,
+      "y": 4453,
+      "z": 4453,
+      "rotation": 0,
+      "scale": {
+        "x": 1.134,
+        "y": 1.134
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_4",
+      "x": 481,
+      "y": 3284,
+      "z": 3284,
+      "rotation": 0,
+      "scale": {
+        "x": 1.272,
+        "y": 1.272
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_13",
+      "x": 930,
+      "y": 4848,
+      "z": 4848,
+      "rotation": 0,
+      "scale": {
+        "x": 1.27,
+        "y": 1.27
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_12",
+      "x": 827,
+      "y": 4059,
+      "z": 4059,
+      "rotation": 0,
+      "scale": {
+        "x": 1.274,
+        "y": 1.274
+      }
+    },
+    {
+      "key": "autumn/props/misc/decor_7",
+      "x": 2515,
+      "y": 1750,
+      "z": 1750,
+      "rotation": 0,
+      "scale": {
+        "x": 1.278,
+        "y": 1.278
+      }
+    },
+    {
+      "key": "autumn/props/misc/building_1",
+      "x": 474,
+      "y": 2920,
+      "z": 2920,
+      "rotation": 0,
+      "scale": {
+        "x": 3.091,
+        "y": 3.091
+      }
+    },
+    {
+      "key": "autumn/props/misc/building_1",
+      "x": 4776,
+      "y": 2150,
+      "z": 2150,
+      "rotation": 0,
+      "scale": {
+        "x": 2.902,
+        "y": 2.902
+      }
+    }
+  ],
+  "meta": {
+    "pack": "autumn",
+    "baseLandKey": "autumn/terrain/land/land/land_0",
+    "generatedAt": "2026-01-29T22:27:20.881Z"
+  }
+}

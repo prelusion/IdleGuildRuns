@@ -1,89 +1,18 @@
 import Phaser from "phaser";
 import type { PlacedTile, SceneMap } from "../phaser/scenes/maps/scenes";
-import { TILESETS, makeKey, makeUrl } from "../assets/tilesets";
-import { mapsLibraryUrlForKey } from "../assets/mapsLibraryManifest";
+import { MAPS_LIBRARY_MANIFEST } from "../assets/mapsLibraryManifest";
 
 export abstract class MapSceneBase extends Phaser.Scene {
   protected currentMap?: SceneMap;
 
   protected groundLayer?: Phaser.GameObjects.Container;
   protected objectLayer?: Phaser.GameObjects.Container;
+  protected freeLayer?: Phaser.GameObjects.Container;
 
-  // -----------------------------
-  // Legacy tiles (/assets/tiles/*)
-  // -----------------------------
-  /** Call in preload() of subclasses if they use tilesets */
-  protected preloadTilesets() {
-    for (const ts of TILESETS) {
-      for (let x = 0; x <= ts.xMax; x++) {
-        for (let y = 0; y <= ts.yMax; y++) {
-          const key = makeKey(ts.id, x, y);
-          const url = makeUrl(ts.baseUrl, x, y);
-
-          if (this.textures.exists(key)) continue;
-          this.load.image(key, url);
-        }
-      }
-    }
-  }
-
-  // -----------------------------
-  // Maps library (/assets/maps_library/*)
-  // -----------------------------
-
-  /** Preload ONLY maps_library sprites referenced by a map json */
-  protected preloadMapsLibraryForMap(map: SceneMap) {
-    const keys = new Set<string>();
-
-    const collect = (layer: (PlacedTile | null)[][]) => {
-      for (const row of layer) {
-        for (const cell of row) {
-          if (!cell?.key) continue;
-          // heuristic: maps_library keys contain "/" (e.g. "autumn/props/misc/road_5")
-          if (cell.key.includes("/")) keys.add(cell.key);
-        }
-      }
-    };
-
-    collect(map.ground);
-    collect(map.objects);
-
-    for (const key of keys) {
-      if (this.textures.exists(key)) continue;
-
-      const url = mapsLibraryUrlForKey(key);
-      if (!url) {
-        console.warn("[maps_library] Missing in manifest:", key);
-        continue;
-      }
-
-      this.load.image(key, url);
-    }
-  }
-
-  /**
-   * Lazy-load a single maps_library texture if missing.
-   * This is what makes painting new sprites work without preloading everything.
-   */
-  protected ensureMapsLibraryTexture(key: string) {
-    if (!key.includes("/")) return; // not maps_library
-    if (this.textures.exists(key)) return;
-
-    const url = mapsLibraryUrlForKey(key);
-    if (!url) {
-      console.warn("[maps_library] No URL for key:", key);
-      return;
-    }
-
-    this.load.image(key, url);
-
-    // If loader isn't already running, start it and rerender once complete.
-    if (!this.load.isLoading()) {
-      this.load.once(Phaser.Loader.Events.COMPLETE, () => {
-        this.applyNearestFilters();
-        this.renderFromMap();
-      });
-      this.load.start();
+  protected preloadMapsLibrary() {
+    for (const s of MAPS_LIBRARY_MANIFEST.sprites) {
+      if (this.textures.exists(s.key)) continue;
+      this.load.image(s.key, s.url);
     }
   }
 
@@ -124,15 +53,14 @@ export abstract class MapSceneBase extends Phaser.Scene {
   public setSceneMap(map: SceneMap) {
     this.currentMap = map;
 
-    // Prevent “zombie containers”
-    if (this.groundLayer) {
-      this.groundLayer.destroy(true);
-      this.groundLayer = undefined;
-    }
-    if (this.objectLayer) {
-      this.objectLayer.destroy(true);
-      this.objectLayer = undefined;
-    }
+    // destroy old containers
+    this.groundLayer?.destroy(true);
+    this.objectLayer?.destroy(true);
+    this.freeLayer?.destroy(true);
+
+    this.groundLayer = undefined;
+    this.objectLayer = undefined;
+    this.freeLayer = undefined;
 
     this.renderFromMap();
     this.fitCameraToMap();
@@ -146,32 +74,32 @@ export abstract class MapSceneBase extends Phaser.Scene {
   ) {
     if (!this.currentMap) return;
 
-    if (tx < 0 || ty < 0 || tx >= this.currentMap.width || ty >= this.currentMap.height)
+    if (tx < 0 || ty < 0 || tx >= this.currentMap.width || ty >= this.currentMap.height) {
       return;
+    }
 
     const next: SceneMap = {
       ...this.currentMap,
       ground: this.currentMap.ground.map((r) => r.slice()),
       objects: this.currentMap.objects.map((r) => r.slice()),
+      objectsFree: (this.currentMap.objectsFree ?? []).slice(),
     };
 
     if (layer === "ground") next.ground[ty][tx] = placed;
     else next.objects[ty][tx] = placed;
 
     this.currentMap = next;
-
-    // ✅ If this tile is maps_library, lazy-load it if needed
-    if (placed?.key) this.ensureMapsLibraryTexture(placed.key);
-
     this.renderFromMap();
   }
 
   protected ensureLayers() {
     if (!this.groundLayer) this.groundLayer = this.add.container(0, 0);
     if (!this.objectLayer) this.objectLayer = this.add.container(0, 0);
+    if (!this.freeLayer) this.freeLayer = this.add.container(0, 0);
 
     this.groundLayer.setDepth(0);
     this.objectLayer.setDepth(10);
+    this.freeLayer.setDepth(20); // free objects are above grid layers
   }
 
   protected renderFromMap() {
@@ -181,10 +109,11 @@ export abstract class MapSceneBase extends Phaser.Scene {
 
     this.groundLayer!.removeAll(true);
     this.objectLayer!.removeAll(true);
+    this.freeLayer!.removeAll(true);
 
     const TILE = this.currentMap.tileSize;
 
-    const drawLayer = (
+    const drawGridLayer = (
       container: Phaser.GameObjects.Container,
       layer: (PlacedTile | null)[][]
     ) => {
@@ -193,18 +122,11 @@ export abstract class MapSceneBase extends Phaser.Scene {
           const cell = layer[y][x];
           if (!cell) continue;
 
-          // ✅ Try to lazy-load maps_library sprites
-          this.ensureMapsLibraryTexture(cell.key);
-
-          // If not loaded yet, skip for now (it will appear after loader COMPLETE rerender)
-          if (!this.textures.exists(cell.key)) continue;
-
           const cx = x * TILE + TILE / 2;
           const cy = y * TILE + TILE / 2;
 
           const img = this.add.image(cx, cy, cell.key).setOrigin(0.5);
 
-          // Scale image to fit cell (handles “small sprites”)
           const tex = this.textures.get(cell.key);
           const src = tex.getSourceImage() as HTMLImageElement | undefined;
           if (src?.width && src?.height) {
@@ -219,7 +141,20 @@ export abstract class MapSceneBase extends Phaser.Scene {
       }
     };
 
-    drawLayer(this.groundLayer!, this.currentMap.ground);
-    drawLayer(this.objectLayer!, this.currentMap.objects);
+    drawGridLayer(this.groundLayer!, this.currentMap.ground);
+    drawGridLayer(this.objectLayer!, this.currentMap.objects);
+
+    // free objects (world positioned)
+    const free = this.currentMap.objectsFree ?? [];
+    for (const o of free) {
+      const img = this.add.image(o.x, o.y, o.key).setOrigin(0.5, 1); // bottom anchored
+      img.setAngle(o.rotation);
+
+      if (o.scale) img.setScale(o.scale.x, o.scale.y);
+
+      img.setDepth(o.z ?? o.y);
+
+      this.freeLayer!.add(img);
+    }
   }
 }

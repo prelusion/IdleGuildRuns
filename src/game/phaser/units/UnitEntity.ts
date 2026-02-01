@@ -1,8 +1,8 @@
 import Phaser from "phaser";
 import type {Dir4, LayerId} from "../mobs/mobTypes";
-import type { UnitDef, UnitStats } from "./unitTypes";
 import { animKey, textureKey } from "../mobs/mobLoader";
 import {dirFromDelta} from "./controller.ts";
+import type {UnitDef, UnitStats} from "./UnitTypes.ts";
 
 type MoveIntent = { tx: number; ty: number; speed: number } | null;
 
@@ -18,6 +18,9 @@ export class UnitEntity {
   readonly container: Phaser.GameObjects.Container;
   readonly layers: Record<string, Phaser.GameObjects.Sprite> = {};
   private hitZone: Phaser.GameObjects.Zone;
+
+  public hitIntent?: { targetId: string; damage: number };
+  public memberId?: string;
 
   x: number;
   y: number;
@@ -57,7 +60,7 @@ export class UnitEntity {
     this.hitZone.setInteractive({ useHandCursor: true });
 
     this.hitZone.on("pointerdown", () => {
-      const memberId = (this as any).memberId as string | undefined;
+      const memberId = this.memberId as string | undefined;
       if (!memberId) return;
       scene.events.emit("unit:selected", memberId);
     });
@@ -164,7 +167,7 @@ export class UnitEntity {
       const anim = this.container.scene.anims.get(key);
       if (!anim) continue;
 
-      const dur = (anim as any).duration as number | undefined;
+      const dur = anim.duration as number | undefined;
       if (dur && dur > best) best = dur;
     }
 

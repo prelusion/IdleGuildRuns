@@ -10,6 +10,7 @@ export type Rank =
   | "demon";
 
 export type ArmorType = "cloth" | "leather" | "mail" | "plate";
+export type AllArmorType = "all" | "cloth" | "leather" | "mail" | "plate";
 
 export type Quality =
   | "common"
@@ -17,8 +18,16 @@ export type Quality =
   | "rare"
   | "epic"
   | "legendary";
+export type AllQuality =
+  | "all"
+  | "common"
+  | "uncommon"
+  | "rare"
+  | "epic"
+  | "legendary";
 
 export type ItemLike = Item | Gear | Weapon | Accessory;
+export type ItemLikeOrNull = ItemLike | null;
 
 export const accessories = ["necklace", "ring", "trinket"] as const;
 export const armor = ["belt", "bracers", "chest", "feet", "helmet", "trousers"] as const;
@@ -53,12 +62,12 @@ export type EquipmentSlot =
    RULES
 ========================= */
 export type EquipSlotUI =
-  | "helmet" | "necklace" | "chest" | "bracers" | "gloves" | "belt" | "feet"
+  | "helmet" | "necklace" | "chest" | "bracers" | "gloves" | "belt" | "feet"| "trousers"
   | "ring1" | "ring2" | "trinket1" | "trinket2"
   | "leftHand" | "rightHand";
 
 export type EquipSlot =
-  | "helmet" | "necklace" | "ring" | "trinket" | "chest" | "bracers" | "gloves" | "belt" | "feet" | "axe" | "bow" | "crossbow" | "dagger" | "mace" | "shield" | "staff" | "sword" | "tome"
+  | "helmet" | "necklace" | "ring" | "trinket" | "chest" | "bracers" | "trousers" | "gloves" | "belt" | "feet" | "axe" | "bow" | "crossbow" | "dagger" | "mace" | "shield" | "staff" | "sword" | "tome"
 
 
 
@@ -135,18 +144,18 @@ export interface Weapon extends Item {
 }
 
 export function isWeapon(item: ItemLike): item is Weapon {
-  return "fromDamage" in item && "toDamage" in item;
+  return "fromDamage" in item && "toDamage" in item && "parry" in item && "block" in item && "range" in item;
 }
 
 export function isGear(item: ItemLike): item is Gear {
   return "armor" in item && "rank" in item && "type" in item && !isWeapon(item);
 }
 
-export function isAccessory(item: ItemLike): item is Accessory {
+export function hasStats(x: unknown): x is Gear | Weapon | Accessory {
   return (
-    "primaryStats" in item &&
-    "secondaryStats" in item &&
-    !isWeapon(item) &&
-    !isGear(item)
+    !!x &&
+    typeof x === "object" &&
+    "primaryStats" in (x as any) &&
+    "secondaryStats" in (x as any)
   );
 }

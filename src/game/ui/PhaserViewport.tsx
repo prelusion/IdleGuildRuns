@@ -28,6 +28,9 @@ export function PhaserViewport(props: {
   // App/UI store
   const editorEnabled = useAppStore((s) => s.editorEnabled);
   const editorLayer = useAppStore((s) => s.editorLayer);
+  const brushKind = useAppStore((s) => s.brushKind);
+  const placeFreeObjectAt = useAppStore((s) => s.placeFreeObjectAt);
+  const eraseFreeObjectAt = useAppStore((s) => s.eraseFreeObjectAt)
   const selectedSpriteKey = useAppStore((s) => s.selectedSpriteKey);
   const selectedRotation = useAppStore((s) => s.selectedRotation);
   const placeAt = useAppStore((s) => s.placeAt);
@@ -63,18 +66,17 @@ export function PhaserViewport(props: {
   }, []);
 
   // Switch scenes when selectedSceneId changes
-  useEffect(() => {
-    const b = bridgeRef.current;
-    if (!b) return;
+    useEffect(() => {
+      const b = bridgeRef.current;
+      if (!b) return;
 
-    b.startScene(selectedSceneId === "hell" ? "HellScene" : "TownScene");
-    b.resize(size);
+      b.startScene(selectedSceneId);
+      b.resize(size);
 
-    //  Only push map overrides when editor is enabled (or when you KNOW it matches the active scene)
-    if (editorEnabled) {
-      b.setSceneMap(sceneMap);
-    }
-  }, [selectedSceneId, size, editorEnabled]);
+      if (editorEnabled) {
+        b.setSceneMap(sceneMap);
+      }
+    }, [selectedSceneId, size, editorEnabled, sceneMap]);
 
   // Keep active scene updated with latest map edits
   useEffect(() => {
@@ -110,6 +112,20 @@ export function PhaserViewport(props: {
       const wx = cx / z;
       const wy = cy / z;
 
+      if (brushKind === "object") {
+        if (button === 2) {
+          eraseFreeObjectAt(wx, wy);
+          bridgeRef.current?.setSceneMap(useAppStore.getState().sceneMap);
+          return;
+        }
+
+        if (!selectedSpriteKey) return;
+
+        placeFreeObjectAt(wx, wy);
+        bridgeRef.current?.setSceneMap(useAppStore.getState().sceneMap);
+        return;
+      }
+
       const tx = Math.floor(wx / sceneMap.tileSize);
       const ty = Math.floor(wy / sceneMap.tileSize);
 
@@ -127,10 +143,11 @@ export function PhaserViewport(props: {
 
       if (!selectedSpriteKey) return;
 
-      // const placed: PlacedTile = { key: selectedSpriteKey, rotation: selectedRotation };
+      const placed: PlacedTile = { key: selectedSpriteKey, rotation: selectedRotation };
       placeAt(tx, ty);
-      // bridgeRef.current?.placeTile(tx, ty, placed, editorLayer);
+      bridgeRef.current?.placeTile(tx, ty, placed, editorLayer);
     };
+
 
 
     const onPointerDown = (ev: PointerEvent) => {

@@ -96,9 +96,9 @@ export class UnitSystem {
 
     // 2) Apply hit intents
     for (const u of this.units) {
-      const intent = (u as any).__hitIntent as HitIntent | undefined;
+      const intent = u.hitIntent as HitIntent | undefined;
       if (!intent) continue;
-      delete (u as any).__hitIntent;
+      delete u.hitIntent;
 
       const target = this.units.find((t) => t.id === intent.targetId);
       if (!target || target.isDead) continue;

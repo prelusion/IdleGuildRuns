@@ -1,13 +1,13 @@
 import { useEffect, useMemo, useState } from "react";
 import { PhaserViewport } from "../game/ui/PhaserViewport";
 import {useAppStore, useGameStore} from "../state/store";
-import type { SimOutMsg } from "../sim/simTypes";
 import Navigation from "./navigation.tsx";
 import Inventory from "./inventory.tsx";
 import Creative from "./creative.tsx";
 import GuildPanel from "./guildPanel.tsx";
 import CharacterView from "./CharacterView.tsx";
-import {mapsLibraryAllKeys, mapsLibraryUrlForKey} from "../game/assets/mapsLibraryManifest.ts";
+import { MAPS_LIBRARY_MANIFEST, mapsLibraryUrlForKey } from "../game/assets/mapsLibraryManifest";
+
 
 
 export default function App() {
@@ -15,6 +15,8 @@ export default function App() {
   const ticks = useAppStore((s) => s.ticks);
   const simConnected = useAppStore((s) => s.simConnected);
 
+  const brushKind = useAppStore((s) => s.brushKind);
+  const setBrushKind = useAppStore((s) => s.setBrushKind);
   const selectedSceneId = useGameStore((s) => s.selectedSceneId);
   const clearSelectedMember = useGameStore((s) => s.clearSelectedMember);
 
@@ -39,7 +41,9 @@ export default function App() {
   const rotateSelected = useAppStore((s) => s.rotateSelected);
   const exportSceneMapJson = useAppStore((s) => s.exportSceneMapJson);
 
-  const spriteKeys = useMemo(() => mapsLibraryAllKeys(), []);
+  const spriteKeys = MAPS_LIBRARY_MANIFEST.sprites
+    .filter((s) => s.kind === brushKind)
+    .map((s) => s.key);
 
   const worker = useMemo(
     () => new Worker(new URL("../sim/sim.worker.ts", import.meta.url), { type: "module" }),
@@ -51,6 +55,7 @@ export default function App() {
   );
 
   const [unitOverlay, setUnitOverlay] = useState<{ x: number; y: number } | null>(null);
+  console.log({unitOverlay})
 
   useEffect(() => {
     const onKeyDown = (e: KeyboardEvent) => {
@@ -79,10 +84,10 @@ export default function App() {
     const now = Date.now();
     applyOfflineProgress(now);
 
-    worker.onmessage = (e: MessageEvent<SimOutMsg>) => {
-      const msg = e.data;
-      if (msg.type === "SNAPSHOT") applySimSnapshot(msg);
-    };
+    // worker.onmessage = (e: MessageEvent<SimOutMsg>) => {
+    //   const msg = e.data;
+    //   if (msg.type === "SNAPSHOT") applySimSnapshot(msg);
+    // };
 
     worker.postMessage({ type: "START", now: Date.now() });
     setSimConnected(true);
@@ -126,17 +131,17 @@ export default function App() {
               </div>
 
               {/* Unit label */}
-              {unitOverlay && (
-                <div
-                  className="pointer-events-none absolute whitespace-nowrap rounded-full border border-white/15 bg-black/35 px-2 py-1 text-xs"
-                  style={{
-                    left: unitOverlay.x,
-                    top: unitOverlay.y,
-                    transform: "translate(-50%, -100%)",
-                  }}
-                >
-                </div>
-              )}
+              {/*{unitOverlay && (*/}
+              {/*  <div*/}
+              {/*    className="pointer-events-none absolute whitespace-nowrap rounded-full border border-white/15 bg-black/35 px-2 py-1 text-xs"*/}
+              {/*    style={{*/}
+              {/*      left: unitOverlay.x,*/}
+              {/*      top: unitOverlay.y,*/}
+              {/*      transform: "translate(-50%, -100%)",*/}
+              {/*    }}*/}
+              {/*  >*/}
+              {/*  </div>*/}
+              {/*)}*/}
 
               {/* Navigation / buttons - needs pointer events */}
               {selectedMember && (
@@ -244,17 +249,43 @@ export default function App() {
               Brush: <span className="font-semibold text-white">{selectedSpriteKey ?? "(none)"}</span>
             </div>
 
+
+            <div className="mb-2 flex gap-2">
+              <button
+                disabled={!editorEnabled}
+                onClick={() => setBrushKind("tile")}
+                className={[
+                  "h-8 flex-1 rounded-md border px-2 text-xs",
+                  brushKind === "tile"
+                    ? "border-white/40 bg-white/20 text-white"
+                    : "border-white/15 bg-white/10 text-white/80",
+                ].join(" ")}
+              >
+                Tiles (grid)
+              </button>
+              <button
+                disabled={!editorEnabled}
+                onClick={() => setBrushKind("object")}
+                className={[
+                  "h-8 flex-1 rounded-md border px-2 text-xs",
+                  brushKind === "object"
+                    ? "border-white/40 bg-white/20 text-white"
+                    : "border-white/15 bg-white/10 text-white/80",
+                ].join(" ")}
+              >
+                Objects (free)
+              </button>
+            </div>
+
             <div className="grid max-h-80 grid-cols-4 gap-1.5 overflow-auto pr-1">
               {spriteKeys.map((k) => {
                 const src = mapsLibraryUrlForKey(k);
                 if (!src) return null;
 
-                const selected = k === selectedSpriteKey;
-
                 return (
                   <button key={k} onClick={() => setSelectedSpriteKey(k)} title={k}>
                     <div className="mb-1 text-[10px] opacity-85">{k}</div>
-                    <img src={src} className="w-full [image-rendering:pixelated]" />
+                    <img src={src} alt={k} className="w-full [image-rendering:pixelated]"/>
                   </button>
                 );
               })}

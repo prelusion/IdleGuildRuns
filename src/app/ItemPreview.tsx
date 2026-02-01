@@ -154,7 +154,7 @@ export default function ItemPreview({ item, customClass }: Props) {
               <div className="rounded-xl p-[2px] bg-gradient-to-br from-white/25 to-white/5">
                 <div className="h-14 w-14 rounded-[10px] bg-zinc-900/80 grid place-items-center overflow-hidden">
                   <img
-                    src={"public/assets/"+item.src}
+                    src={"/assets/"+item.src}
                     alt={item.name}
                     className="h-full w-full object-cover"
                     draggable={false}

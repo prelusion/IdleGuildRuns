@@ -1,15 +1,28 @@
 // CharacterView.tsx
-import { useMemo, useState } from "react";
+import type {JSX} from "react";
+import {useMemo, useState} from "react";
 import ItemPreview from "./ItemPreview";
 
-import {type Accessory, type Gear, type Item, OffHanded, OneHanded, type Weapon} from "./types";
+import {
+  type Accessory, type EquipSlotUI,
+  type Gear,
+  hasStats,
+  isGear,
+  isWeapon,
+  type Item,
+  OffHanded,
+  OneHanded,
+  type Weapon
+} from "./types";
 import {TwoHanded} from "./types";
 import { useAppStore, useGameStore } from "../state/store.ts";
+import type {GuildMember} from "../state/gameTypes.ts";
 
 type Stat = { k: string; v: string | number };
 
 type EquipmentSlots =
   | "helmet"
+  | "trousers"
   | "necklace"
   | "chest"
   | "bracers"
@@ -22,6 +35,9 @@ type EquipmentSlots =
   | "trinket2"
   | "leftHand"
   | "rightHand";
+
+ const AccessoryTypes = [ "necklace", "ring1", "ring2", "trinket1", "trinket2" ]
+
 
 type ItemLike = Item | Gear | Weapon | Accessory;
 
@@ -40,6 +56,18 @@ type GearSlotProps = {
   onDropInvIndex?: (invIndex: number) => void;
 };
 
+type AppStoreSlice = {
+  inventoryItems: (ItemLike | null)[];
+  removeInventoryItem: (idx: number) => void;
+};
+
+type GameStoreSlice = {
+  selectedMemberId: string | null;
+  guildMembers: Record<string, GuildMember>
+  equipToSelectedMember: (slot: EquipSlotUI, item: ItemLike) => void;
+};
+
+type PickerEntry = { it: ItemLike; idx: number };
 function GearSlot({
                     label,
                     item,
@@ -199,35 +227,6 @@ function XpBar({ current, toNext }: { current: number; toNext: number }) {
 const n0 = (x: unknown): number =>
   typeof x === "number" && Number.isFinite(x) ? x : 0;
 
-function isWeapon(x: unknown): x is Weapon {
-  return (
-    !!x &&
-    typeof x === "object" &&
-    "fromDamage" in (x as any) &&
-    "toDamage" in (x as any) &&
-    "parry" in (x as any) &&
-    "block" in (x as any) &&
-    "range" in (x as any)
-  );
-}
-function isGear(x: unknown): x is Gear {
-  return (
-    !!x &&
-    typeof x === "object" &&
-    "armor" in (x as any) &&
-    "rank" in (x as any) &&
-    "type" in (x as any) &&
-    !isWeapon(x)
-  );
-}
-function hasStats(x: unknown): x is Gear | Weapon | Accessory {
-  return (
-    !!x &&
-    typeof x === "object" &&
-    "primaryStats" in (x as any) &&
-    "secondaryStats" in (x as any)
-  );
-}
 
 function sumResists(r: {
   fireResistance: number;
@@ -257,6 +256,7 @@ function normalizeSrc(src: string) {
 
 // basic slot rules (type-based, no extra data needed)
 function canEquip(slot: EquipmentSlots, item: ItemLike): boolean {
+  console.log({slot})
   if (slot === "leftHand")  {
 
     if (TwoHanded.includes(item.slot)) {
@@ -276,23 +276,18 @@ function canEquip(slot: EquipmentSlots, item: ItemLike): boolean {
   }
 
 
-  if (slot !== item.slot) return;
+  if (slot.replace(/\d$/, "") !== item.slot) return false;
 
-
-  if (
-    slot === "ring1" ||
-    slot === "ring2" ||
-    slot === "trinket1" ||
-    slot === "trinket2" ||
-    slot === "necklace"
-  ) {
-    // accessories (and plain items with stats) are OK; if you want stricter, gate to Accessory only.
+  if (AccessoryTypes.includes(slot)) {
     return hasStats(item) && !isWeapon(item) && !isGear(item);
   }
+
+  if (slot !== item.slot) return false;
 
   // helmet/chest/bracers/gloves/belt/feet
   return isGear(item);
 }
+type SlotDisplayItem = { icon?: string; name: string; __placeholder?: boolean } | null;
 
 const PLACEHOLDER: Record<
   EquipmentSlots,
@@ -300,6 +295,11 @@ const PLACEHOLDER: Record<
 > = {
   helmet: {
     icon: "https://dummyimage.com/64x64/111827/fbbf24.png&text=H",
+    name: "Empty",
+    __placeholder: true,
+  },
+  trousers: {
+    icon: "https://dummyimage.com/64x64/111827/fbbf24.png&text=T",
     name: "Empty",
     __placeholder: true,
   },
@@ -371,19 +371,18 @@ export default function CharacterView(): JSX.Element {
   );
 
   // inventory + equip actions
-  const inventoryItems = useAppStore((s: any) => s.inventoryItems) as (ItemLike | null)[];
-  const removeInventoryItem = useAppStore((s: any) => s.removeInventoryItem);
-  const equipToSelectedMember = useGameStore((s) => (s as any).equipToSelectedMember);
+  const inventoryItems = useAppStore((s: AppStoreSlice) => s.inventoryItems);
+  const removeInventoryItem = useAppStore((s: AppStoreSlice) => s.removeInventoryItem);
+  const equipToSelectedMember = useGameStore((s: GameStoreSlice) => s.equipToSelectedMember);
 
   const equipment: Partial<Record<EquipmentSlots, ItemLike>> = useMemo(() => {
     const gearAny = (selectedMember?.gear ?? {}) as Record<string, unknown>;
     const weapon = gearAny["weapon"];
-    const armor = gearAny["armor"];
-    const trinket = gearAny["trinket"];
-    const perSlot = gearAny as any;
+    const perSlot = gearAny;
 
     return {
       helmet: perSlot.helmet as ItemLike | undefined,
+      trousers: perSlot.trousers as ItemLike | undefined,
       necklace: (perSlot.necklace ?? perSlot.necklace) as ItemLike | undefined,
 
       chest: perSlot.chest as ItemLike | undefined,
@@ -461,13 +460,6 @@ export default function CharacterView(): JSX.Element {
       }
     }
 
-    const maybeWeaponOld = (selectedMember?.gear as any)?.weapon;
-    const oldDamage = n0(maybeWeaponOld?.stats?.damage);
-    if (damageMin === 0 && damageMax === 0 && oldDamage > 0) {
-      damageMin = oldDamage;
-      damageMax = oldDamage;
-    }
-
     return { damageMin, damageMax, armor, range, parry, block, primary, secondary, res };
   }, [equipment, selectedMember]);
 
@@ -477,8 +469,8 @@ export default function CharacterView(): JSX.Element {
   const avatar = "https://dummyimage.com/128x128/27272a/ffffff.png&text=Hero";
 
   const hp = n0(selectedMember?.hp);
-  const xpCurrent = n0((selectedMember as any)?.xpCurrent);
-  const xpToNext = n0((selectedMember as any)?.xpToNext);
+  const xpCurrent = n0(selectedMember?.xpCurrent);
+  const xpToNext = n0(selectedMember?.xpToNext);
 
   const primaryStats: Stat[] = useMemo(
     () => [
@@ -520,48 +512,41 @@ export default function CharacterView(): JSX.Element {
     setHoveredItem(it);
   };
 
-  // CLICK SLOT → picker modal
   const [pickerSlot, setPickerSlot] = useState<EquipmentSlots | null>(null);
 
-  // DnD: equip from inventory by index
   const dropToSlot = (slot: EquipmentSlots) => (invIndex: number) => {
-    const it = inventoryItems?.[invIndex];
+    const it = inventoryItems[invIndex];
     if (!it) return;
     if (!selectedMember) return;
     if (!canEquip(slot, it)) return;
 
-    equipToSelectedMember(slot as any, it as any);
+    equipToSelectedMember(slot, it);
     removeInventoryItem(invIndex);
   };
 
-  const slotDisplay = useMemo(() => {
-    const m: Record<
-      EquipmentSlots,
-      { icon?: string; name: string; __placeholder?: boolean } | null
-    > = {} as any;
+  const slotDisplay = useMemo((): Record<EquipmentSlots, SlotDisplayItem> => {
+    const m: Record<EquipmentSlots, SlotDisplayItem> = { ...PLACEHOLDER };
 
     (Object.keys(PLACEHOLDER) as EquipmentSlots[]).forEach((k) => {
       const real = equipment[k];
-      if (real && typeof real === "object" && "name" in (real as any)) {
-        const icon = (real as any).src ? normalizeSrc((real as any).src) : undefined;
-        m[k] = { name: (real as any).name ?? "Item", icon };
-      } else {
-        m[k] = PLACEHOLDER[k];
+      if (real) {
+        m[k] = { name: real.name, icon: normalizeSrc(real.src) };
       }
     });
 
     return m;
   }, [equipment]);
 
-  // items allowed for current picker slot
-  const pickerItems = useMemo(() => {
+  const pickerItems = useMemo<PickerEntry[]>(() => {
     if (!pickerSlot) return [];
 
-    return inventoryItems
-      .map((it, idx) => ({ it, idx }))
-      .filter(({ it }) => {
-        return it && canEquip(pickerSlot, it)
-      });
+    const out: PickerEntry[] = [];
+    inventoryItems.forEach((it, idx) => {
+      if (!it) return;
+      if (!canEquip(pickerSlot, it)) return;
+      out.push({ it, idx });
+    });
+    return out;
   }, [inventoryItems, pickerSlot]);
 
   return (
@@ -598,18 +583,19 @@ export default function CharacterView(): JSX.Element {
                   <button
                     key={idx}
                     className="relative aspect-square rounded-lg border border-white/10 bg-black/60 hover:bg-white/5"
-                    onMouseEnter={() => setHoveredItem(it!)}
+                    onMouseEnter={() => setHoveredItem(it)}
                     onMouseLeave={() => setHoveredItem(null)}
                     onClick={() => {
-                      equipToSelectedMember(pickerSlot as any, it as any);
+                      if (!pickerSlot) return;
+                      equipToSelectedMember(pickerSlot, it);
                       removeInventoryItem(idx);
                       setPickerSlot(null);
                     }}
-                    title={it!.name}
+                    title={it.name}
                   >
                     <img
-                      src={normalizeSrc((it as any).src)}
-                      alt={it!.name}
+                      src={normalizeSrc(it.src)}
+                      alt={it.name}
                       className="absolute inset-[10%] h-[80%] w-[80%] object-contain"
                       draggable={false}
                     />
@@ -691,14 +677,14 @@ export default function CharacterView(): JSX.Element {
 
             <div className="col-start-3 row-start-1 flex justify-center">
               <GearSlot
-                label="Necklace"
-                item={slotDisplay.necklace}
-                isActive={hoveredItem ? hoveredItem === equipment.necklace : false}
-                onHover={() => setPreview("necklace")}
+                label="Trousers"
+                item={slotDisplay.trousers}
+                isActive={hoveredItem ? hoveredItem === equipment.trousers : false}
+                onHover={() => setPreview("trousers")}
                 onLeave={() => setHoveredItem(null)}
-                onClick={() => setPickerSlot("necklace")}
+                onClick={() => setPickerSlot("trousers")}
                 canDrop
-                onDropInvIndex={dropToSlot("necklace")}
+                onDropInvIndex={dropToSlot("trousers")}
               />
             </div>
 
@@ -744,6 +730,7 @@ export default function CharacterView(): JSX.Element {
             <div className="col-start-3 row-start-2 flex flex-col items-center justify-center gap-4">
               {(
                 [
+                  ["necklace", "Recklace"],
                   ["ring1", "Ring 1"],
                   ["ring2", "Ring 2"],
                   ["trinket1", "Trinket 1"],

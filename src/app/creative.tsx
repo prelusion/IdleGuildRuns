@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { useAppStore } from "../state/store.ts";
-import type {Accessory, Gear, Item, Weapon} from "./types.ts";
+import type {Accessory, AllArmorType, AllQuality, Gear, Item, Quality, Weapon} from "./types.ts";
 import ItemPreview from "./ItemPreview.tsx";
 
 type AnyItem = (Item | Gear | Weapon | Accessory) & {
@@ -8,7 +8,6 @@ type AnyItem = (Item | Gear | Weapon | Accessory) & {
 };
 
 type GroupFilter = "all" | "weapons" | "armor" | "accessories";
-type Quality = "common" | "uncommon" | "rare" | "epic" | "legendary";
 type SortKey = "name" | "quality" | "group" | "slot" | "rank" | "gearType";
 
 const QUALITY_META: Record<
@@ -122,8 +121,8 @@ export default function Creative() {
   const [q, setQ] = useState("");
   const [group, setGroup] = useState<GroupFilter>("all");
   const [slot, setSlot] = useState<string>("all");
-  const [quality, setQuality] = useState<"all" | Quality>("all");
-  const [gearType, setGearType] = useState<"all" | "cloth" | "leather" | "mail" | "plate">("all");
+  const [quality, setQuality] = useState<AllQuality>("all");
+  const [gearType, setGearType] = useState<AllArmorType>("all");
 
   // sorting
   const [sortKey, setSortKey] = useState<SortKey>("quality");
@@ -138,7 +137,7 @@ export default function Creative() {
       setErr(null);
 
       try {
-        const base = "public/assets";
+        const base = "/assets";
 
         const accessories = ["necklace", "ring", "trinket"] as const;
         const armor = ["belt", "bracers", "chest", "feet", "helmet", "trousers"] as const;
@@ -231,7 +230,7 @@ export default function Creative() {
         case "slot":
           return it.slot;
         case "rank":
-          return (it).rank ?? "";
+          return (it as Gear).rank ?? "";
         case "gearType":
           return isGear(it) ? it.type : "";
         default:
@@ -257,7 +256,7 @@ export default function Creative() {
     >
       {
         selectedItem &&
-        <ItemPreview item={selectedItem} />
+        <ItemPreview item={selectedItem} customClass={""} />
       }
       {/* Controls */}
       <div className="mb-2 grid grid-cols-2 gap-2">
@@ -296,7 +295,7 @@ export default function Creative() {
 
         <select
           value={quality}
-          onChange={(e) => setQuality(e.target.value)}
+          onChange={(e) => setQuality((e.target.value as AllQuality))}
           className="h-8 rounded-md border border-white/15 bg-white/10 px-2 text-xs text-white outline-none"
         >
           <option value="all">Any quality</option>
@@ -309,7 +308,7 @@ export default function Creative() {
 
         <select
           value={gearType}
-          onChange={(e) => setGearType(e.target.value)}
+          onChange={(e) => setGearType((e.target.value as AllArmorType))}
           className="h-8 rounded-md border border-white/15 bg-white/10 px-2 text-xs text-white outline-none"
           title="Only applies to armor (Gear)"
         >

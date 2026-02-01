@@ -46,7 +46,8 @@ export type LayerId =
   | "brown"
   | "back"
   | "death_effects"
-  | "image";
+  | "image"
+  | "attack";  // Verify if attack is really needed here..;
 
 export type MobLayerDef = {
   id: LayerId;

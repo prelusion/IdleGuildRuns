@@ -21,8 +21,7 @@ export class TownScene extends PartySceneBase {
   }
 
   preload() {
-    this.preloadTilesets();
-    this.preloadMapsLibraryForMap(town as SceneMap);
+    this.preloadMapsLibrary();
 
     preloadMob(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
     preloadMob(this, MOBS[TypeMobs.GHOST + "1"]);
@@ -56,7 +55,10 @@ export class TownScene extends PartySceneBase {
     for (const m of members) {
       if (this.partyUnits.has(m.id)) continue;
 
-      const def = (UNIT_DEFS as any)[m.unitDefId];
+      const unitDefId = m.unitDefId;
+      if (!unitDefId) continue;
+
+      const def = UNIT_DEFS[unitDefId];
       if (!def) continue;
 
       const ox = (i % cols) * spacing;
@@ -64,7 +66,7 @@ export class TownScene extends PartySceneBase {
 
       //  Town controller
       const unit = this.units.add(def, x + ox, y + oy, new TownRallyController());
-      (unit as any).memberId = m.id;
+      unit.memberId = m.id;
 
       this.partyUnits.set(m.id, unit);
       i++;
@@ -91,7 +93,7 @@ export class TownScene extends PartySceneBase {
       height: map.height * map.tileSize,
     });
 
-    //  Hotload town members in/out
+    //  Hot load town members in/out
     this.enablePartyHotload();
   }
 

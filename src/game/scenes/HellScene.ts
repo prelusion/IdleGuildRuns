@@ -11,7 +11,6 @@ import { preloadMob, createMobAnimations } from "../phaser/mobs/mobLoader";
 import { buildUnitCatalog } from "../phaser/units/UnitProperties";
 import { EnemyController } from "../phaser/units/controller";
 import { WanderWhenIdleController } from "../phaser/units/WanderWhenIdleController";
-import town from "../phaser/scenes/maps/town.json";
 
 const UNIT_DEFS = buildUnitCatalog();
 
@@ -28,8 +27,8 @@ export class HellScene extends PartySceneBase {
 
   preload() {
     console.log("PRELOAD HELL SCENE")
-    this.preloadTilesets();
-    this.preloadMapsLibraryForMap(hell as SceneMap);
+
+    this.preloadMapsLibrary();
 
     preloadMob(this, MOBS[TypeMobs.SLIME + "4"]);
     preloadMob(this, MOBS[TypeMobs.SLIME + "5"]);

@@ -1,5 +1,6 @@
-import type { UnitDef, UnitKind, Team, UnitStats } from "./unitTypes";
+
 import {MOBS} from "../mobs/mobVisuals.ts";
+import type {Team, UnitDef, UnitKind, UnitStats} from "./UnitTypes.ts";
 
 const DEFAULTS: Record<UnitKind, Omit<UnitStats, "hp">> = {
   mob: {

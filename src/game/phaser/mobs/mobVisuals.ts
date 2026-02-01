@@ -20,11 +20,6 @@ function numVariants(prefix: string, from: number, to: number) {
   return out;
 }
 
-/** Helper: standard 64x64 sheet, 6 columns, scaled to 128-tile world */
-function baseDef(id: string, basePath: string, layers: MobDef["layers"], actions: MobDef["actions"], scale = 2, fpsDefault = 10, frameW = 64, frameH = 64, cols = 6): MobDef {
-  return { id, basePath, frameW, frameH, cols, scale, layers, actions, fpsDefault };
-}
-
 /** Helper: quick action with same filenames across actions */
 function act(folder: string, files: Partial<Record<LayerId, string>>, fps?: number, cols?: number): MobActionDef {
   return { folder, files, fps, cols };
@@ -141,7 +136,7 @@ export const MOBS: Record<string, MobDef> = build([
       { id: "shade", depthOffset: 1 },
       { id: "body", depthOffset: 2 },
       { id: "head", depthOffset: 3 },
-      { id: "attack", depthOffset: 4 } as any, // not in LayerId list; we won't use it directly
+      { id: "attack", depthOffset: 4 },
       { id: "swing", depthOffset: 5 },
       { id: "red", depthOffset: 6 },
       { id: "smoke", depthOffset: 7 },

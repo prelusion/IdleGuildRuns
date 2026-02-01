@@ -152,7 +152,7 @@ export class CombatController implements UnitController {
       if (t && t.hp > 0) {
         // "hit" lands: apply damage via system hook (we’ll do it in UnitSystem by exposing an event)
         // Here we’ll mark intent on self for UnitSystem to apply:
-        (self as any).__hitIntent = {targetId: t.id, damage: self.stats.damage};
+        self.hitIntent = {targetId: t.id, damage: self.stats.damage};
       }
       this.pendingHitAt = 0;
       this.pendingHitTargetId = null;
