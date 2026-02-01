@@ -1,30 +1,17 @@
-import type {EquipmentSlot, EquipSlot, ItemLike} from "../app/types.ts";
+import type { EquipmentSlot, EquipSlot, ItemLike } from "../app/types.ts";
+
+/** Where a party/member is (used by Phaser routing + UI). */
+export const OPENWORLD_GROUPS = ["plains", "snowyfalls"] as const;
+export type OpenWorldGroup = (typeof OPENWORLD_GROUPS)[number];
 
 export type InstanceType = "TOWN" | "OPEN_WORLD" | "DUNGEON" | "RAID" | "GATHERER";
 
-export type SceneId =
-  "plains/autumn_1" |
-  "plains/autumn_2" |
-  "plains/autumn_3" |
-  "plains/autumn_4" |
-  "plains/autumn_5" |
-  "plains/autumn_6" |
-  "plains/autumn_7" |
-  "plains/autumn_8" |
-  "plains/autumn_9" |
-  "plains/autumn_10" |
-  "snowyfalls/autumn_1" |
-  "snowyfalls/autumn_2" |
-  "snowyfalls/autumn_3" |
-  "snowyfalls/autumn_4" |
-  "snowyfalls/autumn_5" |
-  "snowyfalls/autumn_6" |
-  "snowyfalls/autumn_7" |
-  "snowyfalls/autumn_8" |
-  "snowyfalls/autumn_9" |
-  "snowyfalls/autumn_10" |
-  "hell" |
-  "town";
+/** Helper: build "plains/autumn_1".."plains/autumn_10" etc as a type */
+type Num1to10 = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10;
+type PlainsId = `plains/autumn_${Num1to10}`;
+type SnowyfallsId = `snowyfalls/winter-medieval_${Num1to10}`;
+
+export type SceneId = "hell" | "town" | PlainsId | SnowyfallsId;
 
 export type MemberRole = "adventurer" | "worker";
 
@@ -50,7 +37,7 @@ export type GuildMember = {
   hp: number;
   maxHp: number;
 
-  deadAtMs: number | null
+  deadAtMs: number | null;
 
   gear: Partial<Record<EquipmentSlot, ItemLike>>;
 };

@@ -1,22 +1,27 @@
-// CharacterView.tsx
-import type {JSX} from "react";
-import {useMemo, useState} from "react";
+import type { JSX } from "react";
+import { useMemo, useState } from "react";
 import ItemPreview from "./ItemPreview";
 
 import {
-  type Accessory, type EquipSlotUI,
+  type Accessory,
+  type EquipSlotUI,
   type Gear,
   hasStats,
   isGear,
   isWeapon,
-  type Item,
+  normalizeSrc,
   OffHanded,
   OneHanded,
-  type Weapon
+  TwoHanded,
+  type Item,
+  type Weapon,
+  type AccessoryKind,
+  type TwoHandedKind,
+  type OneHandedKind,
+  type OffHandedKind,
 } from "./types";
-import {TwoHanded} from "./types";
 import { useAppStore, useGameStore } from "../state/store.ts";
-import type {GuildMember} from "../state/gameTypes.ts";
+import type { GuildMember } from "../state/gameTypes.ts";
 
 type Stat = { k: string; v: string | number };
 
@@ -36,8 +41,7 @@ type EquipmentSlots =
   | "leftHand"
   | "rightHand";
 
- const AccessoryTypes = [ "necklace", "ring1", "ring2", "trinket1", "trinket2" ]
-
+const AccessoryTypes = ["necklace", "ring1", "ring2", "trinket1", "trinket2"] as const;
 
 type ItemLike = Item | Gear | Weapon | Accessory;
 
@@ -63,11 +67,12 @@ type AppStoreSlice = {
 
 type GameStoreSlice = {
   selectedMemberId: string | null;
-  guildMembers: Record<string, GuildMember>
+  guildMembers: Record<string, GuildMember>;
   equipToSelectedMember: (slot: EquipSlotUI, item: ItemLike) => void;
 };
 
 type PickerEntry = { it: ItemLike; idx: number };
+
 function GearSlot({
                     label,
                     item,
@@ -135,8 +140,7 @@ function StatTabs({
   resistances: Stat[];
 }) {
   const [mode, setMode] = useState<TabsMode>("primary");
-  const active =
-    mode === "primary" ? primary : mode === "secondary" ? secondary : resistances;
+  const active = mode === "primary" ? primary : mode === "secondary" ? secondary : resistances;
 
   return (
     <div className="rounded-xl bg-zinc-900/60 border border-zinc-700 p-4 overflow-hidden">
@@ -160,10 +164,9 @@ function StatTabs({
             <button
               type="button"
               onClick={() => setMode("primary")}
-              className={[
-                "text-xs font-medium rounded-md",
-                mode === "primary" ? "text-zinc-100" : "text-zinc-400",
-              ].join(" ")}
+              className={["text-xs font-medium rounded-md", mode === "primary" ? "text-zinc-100" : "text-zinc-400"].join(
+                " "
+              )}
             >
               Primary
             </button>
@@ -216,17 +219,13 @@ function XpBar({ current, toNext }: { current: number; toNext: number }) {
     <div className="relative h-6 w-full rounded-full border border-zinc-700 bg-zinc-950/40 overflow-hidden">
       <div className="h-full bg-amber-400/40" style={{ width: `${pct}%` }} />
       <div className="absolute inset-0 flex items-center justify-center">
-        <span className="text-[11px] text-zinc-100/90 drop-shadow">
-          {remaining} XP to next level
-        </span>
+        <span className="text-[11px] text-zinc-100/90 drop-shadow">{remaining} XP to next level</span>
       </div>
     </div>
   );
 }
 
-const n0 = (x: unknown): number =>
-  typeof x === "number" && Number.isFinite(x) ? x : 0;
-
+const n0 = (x: unknown): number => (typeof x === "number" && Number.isFinite(x) ? x : 0);
 
 function sumResists(r: {
   fireResistance: number;
@@ -246,129 +245,57 @@ function sumResists(r: {
   );
 }
 
-function normalizeSrc(src: string) {
-  if (!src) return "";
-  if (src.startsWith("/")) return src;
-  if (src.startsWith("assets/")) return `/${src}`;
-  if (src.startsWith("icons/")) return `/assets/${src}`;
-  return `/${src}`;
-}
-
 // basic slot rules (type-based, no extra data needed)
 function canEquip(slot: EquipmentSlots, item: ItemLike): boolean {
-  console.log({slot})
-  if (slot === "leftHand")  {
-
-    if (TwoHanded.includes(item.slot)) {
-      return isWeapon(item);
-    }
-    if (OneHanded.includes(item.slot)) {
-      return isWeapon(item);
-    }
+  // hands are special (weapon kinds)
+  if (slot === "leftHand") {
+    if (!isWeapon(item)) return false;
+    if (TwoHanded.includes(item.slot as TwoHandedKind)) return true;
+    if (OneHanded.includes(item.slot as OneHandedKind)) return true;
+    return false;
   }
+
   if (slot === "rightHand") {
-    if (OneHanded.includes(item.slot)) {
-      return isWeapon(item);
-    }
-    if (OffHanded.includes(item.slot)) {
-      return isWeapon(item);
-    }
+    if (!isWeapon(item)) return false;
+    if (OneHanded.includes(item.slot as OneHandedKind)) return true;
+    if (OffHanded.includes(item.slot as OffHandedKind)) return true;
+    if (TwoHanded.includes(item.slot as TwoHandedKind)) return true;
+    return false;
   }
 
-
-  if (slot.replace(/\d$/, "") !== item.slot) return false;
-
-  if (AccessoryTypes.includes(slot)) {
+  // accessories: slot UI has ring1/ring2/trinket1/trinket2 but item.slot is ring/trinket/necklace
+  const baseSlot = slot.replace(/\d$/, "");
+  if (AccessoryTypes.includes(slot as AccessoryKind)) {
+    if (baseSlot !== item.slot) return false;
     return hasStats(item) && !isWeapon(item) && !isGear(item);
   }
 
+  // armor gear (helmet/chest/bracers/gloves/belt/feet/trousers)
   if (slot !== item.slot) return false;
-
-  // helmet/chest/bracers/gloves/belt/feet
   return isGear(item);
 }
+
 type SlotDisplayItem = { icon?: string; name: string; __placeholder?: boolean } | null;
 
-const PLACEHOLDER: Record<
-  EquipmentSlots,
-  { icon: string; name: string; __placeholder: true }
-> = {
-  helmet: {
-    icon: "https://dummyimage.com/64x64/111827/fbbf24.png&text=H",
-    name: "Empty",
-    __placeholder: true,
-  },
-  trousers: {
-    icon: "https://dummyimage.com/64x64/111827/fbbf24.png&text=T",
-    name: "Empty",
-    __placeholder: true,
-  },
-  necklace: {
-    icon: "https://dummyimage.com/64x64/111827/22c55e.png&text=N",
-    name: "Empty",
-    __placeholder: true,
-  },
-  chest: {
-    icon: "https://dummyimage.com/64x64/111827/60a5fa.png&text=C",
-    name: "Empty",
-    __placeholder: true,
-  },
-  bracers: {
-    icon: "https://dummyimage.com/64x64/111827/a78bfa.png&text=B",
-    name: "Empty",
-    __placeholder: true,
-  },
-  gloves: {
-    icon: "https://dummyimage.com/64x64/111827/f472b6.png&text=G",
-    name: "Empty",
-    __placeholder: true,
-  },
-  belt: {
-    icon: "https://dummyimage.com/64x64/111827/38bdf8.png&text=W",
-    name: "Empty",
-    __placeholder: true,
-  },
-  feet: {
-    icon: "https://dummyimage.com/64x64/111827/facc15.png&text=F",
-    name: "Empty",
-    __placeholder: true,
-  },
-  ring1: {
-    icon: "https://dummyimage.com/64x64/111827/eab308.png&text=R1",
-    name: "Empty",
-    __placeholder: true,
-  },
-  ring2: {
-    icon: "https://dummyimage.com/64x64/111827/94a3b8.png&text=R2",
-    name: "Empty",
-    __placeholder: true,
-  },
-  trinket1: {
-    icon: "https://dummyimage.com/64x64/111827/38bdf8.png&text=T1",
-    name: "Empty",
-    __placeholder: true,
-  },
-  trinket2: {
-    icon: "https://dummyimage.com/64x64/111827/f43f5e.png&text=T2",
-    name: "Empty",
-    __placeholder: true,
-  },
-  leftHand: {
-    icon: "https://dummyimage.com/64x64/111827/34d399.png&text=L",
-    name: "Empty",
-    __placeholder: true,
-  },
-  rightHand: {
-    icon: "https://dummyimage.com/64x64/111827/f87171.png&text=R",
-    name: "Empty",
-    __placeholder: true,
-  },
+const PLACEHOLDER: Record<EquipmentSlots, { icon: string; name: string; __placeholder: true }> = {
+  helmet: { icon: "https://dummyimage.com/64x64/111827/fbbf24.png&text=H", name: "Empty", __placeholder: true },
+  trousers: { icon: "https://dummyimage.com/64x64/111827/fbbf24.png&text=T", name: "Empty", __placeholder: true },
+  necklace: { icon: "https://dummyimage.com/64x64/111827/22c55e.png&text=N", name: "Empty", __placeholder: true },
+  chest: { icon: "https://dummyimage.com/64x64/111827/60a5fa.png&text=C", name: "Empty", __placeholder: true },
+  bracers: { icon: "https://dummyimage.com/64x64/111827/a78bfa.png&text=B", name: "Empty", __placeholder: true },
+  gloves: { icon: "https://dummyimage.com/64x64/111827/f472b6.png&text=G", name: "Empty", __placeholder: true },
+  belt: { icon: "https://dummyimage.com/64x64/111827/38bdf8.png&text=W", name: "Empty", __placeholder: true },
+  feet: { icon: "https://dummyimage.com/64x64/111827/facc15.png&text=F", name: "Empty", __placeholder: true },
+  ring1: { icon: "https://dummyimage.com/64x64/111827/eab308.png&text=R1", name: "Empty", __placeholder: true },
+  ring2: { icon: "https://dummyimage.com/64x64/111827/94a3b8.png&text=R2", name: "Empty", __placeholder: true },
+  trinket1: { icon: "https://dummyimage.com/64x64/111827/38bdf8.png&text=T1", name: "Empty", __placeholder: true },
+  trinket2: { icon: "https://dummyimage.com/64x64/111827/f43f5e.png&text=T2", name: "Empty", __placeholder: true },
+  leftHand: { icon: "https://dummyimage.com/64x64/111827/34d399.png&text=L", name: "Empty", __placeholder: true },
+  rightHand: { icon: "https://dummyimage.com/64x64/111827/f87171.png&text=R", name: "Empty", __placeholder: true },
 };
 
 export default function CharacterView(): JSX.Element {
-  const selectedMember = useGameStore((s) =>
-    s.selectedMemberId ? s.guildMembers[s.selectedMemberId] : null
-  );
+  const selectedMember = useGameStore((s) => (s.selectedMemberId ? s.guildMembers[s.selectedMemberId] : null));
 
   // inventory + equip actions
   const inventoryItems = useAppStore((s: AppStoreSlice) => s.inventoryItems);
@@ -377,18 +304,20 @@ export default function CharacterView(): JSX.Element {
 
   const equipment: Partial<Record<EquipmentSlots, ItemLike>> = useMemo(() => {
     const gearAny = (selectedMember?.gear ?? {}) as Record<string, unknown>;
-    const weapon = gearAny["weapon"];
     const perSlot = gearAny;
+
+    // legacy fallback: some older saves used "weapon" instead of rightHand
+    const weapon = perSlot["weapon"];
 
     return {
       helmet: perSlot.helmet as ItemLike | undefined,
       trousers: perSlot.trousers as ItemLike | undefined,
-      necklace: (perSlot.necklace ?? perSlot.necklace) as ItemLike | undefined,
+      necklace: perSlot.necklace as ItemLike | undefined,
 
       chest: perSlot.chest as ItemLike | undefined,
       bracers: perSlot.bracers as ItemLike | undefined,
       gloves: perSlot.gloves as ItemLike | undefined,
-      belt: (perSlot.belt ?? perSlot.belt) as ItemLike | undefined,
+      belt: perSlot.belt as ItemLike | undefined,
       feet: perSlot.feet as ItemLike | undefined,
 
       ring1: perSlot.ring1 as ItemLike | undefined,
@@ -398,10 +327,6 @@ export default function CharacterView(): JSX.Element {
 
       rightHand: (perSlot.rightHand ?? weapon) as ItemLike | undefined,
       leftHand: perSlot.leftHand as ItemLike | undefined,
-
-      // preserve old-model fallback visuals if you used armor/trinket there:
-      // chest: (perSlot.chest ?? armor) as ItemLike | undefined,
-      // trinket1: (perSlot.trinket1 ?? trinket) as ItemLike | undefined,
     };
   }, [selectedMember]);
 
@@ -461,7 +386,7 @@ export default function CharacterView(): JSX.Element {
     }
 
     return { damageMin, damageMax, armor, range, parry, block, primary, secondary, res };
-  }, [equipment, selectedMember]);
+  }, [equipment]);
 
   const name = selectedMember?.name ?? "Unknown";
   const level = n0(selectedMember?.level);
@@ -529,9 +454,7 @@ export default function CharacterView(): JSX.Element {
 
     (Object.keys(PLACEHOLDER) as EquipmentSlots[]).forEach((k) => {
       const real = equipment[k];
-      if (real) {
-        m[k] = { name: real.name, icon: normalizeSrc(real.src) };
-      }
+      if (real) m[k] = { name: real.name, icon: normalizeSrc(real.src) };
     });
 
     return m;
@@ -539,7 +462,6 @@ export default function CharacterView(): JSX.Element {
 
   const pickerItems = useMemo<PickerEntry[]>(() => {
     if (!pickerSlot) return [];
-
     const out: PickerEntry[] = [];
     inventoryItems.forEach((it, idx) => {
       if (!it) return;
@@ -553,10 +475,7 @@ export default function CharacterView(): JSX.Element {
     <div className="w-[40rem] h-[40rem]">
       {/* Picker modal (click slot to open) */}
       {pickerSlot && (
-        <div
-          className="fixed inset-0 z-[9998]"
-          onMouseDown={() => setPickerSlot(null)}
-        >
+        <div className="fixed inset-0 z-[9998]" onMouseDown={() => setPickerSlot(null)}>
           <div
             className="fixed left-1/2 top-1/2 z-[9999] w-[520px] -translate-x-1/2 -translate-y-1/2 rounded-xl border border-white/15 bg-black/80 p-3"
             onMouseDown={(e) => e.stopPropagation()}
@@ -565,18 +484,13 @@ export default function CharacterView(): JSX.Element {
               <div className="text-sm font-semibold text-white/90">
                 Choose item for <span className="text-white">{pickerSlot}</span>
               </div>
-              <button
-                className="text-xs text-white/70 hover:text-white"
-                onClick={() => setPickerSlot(null)}
-              >
+              <button className="text-xs text-white/70 hover:text-white" onClick={() => setPickerSlot(null)}>
                 Close
               </button>
             </div>
 
             {pickerItems.length === 0 ? (
-              <div className="text-xs text-white/60">
-                No matching items in inventory.
-              </div>
+              <div className="text-xs text-white/60">No matching items in inventory.</div>
             ) : (
               <div className="grid grid-cols-6 gap-2">
                 {pickerItems.map(({ it, idx }) => (
@@ -653,9 +567,7 @@ export default function CharacterView(): JSX.Element {
                 isActive={hoveredItem ? hoveredItem === equipment.helmet : false}
                 onHover={() => setPreview("helmet")}
                 onLeave={() => setHoveredItem(null)}
-                // click-to-choose
                 onClick={() => setPickerSlot("helmet")}
-                // drop from inventory
                 canDrop
                 onDropInvIndex={dropToSlot("helmet")}
               />
@@ -719,9 +631,7 @@ export default function CharacterView(): JSX.Element {
                 {hoveredItem ? (
                   <ItemPreview item={hoveredItem} customClass={""} />
                 ) : (
-                  <div className="text-sm text-zinc-400 text-center">
-                    Hover a slot to preview the item.
-                  </div>
+                  <div className="text-sm text-zinc-400 text-center">Hover a slot to preview the item.</div>
                 )}
               </div>
             </div>
@@ -730,7 +640,7 @@ export default function CharacterView(): JSX.Element {
             <div className="col-start-3 row-start-2 flex flex-col items-center justify-center gap-4">
               {(
                 [
-                  ["necklace", "Recklace"],
+                  ["necklace", "Necklace"],
                   ["ring1", "Ring 1"],
                   ["ring2", "Ring 2"],
                   ["trinket1", "Trinket 1"],

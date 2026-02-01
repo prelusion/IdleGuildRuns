@@ -9,9 +9,12 @@ import { MOBS } from "../phaser/mobs/mobVisuals";
 import { TypeMobs } from "../phaser/mobs/mobTypes";
 import { TownRallyController } from "../phaser/units/TownRallyController";
 import { buildUnitCatalog } from "../phaser/units/UnitProperties";
-import {useGameStore} from "../../state/store.ts";
+import type { UnitDef } from "../phaser/units/UnitTypes";
+import { useGameStore } from "../../state/store";
 
-const UNIT_DEFS = buildUnitCatalog();
+const UNIT_DEFS: Record<string, UnitDef> = buildUnitCatalog();
+
+const MOB_KEYS = [TypeMobs.LIZARDMAN + "1", TypeMobs.GHOST + "1"] as const;
 
 export class TownScene extends PartySceneBase {
   protected sceneId = "town" as const;
@@ -22,14 +25,10 @@ export class TownScene extends PartySceneBase {
 
   preload() {
     this.preloadMapsLibrary();
-
-    preloadMob(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
-    preloadMob(this, MOBS[TypeMobs.GHOST + "1"]);
+    for (const key of MOB_KEYS) preloadMob(this, MOBS[key]);
   }
 
   protected override getPartySpawn() {
-    // you can tweak this per-map if you want
-    // (UnitSystem also computes worldCenterX/Y but it's set after bounds)
     return { x: 1000, y: 1000, cols: 5, spacing: 48 };
   }
 
@@ -55,16 +54,12 @@ export class TownScene extends PartySceneBase {
     for (const m of members) {
       if (this.partyUnits.has(m.id)) continue;
 
-      const unitDefId = m.unitDefId;
-      if (!unitDefId) continue;
-
-      const def = UNIT_DEFS[unitDefId];
+      const def = UNIT_DEFS[m.unitDefId];
       if (!def) continue;
 
       const ox = (i % cols) * spacing;
       const oy = Math.floor(i / cols) * spacing;
 
-      //  Town controller
       const unit = this.units.add(def, x + ox, y + oy, new TownRallyController());
       unit.memberId = m.id;
 
@@ -78,11 +73,10 @@ export class TownScene extends PartySceneBase {
   create() {
     this.applyNearestFilters();
 
-    createMobAnimations(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
-    createMobAnimations(this, MOBS[TypeMobs.GHOST + "1"]);
+    for (const key of MOB_KEYS) createMobAnimations(this, MOBS[key]);
 
+    // MapSceneBase.setSceneMap already calls fitCameraToMap()
     this.setSceneMap(town as SceneMap);
-    this.fitCameraToMap();
 
     this.units = new UnitSystem(this);
     const map = this.currentMap!;
@@ -93,7 +87,7 @@ export class TownScene extends PartySceneBase {
       height: map.height * map.tileSize,
     });
 
-    //  Hot load town members in/out
+    // Hot load town members in/out
     this.enablePartyHotload();
   }
 
@@ -103,7 +97,6 @@ export class TownScene extends PartySceneBase {
 
   public override setSceneMap(map: SceneMap) {
     super.setSceneMap(map);
-    this.fitCameraToMap();
 
     if (this.units) {
       this.units.setWorldBounds({

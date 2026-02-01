@@ -1,8 +1,8 @@
 import Phaser from "phaser";
-import type {Dir4, LayerId} from "../mobs/mobTypes";
+import type { Dir4, LayerId } from "../mobs/mobTypes";
 import { animKey, textureKey } from "../mobs/mobLoader";
-import {dirFromDelta} from "./controller.ts";
-import type {UnitDef, UnitStats} from "./UnitTypes.ts";
+import { dirFromDelta } from "./controller";
+import type { UnitDef, UnitStats } from "./UnitTypes";
 
 type MoveIntent = { tx: number; ty: number; speed: number } | null;
 
@@ -28,17 +28,14 @@ export class UnitEntity {
   dir: Dir4 = "down";
   action: string = "idle";
 
-  // collision radius
   radius: number;
 
   id: string = `u_${Math.random().toString(16).slice(2)}_${Date.now().toString(16)}`;
   sceneCenterX = 0;
   sceneCenterY = 0;
 
-  // internal
   private flashUntilMs = 0;
-
-  private moveIntent: MoveIntent = null
+  private moveIntent: MoveIntent = null;
 
   constructor(scene: Phaser.Scene, def: UnitDef, x: number, y: number) {
     this.def = def;
@@ -60,17 +57,13 @@ export class UnitEntity {
     this.hitZone.setInteractive({ useHandCursor: true });
 
     this.hitZone.on("pointerdown", () => {
-      const memberId = this.memberId as string | undefined;
-      if (!memberId) return;
-      scene.events.emit("unit:selected", memberId);
+      if (!this.memberId) return;
+      scene.events.emit("unit:selected", this.memberId);
     });
 
     this.container.add(this.hitZone);
 
-
-
-
-    // create sprites per layer, but do NOT assume "idle" exists for every layer
+    // Create sprites per layer; do not assume "idle" exists for every layer
     for (const layer of def.visuals.layers) {
       const initAction = this.findFirstActionWithLayer(layer.id);
       if (!initAction) continue;
@@ -100,7 +93,7 @@ export class UnitEntity {
     this.x = x;
     this.y = y;
     this.container.setPosition(x, y);
-    this.container.setDepth(Math.floor(y)); // y-sort-ish
+    this.container.setDepth(Math.floor(y));
   }
 
   play(action: string, dir: Dir4) {
@@ -130,7 +123,6 @@ export class UnitEntity {
     }
   }
 
-  /** brief red flash for "damage taken" */
   flashDamage(nowMs: number, durationMs = 90) {
     this.flashUntilMs = Math.max(this.flashUntilMs, nowMs + durationMs);
     for (const spr of Object.values(this.layers)) spr.setTint(0xff4444);
@@ -178,16 +170,13 @@ export class UnitEntity {
     this.moveIntent = { tx, ty, speed };
   }
 
-  /** Stop movement */
   intentStop() {
     this.moveIntent = null;
   }
 
-  /** Optional: read-only helper */
   get hasMoveIntent() {
     return this.moveIntent !== null;
   }
-
 
   applyIntent(dtMs: number) {
     if (!this.moveIntent) return;
@@ -210,13 +199,11 @@ export class UnitEntity {
 
     this.setPos(this.x + (vx * dtMs) / 1000, this.y + (vy * dtMs) / 1000);
 
-    //  Update facing only if we actually moved a bit
     const mx = this.x - beforeX;
     const my = this.y - beforeY;
     const moved = Math.hypot(mx, my);
 
     if (moved > 0.2) {
-      // use actual movement direction, not dx/dy to target
       this.dir = dirFromDelta(mx, my);
     }
   }

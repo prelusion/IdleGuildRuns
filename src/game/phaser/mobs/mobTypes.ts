@@ -21,7 +21,7 @@ export const TypeMobs = {
   SLIMEBOSS: "slime_boss",
   VAMPIRES: "vampires",
   ZOMBIE: "zombie",
-}
+} as const;
 
 export type LayerId =
   | "body"
@@ -47,7 +47,7 @@ export type LayerId =
   | "back"
   | "death_effects"
   | "image"
-  | "attack";  // Verify if attack is really needed here..;
+  | "attack";
 
 export type MobLayerDef = {
   id: LayerId;
@@ -68,14 +68,14 @@ export type MobActionDef = {
 };
 
 export type MobDef = {
-  id: string;        // "slime1"
-  basePath: string;  // "/assets/mobs/slime/slime1"
+  id: string; // "slime1"
+  basePath: string; // "assets/mobs/slime/slime1" (you prepend "/" in loader)
   frameW: number;
   frameH: number;
-  cols: number;      // default columns if action doesn't override
-  scale?: number;    // e.g. 2 for 64->128 world
+  cols: number; // default columns if action doesn't override
+  scale?: number; // e.g. 2 for 64->128 world
   actions: Record<string, MobActionDef>;
-  layers: MobLayerDef[]; // draw order
+  layers: MobLayerDef[];
   fpsDefault: number;
 };
 
@@ -84,4 +84,4 @@ export const DIR_ROW: Record<Dir4, number> = {
   up: 1,
   left: 2,
   right: 3,
-};
+} as const;

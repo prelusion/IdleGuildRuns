@@ -1,20 +1,30 @@
+import Phaser from "phaser";
 import type { SceneMap } from "../phaser/scenes/maps/scenes";
+import type { SceneId } from "../../state/gameTypes";
+
 import { PartySceneBase } from "./PartySceneBase";
 import { UnitSystem } from "../phaser/units/UnitSystem";
 import { useGameStore } from "../../state/store";
-import {getOpenWorldScene} from "../phaser/scenes/maps/sceneCatalog";
+import { getOpenWorldScene } from "../phaser/scenes/maps/sceneCatalog";
 
-// Optional: mobs (later you can customize per sceneDef.mobs)
 import { preloadMob, createMobAnimations } from "../phaser/mobs/mobLoader";
 import { MOBS } from "../phaser/mobs/mobVisuals";
 import { TypeMobs } from "../phaser/mobs/mobTypes";
-import {WanderWhenIdleController} from "../phaser/units/WanderWhenIdleController.ts";
-import {EnemyController} from "../phaser/units/controller.ts";
-import {buildUnitCatalog} from "../phaser/units/UnitProperties.ts";
-import Phaser from "phaser";
-import type {SceneId} from "../../state/gameTypes.ts";
+import { WanderWhenIdleController } from "../phaser/units/WanderWhenIdleController";
+import { EnemyController } from "../phaser/units/controller";
+import { buildUnitCatalog } from "../phaser/units/UnitProperties";
+import type { UnitDef } from "../phaser/units/UnitTypes";
 
-const UNIT_DEFS = buildUnitCatalog();
+const UNIT_DEFS: Record<string, UnitDef> = buildUnitCatalog();
+
+const MOB_KEYS = [
+  TypeMobs.LIZARDMAN + "1",
+  TypeMobs.GHOST + "1",
+  TypeMobs.SLIME + "4",
+  TypeMobs.SLIME + "5",
+  TypeMobs.SLIME + "6",
+  TypeMobs.SLIMEBOSS + "1",
+] as const;
 
 export class OpenWorldScene extends PartySceneBase {
   protected sceneId: SceneId = "plains/autumn_1";
@@ -29,15 +39,7 @@ export class OpenWorldScene extends PartySceneBase {
 
   preload() {
     this.preloadMapsLibrary();
-
-    // Example: load a couple mobs once. Later you can read sceneDef.mobs
-    preloadMob(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
-    preloadMob(this, MOBS[TypeMobs.GHOST + "1"]);
-
-    preloadMob(this, MOBS[TypeMobs.SLIME + "4"]);
-    preloadMob(this, MOBS[TypeMobs.SLIME + "5"]);
-    preloadMob(this, MOBS[TypeMobs.SLIME + "6"]);
-    preloadMob(this, MOBS[TypeMobs.SLIMEBOSS + "1"]);
+    for (const key of MOB_KEYS) preloadMob(this, MOBS[key]);
   }
 
   protected override getPartySpawn() {
@@ -65,13 +67,18 @@ export class OpenWorldScene extends PartySceneBase {
     for (const m of members) {
       if (this.partyUnits.has(m.id)) continue;
 
-      const def = (UNIT_DEFS)[m.unitDefId];
+      const def = UNIT_DEFS[m.unitDefId];
       if (!def) continue;
 
       const ox = (i % cols) * spacing;
       const oy = Math.floor(i / cols) * spacing;
 
-      const unit = this.units.add(def, x + ox, y + oy, new WanderWhenIdleController(new EnemyController()));
+      const unit = this.units.add(
+        def,
+        x + ox,
+        y + oy,
+        new WanderWhenIdleController(new EnemyController())
+      );
       unit.memberId = m.id;
 
       this.partyUnits.set(m.id, unit);
@@ -83,28 +90,20 @@ export class OpenWorldScene extends PartySceneBase {
 
   create(data: { sceneId?: SceneId }) {
     this.applyNearestFilters();
+    for (const key of MOB_KEYS) createMobAnimations(this, MOBS[key]);
 
-    createMobAnimations(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
-    createMobAnimations(this, MOBS[TypeMobs.GHOST + "1"]);
-
-    createMobAnimations(this, MOBS[TypeMobs.SLIME + "4"]);
-    createMobAnimations(this, MOBS[TypeMobs.SLIME + "5"]);
-    createMobAnimations(this, MOBS[TypeMobs.SLIME + "6"]);
-    createMobAnimations(this, MOBS[TypeMobs.SLIMEBOSS + "1"]);
-
-    //  accept sceneId from Phaser start data (or fallback to store)
+    // accept sceneId from Phaser start data (or fallback to store)
     const fallback = useGameStore.getState().selectedSceneId;
     this.sceneId = data.sceneId ?? fallback;
 
     const def = getOpenWorldScene(this.sceneId);
     if (!def) {
-      console.warn(`[OpenWorldScene] Unknown sceneId "${this.sceneId}". Falling back to first map.`);
-      // hard fallback: just pick whatever selectedSceneId currently is, or do nothing
+      console.warn(`[OpenWorldScene] Unknown sceneId "${this.sceneId}".`);
       return;
     }
 
-    this.setSceneMap(def.map as SceneMap);
-    this.fitCameraToMap();
+    // MapSceneBase.setSceneMap already calls fitCameraToMap()
+    this.setSceneMap(def.map);
 
     this.units = new UnitSystem(this);
     const map = this.currentMap!;
@@ -158,10 +157,8 @@ export class OpenWorldScene extends PartySceneBase {
     this.units.assignIds();
   }
 
-
   public override setSceneMap(map: SceneMap) {
     super.setSceneMap(map);
-    this.fitCameraToMap();
 
     if (this.units) {
       this.units.setWorldBounds({

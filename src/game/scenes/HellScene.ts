@@ -9,10 +9,20 @@ import { MOBS } from "../phaser/mobs/mobVisuals";
 import { TypeMobs } from "../phaser/mobs/mobTypes";
 import { preloadMob, createMobAnimations } from "../phaser/mobs/mobLoader";
 import { buildUnitCatalog } from "../phaser/units/UnitProperties";
+import type { UnitDef } from "../phaser/units/UnitTypes";
 import { EnemyController } from "../phaser/units/controller";
 import { WanderWhenIdleController } from "../phaser/units/WanderWhenIdleController";
 
-const UNIT_DEFS = buildUnitCatalog();
+const UNIT_DEFS: Record<string, UnitDef> = buildUnitCatalog();
+
+const MOB_KEYS = [
+  TypeMobs.SLIME + "4",
+  TypeMobs.SLIME + "5",
+  TypeMobs.SLIME + "6",
+  TypeMobs.SLIMEBOSS + "1",
+  TypeMobs.LIZARDMAN + "1",
+  TypeMobs.GHOST + "1",
+] as const;
 
 export class HellScene extends PartySceneBase {
   protected sceneId = "hell" as const;
@@ -26,16 +36,8 @@ export class HellScene extends PartySceneBase {
   }
 
   preload() {
-    console.log("PRELOAD HELL SCENE")
-
     this.preloadMapsLibrary();
-
-    preloadMob(this, MOBS[TypeMobs.SLIME + "4"]);
-    preloadMob(this, MOBS[TypeMobs.SLIME + "5"]);
-    preloadMob(this, MOBS[TypeMobs.SLIME + "6"]);
-    preloadMob(this, MOBS[TypeMobs.SLIMEBOSS + "1"]);
-    preloadMob(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
-    preloadMob(this, MOBS[TypeMobs.GHOST + "1"]);
+    for (const key of MOB_KEYS) preloadMob(this, MOBS[key]);
   }
 
   protected override getPartySpawn() {
@@ -45,15 +47,10 @@ export class HellScene extends PartySceneBase {
   create() {
     this.applyNearestFilters();
 
+    // MapSceneBase.setSceneMap already calls fitCameraToMap()
     this.setSceneMap(hell as SceneMap);
-    this.fitCameraToMap();
 
-    createMobAnimations(this, MOBS[TypeMobs.SLIME + "4"]);
-    createMobAnimations(this, MOBS[TypeMobs.SLIME + "5"]);
-    createMobAnimations(this, MOBS[TypeMobs.SLIME + "6"]);
-    createMobAnimations(this, MOBS[TypeMobs.SLIMEBOSS + "1"]);
-    createMobAnimations(this, MOBS[TypeMobs.LIZARDMAN + "1"]);
-    createMobAnimations(this, MOBS[TypeMobs.GHOST + "1"]);
+    for (const key of MOB_KEYS) createMobAnimations(this, MOBS[key]);
 
     this.units = new UnitSystem(this);
 
@@ -69,11 +66,10 @@ export class HellScene extends PartySceneBase {
       if (u.def.team === "enemy") this.units.remove(u);
     });
 
-    //  Hotload party members for hell
+    // Hotload party members for hell
     this.enablePartyHotload();
 
     this.units.assignIds();
-
     this.nextSpawnAt = this.time.now + 400;
   }
 
@@ -112,7 +108,6 @@ export class HellScene extends PartySceneBase {
 
   public override setSceneMap(map: SceneMap) {
     super.setSceneMap(map);
-    this.fitCameraToMap();
 
     if (this.units) {
       this.units.setWorldBounds({

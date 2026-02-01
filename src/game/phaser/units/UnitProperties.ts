@@ -1,6 +1,5 @@
-
-import {MOBS} from "../mobs/mobVisuals.ts";
-import type {Team, UnitDef, UnitKind, UnitStats} from "./UnitTypes.ts";
+import { MOBS } from "../mobs/mobVisuals";
+import type { Team, UnitDef, UnitKind, UnitStats } from "./UnitTypes";
 
 const DEFAULTS: Record<UnitKind, Omit<UnitStats, "hp">> = {
   mob: {
@@ -75,8 +74,7 @@ const OVERRIDES: Partial<Record<string, Partial<UnitDef>>> = {
     radius: 60,
   },
   ghost1_worker: {
-    // This is not in MOBS by default; this is a gameplay unit using ghost1 visuals.
-    // We’ll define it manually below in EXTRA_UNITS.
+    // Defined in EXTRA_UNITS (not in MOBS by default)
   },
 };
 
@@ -91,7 +89,6 @@ const EXTRA_UNITS: Record<string, UnitDef> = {
   },
 };
 
-// 6) Build the full catalog
 export function buildUnitCatalog(): Record<string, UnitDef> {
   const out: Record<string, UnitDef> = {};
 
@@ -109,10 +106,15 @@ export function buildUnitCatalog(): Record<string, UnitDef> {
     };
 
     const ov = OVERRIDES[id];
-    if (ov) out[id] = { ...out[id], ...ov, baseStats: ov.baseStats ?? out[id].baseStats };
+    if (ov) {
+      out[id] = {
+        ...out[id],
+        ...ov,
+        baseStats: ov.baseStats ?? out[id].baseStats,
+      };
+    }
   }
 
   Object.assign(out, EXTRA_UNITS);
-
   return out;
 }

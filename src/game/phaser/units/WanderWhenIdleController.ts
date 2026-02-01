@@ -1,13 +1,16 @@
-// WanderWhenIdleController.ts
 import type { UnitController, UnitContext } from "./controller";
 import { dirFromDelta } from "./controller";
-import {safePlay} from "./UnitEntity.ts";
+import { safePlay } from "./UnitEntity";
 
 function randFloat(min: number, max: number) {
   return Math.random() * (max - min) + min;
 }
 function randInt(min: number, max: number) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+function isCombatLikeAction(action: string) {
+  return action.includes("attack") || action.startsWith("run");
 }
 
 export class WanderWhenIdleController implements UnitController {
@@ -27,25 +30,24 @@ export class WanderWhenIdleController implements UnitController {
     this.base = base;
   }
 
-
   update(ctx: UnitContext) {
     const { self, nowMs } = ctx;
 
-    // Let combat do its thing first
+    // Let combat/base controller update first
     this.base.update(ctx);
 
-    // If combat set an attack or chase-like action, don't override it
-    if (self.action.includes("attack") || self.action.startsWith("run")) return;
+    // Don't override combat-ish actions
+    if (isCombatLikeAction(self.action)) return;
 
-    // If we’re already moving due to combat chase, don't override
+    // If already moving due to some controller intent, don't override
     if (self.hasMoveIntent) return;
 
-    // Wander logic only when idle (no combat target)
+    // Wander logic only when idle
     if (nowMs >= this.nextThinkAt) {
       if (this.state === "idle") {
         if (Math.random() < this.restBias) {
           self.intentStop();
-          safePlay(self, "idle", self.dir)
+          safePlay(self, "idle", self.dir);
           this.nextThinkAt = nowMs + randInt(500, 1400);
           return;
         }
@@ -69,11 +71,9 @@ export class WanderWhenIdleController implements UnitController {
 
       self.intentMoveTo(this.target.x, this.target.y, self.stats.walkSpeed);
 
-      //  face the intended direction ONLY if dist is meaningful
       const faceDir = dist > 2 ? dirFromDelta(dx, dy) : self.dir;
       safePlay(self, self.def.visuals.actions["walk"] ? "walk" : "idle", faceDir);
 
-      //  Arrival (use a slightly larger threshold than 18 if collisions exist)
       const ARRIVE = 22;
       if (dist < ARRIVE) {
         this.state = "idle";
@@ -85,21 +85,19 @@ export class WanderWhenIdleController implements UnitController {
         return;
       }
 
-      //  Stuck detection: if dist isn't improving for a while, re-pick target
+      // Stuck detection: if dist isn't improving, re-pick target
       if (dist < this.lastDist - 0.5) {
         this.lastDist = dist;
-        this.stuckUntilMs = nowMs + 800; // give it 0.8s to keep improving
+        this.stuckUntilMs = nowMs + 800;
       } else if (this.stuckUntilMs !== 0 && nowMs > this.stuckUntilMs) {
-        // stuck: abandon target
         this.state = "idle";
         self.intentStop();
         safePlay(self, "idle", self.dir);
-        this.nextThinkAt = nowMs + randInt(150, 450); // re-think soon
+        this.nextThinkAt = nowMs + randInt(150, 450);
         this.stuckUntilMs = 0;
         this.lastDist = Infinity;
         return;
       } else if (this.stuckUntilMs === 0) {
-        // initialize stuck window on first walk frame
         this.stuckUntilMs = nowMs + 800;
         this.lastDist = dist;
       }

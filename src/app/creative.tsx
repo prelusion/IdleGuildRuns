@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { useAppStore } from "../state/store.ts";
-import type {Accessory, AllArmorType, AllQuality, Gear, Item, Quality, Weapon} from "./types.ts";
+import type { Accessory, AllArmorType, AllQuality, Gear, Item, Quality, Weapon } from "./types.ts";
+import { normalizeSrc } from "./types.ts";
 import ItemPreview from "./ItemPreview.tsx";
 
 type AnyItem = (Item | Gear | Weapon | Accessory) & {
@@ -14,41 +15,11 @@ const QUALITY_META: Record<
   Quality,
   { label: string; border: string; tint: string; iconTint: string; order: number }
 > = {
-  common: {
-    label: "Common",
-    border: "border-zinc-300/60",
-    tint: "from-zinc-400/20 to-zinc-200/5",
-    iconTint: "rgba(244,244,245,0.92)",
-    order: 1,
-  },
-  uncommon: {
-    label: "Uncommon",
-    border: "border-emerald-400/60",
-    tint: "from-emerald-500/20 to-emerald-300/5",
-    iconTint: "rgba(52,211,153,0.92)",
-    order: 2,
-  },
-  rare: {
-    label: "Rare",
-    border: "border-sky-400/60",
-    tint: "from-sky-500/20 to-sky-300/5",
-    iconTint: "rgba(56,189,248,0.92)",
-    order: 3,
-  },
-  epic: {
-    label: "Epic",
-    border: "border-fuchsia-400/60",
-    tint: "from-fuchsia-500/20 to-violet-300/5",
-    iconTint: "rgba(217,70,239,0.92)",
-    order: 4,
-  },
-  legendary: {
-    label: "Legendary",
-    border: "border-amber-400/60",
-    tint: "from-amber-500/20 to-orange-300/5",
-    iconTint: "rgba(251,191,36,0.92)",
-    order: 5,
-  },
+  common: { label: "Common", border: "border-zinc-300/60", tint: "from-zinc-400/20 to-zinc-200/5", iconTint: "rgba(244,244,245,0.92)", order: 1 },
+  uncommon: { label: "Uncommon", border: "border-emerald-400/60", tint: "from-emerald-500/20 to-emerald-300/5", iconTint: "rgba(52,211,153,0.92)", order: 2 },
+  rare: { label: "Rare", border: "border-sky-400/60", tint: "from-sky-500/20 to-sky-300/5", iconTint: "rgba(56,189,248,0.92)", order: 3 },
+  epic: { label: "Epic", border: "border-fuchsia-400/60", tint: "from-fuchsia-500/20 to-violet-300/5", iconTint: "rgba(217,70,239,0.92)", order: 4 },
+  legendary: { label: "Legendary", border: "border-amber-400/60", tint: "from-amber-500/20 to-orange-300/5", iconTint: "rgba(251,191,36,0.92)", order: 5 },
 };
 
 function isWeapon(x: AnyItem): x is AnyItem & Weapon {
@@ -58,17 +29,6 @@ function isGear(x: AnyItem): x is AnyItem & Gear {
   return "armor" in x && "type" in x && "rank" in x && !isWeapon(x);
 }
 
-function normalizeSrc(src: string) {
-  // Your JSON shows: "icons/axe/axe-0.png" etc.
-  // Your public folder shows: /public/assets/icons/gear/...
-  // If you actually serve icons under /assets/, this makes them work:
-  if (src.startsWith("/")) return src;
-  if (src.startsWith("assets/")) return `/${src}`;
-  if (src.startsWith("icons/")) return `/assets/${src}`;
-
-  return `/${src}`;
-}
-
 async function fetchJson<T>(url: string): Promise<T> {
   const res = await fetch(url);
 
@@ -76,36 +36,21 @@ async function fetchJson<T>(url: string): Promise<T> {
   const text = await res.text();
 
   if (!res.ok) {
-    console.error("FETCH FAILED", {
-      url,
-      status: res.status,
-      statusText: res.statusText,
-      contentType,
-      bodyStart: text.slice(0, 200),
-    });
+    console.error("FETCH FAILED", { url, status: res.status, statusText: res.statusText, contentType, bodyStart: text.slice(0, 200) });
     throw new Error(`HTTP ${res.status} for ${url}`);
   }
 
   if (!contentType.includes("application/json")) {
-    console.warn("NOT JSON RESPONSE", {
-      url,
-      contentType,
-      bodyStart: text.slice(0, 200),
-    });
+    console.warn("NOT JSON RESPONSE", { url, contentType, bodyStart: text.slice(0, 200) });
   }
 
   try {
     return JSON.parse(text) as T;
   } catch (e) {
-    console.error("JSON PARSE ERROR", {
-      url,
-      contentType,
-      bodyStart: text.slice(0, 200),
-    });
+    console.error("JSON PARSE ERROR", { url, contentType, bodyStart: text.slice(0, 200) });
     throw e;
   }
 }
-
 
 export default function Creative() {
   const creativeEnabled = useAppStore((s) => s.creativeEnabled);
@@ -115,7 +60,7 @@ export default function Creative() {
   const [loading, setLoading] = useState(false);
   const [err, setErr] = useState<string | null>(null);
 
-  const [selectedItem, setSelectedItem] = useState<Item | null>(null);
+  const [selectedItem, setSelectedItem] = useState<AnyItem | null>(null);
 
   // filters
   const [q, setQ] = useState("");
@@ -147,15 +92,16 @@ export default function Creative() {
 
         for (const s of accessories) {
           reqs.push(
-            fetchJson<Accessory[]>(`${base}/out-accessories/${s}.json`)
-              .then((arr) => arr.map((it) => ({ ...it, __group: "accessories" as const, slot: s })))
+            fetchJson<Accessory[]>(`${base}/out-accessories/${s}.json`).then((arr) =>
+              arr.map((it) => ({ ...it, __group: "accessories" as const, slot: s }))
+            )
           );
         }
 
         for (const s of armor) {
           reqs.push(
             fetchJson<Array<Gear>>(`${base}/out-armor/${s}.json`).then((arr) =>
-              arr.map((it) => ({ ...(it), __group: "armor",  slot: s }))
+              arr.map((it) => ({ ...it, __group: "armor", slot: s }))
             )
           );
         }
@@ -163,7 +109,7 @@ export default function Creative() {
         for (const s of weapons) {
           reqs.push(
             fetchJson<Array<Weapon>>(`${base}/out-weapons/${s}.json`).then((arr) =>
-              arr.map((it) => ({ ...(it), __group: "weapons",  slot: s }))
+              arr.map((it) => ({ ...it, __group: "weapons", slot: s }))
             )
           );
         }
@@ -175,18 +121,13 @@ export default function Creative() {
       } catch (e: unknown) {
         if (cancelled) return;
 
-        const message =
-          e instanceof Error ? e.message :
-            typeof e === "string" ? e :
-              "Failed loading items";
-
+        const message = e instanceof Error ? e.message : typeof e === "string" ? e : "Failed loading items";
         setErr(message);
       } finally {
         if (!cancelled) setLoading(false);
       }
     }
 
-    // only load if panel can be used (optional)
     if (creativeEnabled) loadAll();
 
     return () => {
@@ -213,9 +154,7 @@ export default function Creative() {
       arr = arr.filter((it) => (isGear(it) ? it.type === gearType : false));
     }
 
-    if (needle) {
-      arr = arr.filter((it) => it.name.toLowerCase().includes(needle));
-    }
+    if (needle) arr = arr.filter((it) => it.name.toLowerCase().includes(needle));
 
     const dir = sortDir === "asc" ? 1 : -1;
 
@@ -254,10 +193,8 @@ export default function Creative() {
         creativeEnabled ? "visible" : "invisible",
       ].join(" ")}
     >
-      {
-        selectedItem &&
-        <ItemPreview item={selectedItem} customClass={""} />
-      }
+      {selectedItem && <ItemPreview item={selectedItem} customClass={""} />}
+
       {/* Controls */}
       <div className="mb-2 grid grid-cols-2 gap-2">
         <input
@@ -295,7 +232,7 @@ export default function Creative() {
 
         <select
           value={quality}
-          onChange={(e) => setQuality((e.target.value as AllQuality))}
+          onChange={(e) => setQuality(e.target.value as AllQuality)}
           className="h-8 rounded-md border border-white/15 bg-white/10 px-2 text-xs text-white outline-none"
         >
           <option value="all">Any quality</option>
@@ -308,7 +245,7 @@ export default function Creative() {
 
         <select
           value={gearType}
-          onChange={(e) => setGearType((e.target.value as AllArmorType))}
+          onChange={(e) => setGearType(e.target.value as AllArmorType)}
           className="h-8 rounded-md border border-white/15 bg-white/10 px-2 text-xs text-white outline-none"
           title="Only applies to armor (Gear)"
         >
@@ -357,23 +294,17 @@ export default function Creative() {
 
             return (
               <button
-                key={`${it.__group}-${it. slot}-${it.name}-${idx}`}
+                key={`${it.__group}-${it.slot}-${it.name}-${idx}`}
                 className="group rounded-lg p-1 text-left hover:bg-white/5"
-                title={`${it.name} • ${it.__group}/${it. slot} • ${qm.label}`}
+                title={`${it.name} • ${it.__group}/${it.slot} • ${qm.label}`}
                 onClick={() => {
                   setSelectedItem(it);
                   setInventoryItems(it);
                 }}
               >
                 <div
-                  className={[
-                    "relative h-14 w-14 rounded-lg border bg-gradient-to-br overflow-hidden",
-                    qm.border,
-                    qm.tint,
-                  ].join(" ")}
-                  style={{
-                    boxShadow: "0 0 0 1px rgba(255,255,255,0.06) inset",
-                  }}
+                  className={["relative h-14 w-14 rounded-lg border bg-gradient-to-br overflow-hidden", qm.border, qm.tint].join(" ")}
+                  style={{ boxShadow: "0 0 0 1px rgba(255,255,255,0.06) inset" }}
                 >
                   <img
                     src={normalizeSrc(it.src)}
@@ -386,21 +317,16 @@ export default function Creative() {
                     }}
                     draggable={false}
                   />
-                  {/* color wash */}
                 </div>
 
-                <div className="mt-1 line-clamp-2 text-[10px] leading-3 text-white/85">
-                  {it.name}
-                </div>
+                <div className="mt-1 line-clamp-2 text-[10px] leading-3 text-white/85">{it.name}</div>
               </button>
             );
           })}
         </div>
 
         {!loading && !err && filtered.length === 0 && (
-          <div className="py-8 text-center text-xs text-white/60">
-            No items match your filters.
-          </div>
+          <div className="py-8 text-center text-xs text-white/60">No items match your filters.</div>
         )}
       </div>
     </div>

@@ -1,19 +1,8 @@
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { createGame, type GameBridge } from "../phaser/createGame";
-import { useAppStore } from "../../state/store";
-import { useGameStore } from "../../state/store";
+import { useAppStore, useGameStore } from "../../state/store";
 import type { PlacedTile } from "../phaser/scenes/maps/scenes";
-
-function computeSquareSize() {
-  const vw = window.innerWidth;
-  const vh = window.innerHeight;
-
-  const reservedBelow = Math.min(260, Math.floor(vh * 0.32));
-  const availableH = Math.max(240, vh - reservedBelow);
-
-  const size = Math.floor(Math.min(vw, availableH, 920));
-  return Math.max(240, size);
-}
+import {computeSquareSize} from "./ViewportSizing.ts";
 
 export function PhaserViewport(props: {
   onCanvasReady?: (canvas: HTMLCanvasElement | null) => void;
@@ -25,19 +14,9 @@ export function PhaserViewport(props: {
     typeof window === "undefined" ? 480 : computeSquareSize()
   );
 
-  // App/UI store
   const editorEnabled = useAppStore((s) => s.editorEnabled);
-  const editorLayer = useAppStore((s) => s.editorLayer);
-  const brushKind = useAppStore((s) => s.brushKind);
-  const placeFreeObjectAt = useAppStore((s) => s.placeFreeObjectAt);
-  const eraseFreeObjectAt = useAppStore((s) => s.eraseFreeObjectAt)
-  const selectedSpriteKey = useAppStore((s) => s.selectedSpriteKey);
-  const selectedRotation = useAppStore((s) => s.selectedRotation);
-  const placeAt = useAppStore((s) => s.placeAt);
-  const eraseAt = useAppStore((s) => s.eraseAt);
   const sceneMap = useAppStore((s) => s.sceneMap);
 
-  // Game store: selected scene ("town" | "hell" | etc)
   const selectedSceneId = useGameStore((s) => s.selectedSceneId);
 
   useLayoutEffect(() => {
@@ -66,17 +45,17 @@ export function PhaserViewport(props: {
   }, []);
 
   // Switch scenes when selectedSceneId changes
-    useEffect(() => {
-      const b = bridgeRef.current;
-      if (!b) return;
+  useEffect(() => {
+    const b = bridgeRef.current;
+    if (!b) return;
 
-      b.startScene(selectedSceneId);
-      b.resize(size);
+    b.startScene(selectedSceneId);
+    b.resize(size);
 
-      if (editorEnabled) {
-        b.setSceneMap(sceneMap);
-      }
-    }, [selectedSceneId, size, editorEnabled, sceneMap]);
+    if (editorEnabled) {
+      b.setSceneMap(sceneMap);
+    }
+  }, [selectedSceneId, size, editorEnabled, sceneMap]);
 
   // Keep active scene updated with latest map edits
   useEffect(() => {
@@ -88,8 +67,7 @@ export function PhaserViewport(props: {
     bridgeRef.current?.resize(size);
   }, [size]);
 
-
-  // Editor paint (unchanged)
+  // Editor paint: bind once; read latest store state inside handlers
   useEffect(() => {
     const canvas = bridgeRef.current?.getCanvas();
     if (!canvas) return;
@@ -103,7 +81,15 @@ export function PhaserViewport(props: {
     let lastTx: number | null = null;
     let lastTy: number | null = null;
 
+    const pushLatestMapToPhaser = () => {
+      bridgeRef.current?.setSceneMap(useAppStore.getState().sceneMap);
+    };
+
     const paintAtClient = (clientX: number, clientY: number, button: number) => {
+      // Always read freshest store state (prevents stale closure issues)
+      const s = useAppStore.getState();
+      if (!s.editorEnabled) return;
+
       const rect = canvas.getBoundingClientRect();
       const cx = clientX - rect.left;
       const cy = clientY - rect.top;
@@ -112,46 +98,45 @@ export function PhaserViewport(props: {
       const wx = cx / z;
       const wy = cy / z;
 
-      if (brushKind === "object") {
+      if (s.brushKind === "object") {
         if (button === 2) {
-          eraseFreeObjectAt(wx, wy);
-          bridgeRef.current?.setSceneMap(useAppStore.getState().sceneMap);
+          s.eraseFreeObjectAt(wx, wy);
+          pushLatestMapToPhaser();
           return;
         }
 
-        if (!selectedSpriteKey) return;
+        if (!s.selectedSpriteKey) return;
 
-        placeFreeObjectAt(wx, wy);
-        bridgeRef.current?.setSceneMap(useAppStore.getState().sceneMap);
+        s.placeFreeObjectAt(wx, wy);
+        pushLatestMapToPhaser();
         return;
       }
 
-      const tx = Math.floor(wx / sceneMap.tileSize);
-      const ty = Math.floor(wy / sceneMap.tileSize);
+      const map = s.sceneMap;
+      const tx = Math.floor(wx / map.tileSize);
+      const ty = Math.floor(wy / map.tileSize);
 
-      if (tx < 0 || ty < 0 || tx >= sceneMap.width || ty >= sceneMap.height) return;
+      if (tx < 0 || ty < 0 || tx >= map.width || ty >= map.height) return;
       if (tx === lastTx && ty === lastTy) return;
 
       lastTx = tx;
       lastTy = ty;
 
       if (button === 2) {
-        eraseAt(tx, ty);
-        bridgeRef.current?.placeTile(tx, ty, null, editorLayer);
+        s.eraseAt(tx, ty);
+        bridgeRef.current?.placeTile(tx, ty, null, s.editorLayer);
         return;
       }
 
-      if (!selectedSpriteKey) return;
+      if (!s.selectedSpriteKey) return;
 
-      const placed: PlacedTile = { key: selectedSpriteKey, rotation: selectedRotation };
-      placeAt(tx, ty);
-      bridgeRef.current?.placeTile(tx, ty, placed, editorLayer);
+      const placed: PlacedTile = { key: s.selectedSpriteKey, rotation: s.selectedRotation };
+      s.placeAt(tx, ty);
+      bridgeRef.current?.placeTile(tx, ty, placed, s.editorLayer);
     };
 
-
-
     const onPointerDown = (ev: PointerEvent) => {
-      if (!editorEnabled) return;
+      if (!useAppStore.getState().editorEnabled) return;
 
       isDown = true;
       activePointerId = ev.pointerId;
@@ -169,7 +154,7 @@ export function PhaserViewport(props: {
     };
 
     const onPointerMove = (ev: PointerEvent) => {
-      if (!editorEnabled || !isDown) return;
+      if (!useAppStore.getState().editorEnabled || !isDown) return;
       if (activePointerId !== ev.pointerId) return;
 
       const now = performance.now();
@@ -197,11 +182,13 @@ export function PhaserViewport(props: {
       ev.preventDefault();
     };
 
+    const onContextMenu = (e: Event) => e.preventDefault();
+
     canvas.addEventListener("pointerdown", onPointerDown);
     canvas.addEventListener("pointermove", onPointerMove);
     canvas.addEventListener("pointerup", endStroke);
     canvas.addEventListener("pointercancel", endStroke);
-    canvas.addEventListener("contextmenu", (e) => e.preventDefault());
+    canvas.addEventListener("contextmenu", onContextMenu);
 
     canvas.style.touchAction = "none";
 
@@ -210,18 +197,9 @@ export function PhaserViewport(props: {
       canvas.removeEventListener("pointermove", onPointerMove);
       canvas.removeEventListener("pointerup", endStroke);
       canvas.removeEventListener("pointercancel", endStroke);
+      canvas.removeEventListener("contextmenu", onContextMenu);
     };
-  }, [
-    editorEnabled,
-    editorLayer,
-    selectedSpriteKey,
-    selectedRotation,
-    sceneMap.tileSize,
-    sceneMap.width,
-    sceneMap.height,
-    eraseAt,
-    placeAt,
-  ]);
+  }, [editorEnabled]); // keeps behavior (disabled stops doing anything)
 
   return (
     <div

@@ -12,34 +12,27 @@ export type Rank =
 export type ArmorType = "cloth" | "leather" | "mail" | "plate";
 export type AllArmorType = "all" | "cloth" | "leather" | "mail" | "plate";
 
-export type Quality =
-  | "common"
-  | "uncommon"
-  | "rare"
-  | "epic"
-  | "legendary";
-export type AllQuality =
-  | "all"
-  | "common"
-  | "uncommon"
-  | "rare"
-  | "epic"
-  | "legendary";
+export type Quality = "common" | "uncommon" | "rare" | "epic" | "legendary";
+export type AllQuality = "all" | Quality;
 
 export type ItemLike = Item | Gear | Weapon | Accessory;
 export type ItemLikeOrNull = ItemLike | null;
 
 export const accessories = ["necklace", "ring", "trinket"] as const;
+export const accessoriesNumbered = ["necklace", "ring1","ring2", "trinket1", "trinket2"] as const;
 export const armor = ["belt", "bracers", "chest", "feet", "helmet", "trousers"] as const;
 export const weapons = ["axe", "bow", "crossbow", "dagger", "mace", "shield", "staff", "sword", "tome"] as const;
 
-export const TwoHanded = ["axe", "bow", "crossbow", "mace", "staff"]
-export const OneHanded = ["dagger", "sword"]
-export const OffHanded = ["shield", "tome"]
+export const TwoHanded = ["axe", "bow", "crossbow", "mace", "staff"] as const;
+export const OneHanded = ["dagger", "sword"] as const;
+export const OffHanded = ["shield", "tome"] as const;
 
-export type AccessoryKind = (typeof accessories)[number];
+export type AccessoryKind = (typeof accessoriesNumbered)[number];
 export type ArmorKind = (typeof armor)[number];
 export type WeaponKind = (typeof weapons)[number];
+export type OneHandedKind = (typeof OneHanded)[number];
+export type TwoHandedKind = (typeof TwoHanded)[number];
+export type OffHandedKind = (typeof OffHanded)[number];
 
 export type EquipmentSlot =
   | "helmet"
@@ -57,19 +50,45 @@ export type EquipmentSlot =
   | "leftHand"
   | "rightHand";
 
-
 /* =========================
    RULES
 ========================= */
 export type EquipSlotUI =
-  | "helmet" | "necklace" | "chest" | "bracers" | "gloves" | "belt" | "feet"| "trousers"
-  | "ring1" | "ring2" | "trinket1" | "trinket2"
-  | "leftHand" | "rightHand";
+  | "helmet"
+  | "necklace"
+  | "chest"
+  | "bracers"
+  | "gloves"
+  | "belt"
+  | "feet"
+  | "trousers"
+  | "ring1"
+  | "ring2"
+  | "trinket1"
+  | "trinket2"
+  | "leftHand"
+  | "rightHand";
 
 export type EquipSlot =
-  | "helmet" | "necklace" | "ring" | "trinket" | "chest" | "bracers" | "trousers" | "gloves" | "belt" | "feet" | "axe" | "bow" | "crossbow" | "dagger" | "mace" | "shield" | "staff" | "sword" | "tome"
-
-
+  | "helmet"
+  | "necklace"
+  | "ring"
+  | "trinket"
+  | "chest"
+  | "bracers"
+  | "trousers"
+  | "gloves"
+  | "belt"
+  | "feet"
+  | "axe"
+  | "bow"
+  | "crossbow"
+  | "dagger"
+  | "mace"
+  | "shield"
+  | "staff"
+  | "sword"
+  | "tome";
 
 /* =========================
    STATS
@@ -101,10 +120,10 @@ export type SecondaryStats = {
 };
 
 export interface Item {
-  slot: EquipSlot,
-  quality: Quality
+  slot: EquipSlot;
+  quality: Quality;
   name: string;
-  src: string
+  src: string;
   effect?: () => void;
   monetaryValue: number;
   value: number;
@@ -123,22 +142,18 @@ export interface Gear extends Item {
   rank: Rank;
   type: ArmorType;
   armor: number;
-
   primaryStats: Stats;
   secondaryStats: SecondaryStats;
 }
 
 export interface Weapon extends Item {
   rank: Rank;
-
   fromDamage: number;
   toDamage: number;
-
   parry: number;
   block: number;
   range: number;
   armor: number;
-
   primaryStats: Stats;
   secondaryStats: SecondaryStats;
 }
@@ -152,10 +167,13 @@ export function isGear(item: ItemLike): item is Gear {
 }
 
 export function hasStats(x: unknown): x is Gear | Weapon | Accessory {
-  return (
-    !!x &&
-    typeof x === "object" &&
-    "primaryStats" in (x as any) &&
-    "secondaryStats" in (x as any)
-  );
+  return !!x && typeof x === "object" && "primaryStats" in x && "secondaryStats" in x;
+}
+
+export function normalizeSrc(src: string) {
+  if (!src) return "";
+  if (src.startsWith("/")) return src;
+  if (src.startsWith("assets/")) return `/${src}`;
+  if (src.startsWith("icons/")) return `/assets/${src}`;
+  return `/${src}`;
 }

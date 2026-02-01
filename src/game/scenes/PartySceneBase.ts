@@ -5,9 +5,10 @@ import { MapSceneBase } from "./MapSceneBase";
 import type { UnitSystem } from "../phaser/units/UnitSystem";
 import type { UnitEntity } from "../phaser/units/UnitEntity";
 import { buildUnitCatalog } from "../phaser/units/UnitProperties";
+import type { UnitDef } from "../phaser/units/UnitTypes";
 import { AdventurerController, WorkerController } from "../phaser/units/controller";
 
-const UNIT_DEFS = buildUnitCatalog();
+const UNIT_DEFS: Record<string, UnitDef> = buildUnitCatalog();
 
 export abstract class PartySceneBase extends MapSceneBase {
   protected units!: UnitSystem;
@@ -26,18 +27,20 @@ export abstract class PartySceneBase extends MapSceneBase {
   /** Call after units is created */
   protected enablePartyHotload() {
     this.syncPartyMembersForScene();
-
     this.enableSelection();
-    this.input.on("pointerdown", (_p: Phaser.Input.Pointer, objs: any[]) => {
-      if (!objs || objs.length === 0) {
-        useGameStore.getState().clearSelectedMember();
-        // also clear tints
-        for (const [, u] of this.partyUnits) {
-          for (const spr of Object.values(u.layers)) spr.clearTint();
+
+    // Click empty space -> clear selection + clear highlights
+    this.input.on(
+      Phaser.Input.Events.POINTER_DOWN,
+      (_p: Phaser.Input.Pointer, currentlyOver: Phaser.GameObjects.GameObject[]) => {
+        if (currentlyOver.length === 0) {
+          useGameStore.getState().clearSelectedMember();
+          for (const [, u] of this.partyUnits) {
+            for (const spr of Object.values(u.layers)) spr.clearTint();
+          }
         }
       }
-    });
-
+    );
 
     this.unsubGuild = useGameStore.subscribe(
       (s) => s.guildMembers,
@@ -48,6 +51,7 @@ export abstract class PartySceneBase extends MapSceneBase {
       this.unsubGuild?.();
       this.unsubGuild = undefined;
       this.partyUnits.clear();
+      this.input.off(Phaser.Input.Events.POINTER_DOWN);
     });
   }
 
@@ -74,7 +78,7 @@ export abstract class PartySceneBase extends MapSceneBase {
     for (const m of members) {
       if (this.partyUnits.has(m.id)) continue;
 
-      const def = (UNIT_DEFS as any)[m.unitDefId];
+      const def = UNIT_DEFS[m.unitDefId];
       if (!def) continue;
 
       const ox = (i % cols) * spacing;
@@ -84,7 +88,7 @@ export abstract class PartySceneBase extends MapSceneBase {
         m.role === "worker" ? new WorkerController() : new AdventurerController();
 
       const unit = this.units.add(def, x + ox, y + oy, controller);
-      (unit as any).memberId = m.id; // handy for debugging / UI hooks
+      unit.memberId = m.id;
 
       this.partyUnits.set(m.id, unit);
       i++;
@@ -92,7 +96,6 @@ export abstract class PartySceneBase extends MapSceneBase {
 
     this.units.assignIds();
   }
-
 
   protected enableSelection() {
     this.events.on("unit:selected", (memberId: string) => {
@@ -118,5 +121,4 @@ export abstract class PartySceneBase extends MapSceneBase {
       spr.setTint(0xffff00);
     }
   }
-
 }

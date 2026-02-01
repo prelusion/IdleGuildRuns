@@ -1,45 +1,42 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo } from "react";
 import { PhaserViewport } from "../game/ui/PhaserViewport";
-import {useAppStore, useGameStore} from "../state/store";
 import Navigation from "./navigation.tsx";
 import Inventory from "./inventory.tsx";
 import Creative from "./creative.tsx";
 import GuildPanel from "./guildPanel.tsx";
 import CharacterView from "./CharacterView.tsx";
 import { MAPS_LIBRARY_MANIFEST, mapsLibraryUrlForKey } from "../game/assets/mapsLibraryManifest";
-
-
+import {useAppStore, appSelectors, useGameStore, gameSelectors} from "../state/store.ts";
 
 export default function App() {
-  const gold = useAppStore((s) => s.gold);
-  const ticks = useAppStore((s) => s.ticks);
-  const simConnected = useAppStore((s) => s.simConnected);
+  const gold = useAppStore(appSelectors.gold);
+  const ticks = useAppStore(appSelectors.ticks);
+  const simConnected = useAppStore(appSelectors.simConnected);
 
-  const brushKind = useAppStore((s) => s.brushKind);
-  const setBrushKind = useAppStore((s) => s.setBrushKind);
-  const selectedSceneId = useGameStore((s) => s.selectedSceneId);
-  const clearSelectedMember = useGameStore((s) => s.clearSelectedMember);
+  const brushKind = useAppStore(appSelectors.brushKind);
+  const setBrushKind = useAppStore(appSelectors.setBrushKind);
+  const selectedSceneId = useGameStore(gameSelectors.selectedSceneId);
+  const clearSelectedMember = useGameStore(gameSelectors.clearSelectedMember);
 
-  const applyOfflineProgress = useAppStore((s) => s.applyOfflineProgress);
-  const applySimSnapshot = useAppStore((s) => s.applySimSnapshot);
-  const setSimConnected = useAppStore((s) => s.setSimConnected);
-  const markSavedNow = useAppStore((s) => s.markSavedNow);
+  const applyOfflineProgress = useAppStore(appSelectors.applyOfflineProgress);
+  const setSimConnected = useAppStore(appSelectors.setSimConnected);
+  const markSavedNow = useAppStore(appSelectors.markSavedNow);
 
-  const uiPanel = useAppStore((s) => s.uiPanel);
-  const selectedBuildingId = useAppStore((s) => s.selectedBuildingId);
-  const closePanel = useAppStore((s) => s.closePanel);
+  const uiPanel = useAppStore(appSelectors.uiPanel);
+  const selectedBuildingId = useAppStore(appSelectors.selectedBuildingId);
+  const closePanel = useAppStore(appSelectors.closePanel);
 
-  const editorEnabled = useAppStore((s) => s.editorEnabled);
-  const setEditorEnabled = useAppStore((s) => s.setEditorEnabled);
-  const creativeEnabled = useAppStore((s) => s.creativeEnabled);
-  const setCreativeEnabled = useAppStore((s) => s.setCreativeEnabled);
-  const editorLayer = useAppStore((s) => s.editorLayer);
-  const setEditorLayer = useAppStore((s) => s.setEditorLayer);
-  const selectedSpriteKey = useAppStore((s) => s.selectedSpriteKey);
-  const setSelectedSpriteKey = useAppStore((s) => s.setSelectedSpriteKey);
-  const selectedRotation = useAppStore((s) => s.selectedRotation);
-  const rotateSelected = useAppStore((s) => s.rotateSelected);
-  const exportSceneMapJson = useAppStore((s) => s.exportSceneMapJson);
+  const editorEnabled = useAppStore(appSelectors.editorEnabled);
+  const setEditorEnabled = useAppStore(appSelectors.setEditorEnabled);
+  const creativeEnabled = useAppStore(appSelectors.creativeEnabled);
+  const setCreativeEnabled = useAppStore(appSelectors.setCreativeEnabled);
+  const editorLayer = useAppStore(appSelectors.editorLayer);
+  const setEditorLayer = useAppStore(appSelectors.setEditorLayer);
+  const selectedSpriteKey = useAppStore(appSelectors.selectedSpriteKey);
+  const setSelectedSpriteKey = useAppStore(appSelectors.setSelectedSpriteKey);
+  const selectedRotation = useAppStore(appSelectors.selectedRotation);
+  const rotateSelected = useAppStore(appSelectors.rotateSelected);
+  const exportSceneMapJson = useAppStore(appSelectors.exportSceneMapJson);
 
   const spriteKeys = MAPS_LIBRARY_MANIFEST.sprites
     .filter((s) => s.kind === brushKind)
@@ -53,9 +50,6 @@ export default function App() {
   const selectedMember = useGameStore((s) =>
     s.selectedMemberId ? s.guildMembers[s.selectedMemberId] : null
   );
-
-  const [unitOverlay, setUnitOverlay] = useState<{ x: number; y: number } | null>(null);
-  console.log({unitOverlay})
 
   useEffect(() => {
     const onKeyDown = (e: KeyboardEvent) => {
@@ -74,7 +68,6 @@ export default function App() {
     return () => window.removeEventListener("keydown", onKeyDown);
   }, [selectedMember, clearSelectedMember]);
 
-
   useEffect(() => {
     const s = useGameStore.getState();
     if (Object.keys(s.guildMembers).length === 0) s.createStarterGuild();
@@ -83,11 +76,6 @@ export default function App() {
   useEffect(() => {
     const now = Date.now();
     applyOfflineProgress(now);
-
-    // worker.onmessage = (e: MessageEvent<SimOutMsg>) => {
-    //   const msg = e.data;
-    //   if (msg.type === "SNAPSHOT") applySimSnapshot(msg);
-    // };
 
     worker.postMessage({ type: "START", now: Date.now() });
     setSimConnected(true);
@@ -107,21 +95,18 @@ export default function App() {
       worker.terminate();
       setSimConnected(false);
     };
-  }, [worker, applyOfflineProgress, applySimSnapshot, setSimConnected, markSavedNow]);
+  }, [worker, applyOfflineProgress, setSimConnected, markSavedNow]);
 
   return (
     <div className="min-h-screen bg-[#0b1220] text-white/90">
-      <div className="mx-auto flex min-h-screen w-full max-w-[1100px] flex-col px-4
-                  md:w-[60%] md:max-w-none">
+      <div
+        className="mx-auto flex min-h-screen w-full max-w-[1100px] flex-col px-4
+                  md:w-[60%] md:max-w-none"
+      >
         {/* TOP: centered square game + overlay */}
         <div className="flex justify-center py-3">
           <div className="relative inline-block">
-            <PhaserViewport
-              onCanvasReady={(canvas) => {
-                if (canvas) setUnitOverlay({x: 224, y: 224});
-                else setUnitOverlay(null);
-              }}
-            />
+            <PhaserViewport />
 
             {/* Overlay */}
             <div className="pointer-events-none absolute inset-0">
@@ -130,42 +115,27 @@ export default function App() {
                 {simConnected ? "Sim connected" : "Sim disconnected"} • Tick {ticks} • Gold {gold}
               </div>
 
-              {/* Unit label */}
-              {/*{unitOverlay && (*/}
-              {/*  <div*/}
-              {/*    className="pointer-events-none absolute whitespace-nowrap rounded-full border border-white/15 bg-black/35 px-2 py-1 text-xs"*/}
-              {/*    style={{*/}
-              {/*      left: unitOverlay.x,*/}
-              {/*      top: unitOverlay.y,*/}
-              {/*      transform: "translate(-50%, -100%)",*/}
-              {/*    }}*/}
-              {/*  >*/}
-              {/*  </div>*/}
-              {/*)}*/}
-
               {/* Navigation / buttons - needs pointer events */}
               {selectedMember && (
                 <div className="pointer-events-auto">
-                    <CharacterView />
+                  <CharacterView />
                 </div>
               )}
 
-
               {/* Navigation / buttons - needs pointer events */}
               <div className="pointer-events-auto">
-                <Navigation/>
+                <Navigation />
               </div>
             </div>
           </div>
         </div>
 
         {/* BELOW: fills remaining screen for management UI */}
-        <div
-          className="relative flex-1 overflow-auto border-t border-white/10 bg-white/[0.02] p-3 invisible md:visible">
+        <div className="relative flex-1 overflow-auto border-t border-white/10 bg-white/[0.02] p-3 invisible md:visible">
           {/* Editor toggle */}
 
           <div className="pointer-events-auto">
-            <Inventory/>
+            <Inventory />
           </div>
           <div className="mb-2 flex w-full justify-end">
             <label className="flex items-center gap-2 text-xs opacity-90">
@@ -194,7 +164,7 @@ export default function App() {
           <GuildPanel />
 
           {/* Creative panel */}
-          <Creative/>
+          <Creative />
 
           {/* Editor palette panel */}
           <div
@@ -249,7 +219,6 @@ export default function App() {
               Brush: <span className="font-semibold text-white">{selectedSpriteKey ?? "(none)"}</span>
             </div>
 
-
             <div className="mb-2 flex gap-2">
               <button
                 disabled={!editorEnabled}
@@ -285,7 +254,7 @@ export default function App() {
                 return (
                   <button key={k} onClick={() => setSelectedSpriteKey(k)} title={k}>
                     <div className="mb-1 text-[10px] opacity-85">{k}</div>
-                    <img src={src} alt={k} className="w-full [image-rendering:pixelated]"/>
+                    <img src={src} alt={k} className="w-full [image-rendering:pixelated]" />
                   </button>
                 );
               })}

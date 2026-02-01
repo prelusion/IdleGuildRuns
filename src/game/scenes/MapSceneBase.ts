@@ -42,8 +42,9 @@ export abstract class MapSceneBase extends Phaser.Scene {
     cam.setBounds(0, 0, mapPxW, mapPxH);
     cam.setScroll(0, 0);
 
-    const canvas = this.game.canvas as HTMLCanvasElement | undefined;
-    if (canvas) canvas.dataset.zoom = String(zoomToFit);
+    // Phaser canvas is an HTMLCanvasElement
+    const canvas = this.game.canvas;
+    canvas.dataset.zoom = String(zoomToFit);
   }
 
   public onViewportResized() {
@@ -128,10 +129,15 @@ export abstract class MapSceneBase extends Phaser.Scene {
           const img = this.add.image(cx, cy, cell.key).setOrigin(0.5);
 
           const tex = this.textures.get(cell.key);
-          const src = tex.getSourceImage() as HTMLImageElement | undefined;
-          if (src?.width && src?.height) {
-            const scaleX = TILE / src.width;
-            const scaleY = TILE / src.height;
+          const src = tex.getSourceImage() as HTMLImageElement | HTMLCanvasElement | undefined;
+
+          // Scale to tile size if we can read source dimensions
+          const w = (src as HTMLImageElement | HTMLCanvasElement | undefined)?.width;
+          const h = (src as HTMLImageElement | HTMLCanvasElement | undefined)?.height;
+
+          if (w && h) {
+            const scaleX = TILE / w;
+            const scaleY = TILE / h;
             img.setScale(Math.min(scaleX, scaleY));
           }
 

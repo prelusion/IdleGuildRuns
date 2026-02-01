@@ -12,19 +12,19 @@ export type UnitStats = {
   runSpeed: number;
 
   // Combat
-  aggroRange: number;      // how far you notice enemies
-  attackRange: number;     // melee ~ 40-70, ranged larger
-  attackWindupMs: number;  // when the hit applies after attack starts
-  attackCooldownMs: number;// time between attacks
+  aggroRange: number;
+  attackRange: number;
+  attackWindupMs: number;
+  attackCooldownMs: number;
   damage: number;
 };
 
 export type UnitDef = {
-  id: string;          // "slime4" etc
+  id: string;
   kind: UnitKind;
   team: Team;
-  visuals: MobDef;     // reuse your existing mob visuals/animations defs
-  radius: number;      // collision circle radius in world px
+  visuals: MobDef;
+  radius: number;
 
-  baseStats: Omit<UnitStats, "hp">; // hp will be initialized to maxHp
+  baseStats: Omit<UnitStats, "hp">;
 };

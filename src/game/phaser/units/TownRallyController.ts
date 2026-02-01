@@ -1,6 +1,6 @@
 import type { UnitContext, UnitController } from "./controller";
 import { dirFromDelta, pickAction } from "./controller";
-import {safePlay} from "./UnitEntity.ts";
+import { safePlay } from "./UnitEntity";
 
 function randFloat(min: number, max: number) {
   return Math.random() * (max - min) + min;
@@ -25,7 +25,7 @@ export class TownRallyController implements UnitController {
       if (this.state === "idle") {
         if (Math.random() < this.restBias) {
           self.intentStop();
-          safePlay(self,"idle", self.dir);
+          safePlay(self, "idle", self.dir);
           this.nextThinkAt = nowMs + randInt(600, 1400);
           return;
         }
@@ -46,23 +46,19 @@ export class TownRallyController implements UnitController {
     }
 
     if (this.state === "walk") {
-      self.intentMoveTo(
-        this.target.x,
-        this.target.y,
-        self.stats.walkSpeed * this.walkSpeedMul
-      );
+      self.intentMoveTo(this.target.x, this.target.y, self.stats.walkSpeed * this.walkSpeedMul);
 
       const dx = this.target.x - self.x;
       const dy = this.target.y - self.y;
       const dir = dirFromDelta(dx, dy);
 
       const moveAction = pickAction(self, ["walk", "run"]);
-      safePlay(self,moveAction, dir);
+      safePlay(self, moveAction, dir);
 
       if (Math.hypot(dx, dy) < 18) {
         this.state = "idle";
         self.intentStop();
-        safePlay(self,"idle", self.dir);
+        safePlay(self, "idle", self.dir);
         this.nextThinkAt = nowMs + randInt(400, 1200);
       }
     }

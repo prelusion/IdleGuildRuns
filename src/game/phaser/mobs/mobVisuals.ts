@@ -2,8 +2,8 @@ import type { LayerId, MobActionDef, MobDef } from "./mobTypes";
 import { TypeMobs } from "./mobTypes";
 
 type Pattern = {
-  family: string;          // "slime"
-  variants: string[];      // ["slime1","slime2",...]
+  family: string;
+  variants: string[];
   frameW?: number;
   frameH?: number;
   cols?: number;
@@ -13,27 +13,46 @@ type Pattern = {
   actions: Record<string, MobActionDef>;
 };
 
-/** Helper: create numbered variants like slime1..slime9 */
+type BuildDefaults = {
+  frameW: number;
+  frameH: number;
+  cols: number;
+  scale: number;
+  fpsDefault: number;
+};
+
+const DEFAULTS: BuildDefaults = {
+  frameW: 64,
+  frameH: 64,
+  cols: 6,
+  scale: 8,
+  fpsDefault: 10,
+};
+
 function numVariants(prefix: string, from: number, to: number) {
   const out: string[] = [];
   for (let i = from; i <= to; i++) out.push(`${prefix}${i}`);
   return out;
 }
 
-/** Helper: quick action with same filenames across actions */
-function act(folder: string, files: Partial<Record<LayerId, string>>, fps?: number, cols?: number): MobActionDef {
+function act(
+  folder: string,
+  files: Partial<Record<LayerId, string>>,
+  fps?: number,
+  cols?: number
+): MobActionDef {
   return { folder, files, fps, cols };
 }
 
-/** Build a registry from patterns */
 function build(patterns: Pattern[]): Record<string, MobDef> {
   const out: Record<string, MobDef> = {};
+
   for (const p of patterns) {
-    const frameW = p.frameW ?? 64;
-    const frameH = p.frameH ?? 64;
-    const cols = p.cols ?? 6;
-    const scale = p.scale ?? 8;
-    const fpsDefault = p.fpsDefault ?? 10;
+    const frameW = p.frameW ?? DEFAULTS.frameW;
+    const frameH = p.frameH ?? DEFAULTS.frameH;
+    const cols = p.cols ?? DEFAULTS.cols;
+    const scale = p.scale ?? DEFAULTS.scale;
+    const fpsDefault = p.fpsDefault ?? DEFAULTS.fpsDefault;
 
     for (const v of p.variants) {
       out[v] = {
@@ -49,6 +68,7 @@ function build(patterns: Pattern[]): Record<string, MobDef> {
       };
     }
   }
+
   return out;
 }
 

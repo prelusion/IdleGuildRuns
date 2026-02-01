@@ -1,4 +1,4 @@
-import Phaser from "phaser";
+import type Phaser from "phaser";
 import type { UnitDef } from "./UnitTypes";
 import type { UnitController, UnitSnapshot } from "./controller";
 import { UnitEntity } from "./UnitEntity";
@@ -14,10 +14,8 @@ export class UnitSystem {
 
   private onUnitDied?: (u: UnitEntity) => void;
 
-  // Avoid firing onUnitDied every frame for the same corpse
   private deathNotified = new Set<string>();
 
-  // World bounds + derived center
   private worldBounds: WorldBounds | null = null;
   public worldCenterX = 0;
   public worldCenterY = 0;
@@ -30,7 +28,6 @@ export class UnitSystem {
     this.onUnitDied = cb;
   }
 
-  /** Call from Scene right after map/bounds are known */
   public setWorldBounds(bounds: WorldBounds) {
     this.worldBounds = bounds;
     this.worldCenterX = bounds.x + bounds.width / 2;
@@ -48,12 +45,14 @@ export class UnitSystem {
     return u;
   }
 
-  /** Not needed if UnitEntity already generates unique ids, but kept for safety */
   public assignIds() {
     const seen = new Set<string>();
     for (const u of this.units) {
+      // UnitEntity always sets id, but keep your safety behavior
       if (!u.id) u.id = `u_${Math.random().toString(16).slice(2)}_${Date.now().toString(16)}`;
-      while (seen.has(u.id)) u.id = `u_${Math.random().toString(16).slice(2)}_${Date.now().toString(16)}`;
+      while (seen.has(u.id)) {
+        u.id = `u_${Math.random().toString(16).slice(2)}_${Date.now().toString(16)}`;
+      }
       seen.add(u.id);
     }
   }
@@ -68,7 +67,6 @@ export class UnitSystem {
   public update(nowMs: number, dtMs: number) {
     this.updateWorldCenterSafe();
 
-    // Build snapshots once for AI/collision
     const snaps: UnitSnapshot[] = this.units.map((u) => ({
       id: u.id,
       x: u.x,
@@ -78,6 +76,15 @@ export class UnitSystem {
       kind: u.def.kind,
       hp: u.stats.hp,
     }));
+
+    // Precompute others per unit (avoid re-filtering snaps N times)
+    const othersById = new Map<string, UnitSnapshot[]>();
+    for (const s of snaps) {
+      othersById.set(
+        s.id,
+        snaps.filter((o) => o.id !== s.id)
+      );
+    }
 
     // 1) Controllers update
     for (const u of this.units) {
@@ -90,7 +97,7 @@ export class UnitSystem {
         nowMs,
         dtMs,
         self: u,
-        others: snaps.filter((s) => s.id !== u.id),
+        others: othersById.get(u.id) ?? [],
       });
     }
 
@@ -111,13 +118,13 @@ export class UnitSystem {
       }
     }
 
-    // 3) Movement + collision resolution
+    // 3) Movement + collisions (only affects intent-driven controllers)
     this.applyMovementAndCollisions(dtMs);
 
     // 4) Visual effects
     for (const u of this.units) u.updateVisualEffects(nowMs);
 
-    // 5) Remove dead ENEMIES completely (so no dead colliders)
+    // 5) Remove dead enemies completely
     this.purgeDeadEnemies();
   }
 
@@ -128,11 +135,11 @@ export class UnitSystem {
 
   private updateWorldCenterSafe() {
     const cam = this.scene.cameras.main;
-    const camBounds = (cam as any).bounds as Phaser.Geom.Rectangle | undefined;
+    const view = cam.worldView;
 
-    const b =
-      camBounds && camBounds.width > 0 && camBounds.height > 0
-        ? { x: camBounds.x, y: camBounds.y, width: camBounds.width, height: camBounds.height }
+    const b: WorldBounds | null =
+      view.width > 0 && view.height > 0
+        ? { x: view.x, y: view.y, width: view.width, height: view.height }
         : this.worldBounds;
 
     if (!b || b.width <= 0 || b.height <= 0) return;
@@ -140,7 +147,6 @@ export class UnitSystem {
     this.worldCenterX = b.x + b.width / 2;
     this.worldCenterY = b.y + b.height / 2;
 
-    //  Make center available to all controllers without scene hacks
     for (const u of this.units) {
       u.sceneCenterX = this.worldCenterX;
       u.sceneCenterY = this.worldCenterY;
@@ -148,13 +154,13 @@ export class UnitSystem {
   }
 
   private applyMovementAndCollisions(dtMs: number) {
-    // 1) Compute intent/velocity
+    // Apply intent movement first
     for (const unit of this.units) {
       if (unit.isDead) continue;
-      unit.applyIntent(dtMs); // sets velocity/desired movement etc.
+      unit.applyIntent(dtMs);
     }
 
-    // 3) Resolve overlaps
+    // Resolve overlaps
     for (let iter = 0; iter < 2; iter++) {
       for (let i = 0; i < this.units.length; i++) {
         for (let j = i + 1; j < this.units.length; j++) {
@@ -179,5 +185,4 @@ export class UnitSystem {
       }
     }
   }
-
 }

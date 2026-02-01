@@ -1,13 +1,15 @@
 import { useMemo, useState } from "react";
 import { useGameStore } from "../state/store";
-import {OPENWORLD_SCENES, type SceneGroup} from "../game/phaser/scenes/maps/sceneCatalog";
-import type {SceneId} from "../state/gameTypes.ts";
+import { OPENWORLD_SCENES, type SceneGroup } from "../game/phaser/scenes/maps/sceneCatalog";
+import type { SceneId } from "../state/gameTypes.ts";
 
 type SceneButtonDef = {
   id: SceneId;
   name: string;
   group: SceneGroup;
 };
+
+const PAGE_SIZE = 8;
 
 export default function GuildPanel() {
   const guildMembers = useGameStore((s) => s.guildMembers);
@@ -24,7 +26,12 @@ export default function GuildPanel() {
   // Simple “paging” so you don’t render 40+ buttons per party at once
   const [openworldGroup, setOpenworldGroup] = useState<"plains" | "snowyfalls">("plains");
   const [page, setPage] = useState(0);
-  const PAGE_SIZE = 8;
+
+  const openworld = useMemo(() => {
+    return OPENWORLD_SCENES.filter((s) => s.group === openworldGroup);
+  }, [openworldGroup]);
+
+  const pageCount = Math.max(1, Math.ceil(openworld.length / PAGE_SIZE));
 
   const sceneButtons: SceneButtonDef[] = useMemo(() => {
     const fixed: SceneButtonDef[] = [
@@ -32,25 +39,18 @@ export default function GuildPanel() {
       { id: "hell", name: "Hell", group: "hell" },
     ];
 
-    const openworld = OPENWORLD_SCENES
-      .filter((s) => s.group === openworldGroup)
-      .map((s) => ({
-        id: s.id,
-        name: `${s.group === "plains" ? "Plains" : "Snowyfalls"}: ${s.name}`,
-        group: s.group,
-      }));
+    const mapped = openworld.map((s) => ({
+      id: s.id,
+      name: `${s.group === "plains" ? "Plains" : "Snowyfalls"}: ${s.name}`,
+      group: s.group,
+    }));
 
-    const start = page * PAGE_SIZE;
-    const sliced = openworld.slice(start, start + PAGE_SIZE);
+    const safePage = Math.min(page, pageCount - 1);
+    const start = safePage * PAGE_SIZE;
+    const sliced = mapped.slice(start, start + PAGE_SIZE);
 
     return [...fixed, ...sliced];
-  }, [openworldGroup, page]);
-
-  const openworldCount = useMemo(() => {
-    return OPENWORLD_SCENES.filter((s) => s.group === openworldGroup).length;
-  }, [openworldGroup]);
-
-  const pageCount = Math.max(1, Math.ceil(openworldCount / PAGE_SIZE));
+  }, [openworld, page, pageCount]);
 
   return (
     <div className="panel">
@@ -157,7 +157,7 @@ export default function GuildPanel() {
                 ◂
               </button>
               <div className="text-[11px] opacity-75">
-                {page + 1}/{pageCount}
+                {Math.min(page, pageCount - 1) + 1}/{pageCount}
               </div>
               <button
                 className="rounded-md border border-white/15 bg-white/10 px-2 py-1 text-[11px] text-white disabled:opacity-40"

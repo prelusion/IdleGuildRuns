@@ -1,4 +1,4 @@
-export const SAVE_VERSION = 1;
+export const SAVE_VERSION = 1 as const;
 
 export type SaveV1 = {
   version: 1;
@@ -7,17 +7,17 @@ export type SaveV1 = {
   ticks: number;
 };
 
-export function migrateSave(raw: unknown): SaveV1 {
-  // Very defensive: treat anything unknown as a fresh save.
+export type PersistedSave = SaveV1;
+
+export function migrateSave(raw: unknown): PersistedSave {
   const now = Date.now();
 
   if (!raw || typeof raw !== "object") {
     return { version: 1, lastSavedAt: now, gold: 0, ticks: 0 };
   }
 
-  const r = raw as Partial<SaveV1>;
+  const r = raw as Partial<PersistedSave>;
 
-  // If already v1, normalize missing fields.
   if (r.version === 1) {
     return {
       version: 1,
@@ -27,6 +27,6 @@ export function migrateSave(raw: unknown): SaveV1 {
     };
   }
 
-  // Future: handle migrations from older versions here.
+  // Future migrations from older versions can go here.
   return { version: 1, lastSavedAt: now, gold: 0, ticks: 0 };
 }

@@ -51,8 +51,6 @@ export default function Navigation() {
 
   const goHell = () => {
     goToScene("hell");
-    // If you later want deployment logic:
-    // if (partyToDeployId) sendPartyToScene(partyToDeployId, "hell");
   };
 
   /* =========================
@@ -64,8 +62,8 @@ export default function Navigation() {
       title: "Town",
       onClick: goTown,
       topics: [
-        { name: "Guild", onClick: () => console.log("Guild clicked") },
-        { name: "Blacksmith", onClick: () => console.log("Blacksmith clicked") },
+        { name: "Guild", onClick: () => {} },
+        { name: "Blacksmith", onClick: () => {} },
       ],
     },
     {
@@ -87,24 +85,24 @@ export default function Navigation() {
             })),
           ],
         },
-        { name: "Dungeons", onClick: () => console.log("Dungeons clicked") },
-        { name: "Raids", onClick: () => console.log("Raids clicked") },
+        { name: "Dungeons", onClick: () => {} },
+        { name: "Raids", onClick: () => {} },
       ],
     },
     {
       title: "Guild Members",
       topics: [
-        { name: "Member List", onClick: () => console.log("Member List clicked") },
-        { name: "Recruit", onClick: () => console.log("Recruit clicked") },
-        { name: "Roles", onClick: () => console.log("Roles clicked") },
+        { name: "Member List", onClick: () => {} },
+        { name: "Recruit", onClick: () => {} },
+        { name: "Roles", onClick: () => {} },
       ],
     },
     {
       title: "Quests",
       topics: [
-        { name: "Quest 1", onClick: () => console.log("Quest 1 clicked") },
-        { name: "Quest 2", onClick: () => console.log("Quest 2 clicked") },
-        { name: "Quest 3", onClick: () => console.log("Quest 3 clicked") },
+        { name: "Quest 1", onClick: () => {} },
+        { name: "Quest 2", onClick: () => {} },
+        { name: "Quest 3", onClick: () => {} },
       ],
     },
   ];

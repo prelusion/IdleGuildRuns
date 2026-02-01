@@ -2,6 +2,7 @@
 import { useMemo, useState } from "react";
 import { useAppStore } from "../state/store.ts";
 import type { Accessory, Gear, Item, Weapon } from "./types.ts";
+import { normalizeSrc } from "./types.ts";
 import ItemPreview from "./ItemPreview.tsx";
 
 type AnyItem = Item | Gear | Weapon | Accessory;
@@ -23,36 +24,22 @@ const QUALITY_TINT: Record<Quality, string> = {
   legendary: "rgba(251,191,36,0.82)",
 };
 
-function normalizeSrc(src: string) {
-  if (!src) return "";
-  if (src.startsWith("/")) return src;
-  if (src.startsWith("assets/")) return `/${src}`;
-  if (src.startsWith("icons/")) return `/assets/${src}`;
-  return `/${src}`;
-}
-
 export default function Inventory() {
   const inventorySize = useAppStore((s) => s.inventorySize);
   const inventoryItems = useAppStore((s) => s.inventoryItems);
 
   const ROWS = 5;
-  const cols = useMemo(
-    () => Math.ceil(Math.max(1, inventorySize) / ROWS),
-    [inventorySize]
-  );
+  const cols = useMemo(() => Math.ceil(Math.max(1, inventorySize) / ROWS), [inventorySize]);
   const slotCount = useMemo(() => ROWS * cols, [ROWS, cols]);
 
   const slots = useMemo(() => {
     const out: Array<AnyItem | null> = new Array(slotCount).fill(null);
-    for (let i = 0; i < Math.min(inventoryItems?.length ?? 0, slotCount); i++)
-      out[i] = inventoryItems[i];
+    for (let i = 0; i < Math.min(inventoryItems?.length ?? 0, slotCount); i++) out[i] = inventoryItems[i];
     return out;
   }, [inventoryItems, slotCount]);
 
   // hover state
   const [hoverItem, setHoverItem] = useState<AnyItem | null>(null);
-  const [anchorRect, setAnchorRect] = useState<DOMRect | null>(null);
-
 
   return (
     <div className={"w-full flex flex-row justify-center gap-10 p-5"}>
@@ -63,8 +50,7 @@ export default function Inventory() {
           style={{
             background:
               "radial-gradient(circle at 30% 20%, rgba(255,255,255,0.10), rgba(0,0,0,0) 40%), linear-gradient(135deg, rgba(113,71,32,0.95), rgba(73,43,18,0.95))",
-            boxShadow:
-              "0 20px 60px rgba(0,0,0,0.55), 0 0 0 1px rgba(255,255,255,0.06) inset",
+            boxShadow: "0 20px 60px rgba(0,0,0,0.55), 0 0 0 1px rgba(255,255,255,0.06) inset",
           }}
         >
           <div className="pointer-events-none absolute inset-2 rounded-xl border border-white/10" />
@@ -79,7 +65,6 @@ export default function Inventory() {
             }}
             onMouseLeave={() => {
               setHoverItem(null);
-              setAnchorRect(null);
             }}
           >
             <div
@@ -100,22 +85,12 @@ export default function Inventory() {
                       it ? QUALITY_RING[quality] : "border-white/10",
                     ].join(" ")}
                     style={{ boxShadow: "0 0 0 1px rgba(255,255,255,0.05) inset" }}
-                    onMouseEnter={(e) => {
+                    onMouseEnter={() => {
                       if (!it) return;
                       setHoverItem(it);
-                      setAnchorRect(
-                        (e.currentTarget as HTMLDivElement).getBoundingClientRect()
-                      );
-                    }}
-                    onMouseMove={(e) => {
-                      if (!it) return;
-                      setAnchorRect(
-                        (e.currentTarget as HTMLDivElement).getBoundingClientRect()
-                      );
                     }}
                     onMouseLeave={() => {
                       setHoverItem(null);
-                      setAnchorRect(null);
                     }}
                     // DRAG FROM INVENTORY
                     draggable={!!it}
@@ -162,9 +137,7 @@ export default function Inventory() {
 
             <div className="mt-2 text-[11px] text-white/70">
               Slots:{" "}
-              <span className="text-white/90 font-semibold tabular-nums">
-                {inventorySize}
-              </span>{" "}
+              <span className="text-white/90 font-semibold tabular-nums">{inventorySize}</span>{" "}
               <span className="text-white/50">
                 ({ROWS}×{cols})
               </span>
@@ -173,7 +146,7 @@ export default function Inventory() {
         </div>
       </div>
 
-      {hoverItem && anchorRect && <ItemPreview item={hoverItem} customClass="absolute" />}
+      {hoverItem && <ItemPreview item={hoverItem} customClass="absolute" />}
 
       <div className="z-50 text-center align-middle w-[360px]" />
     </div>

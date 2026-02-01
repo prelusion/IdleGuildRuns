@@ -15,23 +15,30 @@ export type GameBridge = {
   destroy: () => void;
 
   setSceneMap: (map: SceneMap) => void;
-  placeTile: (tx: number, ty: number, placed: PlacedTile | null, layer: "ground" | "objects") => void;
+  placeTile: (
+    tx: number,
+    ty: number,
+    placed: PlacedTile | null,
+    layer: "ground" | "objects"
+  ) => void;
   setMapsManifest: (m: MapsLibraryManifest) => void;
 };
 
-function isMapScene(scene: Phaser.Scene): scene is MapSceneBase {
+type MapSceneLike = MapSceneBase & {
+  setMapsManifest?: (m: MapsLibraryManifest) => void;
+};
+
+function isMapScene(scene: Phaser.Scene): scene is MapSceneLike {
   return (
     typeof (scene as MapSceneBase).setSceneMap === "function" &&
     typeof (scene as MapSceneBase).placeTile === "function"
   );
 }
 
-function getActiveMapScene(game: Phaser.Game): MapSceneBase | null {
+function getActiveMapScene(game: Phaser.Game): MapSceneLike | null {
   const active = game.scene.getScenes(true);
   for (const s of active) {
-    if (isMapScene(s)) {
-      return s;
-    }
+    if (isMapScene(s)) return s;
   }
   return null;
 }
@@ -56,8 +63,8 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
   };
 
   const game = new Phaser.Game(config);
-  let pendingManifest: MapsLibraryManifest | null = null;
 
+  let pendingManifest: MapsLibraryManifest | null = null;
   let pendingMap: SceneMap | null = null;
   let pendingResize: number | null = initialSize;
 
@@ -69,7 +76,7 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
     if (!s) return;
 
     if (pendingManifest) {
-      (s as any).setMapsManifest?.(pendingManifest);
+      s.setMapsManifest?.(pendingManifest);
       pendingManifest = null;
     }
 
@@ -85,18 +92,6 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
     }
   };
 
-  game.events.once(Phaser.Core.Events.READY, () => {
-    isReady = true;
-
-    if (queuedSceneId) {
-      const id = queuedSceneId;
-      queuedSceneId = null;
-      startScene(id);
-    } else {
-      applyPendingToActive();
-    }
-  });
-
   const startScene = (sceneId: string) => {
     if (!isReady) {
       queuedSceneId = sceneId;
@@ -105,9 +100,8 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
 
     const key = routeSceneKey(sceneId);
 
-    // if already active scene key, just pass data (OpenWorldScene needs sceneId)
+    // If already active scene key, just pass data (OpenWorldScene needs sceneId)
     if (game.scene.isActive(key)) {
-      // re-init openworld with a different map, easiest: restart it
       if (key === "OpenWorldScene") {
         game.scene.stop(key);
         game.scene.start(key, { sceneId });
@@ -120,7 +114,6 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
       game.scene.stop(s.scene.key);
     }
 
-    //  pass sceneId as data so OpenWorldScene can pick correct map
     game.scene.start(key, { sceneId });
 
     const scene = game.scene.getScene(key) as Phaser.Scene | null;
@@ -130,6 +123,18 @@ export function createGame(parent: HTMLDivElement, initialSize: number): GameBri
       applyPendingToActive();
     });
   };
+
+  game.events.once(Phaser.Core.Events.READY, () => {
+    isReady = true;
+
+    if (queuedSceneId) {
+      const id = queuedSceneId;
+      queuedSceneId = null;
+      startScene(id);
+    } else {
+      applyPendingToActive();
+    }
+  });
 
   return {
     startScene,
